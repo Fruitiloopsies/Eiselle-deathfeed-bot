@@ -5,7 +5,7 @@ import subprocess
 
 API_URL = "https://api.lusternia.com/gamefeed.json"
 DATA_FILE = "gamefeed_history.json"
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1344011185481056286/0qUgo3x3PQ8_0lOlTa5wt_Gw-CDS_Wgi527-OEM4SJ9-CL4LgzXPN_t_YsggmQwCv49V"  # Replace with actual webhook
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1344011185481056286/0qUgo3x3PQ8_0lOlTa5wt_Gw-CDS_Wgi527-OEM4SJ9-CL4LgzXPN_t_YsggmQwCv49V"  # Replace with your actual webhook
 
 def fetch_gamefeed():
     try:
@@ -18,7 +18,7 @@ def fetch_gamefeed():
     except Exception as e:
         print(f"Request failed: {e}")
 
-# Pull latest history from GitHub before making changes
+# Pull the latest history from GitHub before making changes
 def pull_latest_history():
     try:
         subprocess.run(["git", "pull"], check=True)
@@ -34,10 +34,10 @@ def save_and_push_history(history):
     try:
         subprocess.run(["git", "add", DATA_FILE], check=True)
         subprocess.run(["git", "commit", "-m", "Updated gamefeed history"], check=True)
-        subprocess.run(["git", "push"], check=True)
+        subprocess.run(["git", "push", "origin", "main"], check=True)
         print("Successfully updated gamefeed history.")
-    except subprocess.CalledProcessError:
-        print("Error pushing updated history to GitHub.")
+    except subprocess.CalledProcessError as e:
+        print(f"Error pushing updated history to GitHub: {e}")
 
 def process_and_send_updates(new_data):
     pull_latest_history()  # Get latest stored history
