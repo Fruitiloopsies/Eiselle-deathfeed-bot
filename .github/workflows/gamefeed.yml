@@ -28,6 +28,10 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
+      - name: Pull latest changes
+        run: |
+          git pull origin main --rebase || echo "No changes to pull"
+
       - name: Run script
         run: python gamefeed_script.py
 
