@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "id": 161897044,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been psychically and physically impaled by a kephera warder.",
+        "type": "DEA",
+        "date": "2025-02-25 17:32:45"
+    },
+    {
+        "id": 161897893,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been psychically and physically impaled by a kephera warder.",
+        "type": "DEA",
+        "date": "2025-02-25 19:25:35"
+    },
+    {
+        "id": 161898018,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-02-25 19:55:30"
+    },
+    {
+        "id": 161898488,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a kephera attendant.",
+        "type": "DEA",
+        "date": "2025-02-25 20:39:25"
+    }
+]
