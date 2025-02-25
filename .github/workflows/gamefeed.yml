@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: true  # Ensure it can push updates
+          persist-credentials: true  # Allow pushing changes
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -38,4 +38,4 @@ jobs:
           git add gamefeed_history.json
           git commit -m "Updated gamefeed history" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-        continue-on-error: true  # Prevent failures if no changes exist
+        continue-on-error: true  # Prevent failure if no changes exist
