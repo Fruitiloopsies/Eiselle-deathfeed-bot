@@ -5,7 +5,7 @@ import subprocess
 
 API_URL = "https://api.lusternia.com/gamefeed.json"
 DATA_FILE = "gamefeed_history.json"
-DISCORD_WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL"  # Replace with actual webhook
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1344011185481056286/0qUgo3x3PQ8_0lOlTa5wt_Gw-CDS_Wgi527-OEM4SJ9-CL4LgzXPN_t_YsggmQwCv49V"  # Replace with actual webhook
 
 def fetch_gamefeed():
     try:
