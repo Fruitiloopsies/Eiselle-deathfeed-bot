@@ -26,5 +26,12 @@
         "description": "Tzshalgoth has been slain by the might of a kephera attendant.",
         "type": "DEA",
         "date": "2025-02-25 20:39:25"
+    },
+    {
+        "id": 161898507,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Numinous (Victim had 40% the might).",
+        "type": "DEA",
+        "date": "2025-02-25 20:47:27"
     }
 ]
