@@ -5,7 +5,7 @@ import subprocess
 
 API_URL = "https://api.lusternia.com/gamefeed.json"
 DATA_FILE = "gamefeed_history.json"
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1344011185481056286/0qUgo3x3PQ8_0lOlTa5wt_Gw-CDS_Wgi527-OEM4SJ9-CL4LgzXPN_t_YsggmQwCv49V"  # Replace with your actual webhook
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1344011185481056286/0qUgo3x3PQ8_0lOlTa5wt_Gw-CDS_Wgi527-OEM4SJ9-CL4LgzXPN_t_YsggmQwCv49V"  # Replace with actual webhook
 
 def fetch_gamefeed():
     try:
@@ -18,10 +18,10 @@ def fetch_gamefeed():
     except Exception as e:
         print(f"Request failed: {e}")
 
-# Pull the latest history from GitHub before making changes
+# Pull latest history from GitHub before making changes
 def pull_latest_history():
     try:
-        subprocess.run(["git", "pull"], check=True)
+        subprocess.run(["git", "pull", "origin", "main", "--rebase"], check=True)
         print("Pulled latest gamefeed history.")
     except subprocess.CalledProcessError:
         print("Error pulling latest history from GitHub.")
