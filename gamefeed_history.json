@@ -40,5 +40,12 @@
         "description": "Balisarius has been slain by the might of a Grand Illithoid Cenobite.",
         "type": "DEA",
         "date": "2025-02-26 12:36:02"
+    },
+    {
+        "id": 161903436,
+        "caption": "Player Death",
+        "description": "Xufi has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-02-26 14:26:12"
     }
 ]
