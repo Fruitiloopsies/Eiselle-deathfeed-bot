@@ -47,5 +47,26 @@
         "description": "Xufi has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-02-26 14:26:12"
+    },
+    {
+        "id": 161905789,
+        "caption": "Player Death",
+        "description": "Jemna was slain by Zagreus (Victim had 50% the might).",
+        "type": "DEA",
+        "date": "2025-02-26 21:46:29"
+    },
+    {
+        "id": 161905801,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-02-26 21:47:08"
+    },
+    {
+        "id": 161905845,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Freja (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-02-26 21:49:00"
     }
 ]
