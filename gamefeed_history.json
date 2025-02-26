@@ -33,5 +33,12 @@
         "description": "Tzshalgoth was slain by Numinous (Victim had 40% the might).",
         "type": "DEA",
         "date": "2025-02-25 20:47:27"
+    },
+    {
+        "id": 161903025,
+        "caption": "Player Death",
+        "description": "Balisarius has been slain by the might of a Grand Illithoid Cenobite.",
+        "type": "DEA",
+        "date": "2025-02-26 12:36:02"
     }
 ]
