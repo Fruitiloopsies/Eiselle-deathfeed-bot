@@ -70,7 +70,7 @@ def process_and_send_updates(new_data):
 
 # Function to send the death message to Discord
 def send_to_discord(death_entry):
-    message = f"💀 **{death_entry['caption']}**\n{death_entry['description']}\n📅 {death_entry['date']}"
+    message = f"💀 **{death_entry['caption']}**\n{death_entry['description']}\n {death_entry['date']}"
     requests.post(DISCORD_WEBHOOK_URL, json={"content": message})
 
 fetch_gamefeed()
