@@ -75,5 +75,12 @@
         "description": "A two-headed abhorrence has trampled all over Laina.",
         "type": "DEA",
         "date": "2025-02-27 04:15:33"
+    },
+    {
+        "id": 161909448,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
+        "type": "DEA",
+        "date": "2025-02-27 06:43:05"
     }
 ]
