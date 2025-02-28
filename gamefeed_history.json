@@ -166,5 +166,12 @@
         "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
         "type": "DEA",
         "date": "2025-02-28 16:16:04"
+    },
+    {
+        "id": 161919470,
+        "caption": "Player Death",
+        "description": "Kistan was slain by Eiselle (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-02-28 21:23:40"
     }
 ]
