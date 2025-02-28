@@ -159,5 +159,12 @@
         "description": "Durzo was slain by Durzo (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-02-28 10:03:37"
+    },
+    {
+        "id": 161918023,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
+        "type": "DEA",
+        "date": "2025-02-28 16:16:04"
     }
 ]
