@@ -117,5 +117,40 @@
         "description": "Ollie was slain by Freja (Victim had 70% the might).",
         "type": "DEA",
         "date": "2025-02-28 01:44:49"
+    },
+    {
+        "id": 161914347,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Zagreus (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2025-02-28 01:51:48"
+    },
+    {
+        "id": 161914408,
+        "caption": "Player Death",
+        "description": "Ollie was slain by Zagreus (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-02-28 01:52:39"
+    },
+    {
+        "id": 161914435,
+        "caption": "Player Death",
+        "description": "Aramantos was slain by Zagreus (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-02-28 01:53:28"
+    },
+    {
+        "id": 161914470,
+        "caption": "Player Death",
+        "description": "Romaan was slain by Romaan (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-02-28 01:53:51"
+    },
+    {
+        "id": 161914516,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Freja (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-02-28 01:54:58"
     }
 ]
