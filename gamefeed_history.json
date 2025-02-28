@@ -173,5 +173,12 @@
         "description": "Kistan was slain by Eiselle (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-02-28 21:23:40"
+    },
+    {
+        "id": 161919596,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-02-28 21:39:01"
     }
 ]
