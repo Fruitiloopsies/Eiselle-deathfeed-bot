@@ -320,5 +320,82 @@
         "description": "Eiselle was slain by Malayn (Victim had 90% the might).",
         "type": "DEA",
         "date": "2025-03-01 22:21:07"
+    },
+    {
+        "id": 161926958,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Freja (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:22:36"
+    },
+    {
+        "id": 161926975,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Shango (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:23:30"
+    },
+    {
+        "id": 161927018,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:24:03"
+    },
+    {
+        "id": 161927075,
+        "caption": "Player Death",
+        "description": "Freja was slain by Jaye (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:24:47"
+    },
+    {
+        "id": 161927088,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Malayn (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:26:01"
+    },
+    {
+        "id": 161927106,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:27:02"
+    },
+    {
+        "id": 161927217,
+        "caption": "Player Death",
+        "description": "Freja was slain by Exeryte (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:28:24"
+    },
+    {
+        "id": 161927228,
+        "caption": "Player Death",
+        "description": "Ollie was slain by Malayn (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:29:03"
+    },
+    {
+        "id": 161927246,
+        "caption": "Player Death",
+        "description": "Zagreus was slain by Exeryte (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:29:57"
+    },
+    {
+        "id": 161927271,
+        "caption": "Player Death",
+        "description": "Shango was slain by Exeryte (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:30:34"
+    },
+    {
+        "id": 161927315,
+        "caption": "Player Death",
+        "description": "Shango was slain by Exeryte (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:31:08"
     }
 ]
