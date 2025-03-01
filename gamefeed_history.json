@@ -257,5 +257,68 @@
         "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-03-01 20:46:31"
+    },
+    {
+        "id": 161926578,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:07:28"
+    },
+    {
+        "id": 161926624,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Malayn (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:08:17"
+    },
+    {
+        "id": 161926658,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Zagreus (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:08:36"
+    },
+    {
+        "id": 161926692,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Shango (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:11:26"
+    },
+    {
+        "id": 161926747,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:12:19"
+    },
+    {
+        "id": 161926803,
+        "caption": "Player Death",
+        "description": "Zagreus was slain by Exeryte (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:12:48"
+    },
+    {
+        "id": 161926828,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:12:54"
+    },
+    {
+        "id": 161926888,
+        "caption": "Player Death",
+        "description": "Freja was slain by Numinous (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:16:52"
+    },
+    {
+        "id": 161926902,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-01 22:21:07"
     }
 ]
