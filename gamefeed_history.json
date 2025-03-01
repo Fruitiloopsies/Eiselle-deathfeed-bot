@@ -194,5 +194,12 @@
         "description": "Ungedull has been slain by the might of an aslaran warrior.",
         "type": "DEA",
         "date": "2025-03-01 09:34:01"
+    },
+    {
+        "id": 161923423,
+        "caption": "Player Death",
+        "description": "Ungedull has been assassinated on orders from the Castellan of Djarrakh.",
+        "type": "DEA",
+        "date": "2025-03-01 09:45:44"
     }
 ]
