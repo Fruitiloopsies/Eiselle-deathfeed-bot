@@ -187,5 +187,12 @@
         "description": "A two-headed abhorrence has trampled all over Laina.",
         "type": "DEA",
         "date": "2025-03-01 04:27:22"
+    },
+    {
+        "id": 161923409,
+        "caption": "Player Death",
+        "description": "Ungedull has been slain by the might of an aslaran warrior.",
+        "type": "DEA",
+        "date": "2025-03-01 09:34:01"
     }
 ]
