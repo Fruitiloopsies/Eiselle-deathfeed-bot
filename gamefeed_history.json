@@ -495,5 +495,131 @@
         "description": "Freja was slain by Eiselle (Victim had 105% the might).",
         "type": "DEA",
         "date": "2025-03-02 00:38:44"
+    },
+    {
+        "id": 161928529,
+        "caption": "Player Death",
+        "description": "Shango was slain by Aknarin (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:52:58"
+    },
+    {
+        "id": 161928574,
+        "caption": "Player Death",
+        "description": "Ollie was slain by Malayn (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:55:13"
+    },
+    {
+        "id": 161928591,
+        "caption": "Player Death",
+        "description": "Aknarin was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:55:44"
+    },
+    {
+        "id": 161928633,
+        "caption": "Player Death",
+        "description": "Romaan was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:56:38"
+    },
+    {
+        "id": 161928679,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:57:35"
+    },
+    {
+        "id": 161928727,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Freja (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:58:35"
+    },
+    {
+        "id": 161928745,
+        "caption": "Player Death",
+        "description": "Numinous was slain by Zagreus (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:58:35"
+    },
+    {
+        "id": 161928771,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:59:20"
+    },
+    {
+        "id": 161928818,
+        "caption": "Player Death",
+        "description": "Aknarin was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 01:00:07"
+    },
+    {
+        "id": 161928860,
+        "caption": "Player Death",
+        "description": "Romaan was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 01:00:35"
+    },
+    {
+        "id": 161928906,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 01:01:21"
+    },
+    {
+        "id": 161928954,
+        "caption": "Player Death",
+        "description": "Aknarin was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 01:05:00"
+    },
+    {
+        "id": 161929081,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 01:06:20"
+    },
+    {
+        "id": 161929150,
+        "caption": "Player Death",
+        "description": "Numinous was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 01:07:40"
+    },
+    {
+        "id": 161929176,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Zagreus (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 01:08:23"
+    },
+    {
+        "id": 161929207,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 01:09:28"
+    },
+    {
+        "id": 161929293,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Zagreus (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 01:15:39"
+    },
+    {
+        "id": 161929338,
+        "caption": "Player Death",
+        "description": "Zagreus was slain by Eiselle (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 01:15:52"
     }
 ]
