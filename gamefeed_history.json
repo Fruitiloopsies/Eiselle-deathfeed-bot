@@ -635,5 +635,12 @@
         "description": "Tylwyth was slain by Freja (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-03-02 05:29:39"
+    },
+    {
+        "id": 161930920,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by Malayn (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 05:35:42"
     }
 ]
