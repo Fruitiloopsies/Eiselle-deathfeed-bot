@@ -649,5 +649,33 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-02 05:51:31"
+    },
+    {
+        "id": 161933734,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Eiselle (Victim had 40% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 18:12:06"
+    },
+    {
+        "id": 161933739,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Eiselle (Victim had 40% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 18:12:34"
+    },
+    {
+        "id": 161933747,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 18:14:08"
+    },
+    {
+        "id": 161933802,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Malayn (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 18:14:33"
     }
 ]
