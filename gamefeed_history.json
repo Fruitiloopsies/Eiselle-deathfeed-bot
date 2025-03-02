@@ -397,5 +397,103 @@
         "description": "Shango was slain by Exeryte (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-03-01 22:31:08"
+    },
+    {
+        "id": 161927848,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Shango (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:15:32"
+    },
+    {
+        "id": 161927866,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:16:49"
+    },
+    {
+        "id": 161927923,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:17:23"
+    },
+    {
+        "id": 161927961,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:18:04"
+    },
+    {
+        "id": 161928007,
+        "caption": "Player Death",
+        "description": "Ollie was slain by Malayn (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:19:15"
+    },
+    {
+        "id": 161928030,
+        "caption": "Player Death",
+        "description": "Romaan was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:24:56"
+    },
+    {
+        "id": 161928076,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Shango (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:25:22"
+    },
+    {
+        "id": 161928094,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:26:02"
+    },
+    {
+        "id": 161928169,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:26:59"
+    },
+    {
+        "id": 161928241,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:27:55"
+    },
+    {
+        "id": 161928286,
+        "caption": "Player Death",
+        "description": "Romaan was slain by Shango (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:28:04"
+    },
+    {
+        "id": 161928332,
+        "caption": "Player Death",
+        "description": "Freja was slain by Aknarin (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:28:04"
+    },
+    {
+        "id": 161928343,
+        "caption": "Player Death",
+        "description": "Aknarin was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:28:49"
+    },
+    {
+        "id": 161928445,
+        "caption": "Player Death",
+        "description": "Freja was slain by Eiselle (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-03-02 00:38:44"
     }
 ]
