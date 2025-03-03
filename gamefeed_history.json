@@ -712,5 +712,40 @@
         "description": "Ungedull has been assassinated on orders from the Castellan of Djarrakh.",
         "type": "DEA",
         "date": "2025-03-03 09:24:50"
+    },
+    {
+        "id": 161943665,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Freja, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-03-03 22:46:23"
+    },
+    {
+        "id": 161943677,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Kistan, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-03-03 22:46:24"
+    },
+    {
+        "id": 161943696,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Shango, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-03-03 22:46:25"
+    },
+    {
+        "id": 161943740,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Tzshalgoth, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-03-03 22:46:25"
+    },
+    {
+        "id": 161943743,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Tzshalgoth, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-03-03 22:46:44"
     }
 ]
