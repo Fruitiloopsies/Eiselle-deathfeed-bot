@@ -698,5 +698,12 @@
         "description": "Veldrin was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-03 01:41:02"
+    },
+    {
+        "id": 161938490,
+        "caption": "Player Death",
+        "description": "A two-headed abhorrence has trampled all over Laina.",
+        "type": "DEA",
+        "date": "2025-03-03 04:31:43"
     }
 ]
