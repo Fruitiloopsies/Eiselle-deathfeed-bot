@@ -677,5 +677,26 @@
         "description": "Aidune was slain by Malayn (Victim had 60% the might).",
         "type": "DEA",
         "date": "2025-03-02 18:14:33"
+    },
+    {
+        "id": 161936890,
+        "caption": "Player Death",
+        "description": "Romaan was slain by Shango (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-03-03 01:13:50"
+    },
+    {
+        "id": 161937127,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Freja (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-03 01:30:16"
+    },
+    {
+        "id": 161937189,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-03 01:41:02"
     }
 ]
