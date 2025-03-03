@@ -705,5 +705,12 @@
         "description": "A two-headed abhorrence has trampled all over Laina.",
         "type": "DEA",
         "date": "2025-03-03 04:31:43"
+    },
+    {
+        "id": 161939411,
+        "caption": "Player Death",
+        "description": "Ungedull has been assassinated on orders from the Castellan of Djarrakh.",
+        "type": "DEA",
+        "date": "2025-03-03 09:24:50"
     }
 ]
