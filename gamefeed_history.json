@@ -747,5 +747,19 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Tzshalgoth, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-03-03 22:46:44"
+    },
+    {
+        "id": 161943993,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Tzshalgoth, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-03-03 23:03:14"
+    },
+    {
+        "id": 161943996,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Freja, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-03-03 23:04:10"
     }
 ]
