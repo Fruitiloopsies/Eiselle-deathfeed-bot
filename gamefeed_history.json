@@ -775,5 +775,12 @@
         "description": "Ungedull has been slain by the might of an inferno beetle.",
         "type": "DEA",
         "date": "2025-03-04 07:24:58"
+    },
+    {
+        "id": 161950158,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been psychically and physically impaled by a kephera warder.",
+        "type": "DEA",
+        "date": "2025-03-04 21:33:20"
     }
 ]
