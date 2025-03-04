@@ -768,5 +768,12 @@
         "description": "Ungedull has been slain by the might of Bahna Fleetpaw.",
         "type": "DEA",
         "date": "2025-03-04 04:38:28"
+    },
+    {
+        "id": 161946658,
+        "caption": "Player Death",
+        "description": "Ungedull has been slain by the might of an inferno beetle.",
+        "type": "DEA",
+        "date": "2025-03-04 07:24:58"
     }
 ]
