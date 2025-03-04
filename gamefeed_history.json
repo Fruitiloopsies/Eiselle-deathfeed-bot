@@ -782,5 +782,19 @@
         "description": "Tzshalgoth has been psychically and physically impaled by a kephera warder.",
         "type": "DEA",
         "date": "2025-03-04 21:33:20"
+    },
+    {
+        "id": 161950310,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Rysic (Victim had 45% the might).",
+        "type": "DEA",
+        "date": "2025-03-04 21:57:57"
+    },
+    {
+        "id": 161950379,
+        "caption": "Player Death",
+        "description": "Rysic was slain by Tzshalgoth (Victim had 200% the might).",
+        "type": "DEA",
+        "date": "2025-03-04 22:06:49"
     }
 ]
