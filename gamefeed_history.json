@@ -810,5 +810,12 @@
         "description": "Faragan was slain by Shango (Victim had 105% the might).",
         "type": "DEA",
         "date": "2025-03-05 00:00:30"
+    },
+    {
+        "id": 161952630,
+        "caption": "Player Death",
+        "description": "Ungedull has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-03-05 03:37:06"
     }
 ]
