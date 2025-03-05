@@ -796,5 +796,19 @@
         "description": "Rysic was slain by Tzshalgoth (Victim had 200% the might).",
         "type": "DEA",
         "date": "2025-03-04 22:06:49"
+    },
+    {
+        "id": 161951076,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Shango (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2025-03-04 23:59:18"
+    },
+    {
+        "id": 161951132,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Shango (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-03-05 00:00:30"
     }
 ]
