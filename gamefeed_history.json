@@ -817,5 +817,12 @@
         "description": "Ungedull has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-03-05 03:37:06"
+    },
+    {
+        "id": 161953361,
+        "caption": "Player Death",
+        "description": "Ungedull has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-03-05 06:26:50"
     }
 ]
