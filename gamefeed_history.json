@@ -852,5 +852,12 @@
         "description": "Ungedull has been slain by the might of an aslaran warrior.",
         "type": "DEA",
         "date": "2025-03-06 02:19:25"
+    },
+    {
+        "id": 161959830,
+        "caption": "Player Death",
+        "description": "Ansakta was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-06 05:18:15"
     }
 ]
