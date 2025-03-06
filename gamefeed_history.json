@@ -838,5 +838,12 @@
         "description": "Ungedull has been slain by the might of a slimy, amphibious adorath.",
         "type": "DEA",
         "date": "2025-03-06 00:36:33"
+    },
+    {
+        "id": 161958369,
+        "caption": "Player Death",
+        "description": "Iae has become food for an adolescent Great Worm, her body never to be seen again.",
+        "type": "DEA",
+        "date": "2025-03-06 01:25:02"
     }
 ]
