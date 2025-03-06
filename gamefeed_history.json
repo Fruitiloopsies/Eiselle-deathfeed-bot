@@ -901,5 +901,12 @@
         "description": "Aknarin was slain by Tzshalgoth (Victim had 200% the might).",
         "type": "DEA",
         "date": "2025-03-06 20:01:12"
+    },
+    {
+        "id": 161963404,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-06 21:52:10"
     }
 ]
