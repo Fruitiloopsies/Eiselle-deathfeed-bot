@@ -831,5 +831,12 @@
         "description": "Shango was slain by Rysic (Victim had 110% the might).",
         "type": "DEA",
         "date": "2025-03-05 18:16:28"
+    },
+    {
+        "id": 161958044,
+        "caption": "Player Death",
+        "description": "Ungedull has been slain by the might of a slimy, amphibious adorath.",
+        "type": "DEA",
+        "date": "2025-03-06 00:36:33"
     }
 ]
