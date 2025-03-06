@@ -887,5 +887,12 @@
         "description": "Zszerea's entrails have been torn out by a vicious frost fiend.",
         "type": "DEA",
         "date": "2025-03-06 12:50:17"
+    },
+    {
+        "id": 161962885,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Aknarin (Victim had 45% the might).",
+        "type": "DEA",
+        "date": "2025-03-06 19:56:36"
     }
 ]
