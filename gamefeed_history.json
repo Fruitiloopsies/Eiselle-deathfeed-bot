@@ -845,5 +845,12 @@
         "description": "Iae has become food for an adolescent Great Worm, her body never to be seen again.",
         "type": "DEA",
         "date": "2025-03-06 01:25:02"
+    },
+    {
+        "id": 161958748,
+        "caption": "Player Death",
+        "description": "Ungedull has been slain by the might of an aslaran warrior.",
+        "type": "DEA",
+        "date": "2025-03-06 02:19:25"
     }
 ]
