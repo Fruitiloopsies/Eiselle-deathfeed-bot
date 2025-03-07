@@ -1251,5 +1251,19 @@
         "description": "Elmer was slain by a sealed sarcophagus within the Barrow of Vulkuz.",
         "type": "DEA",
         "date": "2025-03-07 16:33:52"
+    },
+    {
+        "id": 161969170,
+        "caption": "Player Death",
+        "description": "Elmer was slain by Vulkuz, Barrow-lord of the Darkenwood.",
+        "type": "DEA",
+        "date": "2025-03-07 16:43:58"
+    },
+    {
+        "id": 161969171,
+        "caption": "Player Death",
+        "description": "Elmer was slain by Vulkuz, Barrow-lord of the Darkenwood.",
+        "type": "DEA",
+        "date": "2025-03-07 16:44:15"
     }
 ]
