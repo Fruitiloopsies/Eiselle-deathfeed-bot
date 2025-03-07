@@ -1412,5 +1412,54 @@
         "description": "Dilek was slain by a harrowing thrall of Ficus.",
         "type": "DEA",
         "date": "2025-03-07 17:35:00"
+    },
+    {
+        "id": 161969460,
+        "caption": "Player Death",
+        "description": "Mycen was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 17:52:30"
+    },
+    {
+        "id": 161969461,
+        "caption": "Player Death",
+        "description": "Argwin was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 17:52:36"
+    },
+    {
+        "id": 161969462,
+        "caption": "Player Death",
+        "description": "Kirsi was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 17:52:40"
+    },
+    {
+        "id": 161969463,
+        "caption": "Player Death",
+        "description": "Kirsi was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 17:52:40"
+    },
+    {
+        "id": 161969464,
+        "caption": "Player Death",
+        "description": "Hadriann was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 17:52:50"
+    },
+    {
+        "id": 161969466,
+        "caption": "Player Death",
+        "description": "Xylarys was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 17:53:12"
+    },
+    {
+        "id": 161969467,
+        "caption": "Player Death",
+        "description": "Xylarys was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 17:53:12"
     }
 ]
