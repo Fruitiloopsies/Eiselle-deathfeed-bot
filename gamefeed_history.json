@@ -1594,5 +1594,61 @@
         "description": "Killian was slain by a small zombie.",
         "type": "DEA",
         "date": "2025-03-07 18:39:40"
+    },
+    {
+        "id": 161969631,
+        "caption": "Player Death",
+        "description": "Tabethys was slain by Kasotus.",
+        "type": "DEA",
+        "date": "2025-03-07 18:49:41"
+    },
+    {
+        "id": 161969632,
+        "caption": "Player Death",
+        "description": "Tabethys was slain by Elmer.",
+        "type": "DEA",
+        "date": "2025-03-07 18:49:44"
+    },
+    {
+        "id": 161969633,
+        "caption": "Player Death",
+        "description": "Sinit was slain by Kog.",
+        "type": "DEA",
+        "date": "2025-03-07 18:49:47"
+    },
+    {
+        "id": 161969634,
+        "caption": "Player Death",
+        "description": "Melech was slain by Bartholomeus.",
+        "type": "DEA",
+        "date": "2025-03-07 18:49:50"
+    },
+    {
+        "id": 161969635,
+        "caption": "Player Death",
+        "description": "Senrir was slain by Bartholomeus.",
+        "type": "DEA",
+        "date": "2025-03-07 18:49:55"
+    },
+    {
+        "id": 161969637,
+        "caption": "Player Death",
+        "description": "Aegoth was slain by Kog.",
+        "type": "DEA",
+        "date": "2025-03-07 18:50:01"
+    },
+    {
+        "id": 161969638,
+        "caption": "Player Death",
+        "description": "Havyn was slain by Yilui.",
+        "type": "DEA",
+        "date": "2025-03-07 18:50:21"
+    },
+    {
+        "id": 161969704,
+        "caption": "Player Death",
+        "description": "Sjeng was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 18:53:23"
     }
 ]
