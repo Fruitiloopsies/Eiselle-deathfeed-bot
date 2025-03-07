@@ -1860,5 +1860,19 @@
         "description": "Saphyria was slain by a rajamala slaver.",
         "type": "DEA",
         "date": "2025-03-07 20:30:49"
+    },
+    {
+        "id": 161970452,
+        "caption": "Player Death",
+        "description": "Ulvin was slain by Natael, the ship's cook.",
+        "type": "DEA",
+        "date": "2025-03-07 20:34:38"
+    },
+    {
+        "id": 161970456,
+        "caption": "Player Death",
+        "description": "Melech was slain by Proficy.",
+        "type": "DEA",
+        "date": "2025-03-07 20:39:03"
     }
 ]
