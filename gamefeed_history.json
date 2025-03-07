@@ -1657,5 +1657,12 @@
         "description": "Kaelthas was slain by a giant crow.",
         "type": "DEA",
         "date": "2025-03-07 19:21:52"
+    },
+    {
+        "id": 161969904,
+        "caption": "Player Death",
+        "description": "Avianca was slain by a slavering hyena.",
+        "type": "DEA",
+        "date": "2025-03-07 19:36:54"
     }
 ]
