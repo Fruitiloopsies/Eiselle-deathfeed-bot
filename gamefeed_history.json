@@ -2609,5 +2609,47 @@
         "description": "Asmodron was slain by Ruckus.",
         "type": "DEA",
         "date": "2025-03-07 22:53:48"
+    },
+    {
+        "id": 161969278,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Ollie (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-07 17:19:31"
+    },
+    {
+        "id": 161969282,
+        "caption": "Player Death",
+        "description": "Shango was slain by Legac (Victim had 150% the might).",
+        "type": "DEA",
+        "date": "2025-03-07 17:20:50"
+    },
+    {
+        "id": 161969326,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Farlaris (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-03-07 17:21:29"
+    },
+    {
+        "id": 161969434,
+        "caption": "Player Death",
+        "description": "Huskii was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-07 17:46:33"
+    },
+    {
+        "id": 161969481,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Eiselle (Victim had 45% the might).",
+        "type": "DEA",
+        "date": "2025-03-07 18:18:47"
+    },
+    {
+        "id": 161971107,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
+        "type": "DEA",
+        "date": "2025-03-07 22:19:42"
     }
 ]
