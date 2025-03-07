@@ -1139,5 +1139,33 @@
         "description": "Elmer was slain by a blighted fruit.",
         "type": "DEA",
         "date": "2025-03-07 15:24:17"
+    },
+    {
+        "id": 161968690,
+        "caption": "Player Death",
+        "description": "Avianca was slain by a rain of arrows.",
+        "type": "DEA",
+        "date": "2025-03-07 15:32:14"
+    },
+    {
+        "id": 161968691,
+        "caption": "Player Death",
+        "description": "Sinit was slain by a huge rat.",
+        "type": "DEA",
+        "date": "2025-03-07 15:33:21"
+    },
+    {
+        "id": 161968692,
+        "caption": "Player Death",
+        "description": "Sinit was slain by a huge rat.",
+        "type": "DEA",
+        "date": "2025-03-07 15:33:36"
+    },
+    {
+        "id": 161968817,
+        "caption": "Player Death",
+        "description": "Ranara was slain by a sea hag.",
+        "type": "DEA",
+        "date": "2025-03-07 15:39:09"
     }
 ]
