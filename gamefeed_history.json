@@ -1181,5 +1181,75 @@
         "description": "Kalys was slain by an accursed skeleton.",
         "type": "DEA",
         "date": "2025-03-07 16:07:14"
+    },
+    {
+        "id": 161968926,
+        "caption": "Player Death",
+        "description": "Gundrun was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 16:22:46"
+    },
+    {
+        "id": 161968928,
+        "caption": "Player Death",
+        "description": "Gundrun was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 16:22:46"
+    },
+    {
+        "id": 161968929,
+        "caption": "Player Death",
+        "description": "Ryssa was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 16:23:14"
+    },
+    {
+        "id": 161968930,
+        "caption": "Player Death",
+        "description": "Gaelyn was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 16:23:33"
+    },
+    {
+        "id": 161968931,
+        "caption": "Player Death",
+        "description": "Gaelyn was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 16:23:33"
+    },
+    {
+        "id": 161968980,
+        "caption": "Player Death",
+        "description": "Elmer was slain by a granite boulder.",
+        "type": "DEA",
+        "date": "2025-03-07 16:32:01"
+    },
+    {
+        "id": 161968981,
+        "caption": "Player Death",
+        "description": "Killian was slain by a sealed sarcophagus within the Barrow of Vulkuz.",
+        "type": "DEA",
+        "date": "2025-03-07 16:32:14"
+    },
+    {
+        "id": 161968982,
+        "caption": "Player Death",
+        "description": "Killian was slain by a sealed sarcophagus within the Barrow of Vulkuz.",
+        "type": "DEA",
+        "date": "2025-03-07 16:32:15"
+    },
+    {
+        "id": 161969023,
+        "caption": "Player Death",
+        "description": "Elmer was slain by a sealed sarcophagus within the Barrow of Vulkuz.",
+        "type": "DEA",
+        "date": "2025-03-07 16:33:52"
+    },
+    {
+        "id": 161969024,
+        "caption": "Player Death",
+        "description": "Elmer was slain by a sealed sarcophagus within the Barrow of Vulkuz.",
+        "type": "DEA",
+        "date": "2025-03-07 16:33:52"
     }
 ]
