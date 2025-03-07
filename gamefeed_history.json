@@ -978,5 +978,47 @@
         "description": "Amillea was slain by a blighted fruit.",
         "type": "DEA",
         "date": "2025-03-07 13:52:57"
+    },
+    {
+        "id": 161967807,
+        "caption": "Player Death",
+        "description": "Rogkali was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 13:53:50"
+    },
+    {
+        "id": 161967808,
+        "caption": "Player Death",
+        "description": "Rogkali was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 13:53:50"
+    },
+    {
+        "id": 161967809,
+        "caption": "Player Death",
+        "description": "Taelle was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 13:53:58"
+    },
+    {
+        "id": 161967810,
+        "caption": "Player Death",
+        "description": "Taelle was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 13:53:58"
+    },
+    {
+        "id": 161967811,
+        "caption": "Player Death",
+        "description": "Zephyl was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 13:55:01"
+    },
+    {
+        "id": 161967860,
+        "caption": "Player Death",
+        "description": "Rosses was slain by a kahtak scout.",
+        "type": "DEA",
+        "date": "2025-03-07 13:57:58"
     }
 ]
