@@ -2294,5 +2294,152 @@
         "description": "Kresslack was slain by Aegoth.",
         "type": "DEA",
         "date": "2025-03-07 22:32:41"
+    },
+    {
+        "id": 161971158,
+        "caption": "Player Death",
+        "description": "Jems was slain by Talo.",
+        "type": "DEA",
+        "date": "2025-03-07 22:35:47"
+    },
+    {
+        "id": 161971159,
+        "caption": "Player Death",
+        "description": "Gaelyn was slain by Aegoth.",
+        "type": "DEA",
+        "date": "2025-03-07 22:36:30"
+    },
+    {
+        "id": 161971160,
+        "caption": "Player Death",
+        "description": "Gaelyn was slain by Antoninus.",
+        "type": "DEA",
+        "date": "2025-03-07 22:36:34"
+    },
+    {
+        "id": 161971161,
+        "caption": "Player Death",
+        "description": "Kruellagh was slain by Icraa.",
+        "type": "DEA",
+        "date": "2025-03-07 22:36:56"
+    },
+    {
+        "id": 161971162,
+        "caption": "Player Death",
+        "description": "Kruellagh was slain by Aegoth.",
+        "type": "DEA",
+        "date": "2025-03-07 22:36:58"
+    },
+    {
+        "id": 161971167,
+        "caption": "Player Death",
+        "description": "Talo was slain by Proficy.",
+        "type": "DEA",
+        "date": "2025-03-07 22:38:22"
+    },
+    {
+        "id": 161971168,
+        "caption": "Player Death",
+        "description": "Archaosa was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 22:38:27"
+    },
+    {
+        "id": 161971169,
+        "caption": "Player Death",
+        "description": "Elmer was slain by Nikolais.",
+        "type": "DEA",
+        "date": "2025-03-07 22:38:29"
+    },
+    {
+        "id": 161971170,
+        "caption": "Player Death",
+        "description": "Harkon was slain by Finnegan.",
+        "type": "DEA",
+        "date": "2025-03-07 22:38:46"
+    },
+    {
+        "id": 161971171,
+        "caption": "Player Death",
+        "description": "Talo was slain by Proficy.",
+        "type": "DEA",
+        "date": "2025-03-07 22:38:55"
+    },
+    {
+        "id": 161971172,
+        "caption": "Player Death",
+        "description": "Harkon was slain by Blackwillow.",
+        "type": "DEA",
+        "date": "2025-03-07 22:39:03"
+    },
+    {
+        "id": 161971173,
+        "caption": "Player Death",
+        "description": "Kresslack was slain by Aegoth.",
+        "type": "DEA",
+        "date": "2025-03-07 22:40:11"
+    },
+    {
+        "id": 161971174,
+        "caption": "Player Death",
+        "description": "Kresslack was slain by Aegoth.",
+        "type": "DEA",
+        "date": "2025-03-07 22:40:16"
+    },
+    {
+        "id": 161971175,
+        "caption": "Player Death",
+        "description": "Mornath was slain by Aegoth.",
+        "type": "DEA",
+        "date": "2025-03-07 22:40:59"
+    },
+    {
+        "id": 161971176,
+        "caption": "Player Death",
+        "description": "Kasotus was slain by Antoninus.",
+        "type": "DEA",
+        "date": "2025-03-07 22:41:09"
+    },
+    {
+        "id": 161971177,
+        "caption": "Player Death",
+        "description": "Antoninus was slain by Baugraf.",
+        "type": "DEA",
+        "date": "2025-03-07 22:41:21"
+    },
+    {
+        "id": 161971184,
+        "caption": "Player Death",
+        "description": "Elmer was slain by Aegoth.",
+        "type": "DEA",
+        "date": "2025-03-07 22:41:26"
+    },
+    {
+        "id": 161971185,
+        "caption": "Player Death",
+        "description": "Antoninus was slain by Kasotus.",
+        "type": "DEA",
+        "date": "2025-03-07 22:41:29"
+    },
+    {
+        "id": 161971186,
+        "caption": "Player Death",
+        "description": "Elmer was slain by Proficy.",
+        "type": "DEA",
+        "date": "2025-03-07 22:41:30"
+    },
+    {
+        "id": 161971187,
+        "caption": "Player Death",
+        "description": "Proficy was slain by Baugraf.",
+        "type": "DEA",
+        "date": "2025-03-07 22:41:38"
+    },
+    {
+        "id": 161971188,
+        "caption": "Player Death",
+        "description": "Icraa was slain by Darona.",
+        "type": "DEA",
+        "date": "2025-03-07 22:41:54"
     }
 ]
