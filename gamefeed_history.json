@@ -1286,5 +1286,103 @@
         "description": "Ante was slain by an ogre brute.",
         "type": "DEA",
         "date": "2025-03-07 16:55:26"
+    },
+    {
+        "id": 161969275,
+        "caption": "Player Death",
+        "description": "Dilek was slain by a shade of nature.",
+        "type": "DEA",
+        "date": "2025-03-07 17:15:53"
+    },
+    {
+        "id": 161969276,
+        "caption": "Player Death",
+        "description": "Sinit was slain by Aran'Kesh, the Fleshrender.",
+        "type": "DEA",
+        "date": "2025-03-07 17:15:58"
+    },
+    {
+        "id": 161969330,
+        "caption": "Player Death",
+        "description": "Hadriann was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 17:23:01"
+    },
+    {
+        "id": 161969337,
+        "caption": "Player Death",
+        "description": "Sheena was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 17:23:15"
+    },
+    {
+        "id": 161969338,
+        "caption": "Player Death",
+        "description": "Sheena was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 17:23:15"
+    },
+    {
+        "id": 161969340,
+        "caption": "Player Death",
+        "description": "Raem was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 17:23:41"
+    },
+    {
+        "id": 161969341,
+        "caption": "Player Death",
+        "description": "Xylarys was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 17:23:48"
+    },
+    {
+        "id": 161969342,
+        "caption": "Player Death",
+        "description": "Xylarys was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 17:23:48"
+    },
+    {
+        "id": 161969346,
+        "caption": "Player Death",
+        "description": "Mycen was slain by a harrowing thrall of Ficus.",
+        "type": "DEA",
+        "date": "2025-03-07 17:28:56"
+    },
+    {
+        "id": 161969347,
+        "caption": "Player Death",
+        "description": "Mycen was slain by a harrowing thrall of Ficus.",
+        "type": "DEA",
+        "date": "2025-03-07 17:29:06"
+    },
+    {
+        "id": 161969348,
+        "caption": "Player Death",
+        "description": "Dilek was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-07 17:29:21"
+    },
+    {
+        "id": 161969349,
+        "caption": "Player Death",
+        "description": "Dilek was slain by a harrowing thrall of Ficus.",
+        "type": "DEA",
+        "date": "2025-03-07 17:29:31"
+    },
+    {
+        "id": 161969350,
+        "caption": "Player Death",
+        "description": "Sinit was slain by Vre, the hermit.",
+        "type": "DEA",
+        "date": "2025-03-07 17:29:34"
+    },
+    {
+        "id": 161969351,
+        "caption": "Player Death",
+        "description": "Braern was slain by a harrowing thrall of Ficus.",
+        "type": "DEA",
+        "date": "2025-03-07 17:29:42"
     }
 ]
