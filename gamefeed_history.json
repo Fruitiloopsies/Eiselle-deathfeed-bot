@@ -1650,5 +1650,12 @@
         "description": "Sjeng was slain by a blighted fruit.",
         "type": "DEA",
         "date": "2025-03-07 18:53:23"
+    },
+    {
+        "id": 161969840,
+        "caption": "Player Death",
+        "description": "Kaelthas was slain by a giant crow.",
+        "type": "DEA",
+        "date": "2025-03-07 19:21:52"
     }
 ]
