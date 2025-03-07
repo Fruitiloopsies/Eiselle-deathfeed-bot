@@ -2665,5 +2665,47 @@
         "description": "Jemna was slain by Malayn (Victim had 50% the might).",
         "type": "DEA",
         "date": "2025-03-07 23:20:40"
+    },
+    {
+        "id": 161971856,
+        "caption": "Player Death",
+        "description": "Jemna was slain by Freja (Victim had 50% the might).",
+        "type": "DEA",
+        "date": "2025-03-07 23:33:52"
+    },
+    {
+        "id": 161971868,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by Shango (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-03-07 23:33:54"
+    },
+    {
+        "id": 161971921,
+        "caption": "Player Death",
+        "description": "Jemna was slain by Tzshalgoth (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-03-07 23:38:41"
+    },
+    {
+        "id": 161971933,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-07 23:39:23"
+    },
+    {
+        "id": 161971989,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by Malayn (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-03-07 23:39:56"
+    },
+    {
+        "id": 161972017,
+        "caption": "Player Death",
+        "description": "Iae was slain by Shango (Victim had 55% the might).",
+        "type": "DEA",
+        "date": "2025-03-07 23:40:53"
     }
 ]
