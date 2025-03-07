@@ -1055,5 +1055,89 @@
         "description": "Avianca was slain by a feral varkha.",
         "type": "DEA",
         "date": "2025-03-07 14:53:14"
+    },
+    {
+        "id": 161968466,
+        "caption": "Player Death",
+        "description": "Talo was slain by Mizik.",
+        "type": "DEA",
+        "date": "2025-03-07 15:07:41"
+    },
+    {
+        "id": 161968467,
+        "caption": "Player Death",
+        "description": "Talo was slain by Mizik.",
+        "type": "DEA",
+        "date": "2025-03-07 15:10:34"
+    },
+    {
+        "id": 161968472,
+        "caption": "Player Death",
+        "description": "Haeron was slain by Melech.",
+        "type": "DEA",
+        "date": "2025-03-07 15:17:14"
+    },
+    {
+        "id": 161968473,
+        "caption": "Player Death",
+        "description": "Haeron was slain by Melech.",
+        "type": "DEA",
+        "date": "2025-03-07 15:17:48"
+    },
+    {
+        "id": 161968480,
+        "caption": "Player Death",
+        "description": "Torrent was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 15:22:29"
+    },
+    {
+        "id": 161968481,
+        "caption": "Player Death",
+        "description": "Torrent was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 15:22:29"
+    },
+    {
+        "id": 161968482,
+        "caption": "Player Death",
+        "description": "Argwin was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 15:22:47"
+    },
+    {
+        "id": 161968483,
+        "caption": "Player Death",
+        "description": "Hadriann was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 15:22:55"
+    },
+    {
+        "id": 161968484,
+        "caption": "Player Death",
+        "description": "Xylarys was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 15:23:31"
+    },
+    {
+        "id": 161968485,
+        "caption": "Player Death",
+        "description": "Xylarys was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 15:23:31"
+    },
+    {
+        "id": 161968486,
+        "caption": "Player Death",
+        "description": "Elmer was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 15:24:17"
+    },
+    {
+        "id": 161968487,
+        "caption": "Player Death",
+        "description": "Elmer was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 15:24:17"
     }
 ]
