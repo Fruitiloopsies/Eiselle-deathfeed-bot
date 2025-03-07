@@ -922,5 +922,61 @@
         "description": "Ungedull has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-03-07 05:58:18"
+    },
+    {
+        "id": 161967641,
+        "caption": "Player Death",
+        "description": "Aibhne was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 13:04:11"
+    },
+    {
+        "id": 161967642,
+        "caption": "Player Death",
+        "description": "Olead was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 13:04:17"
+    },
+    {
+        "id": 161967645,
+        "caption": "Player Death",
+        "description": "Jorinde was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 13:05:11"
+    },
+    {
+        "id": 161967679,
+        "caption": "Player Death",
+        "description": "Thelek was slain by a fatal plummet to the ground.",
+        "type": "DEA",
+        "date": "2025-03-07 13:22:28"
+    },
+    {
+        "id": 161967682,
+        "caption": "Player Death",
+        "description": "Nahaj was slain by an ogre sentry.",
+        "type": "DEA",
+        "date": "2025-03-07 13:24:51"
+    },
+    {
+        "id": 161967728,
+        "caption": "Player Death",
+        "description": "Drulzegar was slain by Chenubis, the Cloud Serpent.",
+        "type": "DEA",
+        "date": "2025-03-07 13:37:43"
+    },
+    {
+        "id": 161967805,
+        "caption": "Player Death",
+        "description": "Amillea was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 13:52:57"
+    },
+    {
+        "id": 161967806,
+        "caption": "Player Death",
+        "description": "Amillea was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 13:52:57"
     }
 ]
