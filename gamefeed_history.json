@@ -2707,5 +2707,26 @@
         "description": "Iae was slain by Shango (Victim had 55% the might).",
         "type": "DEA",
         "date": "2025-03-07 23:40:53"
+    },
+    {
+        "id": 161972023,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Tzshalgoth (Victim had 200% the might).",
+        "type": "DEA",
+        "date": "2025-03-07 23:41:20"
+    },
+    {
+        "id": 161972084,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by Freja (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-03-07 23:41:53"
+    },
+    {
+        "id": 161972135,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-07 23:44:51"
     }
 ]
