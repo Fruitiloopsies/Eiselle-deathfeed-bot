@@ -1664,5 +1664,26 @@
         "description": "Avianca was slain by a slavering hyena.",
         "type": "DEA",
         "date": "2025-03-07 19:36:54"
+    },
+    {
+        "id": 161970068,
+        "caption": "Player Death",
+        "description": "Sheena was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 19:43:30"
+    },
+    {
+        "id": 161970069,
+        "caption": "Player Death",
+        "description": "Ficus was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 19:43:36"
+    },
+    {
+        "id": 161970070,
+        "caption": "Player Death",
+        "description": "Ficus was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 19:43:36"
     }
 ]
