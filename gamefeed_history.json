@@ -1167,5 +1167,12 @@
         "description": "Ranara was slain by a sea hag.",
         "type": "DEA",
         "date": "2025-03-07 15:39:09"
+    },
+    {
+        "id": 161968827,
+        "caption": "Player Death",
+        "description": "Kalys was slain by a shambling zombie.",
+        "type": "DEA",
+        "date": "2025-03-07 15:45:08"
     }
 ]
