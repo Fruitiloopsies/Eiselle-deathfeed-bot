@@ -1489,5 +1489,110 @@
         "description": "Khaseem was slain by a barrow bat.",
         "type": "DEA",
         "date": "2025-03-07 18:17:50"
+    },
+    {
+        "id": 161969505,
+        "caption": "Player Death",
+        "description": "Khaseem was slain by a granite boulder.",
+        "type": "DEA",
+        "date": "2025-03-07 18:26:39"
+    },
+    {
+        "id": 161969506,
+        "caption": "Player Death",
+        "description": "Tsia was slain by a sealed sarcophagus within the Barrow of Vulkuz.",
+        "type": "DEA",
+        "date": "2025-03-07 18:27:22"
+    },
+    {
+        "id": 161969507,
+        "caption": "Player Death",
+        "description": "Tsia was slain by a sealed sarcophagus within the Barrow of Vulkuz.",
+        "type": "DEA",
+        "date": "2025-03-07 18:27:22"
+    },
+    {
+        "id": 161969522,
+        "caption": "Player Death",
+        "description": "Killian was slain by a roaming bubonis.",
+        "type": "DEA",
+        "date": "2025-03-07 18:31:42"
+    },
+    {
+        "id": 161969530,
+        "caption": "Player Death",
+        "description": "Killian was slain by a dutiful maid.",
+        "type": "DEA",
+        "date": "2025-03-07 18:35:38"
+    },
+    {
+        "id": 161969531,
+        "caption": "Player Death",
+        "description": "Tarvius was slain by a dutiful maid.",
+        "type": "DEA",
+        "date": "2025-03-07 18:35:53"
+    },
+    {
+        "id": 161969532,
+        "caption": "Player Death",
+        "description": "Tabethys was slain by Minsideon.",
+        "type": "DEA",
+        "date": "2025-03-07 18:37:26"
+    },
+    {
+        "id": 161969534,
+        "caption": "Player Death",
+        "description": "Tabethys was slain by Elmer.",
+        "type": "DEA",
+        "date": "2025-03-07 18:37:30"
+    },
+    {
+        "id": 161969535,
+        "caption": "Player Death",
+        "description": "Aegoth was slain by Yilui.",
+        "type": "DEA",
+        "date": "2025-03-07 18:37:37"
+    },
+    {
+        "id": 161969536,
+        "caption": "Player Death",
+        "description": "Aegoth was slain by Kasotus.",
+        "type": "DEA",
+        "date": "2025-03-07 18:37:41"
+    },
+    {
+        "id": 161969537,
+        "caption": "Player Death",
+        "description": "Sinit was slain by Mornath.",
+        "type": "DEA",
+        "date": "2025-03-07 18:37:44"
+    },
+    {
+        "id": 161969538,
+        "caption": "Player Death",
+        "description": "Senrir was slain by Dunn.",
+        "type": "DEA",
+        "date": "2025-03-07 18:37:52"
+    },
+    {
+        "id": 161969539,
+        "caption": "Player Death",
+        "description": "Melech was slain by Nefertem.",
+        "type": "DEA",
+        "date": "2025-03-07 18:38:05"
+    },
+    {
+        "id": 161969540,
+        "caption": "Player Death",
+        "description": "Melech was slain by Yilui.",
+        "type": "DEA",
+        "date": "2025-03-07 18:38:09"
+    },
+    {
+        "id": 161969541,
+        "caption": "Player Death",
+        "description": "Killian was slain by a small zombie.",
+        "type": "DEA",
+        "date": "2025-03-07 18:39:40"
     }
 ]
