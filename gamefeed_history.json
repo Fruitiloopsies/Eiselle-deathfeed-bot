@@ -1174,5 +1174,12 @@
         "description": "Kalys was slain by a shambling zombie.",
         "type": "DEA",
         "date": "2025-03-07 15:45:08"
+    },
+    {
+        "id": 161968905,
+        "caption": "Player Death",
+        "description": "Kalys was slain by an accursed skeleton.",
+        "type": "DEA",
+        "date": "2025-03-07 16:07:14"
     }
 ]
