@@ -1265,5 +1265,26 @@
         "description": "Elmer was slain by Vulkuz, Barrow-lord of the Darkenwood.",
         "type": "DEA",
         "date": "2025-03-07 16:44:15"
+    },
+    {
+        "id": 161969221,
+        "caption": "Player Death",
+        "description": "Sinit was slain by a mature mountain wildcat.",
+        "type": "DEA",
+        "date": "2025-03-07 16:52:58"
+    },
+    {
+        "id": 161969225,
+        "caption": "Player Death",
+        "description": "Sinit was slain by a mature mountain wildcat.",
+        "type": "DEA",
+        "date": "2025-03-07 16:54:32"
+    },
+    {
+        "id": 161969226,
+        "caption": "Player Death",
+        "description": "Ante was slain by an ogre brute.",
+        "type": "DEA",
+        "date": "2025-03-07 16:55:26"
     }
 ]
