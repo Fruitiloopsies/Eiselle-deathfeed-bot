@@ -1804,5 +1804,61 @@
         "description": "Killian was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-07 20:10:40"
+    },
+    {
+        "id": 161970326,
+        "caption": "Player Death",
+        "description": "Gaelyn was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 20:13:12"
+    },
+    {
+        "id": 161970328,
+        "caption": "Player Death",
+        "description": "Tialha was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 20:13:15"
+    },
+    {
+        "id": 161970381,
+        "caption": "Player Death",
+        "description": "Farrah was slain by a steel-encased Death Knight.",
+        "type": "DEA",
+        "date": "2025-03-07 20:18:00"
+    },
+    {
+        "id": 161970409,
+        "caption": "Player Death",
+        "description": "Icraa was slain by Borgron, captain of the fortress.",
+        "type": "DEA",
+        "date": "2025-03-07 20:28:50"
+    },
+    {
+        "id": 161970410,
+        "caption": "Player Death",
+        "description": "Tsia was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-07 20:28:52"
+    },
+    {
+        "id": 161970411,
+        "caption": "Player Death",
+        "description": "Ulvin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-07 20:28:52"
+    },
+    {
+        "id": 161970413,
+        "caption": "Player Death",
+        "description": "Saphyria was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-07 20:29:51"
+    },
+    {
+        "id": 161970417,
+        "caption": "Player Death",
+        "description": "Saphyria was slain by a rajamala slaver.",
+        "type": "DEA",
+        "date": "2025-03-07 20:30:49"
     }
 ]
