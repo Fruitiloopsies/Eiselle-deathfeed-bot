@@ -1685,5 +1685,124 @@
         "description": "Ficus was slain by a blighted fruit.",
         "type": "DEA",
         "date": "2025-03-07 19:43:36"
+    },
+    {
+        "id": 161970292,
+        "caption": "Player Death",
+        "description": "Farrah was slain by a soldier of Osterrych.",
+        "type": "DEA",
+        "date": "2025-03-07 20:04:59"
+    },
+    {
+        "id": 161970300,
+        "caption": "Player Death",
+        "description": "Bartholomeus was slain by a zombified swashbuckler.",
+        "type": "DEA",
+        "date": "2025-03-07 20:07:34"
+    },
+    {
+        "id": 161970301,
+        "caption": "Player Death",
+        "description": "Bartholomeus was slain by a zombified swashbuckler.",
+        "type": "DEA",
+        "date": "2025-03-07 20:07:40"
+    },
+    {
+        "id": 161970302,
+        "caption": "Player Death",
+        "description": "Kasotus was slain by a zombified swashbuckler.",
+        "type": "DEA",
+        "date": "2025-03-07 20:07:51"
+    },
+    {
+        "id": 161970303,
+        "caption": "Player Death",
+        "description": "Kasotus was slain by a zombified swashbuckler.",
+        "type": "DEA",
+        "date": "2025-03-07 20:07:58"
+    },
+    {
+        "id": 161970304,
+        "caption": "Player Death",
+        "description": "Killian was slain by a zombified swashbuckler.",
+        "type": "DEA",
+        "date": "2025-03-07 20:08:10"
+    },
+    {
+        "id": 161970307,
+        "caption": "Player Death",
+        "description": "Faerum was slain by a zombified swashbuckler.",
+        "type": "DEA",
+        "date": "2025-03-07 20:08:23"
+    },
+    {
+        "id": 161970308,
+        "caption": "Player Death",
+        "description": "Faerum was slain by a zombified swashbuckler.",
+        "type": "DEA",
+        "date": "2025-03-07 20:08:31"
+    },
+    {
+        "id": 161970309,
+        "caption": "Player Death",
+        "description": "Elmer was slain by a zombified swashbuckler.",
+        "type": "DEA",
+        "date": "2025-03-07 20:08:34"
+    },
+    {
+        "id": 161970310,
+        "caption": "Player Death",
+        "description": "Elmer was slain by a zombified swashbuckler.",
+        "type": "DEA",
+        "date": "2025-03-07 20:08:39"
+    },
+    {
+        "id": 161970311,
+        "caption": "Player Death",
+        "description": "Yilui was slain by a zombified swashbuckler.",
+        "type": "DEA",
+        "date": "2025-03-07 20:08:44"
+    },
+    {
+        "id": 161970312,
+        "caption": "Player Death",
+        "description": "Tarvius was slain by a zombified swashbuckler.",
+        "type": "DEA",
+        "date": "2025-03-07 20:08:52"
+    },
+    {
+        "id": 161970313,
+        "caption": "Player Death",
+        "description": "Tarvius was slain by a zombified swashbuckler.",
+        "type": "DEA",
+        "date": "2025-03-07 20:08:58"
+    },
+    {
+        "id": 161970314,
+        "caption": "Player Death",
+        "description": "Zadkiel was slain by a zombified swashbuckler.",
+        "type": "DEA",
+        "date": "2025-03-07 20:09:18"
+    },
+    {
+        "id": 161970315,
+        "caption": "Player Death",
+        "description": "Zadkiel was slain by a zombified swashbuckler.",
+        "type": "DEA",
+        "date": "2025-03-07 20:09:20"
+    },
+    {
+        "id": 161970316,
+        "caption": "Player Death",
+        "description": "Killian was slain by a zombified swashbuckler.",
+        "type": "DEA",
+        "date": "2025-03-07 20:10:12"
+    },
+    {
+        "id": 161970318,
+        "caption": "Player Death",
+        "description": "Killian was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-07 20:10:40"
     }
 ]
