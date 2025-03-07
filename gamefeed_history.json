@@ -1020,5 +1020,19 @@
         "description": "Rosses was slain by a kahtak scout.",
         "type": "DEA",
         "date": "2025-03-07 13:57:58"
+    },
+    {
+        "id": 161968278,
+        "caption": "Player Death",
+        "description": "Melech was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-07 14:29:34"
+    },
+    {
+        "id": 161968279,
+        "caption": "Player Death",
+        "description": "Myrddin was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 14:33:58"
     }
 ]
