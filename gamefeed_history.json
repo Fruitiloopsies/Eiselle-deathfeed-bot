@@ -1384,5 +1384,33 @@
         "description": "Braern was slain by a harrowing thrall of Ficus.",
         "type": "DEA",
         "date": "2025-03-07 17:29:42"
+    },
+    {
+        "id": 161969352,
+        "caption": "Player Death",
+        "description": "Braern was slain by a harrowing thrall of Ficus.",
+        "type": "DEA",
+        "date": "2025-03-07 17:30:56"
+    },
+    {
+        "id": 161969353,
+        "caption": "Player Death",
+        "description": "Ryssa was slain by a harrowing thrall of Ficus.",
+        "type": "DEA",
+        "date": "2025-03-07 17:31:11"
+    },
+    {
+        "id": 161969401,
+        "caption": "Player Death",
+        "description": "Dilek was slain by a harrowing thrall of Ficus.",
+        "type": "DEA",
+        "date": "2025-03-07 17:34:24"
+    },
+    {
+        "id": 161969402,
+        "caption": "Player Death",
+        "description": "Dilek was slain by a harrowing thrall of Ficus.",
+        "type": "DEA",
+        "date": "2025-03-07 17:35:00"
     }
 ]
