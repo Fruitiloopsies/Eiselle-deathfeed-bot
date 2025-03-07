@@ -2056,5 +2056,75 @@
         "description": "Minkai was slain by Kasotus.",
         "type": "DEA",
         "date": "2025-03-07 22:02:12"
+    },
+    {
+        "id": 161971003,
+        "caption": "Player Death",
+        "description": "Minkai was slain by Mornath.",
+        "type": "DEA",
+        "date": "2025-03-07 22:05:24"
+    },
+    {
+        "id": 161971004,
+        "caption": "Player Death",
+        "description": "Minkai was slain by Mornath.",
+        "type": "DEA",
+        "date": "2025-03-07 22:05:28"
+    },
+    {
+        "id": 161971077,
+        "caption": "Player Death",
+        "description": "Minkai was slain by Darona.",
+        "type": "DEA",
+        "date": "2025-03-07 22:09:26"
+    },
+    {
+        "id": 161971078,
+        "caption": "Player Death",
+        "description": "Minkai was slain by Kasotus.",
+        "type": "DEA",
+        "date": "2025-03-07 22:09:30"
+    },
+    {
+        "id": 161971098,
+        "caption": "Player Death",
+        "description": "Kresslack was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 22:15:22"
+    },
+    {
+        "id": 161971100,
+        "caption": "Player Death",
+        "description": "Milabar was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 22:15:28"
+    },
+    {
+        "id": 161971101,
+        "caption": "Player Death",
+        "description": "Elmer was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 22:15:35"
+    },
+    {
+        "id": 161971102,
+        "caption": "Player Death",
+        "description": "Killian was slain by Killian.",
+        "type": "DEA",
+        "date": "2025-03-07 22:15:43"
+    },
+    {
+        "id": 161971103,
+        "caption": "Player Death",
+        "description": "Jems was slain by Kasotus.",
+        "type": "DEA",
+        "date": "2025-03-07 22:16:38"
+    },
+    {
+        "id": 161971104,
+        "caption": "Player Death",
+        "description": "Jems was slain by Neugierig.",
+        "type": "DEA",
+        "date": "2025-03-07 22:16:39"
     }
 ]
