@@ -1461,5 +1461,33 @@
         "description": "Xylarys was slain by a blighted fruit.",
         "type": "DEA",
         "date": "2025-03-07 17:53:12"
+    },
+    {
+        "id": 161969474,
+        "caption": "Player Death",
+        "description": "Synbios was slain by a mature mountain wildcat.",
+        "type": "DEA",
+        "date": "2025-03-07 18:09:08"
+    },
+    {
+        "id": 161969477,
+        "caption": "Player Death",
+        "description": "Tsia was slain by a giant spider.",
+        "type": "DEA",
+        "date": "2025-03-07 18:16:46"
+    },
+    {
+        "id": 161969478,
+        "caption": "Player Death",
+        "description": "Tsia was slain by a barrow bat.",
+        "type": "DEA",
+        "date": "2025-03-07 18:16:55"
+    },
+    {
+        "id": 161969480,
+        "caption": "Player Death",
+        "description": "Khaseem was slain by a barrow bat.",
+        "type": "DEA",
+        "date": "2025-03-07 18:17:50"
     }
 ]
