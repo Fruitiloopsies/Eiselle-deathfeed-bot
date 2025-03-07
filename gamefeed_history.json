@@ -2651,5 +2651,19 @@
         "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
         "type": "DEA",
         "date": "2025-03-07 22:19:42"
+    },
+    {
+        "id": 161971709,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-07 23:20:02"
+    },
+    {
+        "id": 161971765,
+        "caption": "Player Death",
+        "description": "Jemna was slain by Malayn (Victim had 50% the might).",
+        "type": "DEA",
+        "date": "2025-03-07 23:20:40"
     }
 ]
