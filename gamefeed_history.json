@@ -1909,5 +1909,33 @@
         "description": "Itherael was slain by a flesh-eating slug.",
         "type": "DEA",
         "date": "2025-03-07 21:31:42"
+    },
+    {
+        "id": 161970709,
+        "caption": "Player Death",
+        "description": "Hadriann was slain by a blighted fruit.",
+        "type": "DEA",
+        "date": "2025-03-07 21:42:47"
+    },
+    {
+        "id": 161970710,
+        "caption": "Player Death",
+        "description": "Killian was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 21:45:59"
+    },
+    {
+        "id": 161970712,
+        "caption": "Player Death",
+        "description": "Kresslack was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 21:46:25"
+    },
+    {
+        "id": 161970765,
+        "caption": "Player Death",
+        "description": "Faerum was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-07 21:49:13"
     }
 ]
