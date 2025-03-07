@@ -1034,5 +1034,26 @@
         "description": "Myrddin was slain by a blighted fruit.",
         "type": "DEA",
         "date": "2025-03-07 14:33:58"
+    },
+    {
+        "id": 161968299,
+        "caption": "Player Death",
+        "description": "Avianca was slain by a feral varkha.",
+        "type": "DEA",
+        "date": "2025-03-07 14:48:14"
+    },
+    {
+        "id": 161968300,
+        "caption": "Player Death",
+        "description": "Avianca was slain by a feral varkha.",
+        "type": "DEA",
+        "date": "2025-03-07 14:49:15"
+    },
+    {
+        "id": 161968341,
+        "caption": "Player Death",
+        "description": "Avianca was slain by a feral varkha.",
+        "type": "DEA",
+        "date": "2025-03-07 14:53:14"
     }
 ]
