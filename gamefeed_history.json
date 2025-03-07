@@ -1937,5 +1937,124 @@
         "description": "Faerum was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-07 21:49:13"
+    },
+    {
+        "id": 161970784,
+        "caption": "Player Death",
+        "description": "Milabar was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 21:49:19"
+    },
+    {
+        "id": 161970785,
+        "caption": "Player Death",
+        "description": "Yilui was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 21:49:25"
+    },
+    {
+        "id": 161970787,
+        "caption": "Player Death",
+        "description": "Bartholomeus was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-07 21:49:40"
+    },
+    {
+        "id": 161970789,
+        "caption": "Player Death",
+        "description": "Elmer was slain by Elmer.",
+        "type": "DEA",
+        "date": "2025-03-07 21:49:47"
+    },
+    {
+        "id": 161970790,
+        "caption": "Player Death",
+        "description": "Zadkiel was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 21:49:53"
+    },
+    {
+        "id": 161970791,
+        "caption": "Player Death",
+        "description": "Kresslack was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 21:49:58"
+    },
+    {
+        "id": 161970792,
+        "caption": "Player Death",
+        "description": "Killian was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 21:50:04"
+    },
+    {
+        "id": 161970913,
+        "caption": "Player Death",
+        "description": "Milabar was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 21:57:11"
+    },
+    {
+        "id": 161970914,
+        "caption": "Player Death",
+        "description": "Zadkiel was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 21:57:37"
+    },
+    {
+        "id": 161970915,
+        "caption": "Player Death",
+        "description": "Kresslack was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 21:57:46"
+    },
+    {
+        "id": 161970916,
+        "caption": "Player Death",
+        "description": "Elmer was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 21:57:51"
+    },
+    {
+        "id": 161970917,
+        "caption": "Player Death",
+        "description": "Bartholomeus was slain by Bartholomeus.",
+        "type": "DEA",
+        "date": "2025-03-07 21:58:35"
+    },
+    {
+        "id": 161970961,
+        "caption": "Player Death",
+        "description": "Yilui was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 21:59:20"
+    },
+    {
+        "id": 161970962,
+        "caption": "Player Death",
+        "description": "Carmling was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 21:59:45"
+    },
+    {
+        "id": 161970963,
+        "caption": "Player Death",
+        "description": "Killian was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-07 21:59:52"
+    },
+    {
+        "id": 161970964,
+        "caption": "Player Death",
+        "description": "Faerum was slain by the Ur'Vampire Asztrik.",
+        "type": "DEA",
+        "date": "2025-03-07 22:00:03"
+    },
+    {
+        "id": 161970976,
+        "caption": "Player Death",
+        "description": "Minkai was slain by Kasotus.",
+        "type": "DEA",
+        "date": "2025-03-07 22:02:12"
     }
 ]
