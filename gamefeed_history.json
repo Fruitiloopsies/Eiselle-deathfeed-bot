@@ -2441,5 +2441,173 @@
         "description": "Icraa was slain by Darona.",
         "type": "DEA",
         "date": "2025-03-07 22:41:54"
+    },
+    {
+        "id": 161971236,
+        "caption": "Player Death",
+        "description": "Elmer was slain by Nikolais.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:19"
+    },
+    {
+        "id": 161971237,
+        "caption": "Player Death",
+        "description": "Jems was slain by Mornath.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:20"
+    },
+    {
+        "id": 161971238,
+        "caption": "Player Death",
+        "description": "Neugierig was slain by Aegoth.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:20"
+    },
+    {
+        "id": 161971239,
+        "caption": "Player Death",
+        "description": "Baugraf was slain by Aegoth.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:20"
+    },
+    {
+        "id": 161971240,
+        "caption": "Player Death",
+        "description": "Harkon was slain by Elmer.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:20"
+    },
+    {
+        "id": 161971241,
+        "caption": "Player Death",
+        "description": "Mornath was slain by Aegoth.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:20"
+    },
+    {
+        "id": 161971242,
+        "caption": "Player Death",
+        "description": "Icraa was slain by Aegoth.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:20"
+    },
+    {
+        "id": 161971243,
+        "caption": "Player Death",
+        "description": "Miravia was slain by Aegoth.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:20"
+    },
+    {
+        "id": 161971244,
+        "caption": "Player Death",
+        "description": "Darona was slain by Aegoth.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:20"
+    },
+    {
+        "id": 161971245,
+        "caption": "Player Death",
+        "description": "Jems was slain by Baugraf.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:22"
+    },
+    {
+        "id": 161971246,
+        "caption": "Player Death",
+        "description": "Miravia was slain by Mystor.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:31"
+    },
+    {
+        "id": 161971247,
+        "caption": "Player Death",
+        "description": "Darona was slain by Antoninus.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:37"
+    },
+    {
+        "id": 161971248,
+        "caption": "Player Death",
+        "description": "Aegoth was slain by Havi.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:41"
+    },
+    {
+        "id": 161971249,
+        "caption": "Player Death",
+        "description": "Tentura was slain by Mystor.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:42"
+    },
+    {
+        "id": 161971250,
+        "caption": "Player Death",
+        "description": "Aegoth was slain by Veldrin.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:49"
+    },
+    {
+        "id": 161971251,
+        "caption": "Player Death",
+        "description": "Baugraf was slain by Mystor.",
+        "type": "DEA",
+        "date": "2025-03-07 22:51:55"
+    },
+    {
+        "id": 161971252,
+        "caption": "Player Death",
+        "description": "Minkai was slain by Kasotus.",
+        "type": "DEA",
+        "date": "2025-03-07 22:52:05"
+    },
+    {
+        "id": 161971253,
+        "caption": "Player Death",
+        "description": "Mornath was slain by Aegoth.",
+        "type": "DEA",
+        "date": "2025-03-07 22:52:14"
+    },
+    {
+        "id": 161971254,
+        "caption": "Player Death",
+        "description": "Mornath was slain by Aegoth.",
+        "type": "DEA",
+        "date": "2025-03-07 22:52:19"
+    },
+    {
+        "id": 161971255,
+        "caption": "Player Death",
+        "description": "Ficus was slain by Mystor.",
+        "type": "DEA",
+        "date": "2025-03-07 22:52:27"
+    },
+    {
+        "id": 161971257,
+        "caption": "Player Death",
+        "description": "Ficus was slain by Mystor.",
+        "type": "DEA",
+        "date": "2025-03-07 22:52:32"
+    },
+    {
+        "id": 161971258,
+        "caption": "Player Death",
+        "description": "Antoninus was slain by Serahfyna.",
+        "type": "DEA",
+        "date": "2025-03-07 22:52:33"
+    },
+    {
+        "id": 161971260,
+        "caption": "Player Death",
+        "description": "Antoninus was slain by Veldrin.",
+        "type": "DEA",
+        "date": "2025-03-07 22:52:44"
+    },
+    {
+        "id": 161971261,
+        "caption": "Player Death",
+        "description": "Asmodron was slain by Ruckus.",
+        "type": "DEA",
+        "date": "2025-03-07 22:53:48"
     }
 ]
