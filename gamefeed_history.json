@@ -1895,5 +1895,19 @@
         "description": "Airalia was slain by a blighted fruit.",
         "type": "DEA",
         "date": "2025-03-07 21:02:44"
+    },
+    {
+        "id": 161970601,
+        "caption": "Player Death",
+        "description": "Aecius was slain by a man-eating shark.",
+        "type": "DEA",
+        "date": "2025-03-07 21:26:29"
+    },
+    {
+        "id": 161970652,
+        "caption": "Player Death",
+        "description": "Itherael was slain by a flesh-eating slug.",
+        "type": "DEA",
+        "date": "2025-03-07 21:31:42"
     }
 ]
