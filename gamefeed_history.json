@@ -2875,5 +2875,40 @@
         "description": "Eiselle was slain by Freja (Victim had 90% the might).",
         "type": "DEA",
         "date": "2025-03-08 18:11:51"
+    },
+    {
+        "id": 161979488,
+        "caption": "Player Death",
+        "description": "Numinous has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-08 18:38:30"
+    },
+    {
+        "id": 161979514,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-08 18:38:30"
+    },
+    {
+        "id": 161979525,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Jaye, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-03-08 18:39:57"
+    },
+    {
+        "id": 161979563,
+        "caption": "Player Death",
+        "description": "Jemna has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-03-08 18:39:57"
+    },
+    {
+        "id": 161979576,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aidune, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-03-08 18:40:15"
     }
 ]
