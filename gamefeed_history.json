@@ -2791,5 +2791,33 @@
         "description": "A ghostly battlecharger has brought war to Ayisdra, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2025-03-08 02:31:32"
+    },
+    {
+        "id": 161974384,
+        "caption": "Player Death",
+        "description": "Pyawr has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-08 03:07:45"
+    },
+    {
+        "id": 161974411,
+        "caption": "Player Death",
+        "description": "Jemna has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-08 03:07:45"
+    },
+    {
+        "id": 161974448,
+        "caption": "Player Death",
+        "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-03-08 03:08:38"
+    },
+    {
+        "id": 161974503,
+        "caption": "Player Death",
+        "description": "Romaan has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-08 03:08:46"
     }
 ]
