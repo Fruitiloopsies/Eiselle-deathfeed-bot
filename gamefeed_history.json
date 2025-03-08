@@ -2819,5 +2819,12 @@
         "description": "Romaan has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-03-08 03:08:46"
+    },
+    {
+        "id": 161975172,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Shango (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-08 04:30:47"
     }
 ]
