@@ -2826,5 +2826,12 @@
         "description": "Aidune was slain by Shango (Victim had 60% the might).",
         "type": "DEA",
         "date": "2025-03-08 04:30:47"
+    },
+    {
+        "id": 161975210,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-03-08 04:41:24"
     }
 ]
