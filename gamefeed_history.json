@@ -2840,5 +2840,12 @@
         "description": "Veldrin was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-08 05:21:25"
+    },
+    {
+        "id": 161978966,
+        "caption": "Player Death",
+        "description": "Aidune has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-03-08 17:35:27"
     }
 ]
