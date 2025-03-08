@@ -2756,5 +2756,40 @@
         "description": "Ungedull has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-03-08 01:52:57"
+    },
+    {
+        "id": 161973922,
+        "caption": "Player Death",
+        "description": "Jemna has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-03-08 02:09:11"
+    },
+    {
+        "id": 161974054,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Ayisdra has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-03-08 02:26:05"
+    },
+    {
+        "id": 161974124,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Jemna has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-03-08 02:29:05"
+    },
+    {
+        "id": 161974228,
+        "caption": "Player Death",
+        "description": "Pyawr has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-08 02:30:41"
+    },
+    {
+        "id": 161974255,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Ayisdra, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-03-08 02:31:32"
     }
 ]
