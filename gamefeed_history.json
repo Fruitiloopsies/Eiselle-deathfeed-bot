@@ -2728,5 +2728,26 @@
         "description": "Shango was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-07 23:44:51"
+    },
+    {
+        "id": 161972893,
+        "caption": "Player Death",
+        "description": "Malayn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-08 00:44:25"
+    },
+    {
+        "id": 161972927,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-08 00:45:37"
+    },
+    {
+        "id": 161972971,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-08 00:45:43"
     }
 ]
