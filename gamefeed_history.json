@@ -2833,5 +2833,12 @@
         "description": "Ayisdra was slain by Malayn (Victim had 85% the might).",
         "type": "DEA",
         "date": "2025-03-08 04:41:24"
+    },
+    {
+        "id": 161975520,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-08 05:21:25"
     }
 ]
