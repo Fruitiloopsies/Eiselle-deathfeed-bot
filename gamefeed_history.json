@@ -2749,5 +2749,12 @@
         "description": "Ayisdra was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-08 00:45:43"
+    },
+    {
+        "id": 161973801,
+        "caption": "Player Death",
+        "description": "Ungedull has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-03-08 01:52:57"
     }
 ]
