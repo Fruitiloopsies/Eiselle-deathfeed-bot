@@ -3092,5 +3092,40 @@
         "description": "Numinous was slain by Malayn (Victim had 85% the might).",
         "type": "DEA",
         "date": "2025-03-09 16:43:59"
+    },
+    {
+        "id": 161987396,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:55:06"
+    },
+    {
+        "id": 161987460,
+        "caption": "Player Death",
+        "description": "Romaan was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:55:57"
+    },
+    {
+        "id": 161987509,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:56:31"
+    },
+    {
+        "id": 161987548,
+        "caption": "Player Death",
+        "description": "Legac was slain by Malayn (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:56:53"
+    },
+    {
+        "id": 161987557,
+        "caption": "Player Death",
+        "description": "Aerech was slain by Malayn (Victim had 55% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:58:01"
     }
 ]
