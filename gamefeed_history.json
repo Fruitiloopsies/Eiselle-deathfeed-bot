@@ -2959,5 +2959,12 @@
         "description": "A two-headed abhorrence has trampled all over Laina.",
         "type": "DEA",
         "date": "2025-03-09 05:05:24"
+    },
+    {
+        "id": 161983847,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-03-09 05:23:00"
     }
 ]
