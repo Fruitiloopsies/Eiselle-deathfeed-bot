@@ -3043,5 +3043,54 @@
         "description": "Romaan was slain by Malayn (Victim had 80% the might).",
         "type": "DEA",
         "date": "2025-03-09 16:33:38"
+    },
+    {
+        "id": 161987074,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:38:19"
+    },
+    {
+        "id": 161987113,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Numinous (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:39:07"
+    },
+    {
+        "id": 161987139,
+        "caption": "Player Death",
+        "description": "Romaan was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:41:01"
+    },
+    {
+        "id": 161987187,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:42:25"
+    },
+    {
+        "id": 161987226,
+        "caption": "Player Death",
+        "description": "Legac was slain by Malayn (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:42:50"
+    },
+    {
+        "id": 161987230,
+        "caption": "Player Death",
+        "description": "Cheliyi was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:43:09"
+    },
+    {
+        "id": 161987262,
+        "caption": "Player Death",
+        "description": "Numinous was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:43:59"
     }
 ]
