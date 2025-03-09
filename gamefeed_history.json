@@ -3015,5 +3015,33 @@
         "description": "Romaan was slain by Malayn (Victim had 80% the might).",
         "type": "DEA",
         "date": "2025-03-09 16:21:18"
+    },
+    {
+        "id": 161986875,
+        "caption": "Player Death",
+        "description": "Legac was slain by Freja (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:24:20"
+    },
+    {
+        "id": 161986924,
+        "caption": "Player Death",
+        "description": "Romaan was slain by Freja (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:25:47"
+    },
+    {
+        "id": 161986971,
+        "caption": "Player Death",
+        "description": "Numinous was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:26:25"
+    },
+    {
+        "id": 161987017,
+        "caption": "Player Death",
+        "description": "Romaan was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:33:38"
     }
 ]
