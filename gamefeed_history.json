@@ -2973,5 +2973,12 @@
         "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-03-09 05:53:12"
+    },
+    {
+        "id": 161984606,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-03-09 08:51:05"
     }
 ]
