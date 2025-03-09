@@ -3232,5 +3232,12 @@
         "description": "Freja was slain by Romaan (Victim had 120% the might).",
         "type": "DEA",
         "date": "2025-03-09 17:16:52"
+    },
+    {
+        "id": 161989543,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-03-09 21:20:38"
     }
 ]
