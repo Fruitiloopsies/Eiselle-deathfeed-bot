@@ -2994,5 +2994,26 @@
         "description": "Tylwyth was slain by Freja (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-03-09 13:44:42"
+    },
+    {
+        "id": 161986774,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:20:38"
+    },
+    {
+        "id": 161986812,
+        "caption": "Player Death",
+        "description": "Freja was slain by Romaan (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:20:42"
+    },
+    {
+        "id": 161986823,
+        "caption": "Player Death",
+        "description": "Romaan was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 16:21:18"
     }
 ]
