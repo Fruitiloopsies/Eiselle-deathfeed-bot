@@ -2938,5 +2938,12 @@
         "description": "Ayisdra was slain by Freja (Victim had 85% the might).",
         "type": "DEA",
         "date": "2025-03-09 00:56:27"
+    },
+    {
+        "id": 161983094,
+        "caption": "Player Death",
+        "description": "An aslaran defender has skinned Sundur and given the hide to his mate.",
+        "type": "DEA",
+        "date": "2025-03-09 03:52:49"
     }
 ]
