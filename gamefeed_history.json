@@ -2987,5 +2987,12 @@
         "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-03-09 11:55:40"
+    },
+    {
+        "id": 161985744,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by Freja (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 13:44:42"
     }
 ]
