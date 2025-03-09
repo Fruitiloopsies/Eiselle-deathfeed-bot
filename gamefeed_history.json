@@ -2952,5 +2952,12 @@
         "description": "An aslaran defender has skinned Sundur and given the hide to his mate.",
         "type": "DEA",
         "date": "2025-03-09 04:11:59"
+    },
+    {
+        "id": 161983716,
+        "caption": "Player Death",
+        "description": "A two-headed abhorrence has trampled all over Laina.",
+        "type": "DEA",
+        "date": "2025-03-09 05:05:24"
     }
 ]
