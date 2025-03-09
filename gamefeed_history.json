@@ -3246,5 +3246,12 @@
         "description": "Sundur has been slain by the might of a slimy, amphibious adorath.",
         "type": "DEA",
         "date": "2025-03-09 21:31:42"
+    },
+    {
+        "id": 161990085,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Ollie (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-09 22:11:37"
     }
 ]
