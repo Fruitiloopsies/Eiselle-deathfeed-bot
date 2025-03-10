@@ -3330,5 +3330,68 @@
         "description": "Marked for death by a clangoru artificer, Pyawr has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-03-10 02:41:08"
+    },
+    {
+        "id": 161992075,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aidune, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-03-10 03:06:22"
+    },
+    {
+        "id": 161992152,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aidune, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-03-10 03:16:07"
+    },
+    {
+        "id": 161992170,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Jaye, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-03-10 03:16:21"
+    },
+    {
+        "id": 161992209,
+        "caption": "Player Death",
+        "description": "Jemna was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-10 03:16:21"
+    },
+    {
+        "id": 161992239,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-03-10 03:19:44"
+    },
+    {
+        "id": 161992247,
+        "caption": "Player Death",
+        "description": "Aidune has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-03-10 03:20:17"
+    },
+    {
+        "id": 161992265,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Pyawr has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-03-10 03:20:30"
+    },
+    {
+        "id": 161992291,
+        "caption": "Player Death",
+        "description": "Jaye has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-10 03:20:42"
+    },
+    {
+        "id": 161992330,
+        "caption": "Player Death",
+        "description": "Ayisdra has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-10 03:21:02"
     }
 ]
