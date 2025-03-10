@@ -3393,5 +3393,12 @@
         "description": "Ayisdra has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-03-10 03:21:02"
+    },
+    {
+        "id": 161994367,
+        "caption": "Player Death",
+        "description": "Tzshalgoth became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2025-03-10 13:50:41"
     }
 ]
