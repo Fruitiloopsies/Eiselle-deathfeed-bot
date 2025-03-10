@@ -3274,5 +3274,26 @@
         "description": "Romaan was slain by Tzshalgoth (Victim had 175% the might).",
         "type": "DEA",
         "date": "2025-03-09 23:41:04"
+    },
+    {
+        "id": 161990938,
+        "caption": "Player Death",
+        "description": "Audre was slain by Tzshalgoth (Victim had 15% the might).",
+        "type": "DEA",
+        "date": "2025-03-10 00:12:46"
+    },
+    {
+        "id": 161991115,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Tzshalgoth (Victim had 175% the might).",
+        "type": "DEA",
+        "date": "2025-03-10 00:19:48"
+    },
+    {
+        "id": 161991492,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Jaye, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-03-10 01:23:30"
     }
 ]
