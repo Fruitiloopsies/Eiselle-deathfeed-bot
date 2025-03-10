@@ -3407,5 +3407,12 @@
         "description": "Tzshalgoth was slain by Ollie (Victim had 65% the might).",
         "type": "DEA",
         "date": "2025-03-10 15:26:44"
+    },
+    {
+        "id": 161996159,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Ollie (Victim had 65% the might).",
+        "type": "DEA",
+        "date": "2025-03-10 20:04:51"
     }
 ]
