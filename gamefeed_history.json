@@ -3295,5 +3295,19 @@
         "description": "A ghostly battlecharger has brought war to Jaye, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2025-03-10 01:23:30"
+    },
+    {
+        "id": 161991670,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Pyawr has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-03-10 01:45:07"
+    },
+    {
+        "id": 161991742,
+        "caption": "Player Death",
+        "description": "Fayli was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-10 01:58:02"
     }
 ]
