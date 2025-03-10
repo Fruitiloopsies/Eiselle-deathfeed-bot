@@ -3400,5 +3400,12 @@
         "description": "Tzshalgoth became the target of a hulking three-horned bull's violent rage.",
         "type": "DEA",
         "date": "2025-03-10 13:50:41"
+    },
+    {
+        "id": 161994815,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Ollie (Victim had 65% the might).",
+        "type": "DEA",
+        "date": "2025-03-10 15:26:44"
     }
 ]
