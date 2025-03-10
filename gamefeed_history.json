@@ -3309,5 +3309,26 @@
         "description": "Fayli was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-10 01:58:02"
+    },
+    {
+        "id": 161991911,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Farlaris has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-03-10 02:40:54"
+    },
+    {
+        "id": 161991916,
+        "caption": "Player Death",
+        "description": "Aidune has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-03-10 02:40:57"
+    },
+    {
+        "id": 161991933,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Pyawr has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-03-10 02:41:08"
     }
 ]
