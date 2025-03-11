@@ -3477,5 +3477,12 @@
         "description": "Tzshalgoth was slain by Exeryte (Victim had 50% the might).",
         "type": "DEA",
         "date": "2025-03-11 15:49:08"
+    },
+    {
+        "id": 162002031,
+        "caption": "Player Death",
+        "description": "Faragan was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-11 16:15:21"
     }
 ]
