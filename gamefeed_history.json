@@ -3414,5 +3414,33 @@
         "description": "Tzshalgoth was slain by Ollie (Victim had 65% the might).",
         "type": "DEA",
         "date": "2025-03-10 20:04:51"
+    },
+    {
+        "id": 161998512,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Zagreus (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-03-11 01:48:30"
+    },
+    {
+        "id": 161998602,
+        "caption": "Player Death",
+        "description": "Iae was slain by Malayn (Victim had 55% the might).",
+        "type": "DEA",
+        "date": "2025-03-11 01:48:50"
+    },
+    {
+        "id": 161998606,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-11 01:49:24"
+    },
+    {
+        "id": 161998620,
+        "caption": "Player Death",
+        "description": "Suavium was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-03-11 01:50:08"
     }
 ]
