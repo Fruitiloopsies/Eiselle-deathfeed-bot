@@ -3442,5 +3442,12 @@
         "description": "Suavium was slain by Malayn (Victim had 80% the might).",
         "type": "DEA",
         "date": "2025-03-11 01:50:08"
+    },
+    {
+        "id": 162000255,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-03-11 07:13:02"
     }
 ]
