@@ -3491,5 +3491,12 @@
         "description": "Tzshalgoth was slain by Aknarin (Victim had 50% the might).",
         "type": "DEA",
         "date": "2025-03-11 21:33:25"
+    },
+    {
+        "id": 162004373,
+        "caption": "Player Death",
+        "description": "Aknarin was slain by Tzshalgoth (Victim had 185% the might).",
+        "type": "DEA",
+        "date": "2025-03-11 23:01:53"
     }
 ]
