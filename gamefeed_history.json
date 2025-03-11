@@ -3449,5 +3449,12 @@
         "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-03-11 07:13:02"
+    },
+    {
+        "id": 162000293,
+        "caption": "Player Death",
+        "description": "Tylwyth has been slain by the might of a king of justice.",
+        "type": "DEA",
+        "date": "2025-03-11 07:44:37"
     }
 ]
