@@ -3484,5 +3484,12 @@
         "description": "Faragan was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-11 16:15:21"
+    },
+    {
+        "id": 162003749,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Aknarin (Victim had 50% the might).",
+        "type": "DEA",
+        "date": "2025-03-11 21:33:25"
     }
 ]
