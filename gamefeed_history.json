@@ -3456,5 +3456,12 @@
         "description": "Tylwyth has been slain by the might of a king of justice.",
         "type": "DEA",
         "date": "2025-03-11 07:44:37"
+    },
+    {
+        "id": 162000353,
+        "caption": "Player Death",
+        "description": "Tylwyth has been slain by the might of a king of justice.",
+        "type": "DEA",
+        "date": "2025-03-11 07:58:51"
     }
 ]
