@@ -3603,5 +3603,19 @@
         "description": "Fayli has been slain by the might of a ghostly wolf.",
         "type": "DEA",
         "date": "2025-03-12 04:13:08"
+    },
+    {
+        "id": 162006928,
+        "caption": "Player Death",
+        "description": "Fayli was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-12 04:53:10"
+    },
+    {
+        "id": 162006949,
+        "caption": "Player Death",
+        "description": "Fayli was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-12 04:58:30"
     }
 ]
