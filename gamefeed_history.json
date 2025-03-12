@@ -3659,5 +3659,12 @@
         "description": "Tzshalgoth was slain by Numinous (Victim had 55% the might).",
         "type": "DEA",
         "date": "2025-03-12 20:58:18"
+    },
+    {
+        "id": 162011191,
+        "caption": "Player Death",
+        "description": "Farlaris was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-12 21:39:59"
     }
 ]
