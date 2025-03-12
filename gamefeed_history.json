@@ -3673,5 +3673,12 @@
         "description": "Romaan was slain by Tzshalgoth (Victim had 165% the might).",
         "type": "DEA",
         "date": "2025-03-12 22:15:04"
+    },
+    {
+        "id": 162011688,
+        "caption": "Player Death",
+        "description": "Johari was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-12 22:26:11"
     }
 ]
