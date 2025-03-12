@@ -3596,5 +3596,12 @@
         "description": "Laina became the target of a hulking three-horned bull's violent rage.",
         "type": "DEA",
         "date": "2025-03-12 03:51:47"
+    },
+    {
+        "id": 162006744,
+        "caption": "Player Death",
+        "description": "Fayli has been slain by the might of a ghostly wolf.",
+        "type": "DEA",
+        "date": "2025-03-12 04:13:08"
     }
 ]
