@@ -3645,5 +3645,12 @@
         "description": "Tzshalgoth has been slain by the might of a shadowlord widowrider.",
         "type": "DEA",
         "date": "2025-03-12 15:29:27"
+    },
+    {
+        "id": 162009405,
+        "caption": "Player Death",
+        "description": "Jemna wandered into the Iceburn Plains, never to walk out alive.",
+        "type": "DEA",
+        "date": "2025-03-12 16:02:01"
     }
 ]
