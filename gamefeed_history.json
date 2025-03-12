@@ -3652,5 +3652,12 @@
         "description": "Jemna wandered into the Iceburn Plains, never to walk out alive.",
         "type": "DEA",
         "date": "2025-03-12 16:02:01"
+    },
+    {
+        "id": 162010974,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Numinous (Victim had 55% the might).",
+        "type": "DEA",
+        "date": "2025-03-12 20:58:18"
     }
 ]
