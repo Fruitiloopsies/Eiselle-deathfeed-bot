@@ -3638,5 +3638,12 @@
         "description": "Sundur was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-12 08:07:44"
+    },
+    {
+        "id": 162009123,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a shadowlord widowrider.",
+        "type": "DEA",
+        "date": "2025-03-12 15:29:27"
     }
 ]
