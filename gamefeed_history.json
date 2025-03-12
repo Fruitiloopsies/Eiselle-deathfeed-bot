@@ -3589,5 +3589,12 @@
         "description": "A ghostly battlecharger has brought war to Shango, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2025-03-12 02:21:48"
+    },
+    {
+        "id": 162006687,
+        "caption": "Player Death",
+        "description": "Laina became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2025-03-12 03:51:47"
     }
 ]
