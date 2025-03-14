@@ -3813,5 +3813,12 @@
         "description": "Aerech was slain by Tzshalgoth (Victim had 110% the might).",
         "type": "DEA",
         "date": "2025-03-14 18:23:28"
+    },
+    {
+        "id": 162023684,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Eiselle (Victim had 50% the might).",
+        "type": "DEA",
+        "date": "2025-03-14 18:28:32"
     }
 ]
