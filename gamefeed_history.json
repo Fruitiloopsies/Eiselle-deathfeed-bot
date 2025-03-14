@@ -3785,5 +3785,19 @@
         "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-03-14 03:03:55"
+    },
+    {
+        "id": 162022449,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Tzshalgoth (Victim had 175% the might).",
+        "type": "DEA",
+        "date": "2025-03-14 14:08:50"
+    },
+    {
+        "id": 162022499,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Tzshalgoth (Victim had 175% the might).",
+        "type": "DEA",
+        "date": "2025-03-14 14:19:16"
     }
 ]
