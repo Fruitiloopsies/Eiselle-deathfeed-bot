@@ -3729,5 +3729,61 @@
         "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-03-14 02:17:39"
+    },
+    {
+        "id": 162019396,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Freja has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-03-14 02:56:11"
+    },
+    {
+        "id": 162019414,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-03-14 02:58:08"
+    },
+    {
+        "id": 162019421,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-03-14 02:59:02"
+    },
+    {
+        "id": 162019464,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tzshalgoth, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-03-14 02:59:20"
+    },
+    {
+        "id": 162019473,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-14 03:00:12"
+    },
+    {
+        "id": 162019540,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-14 03:03:43"
+    },
+    {
+        "id": 162019566,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tzshalgoth, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-03-14 03:03:49"
+    },
+    {
+        "id": 162019571,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-03-14 03:03:55"
     }
 ]
