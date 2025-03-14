@@ -3715,5 +3715,19 @@
         "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-03-14 01:51:21"
+    },
+    {
+        "id": 162019148,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tzshalgoth, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-03-14 02:08:51"
+    },
+    {
+        "id": 162019177,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-14 02:17:39"
     }
 ]
