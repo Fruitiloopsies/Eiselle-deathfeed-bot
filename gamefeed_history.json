@@ -3708,5 +3708,12 @@
         "description": "Shango was slain by Exeryte (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-03-13 18:47:34"
+    },
+    {
+        "id": 162019119,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-14 01:51:21"
     }
 ]
