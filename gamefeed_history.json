@@ -3834,5 +3834,33 @@
         "description": "Sundur was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-15 01:17:44"
+    },
+    {
+        "id": 162026486,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-03-15 02:58:24"
+    },
+    {
+        "id": 162026491,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-15 02:59:22"
+    },
+    {
+        "id": 162026720,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tzshalgoth, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-03-15 03:10:36"
+    },
+    {
+        "id": 162026725,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-15 03:11:00"
     }
 ]
