@@ -3820,5 +3820,19 @@
         "description": "Tzshalgoth was slain by Eiselle (Victim had 50% the might).",
         "type": "DEA",
         "date": "2025-03-14 18:28:32"
+    },
+    {
+        "id": 162025676,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-03-15 01:13:33"
+    },
+    {
+        "id": 162025727,
+        "caption": "Player Death",
+        "description": "Sundur was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-15 01:17:44"
     }
 ]
