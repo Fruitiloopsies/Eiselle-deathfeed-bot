@@ -4079,5 +4079,12 @@
         "description": "Galaphyrae was slain by Jaye (Victim had 110% the might).",
         "type": "DEA",
         "date": "2025-03-16 00:32:47"
+    },
+    {
+        "id": 162035314,
+        "caption": "Player Death",
+        "description": "Johari has been subsumed by a bloated gorgog.",
+        "type": "DEA",
+        "date": "2025-03-16 17:00:54"
     }
 ]
