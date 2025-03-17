@@ -4093,5 +4093,12 @@
         "description": "Sundur has been slain by the might of a land urchin.",
         "type": "DEA",
         "date": "2025-03-17 04:10:00"
+    },
+    {
+        "id": 162041135,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Exeryte (Victim had 50% the might).",
+        "type": "DEA",
+        "date": "2025-03-17 15:36:57"
     }
 ]
