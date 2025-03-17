@@ -4086,5 +4086,12 @@
         "description": "Johari has been subsumed by a bloated gorgog.",
         "type": "DEA",
         "date": "2025-03-16 17:00:54"
+    },
+    {
+        "id": 162038843,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of a land urchin.",
+        "type": "DEA",
+        "date": "2025-03-17 04:10:00"
     }
 ]
