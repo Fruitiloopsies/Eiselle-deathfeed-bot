@@ -4114,5 +4114,12 @@
         "description": "Fayli has been slain by the might of a monstrous gravedigger.",
         "type": "DEA",
         "date": "2025-03-19 05:35:05"
+    },
+    {
+        "id": 162052435,
+        "caption": "Player Death",
+        "description": "Suavium was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-19 09:07:31"
     }
 ]
