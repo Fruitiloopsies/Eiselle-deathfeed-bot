@@ -4121,5 +4121,12 @@
         "description": "Suavium was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-19 09:07:31"
+    },
+    {
+        "id": 162054414,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Gilda, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-03-19 16:33:01"
     }
 ]
