@@ -4135,5 +4135,19 @@
         "description": "Sundur was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-19 17:51:33"
+    },
+    {
+        "id": 162055460,
+        "caption": "Player Death",
+        "description": "Freja was slain by Numinous (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-03-19 21:36:43"
+    },
+    {
+        "id": 162055474,
+        "caption": "Player Death",
+        "description": "Freja was slain by Numinous (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-03-19 21:37:48"
     }
 ]
