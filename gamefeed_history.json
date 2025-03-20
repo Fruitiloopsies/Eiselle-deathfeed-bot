@@ -4177,5 +4177,12 @@
         "description": "Iae was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-19 23:57:41"
+    },
+    {
+        "id": 162059414,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of Cyaratalegur, Overseer of the Reservoir.",
+        "type": "DEA",
+        "date": "2025-03-20 12:00:28"
     }
 ]
