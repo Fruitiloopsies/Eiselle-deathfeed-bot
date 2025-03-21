@@ -4184,5 +4184,12 @@
         "description": "Sundur has been slain by the might of Cyaratalegur, Overseer of the Reservoir.",
         "type": "DEA",
         "date": "2025-03-20 12:00:28"
+    },
+    {
+        "id": 162064783,
+        "caption": "Player Death",
+        "description": "Sundur has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2025-03-21 07:01:45"
     }
 ]
