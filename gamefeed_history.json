@@ -4247,5 +4247,12 @@
         "description": "Tzshalgoth was slain by Ollie (Victim had 70% the might).",
         "type": "DEA",
         "date": "2025-03-21 22:38:47"
+    },
+    {
+        "id": 162069016,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-21 23:02:06"
     }
 ]
