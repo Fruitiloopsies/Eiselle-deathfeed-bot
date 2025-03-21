@@ -4205,5 +4205,12 @@
         "description": "Sundur has been slain by the might of a slimy, amphibious adorath.",
         "type": "DEA",
         "date": "2025-03-21 08:19:15"
+    },
+    {
+        "id": 162065478,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by Tylwyth (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-03-21 12:25:49"
     }
 ]
