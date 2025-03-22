@@ -4261,5 +4261,12 @@
         "description": "Sundur has been culled and dragged off into the darkness of the Illithoid Prison.",
         "type": "DEA",
         "date": "2025-03-22 00:59:33"
+    },
+    {
+        "id": 162070375,
+        "caption": "Player Death",
+        "description": "Sundur has been ruthlessly scavenged by a mutated, one-legged vulture.",
+        "type": "DEA",
+        "date": "2025-03-22 03:06:29"
     }
 ]
