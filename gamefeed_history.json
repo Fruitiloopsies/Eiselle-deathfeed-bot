@@ -4268,5 +4268,12 @@
         "description": "Sundur has been ruthlessly scavenged by a mutated, one-legged vulture.",
         "type": "DEA",
         "date": "2025-03-22 03:06:29"
+    },
+    {
+        "id": 162072309,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-03-22 10:00:20"
     }
 ]
