@@ -4254,5 +4254,12 @@
         "description": "Veldrin was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-21 23:02:06"
+    },
+    {
+        "id": 162069700,
+        "caption": "Player Death",
+        "description": "Sundur has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2025-03-22 00:59:33"
     }
 ]
