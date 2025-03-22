@@ -4275,5 +4275,33 @@
         "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-03-22 10:00:20"
+    },
+    {
+        "id": 162074497,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-22 16:50:18"
+    },
+    {
+        "id": 162074513,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Zagreus (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-03-22 16:51:20"
+    },
+    {
+        "id": 162074577,
+        "caption": "Player Death",
+        "description": "Zynna was slain by Zagreus (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-03-22 16:52:06"
+    },
+    {
+        "id": 162074585,
+        "caption": "Player Death",
+        "description": "Gilda was slain by Zagreus (Victim had 30% the might).",
+        "type": "DEA",
+        "date": "2025-03-22 16:52:46"
     }
 ]
