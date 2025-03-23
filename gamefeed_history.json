@@ -4422,5 +4422,19 @@
         "description": "Tzshalgoth has been slain by the might of a champion of war.",
         "type": "DEA",
         "date": "2025-03-23 05:08:21"
+    },
+    {
+        "id": 162081346,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of an illithoid ravager.",
+        "type": "DEA",
+        "date": "2025-03-23 10:21:45"
+    },
+    {
+        "id": 162081394,
+        "caption": "Player Death",
+        "description": "Sundur was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-23 10:26:13"
     }
 ]
