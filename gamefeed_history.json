@@ -4436,5 +4436,12 @@
         "description": "Sundur was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-23 10:26:13"
+    },
+    {
+        "id": 162081464,
+        "caption": "Player Death",
+        "description": "Traeliorn has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2025-03-23 11:02:26"
     }
 ]
