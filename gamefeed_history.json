@@ -4415,5 +4415,12 @@
         "description": "Traeliorn has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-03-23 04:35:20"
+    },
+    {
+        "id": 162080426,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a champion of war.",
+        "type": "DEA",
+        "date": "2025-03-23 05:08:21"
     }
 ]
