@@ -4443,5 +4443,12 @@
         "description": "Traeliorn has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2025-03-23 11:02:26"
+    },
+    {
+        "id": 162084441,
+        "caption": "Player Death",
+        "description": "Ebria was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-23 21:17:11"
     }
 ]
