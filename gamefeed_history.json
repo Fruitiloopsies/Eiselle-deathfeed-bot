@@ -4401,5 +4401,19 @@
         "description": "Johari has been slain by the might of a savage dhakoku.",
         "type": "DEA",
         "date": "2025-03-23 00:53:06"
+    },
+    {
+        "id": 162080255,
+        "caption": "Player Death",
+        "description": "Traeliorn has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-03-23 04:29:33"
+    },
+    {
+        "id": 162080326,
+        "caption": "Player Death",
+        "description": "Traeliorn has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-03-23 04:35:20"
     }
 ]
