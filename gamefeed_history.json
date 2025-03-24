@@ -4667,5 +4667,12 @@
         "description": "Fayli has been slain by the might of a mountain rockeater.",
         "type": "DEA",
         "date": "2025-03-24 17:18:42"
+    },
+    {
+        "id": 162089464,
+        "caption": "Player Death",
+        "description": "Fayli was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-24 17:41:52"
     }
 ]
