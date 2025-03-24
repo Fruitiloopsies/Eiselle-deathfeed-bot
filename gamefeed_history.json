@@ -4674,5 +4674,12 @@
         "description": "Fayli was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-24 17:41:52"
+    },
+    {
+        "id": 162089682,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
+        "type": "DEA",
+        "date": "2025-03-24 18:30:48"
     }
 ]
