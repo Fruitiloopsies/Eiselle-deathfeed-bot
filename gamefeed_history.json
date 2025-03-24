@@ -4646,5 +4646,12 @@
         "description": "Sundur has been slain by the might of an illithoid scavenger.",
         "type": "DEA",
         "date": "2025-03-24 08:34:12"
+    },
+    {
+        "id": 162089047,
+        "caption": "Player Death",
+        "description": "Gilda was slain by Tzshalgoth (Victim had 50% the might).",
+        "type": "DEA",
+        "date": "2025-03-24 16:09:53"
     }
 ]
