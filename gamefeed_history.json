@@ -4660,5 +4660,12 @@
         "description": "Shiden has been slain by the might of a green eyelash viper.",
         "type": "DEA",
         "date": "2025-03-24 16:50:31"
+    },
+    {
+        "id": 162089371,
+        "caption": "Player Death",
+        "description": "Fayli has been slain by the might of a mountain rockeater.",
+        "type": "DEA",
+        "date": "2025-03-24 17:18:42"
     }
 ]
