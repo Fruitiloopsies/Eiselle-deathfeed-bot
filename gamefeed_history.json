@@ -4597,5 +4597,47 @@
         "description": "Pyawr was slain by Freja (Victim had 90% the might).",
         "type": "DEA",
         "date": "2025-03-24 01:39:18"
+    },
+    {
+        "id": 162086227,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-03-24 01:45:05"
+    },
+    {
+        "id": 162086287,
+        "caption": "Player Death",
+        "description": "Legac was slain by Malayn (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-03-24 01:45:33"
+    },
+    {
+        "id": 162086297,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by Freja (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-03-24 01:46:12"
+    },
+    {
+        "id": 162086322,
+        "caption": "Player Death",
+        "description": "Jemna was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-24 01:47:06"
+    },
+    {
+        "id": 162086336,
+        "caption": "Player Death",
+        "description": "Iae was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-24 01:47:06"
+    },
+    {
+        "id": 162086341,
+        "caption": "Player Death",
+        "description": "Malayn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-24 01:47:06"
     }
 ]
