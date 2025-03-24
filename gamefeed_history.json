@@ -4639,5 +4639,12 @@
         "description": "Malayn was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-24 01:47:06"
+    },
+    {
+        "id": 162087830,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of an illithoid scavenger.",
+        "type": "DEA",
+        "date": "2025-03-24 08:34:12"
     }
 ]
