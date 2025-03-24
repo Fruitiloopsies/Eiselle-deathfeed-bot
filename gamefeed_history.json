@@ -4653,5 +4653,12 @@
         "description": "Gilda was slain by Tzshalgoth (Victim had 50% the might).",
         "type": "DEA",
         "date": "2025-03-24 16:09:53"
+    },
+    {
+        "id": 162089227,
+        "caption": "Player Death",
+        "description": "Shiden has been slain by the might of a green eyelash viper.",
+        "type": "DEA",
+        "date": "2025-03-24 16:50:31"
     }
 ]
