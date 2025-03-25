@@ -4688,5 +4688,12 @@
         "description": "Sundur has been culled and dragged off into the darkness of the Illithoid Prison.",
         "type": "DEA",
         "date": "2025-03-25 06:21:20"
+    },
+    {
+        "id": 162094066,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-03-25 06:54:21"
     }
 ]
