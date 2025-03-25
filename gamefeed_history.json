@@ -4709,5 +4709,12 @@
         "description": "Zynna has been slain by the might of an illithoid reaver.",
         "type": "DEA",
         "date": "2025-03-25 13:17:46"
+    },
+    {
+        "id": 162096084,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Legac (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-03-25 16:15:51"
     }
 ]
