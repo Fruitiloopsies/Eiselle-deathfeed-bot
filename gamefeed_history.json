@@ -4695,5 +4695,19 @@
         "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-03-25 06:54:21"
+    },
+    {
+        "id": 162095349,
+        "caption": "Player Death",
+        "description": "Zynna has been slain by the might of an illithoid reaver.",
+        "type": "DEA",
+        "date": "2025-03-25 13:17:34"
+    },
+    {
+        "id": 162095357,
+        "caption": "Player Death",
+        "description": "Zynna has been slain by the might of an illithoid reaver.",
+        "type": "DEA",
+        "date": "2025-03-25 13:17:46"
     }
 ]
