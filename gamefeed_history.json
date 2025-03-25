@@ -4681,5 +4681,12 @@
         "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
         "type": "DEA",
         "date": "2025-03-24 18:30:48"
+    },
+    {
+        "id": 162093978,
+        "caption": "Player Death",
+        "description": "Sundur has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2025-03-25 06:21:20"
     }
 ]
