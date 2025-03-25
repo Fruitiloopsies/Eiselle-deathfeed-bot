@@ -4716,5 +4716,12 @@
         "description": "Tzshalgoth was slain by Legac (Victim had 85% the might).",
         "type": "DEA",
         "date": "2025-03-25 16:15:51"
+    },
+    {
+        "id": 162098627,
+        "caption": "Player Death",
+        "description": "Kojin has been inexpertly vivisected by a demented ward assistant.",
+        "type": "DEA",
+        "date": "2025-03-25 23:00:58"
     }
 ]
