@@ -4723,5 +4723,12 @@
         "description": "Kojin has been inexpertly vivisected by a demented ward assistant.",
         "type": "DEA",
         "date": "2025-03-25 23:00:58"
+    },
+    {
+        "id": 162102828,
+        "caption": "Player Death",
+        "description": "Tzshalgoth became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2025-03-26 16:25:29"
     }
 ]
