@@ -4751,5 +4751,12 @@
         "description": "Tzshalgoth has been slain by the might of a kephera prince.",
         "type": "DEA",
         "date": "2025-03-26 23:25:58"
+    },
+    {
+        "id": 162104890,
+        "caption": "Player Death",
+        "description": "Naralis has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-03-26 23:37:44"
     }
 ]
