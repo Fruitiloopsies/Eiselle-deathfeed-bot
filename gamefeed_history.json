@@ -4744,5 +4744,12 @@
         "description": "Zephr was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-26 22:08:12"
+    },
+    {
+        "id": 162104859,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a kephera prince.",
+        "type": "DEA",
+        "date": "2025-03-26 23:25:58"
     }
 ]
