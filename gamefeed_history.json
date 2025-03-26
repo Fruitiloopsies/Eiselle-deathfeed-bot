@@ -4730,5 +4730,12 @@
         "description": "Tzshalgoth became the target of a hulking three-horned bull's violent rage.",
         "type": "DEA",
         "date": "2025-03-26 16:25:29"
+    },
+    {
+        "id": 162103238,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Jemna.",
+        "type": "DEA",
+        "date": "2025-03-26 18:21:51"
     }
 ]
