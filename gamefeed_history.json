@@ -4737,5 +4737,12 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Jemna.",
         "type": "DEA",
         "date": "2025-03-26 18:21:51"
+    },
+    {
+        "id": 162104524,
+        "caption": "Player Death",
+        "description": "Zephr was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-26 22:08:12"
     }
 ]
