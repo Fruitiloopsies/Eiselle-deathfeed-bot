@@ -4884,5 +4884,12 @@
         "description": "Marked for death by a clangoru artificer, Zagreus has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-03-27 02:27:11"
+    },
+    {
+        "id": 162109046,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Exeryte (Victim had 55% the might).",
+        "type": "DEA",
+        "date": "2025-03-27 15:58:12"
     }
 ]
