@@ -4828,5 +4828,61 @@
         "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-03-27 01:54:17"
+    },
+    {
+        "id": 162106201,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-27 02:21:34"
+    },
+    {
+        "id": 162106208,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-27 02:22:35"
+    },
+    {
+        "id": 162106215,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-27 02:23:28"
+    },
+    {
+        "id": 162106265,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Freja, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-03-27 02:25:38"
+    },
+    {
+        "id": 162106276,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-27 02:26:21"
+    },
+    {
+        "id": 162106287,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-03-27 02:26:57"
+    },
+    {
+        "id": 162106292,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-03-27 02:27:10"
+    },
+    {
+        "id": 162106334,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Zagreus has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-03-27 02:27:11"
     }
 ]
