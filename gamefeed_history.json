@@ -5024,5 +5024,12 @@
         "description": "Sundur has been slain by the might of a Grand Illithoid Cenobite.",
         "type": "DEA",
         "date": "2025-03-28 06:54:25"
+    },
+    {
+        "id": 162113819,
+        "caption": "Player Death",
+        "description": "Bilaby has been slain by the might of a monstrous gravedigger.",
+        "type": "DEA",
+        "date": "2025-03-28 08:38:12"
     }
 ]
