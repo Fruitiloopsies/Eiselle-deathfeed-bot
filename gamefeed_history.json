@@ -5073,5 +5073,12 @@
         "description": "Theesiverus has been slain by the might of a fierce and enormous roc.",
         "type": "DEA",
         "date": "2025-03-28 18:37:00"
+    },
+    {
+        "id": 162118298,
+        "caption": "Player Death",
+        "description": "Kojin has been slain by the might of a peep soldier.",
+        "type": "DEA",
+        "date": "2025-03-28 22:31:53"
     }
 ]
