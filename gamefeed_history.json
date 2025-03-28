@@ -5031,5 +5031,12 @@
         "description": "Bilaby has been slain by the might of a monstrous gravedigger.",
         "type": "DEA",
         "date": "2025-03-28 08:38:12"
+    },
+    {
+        "id": 162114937,
+        "caption": "Player Death",
+        "description": "Theesiverus has been slain by the might of a monstrous gravedigger.",
+        "type": "DEA",
+        "date": "2025-03-28 14:21:00"
     }
 ]
