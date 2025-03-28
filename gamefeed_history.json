@@ -5038,5 +5038,33 @@
         "description": "Theesiverus has been slain by the might of a monstrous gravedigger.",
         "type": "DEA",
         "date": "2025-03-28 14:21:00"
+    },
+    {
+        "id": 162115329,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Exeryte (Victim had 55% the might).",
+        "type": "DEA",
+        "date": "2025-03-28 15:16:47"
+    },
+    {
+        "id": 162115363,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Legac (Victim had 160% the might).",
+        "type": "DEA",
+        "date": "2025-03-28 15:26:56"
+    },
+    {
+        "id": 162115388,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Tuilinn (Victim had 65% the might).",
+        "type": "DEA",
+        "date": "2025-03-28 15:27:23"
+    },
+    {
+        "id": 162115400,
+        "caption": "Player Death",
+        "description": "Malayn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-28 15:30:49"
     }
 ]
