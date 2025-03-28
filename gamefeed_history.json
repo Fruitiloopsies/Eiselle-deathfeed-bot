@@ -5066,5 +5066,12 @@
         "description": "Malayn was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-28 15:30:49"
+    },
+    {
+        "id": 162116640,
+        "caption": "Player Death",
+        "description": "Theesiverus has been slain by the might of a fierce and enormous roc.",
+        "type": "DEA",
+        "date": "2025-03-28 18:37:00"
     }
 ]
