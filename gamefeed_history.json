@@ -5101,5 +5101,12 @@
         "description": "Naralis has been pounded into a bloody pulp by a hulking zombie.",
         "type": "DEA",
         "date": "2025-03-29 15:01:39"
+    },
+    {
+        "id": 162125276,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of an illithoid marauder.",
+        "type": "DEA",
+        "date": "2025-03-30 04:10:20"
     }
 ]
