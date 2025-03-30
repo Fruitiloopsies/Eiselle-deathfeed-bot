@@ -5108,5 +5108,12 @@
         "description": "Sundur has been slain by the might of an illithoid marauder.",
         "type": "DEA",
         "date": "2025-03-30 04:10:20"
+    },
+    {
+        "id": 162127999,
+        "caption": "Player Death",
+        "description": "Gilda has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2025-03-30 18:17:24"
     }
 ]
