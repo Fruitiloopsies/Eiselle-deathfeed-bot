@@ -5199,5 +5199,12 @@
         "description": "Malayn was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-31 15:30:41"
+    },
+    {
+        "id": 162135338,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
+        "type": "DEA",
+        "date": "2025-03-31 15:56:41"
     }
 ]
