@@ -5115,5 +5115,12 @@
         "description": "Gilda has become the delicious main course for a ravenous fesix.",
         "type": "DEA",
         "date": "2025-03-30 18:17:24"
+    },
+    {
+        "id": 162131026,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2025-03-31 02:08:43"
     }
 ]
