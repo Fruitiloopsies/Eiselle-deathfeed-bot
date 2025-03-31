@@ -5206,5 +5206,12 @@
         "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
         "type": "DEA",
         "date": "2025-03-31 15:56:41"
+    },
+    {
+        "id": 162137492,
+        "caption": "Player Death",
+        "description": "Traeliorn has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2025-03-31 22:49:17"
     }
 ]
