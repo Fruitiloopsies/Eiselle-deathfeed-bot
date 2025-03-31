@@ -5192,5 +5192,12 @@
         "description": "Tzshalgoth was slain by Exeryte (Victim had 55% the might).",
         "type": "DEA",
         "date": "2025-03-31 15:07:34"
+    },
+    {
+        "id": 162135185,
+        "caption": "Player Death",
+        "description": "Malayn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-31 15:30:41"
     }
 ]
