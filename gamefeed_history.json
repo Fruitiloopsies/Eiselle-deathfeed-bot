@@ -5129,5 +5129,26 @@
         "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-03-31 08:43:28"
+    },
+    {
+        "id": 162133764,
+        "caption": "Player Death",
+        "description": "Azula was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-31 12:50:57"
+    },
+    {
+        "id": 162133864,
+        "caption": "Player Death",
+        "description": "Freja was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-31 13:00:45"
+    },
+    {
+        "id": 162133881,
+        "caption": "Player Death",
+        "description": "Azula was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-31 13:03:50"
     }
 ]
