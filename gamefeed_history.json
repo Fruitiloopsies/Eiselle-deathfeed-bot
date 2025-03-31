@@ -5122,5 +5122,12 @@
         "description": "Sundur has been slain by the might of a two-headed eagle.",
         "type": "DEA",
         "date": "2025-03-31 02:08:43"
+    },
+    {
+        "id": 162133040,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-03-31 08:43:28"
     }
 ]
