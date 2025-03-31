@@ -5150,5 +5150,40 @@
         "description": "Azula was slain by misadventure.",
         "type": "DEA",
         "date": "2025-03-31 13:03:50"
+    },
+    {
+        "id": 162133932,
+        "caption": "Player Death",
+        "description": "Azula was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-31 13:11:02"
+    },
+    {
+        "id": 162133983,
+        "caption": "Player Death",
+        "description": "Azula was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-31 13:12:37"
+    },
+    {
+        "id": 162134094,
+        "caption": "Player Death",
+        "description": "Malayn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-31 13:17:44"
+    },
+    {
+        "id": 162134119,
+        "caption": "Player Death",
+        "description": "Freja was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-31 13:17:44"
+    },
+    {
+        "id": 162134150,
+        "caption": "Player Death",
+        "description": "Malayn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-03-31 13:21:43"
     }
 ]
