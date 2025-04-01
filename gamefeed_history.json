@@ -5283,5 +5283,40 @@
         "description": "Huskii was slain by Exeryte (Victim had 80% the might).",
         "type": "DEA",
         "date": "2025-04-01 15:28:01"
+    },
+    {
+        "id": 162142019,
+        "caption": "Player Death",
+        "description": "Azula was slain by Zagreus (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 15:38:19"
+    },
+    {
+        "id": 162142072,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Azula (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 15:40:14"
+    },
+    {
+        "id": 162142139,
+        "caption": "Player Death",
+        "description": "Legac was slain by Zagreus (Victim had 65% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 15:41:35"
+    },
+    {
+        "id": 162142150,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Azula (Victim had 65% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 15:42:20"
+    },
+    {
+        "id": 162142161,
+        "caption": "Player Death",
+        "description": "Azula was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 15:45:52"
     }
 ]
