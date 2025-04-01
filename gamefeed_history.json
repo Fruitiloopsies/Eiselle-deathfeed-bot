@@ -5227,5 +5227,12 @@
         "description": "Tzshalgoth has been slain by the might of a champion of war.",
         "type": "DEA",
         "date": "2025-04-01 02:50:53"
+    },
+    {
+        "id": 162139463,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-04-01 05:26:25"
     }
 ]
