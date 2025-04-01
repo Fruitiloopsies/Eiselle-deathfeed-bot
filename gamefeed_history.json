@@ -5269,5 +5269,19 @@
         "description": "Bilaby has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-04-01 13:58:12"
+    },
+    {
+        "id": 162141854,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Exeryte (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 15:25:14"
+    },
+    {
+        "id": 162141927,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Exeryte (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 15:28:01"
     }
 ]
