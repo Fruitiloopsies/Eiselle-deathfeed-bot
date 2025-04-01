@@ -5318,5 +5318,40 @@
         "description": "Azula was slain by Malayn (Victim had 80% the might).",
         "type": "DEA",
         "date": "2025-04-01 15:45:52"
+    },
+    {
+        "id": 162142219,
+        "caption": "Player Death",
+        "description": "Azula was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 15:49:08"
+    },
+    {
+        "id": 162142270,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Malayn (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 15:50:35"
+    },
+    {
+        "id": 162142320,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Ollie (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 15:53:29"
+    },
+    {
+        "id": 162142325,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Exeryte (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 15:54:27"
+    },
+    {
+        "id": 162142351,
+        "caption": "Player Death",
+        "description": "Mahalath was slain by Legac (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 15:54:57"
     }
 ]
