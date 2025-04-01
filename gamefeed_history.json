@@ -5213,5 +5213,19 @@
         "description": "Traeliorn has become the delicious main course for a ravenous fesix.",
         "type": "DEA",
         "date": "2025-03-31 22:49:17"
+    },
+    {
+        "id": 162138847,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a champion of war.",
+        "type": "DEA",
+        "date": "2025-04-01 02:50:09"
+    },
+    {
+        "id": 162138854,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a champion of war.",
+        "type": "DEA",
+        "date": "2025-04-01 02:50:53"
     }
 ]
