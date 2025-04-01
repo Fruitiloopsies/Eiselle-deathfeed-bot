@@ -5353,5 +5353,75 @@
         "description": "Mahalath was slain by Legac (Victim had 110% the might).",
         "type": "DEA",
         "date": "2025-04-01 15:54:57"
+    },
+    {
+        "id": 162142376,
+        "caption": "Player Death",
+        "description": "Zagreus was slain by Legac (Victim had 150% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 16:00:17"
+    },
+    {
+        "id": 162142415,
+        "caption": "Player Death",
+        "description": "Mahalath was slain by Exeryte (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 16:01:47"
+    },
+    {
+        "id": 162142420,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Azula (Victim had 65% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 16:03:29"
+    },
+    {
+        "id": 162142427,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Ollie (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 16:04:04"
+    },
+    {
+        "id": 162142447,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Exeryte (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 16:06:36"
+    },
+    {
+        "id": 162142501,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Ollie (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 16:07:20"
+    },
+    {
+        "id": 162142565,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Exeryte (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 16:10:53"
+    },
+    {
+        "id": 162142623,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Exeryte (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 16:15:07"
+    },
+    {
+        "id": 162142678,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Exeryte (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 16:27:42"
+    },
+    {
+        "id": 162142704,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Ollie (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-04-01 16:30:22"
     }
 ]
