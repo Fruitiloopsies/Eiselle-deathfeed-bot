@@ -5234,5 +5234,26 @@
         "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-04-01 05:26:25"
+    },
+    {
+        "id": 162139495,
+        "caption": "Player Death",
+        "description": "Sundur was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-01 05:30:02"
+    },
+    {
+        "id": 162139561,
+        "caption": "Player Death",
+        "description": "Sundur was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-01 05:33:31"
+    },
+    {
+        "id": 162139571,
+        "caption": "Player Death",
+        "description": "Sundur was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-01 05:37:07"
     }
 ]
