@@ -5451,5 +5451,12 @@
         "description": "Sundur was slain by Sundur (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-04-02 06:04:38"
+    },
+    {
+        "id": 162148594,
+        "caption": "Player Death",
+        "description": "Sundur was slain by Sundur (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-04-02 08:44:18"
     }
 ]
