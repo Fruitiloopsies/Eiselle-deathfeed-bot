@@ -5458,5 +5458,12 @@
         "description": "Sundur was slain by Sundur (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-04-02 08:44:18"
+    },
+    {
+        "id": 162151082,
+        "caption": "Player Death",
+        "description": "Huskii has become food for an adolescent Great Worm, their body never to be seen again.",
+        "type": "DEA",
+        "date": "2025-04-02 19:39:41"
     }
 ]
