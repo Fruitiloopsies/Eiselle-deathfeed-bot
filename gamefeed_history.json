@@ -5465,5 +5465,12 @@
         "description": "Huskii has become food for an adolescent Great Worm, their body never to be seen again.",
         "type": "DEA",
         "date": "2025-04-02 19:39:41"
+    },
+    {
+        "id": 162151849,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been mangled and riven to death by the vicious hunger of a colossal ghost octopus.",
+        "type": "DEA",
+        "date": "2025-04-02 21:55:21"
     }
 ]
