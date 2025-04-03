@@ -5521,5 +5521,12 @@
         "description": "Tuilinn has been slain by the might of an alluring siren of beauty.",
         "type": "DEA",
         "date": "2025-04-03 13:11:36"
+    },
+    {
+        "id": 162156602,
+        "caption": "Player Death",
+        "description": "A two-headed abhorrence has trampled all over Naralis.",
+        "type": "DEA",
+        "date": "2025-04-03 18:52:29"
     }
 ]
