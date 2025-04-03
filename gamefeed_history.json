@@ -5493,5 +5493,19 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Gramaun, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-04-03 01:51:05"
+    },
+    {
+        "id": 162153200,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Gramaun, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-04-03 02:10:29"
+    },
+    {
+        "id": 162153334,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-03 02:26:06"
     }
 ]
