@@ -5507,5 +5507,12 @@
         "description": "Tzshalgoth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-03 02:26:06"
+    },
+    {
+        "id": 162153876,
+        "caption": "Player Death",
+        "description": "A two-headed abhorrence has trampled all over Laina.",
+        "type": "DEA",
+        "date": "2025-04-03 04:29:54"
     }
 ]
