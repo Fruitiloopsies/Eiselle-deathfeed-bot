@@ -5528,5 +5528,12 @@
         "description": "A two-headed abhorrence has trampled all over Naralis.",
         "type": "DEA",
         "date": "2025-04-03 18:52:29"
+    },
+    {
+        "id": 162157196,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Exeryte (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-04-03 20:49:33"
     }
 ]
