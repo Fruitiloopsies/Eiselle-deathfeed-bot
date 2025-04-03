@@ -5472,5 +5472,26 @@
         "description": "Tzshalgoth has been mangled and riven to death by the vicious hunger of a colossal ghost octopus.",
         "type": "DEA",
         "date": "2025-04-02 21:55:21"
+    },
+    {
+        "id": 162152501,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Gramaun, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-04-03 00:18:53"
+    },
+    {
+        "id": 162152519,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Gramaun, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-04-03 00:32:32"
+    },
+    {
+        "id": 162153153,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Gramaun, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-04-03 01:51:05"
     }
 ]
