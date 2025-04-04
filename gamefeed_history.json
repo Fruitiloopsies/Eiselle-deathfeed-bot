@@ -5570,5 +5570,33 @@
         "description": "Marked for death by a clangoru artificer, Malayn has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-04-04 01:05:34"
+    },
+    {
+        "id": 162159529,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-04 02:56:00"
+    },
+    {
+        "id": 162159576,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Tzshalgoth has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-04 02:59:48"
+    },
+    {
+        "id": 162159648,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-04 03:05:29"
+    },
+    {
+        "id": 162159666,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-04 03:15:55"
     }
 ]
