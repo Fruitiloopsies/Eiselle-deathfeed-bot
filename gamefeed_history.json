@@ -5696,5 +5696,19 @@
         "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-04-04 03:32:22"
+    },
+    {
+        "id": 162161111,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-04-04 08:17:20"
+    },
+    {
+        "id": 162161112,
+        "caption": "Player Death",
+        "description": "Sundur was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-04 08:21:18"
     }
 ]
