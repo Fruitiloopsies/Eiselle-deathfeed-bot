@@ -5549,5 +5549,26 @@
         "description": "Huskii was slain by Exeryte (Victim had 0% the might).",
         "type": "DEA",
         "date": "2025-04-03 21:00:41"
+    },
+    {
+        "id": 162158368,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Galaphyrae has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-04 00:27:24"
+    },
+    {
+        "id": 162158462,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Malayn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-04 00:42:59"
+    },
+    {
+        "id": 162158861,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Malayn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-04 01:05:34"
     }
 ]
