@@ -5598,5 +5598,103 @@
         "description": "Tzshalgoth has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-04-04 03:15:55"
+    },
+    {
+        "id": 162159686,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-04 03:24:33"
+    },
+    {
+        "id": 162159693,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-04 03:25:50"
+    },
+    {
+        "id": 162159705,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-04 03:25:57"
+    },
+    {
+        "id": 162159748,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Malayn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-04 03:27:18"
+    },
+    {
+        "id": 162159774,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-04 03:27:45"
+    },
+    {
+        "id": 162159816,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Huskii has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-04 03:27:56"
+    },
+    {
+        "id": 162159835,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-04 03:28:39"
+    },
+    {
+        "id": 162159861,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-04 03:28:55"
+    },
+    {
+        "id": 162159869,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tzshalgoth has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-04 03:29:33"
+    },
+    {
+        "id": 162159876,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-04 03:30:13"
+    },
+    {
+        "id": 162159918,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-04 03:31:06"
+    },
+    {
+        "id": 162159924,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-04 03:31:38"
+    },
+    {
+        "id": 162159931,
+        "caption": "Player Death",
+        "description": "Huskii has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-04 03:32:20"
+    },
+    {
+        "id": 162159950,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-04 03:32:22"
     }
 ]
