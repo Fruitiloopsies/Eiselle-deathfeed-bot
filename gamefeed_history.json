@@ -5710,5 +5710,12 @@
         "description": "Sundur was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-04 08:21:18"
+    },
+    {
+        "id": 162167543,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by Tylwyth (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-04-05 05:21:04"
     }
 ]
