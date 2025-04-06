@@ -5724,5 +5724,12 @@
         "description": "Mahalath was slain by Exeryte (Victim had 70% the might).",
         "type": "DEA",
         "date": "2025-04-05 13:53:10"
+    },
+    {
+        "id": 162173656,
+        "caption": "Player Death",
+        "description": "Driven to the brink, Mahalath has succumbed to her memories.",
+        "type": "DEA",
+        "date": "2025-04-06 03:52:03"
     }
 ]
