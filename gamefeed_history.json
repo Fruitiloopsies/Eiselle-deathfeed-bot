@@ -5745,5 +5745,12 @@
         "description": "Xufi wandered into the Iceburn Plains, never to walk out alive.",
         "type": "DEA",
         "date": "2025-04-07 06:13:22"
+    },
+    {
+        "id": 162182213,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-07 18:42:44"
     }
 ]
