@@ -5731,5 +5731,19 @@
         "description": "Driven to the brink, Mahalath has succumbed to her memories.",
         "type": "DEA",
         "date": "2025-04-06 03:52:03"
+    },
+    {
+        "id": 162180288,
+        "caption": "Player Death",
+        "description": "Xufi wandered into the Iceburn Plains, never to walk out alive.",
+        "type": "DEA",
+        "date": "2025-04-07 06:12:45"
+    },
+    {
+        "id": 162180295,
+        "caption": "Player Death",
+        "description": "Xufi wandered into the Iceburn Plains, never to walk out alive.",
+        "type": "DEA",
+        "date": "2025-04-07 06:13:22"
     }
 ]
