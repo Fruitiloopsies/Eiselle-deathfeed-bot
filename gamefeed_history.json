@@ -5752,5 +5752,12 @@
         "description": "Tzshalgoth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-07 18:42:44"
+    },
+    {
+        "id": 162183550,
+        "caption": "Player Death",
+        "description": "Jadur has been slain by the might of a slavering sandworm.",
+        "type": "DEA",
+        "date": "2025-04-07 22:36:52"
     }
 ]
