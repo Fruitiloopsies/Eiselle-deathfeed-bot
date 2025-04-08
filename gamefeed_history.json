@@ -5836,5 +5836,19 @@
         "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-04-08 18:25:48"
+    },
+    {
+        "id": 162190014,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-08 21:01:04"
+    },
+    {
+        "id": 162190020,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-08 21:01:04"
     }
 ]
