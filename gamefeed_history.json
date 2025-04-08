@@ -5759,5 +5759,26 @@
         "description": "Jadur has been slain by the might of a slavering sandworm.",
         "type": "DEA",
         "date": "2025-04-07 22:36:52"
+    },
+    {
+        "id": 162187618,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Tzshalgoth (Victim had 155% the might).",
+        "type": "DEA",
+        "date": "2025-04-08 14:03:12"
+    },
+    {
+        "id": 162187698,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Tzshalgoth (Victim had 155% the might).",
+        "type": "DEA",
+        "date": "2025-04-08 14:05:38"
+    },
+    {
+        "id": 162187763,
+        "caption": "Player Death",
+        "description": "Gilda was slain by Tzshalgoth (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-04-08 14:08:12"
     }
 ]
