@@ -5780,5 +5780,12 @@
         "description": "Gilda was slain by Tzshalgoth (Victim had 60% the might).",
         "type": "DEA",
         "date": "2025-04-08 14:08:12"
+    },
+    {
+        "id": 162188847,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Romaan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-08 17:44:16"
     }
 ]
