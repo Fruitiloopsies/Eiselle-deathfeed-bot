@@ -5787,5 +5787,54 @@
         "description": "Marked for death by a clangoru artificer, Romaan has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-04-08 17:44:16"
+    },
+    {
+        "id": 162189049,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-08 18:21:17"
+    },
+    {
+        "id": 162189066,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Faragan has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-08 18:23:38"
+    },
+    {
+        "id": 162189114,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-08 18:23:43"
+    },
+    {
+        "id": 162189167,
+        "caption": "Player Death",
+        "description": "Romaan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-08 18:24:46"
+    },
+    {
+        "id": 162189214,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-04-08 18:25:03"
+    },
+    {
+        "id": 162189236,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-08 18:25:43"
+    },
+    {
+        "id": 162189297,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-08 18:25:48"
     }
 ]
