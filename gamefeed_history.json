@@ -5850,5 +5850,12 @@
         "description": "Tuilinn was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-08 21:01:04"
+    },
+    {
+        "id": 162193883,
+        "caption": "Player Death",
+        "description": "Zynna was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-09 10:24:58"
     }
 ]
