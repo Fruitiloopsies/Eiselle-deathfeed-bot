@@ -5857,5 +5857,12 @@
         "description": "Zynna was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-09 10:24:58"
+    },
+    {
+        "id": 162195290,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Exeryte (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-04-09 16:23:11"
     }
 ]
