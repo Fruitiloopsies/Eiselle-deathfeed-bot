@@ -5871,5 +5871,12 @@
         "description": "Tzshalgoth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-09 16:45:50"
+    },
+    {
+        "id": 162196230,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Tzshalgoth.",
+        "type": "DEA",
+        "date": "2025-04-09 19:17:52"
     }
 ]
