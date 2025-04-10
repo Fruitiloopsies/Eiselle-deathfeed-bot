@@ -6326,5 +6326,19 @@
         "description": "Tzshalgoth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-10 21:39:41"
+    },
+    {
+        "id": 162204365,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-10 23:53:49"
+    },
+    {
+        "id": 162204377,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Galaphyrae has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-10 23:54:05"
     }
 ]
