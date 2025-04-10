@@ -6158,5 +6158,47 @@
         "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-04-10 02:40:43"
+    },
+    {
+        "id": 162198913,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-10 02:41:14"
+    },
+    {
+        "id": 162198942,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-10 02:41:19"
+    },
+    {
+        "id": 162199043,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Mahalath, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-04-10 02:48:32"
+    },
+    {
+        "id": 162199180,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-10 03:00:51"
+    },
+    {
+        "id": 162199202,
+        "caption": "Player Death",
+        "description": "Mahalath has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-10 03:11:01"
+    },
+    {
+        "id": 162199226,
+        "caption": "Player Death",
+        "description": "Mahalath has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-10 03:22:14"
     }
 ]
