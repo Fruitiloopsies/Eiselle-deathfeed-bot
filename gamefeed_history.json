@@ -6319,5 +6319,12 @@
         "description": "Tzshalgoth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-10 20:27:44"
+    },
+    {
+        "id": 162203822,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-10 21:39:41"
     }
 ]
