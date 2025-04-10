@@ -6298,5 +6298,26 @@
         "description": "Jadur wandered into the Iceburn Plains, never to walk out alive.",
         "type": "DEA",
         "date": "2025-04-10 17:50:18"
+    },
+    {
+        "id": 162202859,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Exeryte (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-04-10 20:11:50"
+    },
+    {
+        "id": 162202866,
+        "caption": "Player Death",
+        "description": "Kistan was slain by Exeryte (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2025-04-10 20:12:05"
+    },
+    {
+        "id": 162203115,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-10 20:27:44"
     }
 ]
