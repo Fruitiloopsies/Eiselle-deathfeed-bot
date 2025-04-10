@@ -6270,5 +6270,26 @@
         "description": "Marked for death by a clangoru artificer, Zagreus has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-04-10 04:30:58"
+    },
+    {
+        "id": 162199619,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-10 04:40:45"
+    },
+    {
+        "id": 162199631,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Shango has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-10 04:41:21"
+    },
+    {
+        "id": 162199674,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tzshalgoth, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-04-10 04:41:42"
     }
 ]
