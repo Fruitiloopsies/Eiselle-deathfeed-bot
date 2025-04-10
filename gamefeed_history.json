@@ -6228,5 +6228,47 @@
         "description": "Body dissolving into sludge, Mahalath has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-04-10 04:04:09"
+    },
+    {
+        "id": 162199460,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Mahalath, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-04-10 04:14:09"
+    },
+    {
+        "id": 162199470,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-10 04:14:25"
+    },
+    {
+        "id": 162199477,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tzshalgoth has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-10 04:15:05"
+    },
+    {
+        "id": 162199531,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Tzshalgoth has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-10 04:26:39"
+    },
+    {
+        "id": 162199542,
+        "caption": "Player Death",
+        "description": "Mahalath has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-10 04:27:18"
+    },
+    {
+        "id": 162199557,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Zagreus has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-10 04:30:58"
     }
 ]
