@@ -6291,5 +6291,12 @@
         "description": "A ghostly battlecharger has brought war to Tzshalgoth, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2025-04-10 04:41:42"
+    },
+    {
+        "id": 162202229,
+        "caption": "Player Death",
+        "description": "Jadur wandered into the Iceburn Plains, never to walk out alive.",
+        "type": "DEA",
+        "date": "2025-04-10 17:50:18"
     }
 ]
