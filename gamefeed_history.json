@@ -6452,5 +6452,19 @@
         "description": "Body dissolving into sludge, Shango has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-04-11 03:34:33"
+    },
+    {
+        "id": 162207077,
+        "caption": "Player Death",
+        "description": "Sundur has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2025-04-11 09:04:06"
+    },
+    {
+        "id": 162207088,
+        "caption": "Player Death",
+        "description": "Sundur was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-11 09:08:13"
     }
 ]
