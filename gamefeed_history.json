@@ -6529,5 +6529,12 @@
         "description": "Tzshalgoth was slain by Valtreth (Victim had 25% the might).",
         "type": "DEA",
         "date": "2025-04-11 21:33:13"
+    },
+    {
+        "id": 162211300,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
+        "type": "DEA",
+        "date": "2025-04-11 22:21:02"
     }
 ]
