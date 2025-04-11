@@ -6522,5 +6522,12 @@
         "description": "Tzshalgoth was slain by Inagin (Victim had 65% the might).",
         "type": "DEA",
         "date": "2025-04-11 21:16:51"
+    },
+    {
+        "id": 162210994,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Valtreth (Victim had 25% the might).",
+        "type": "DEA",
+        "date": "2025-04-11 21:33:13"
     }
 ]
