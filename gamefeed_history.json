@@ -6473,5 +6473,12 @@
         "description": "Tzshalgoth was slain by Tuilinn (Victim had 70% the might).",
         "type": "DEA",
         "date": "2025-04-11 15:21:32"
+    },
+    {
+        "id": 162208952,
+        "caption": "Player Death",
+        "description": "Ollie was slain by Tzshalgoth (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-04-11 15:45:55"
     }
 ]
