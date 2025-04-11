@@ -6340,5 +6340,61 @@
         "description": "Marked for death by a clangoru artificer, Galaphyrae has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-04-10 23:54:05"
+    },
+    {
+        "id": 162204454,
+        "caption": "Player Death",
+        "description": "Jadur wandered into the Iceburn Plains, never to walk out alive.",
+        "type": "DEA",
+        "date": "2025-04-10 23:58:22"
+    },
+    {
+        "id": 162204716,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-11 00:48:39"
+    },
+    {
+        "id": 162204775,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-11 00:52:56"
+    },
+    {
+        "id": 162204793,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-11 00:54:14"
+    },
+    {
+        "id": 162204836,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-11 00:54:26"
+    },
+    {
+        "id": 162204843,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-11 00:54:32"
+    },
+    {
+        "id": 162204871,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-11 00:55:09"
+    },
+    {
+        "id": 162204964,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Tzshalgoth has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-11 01:00:24"
     }
 ]
