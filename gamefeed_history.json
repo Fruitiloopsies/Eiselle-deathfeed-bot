@@ -6487,5 +6487,40 @@
         "description": "Jadur wandered into the Iceburn Plains, never to walk out alive.",
         "type": "DEA",
         "date": "2025-04-11 16:06:48"
+    },
+    {
+        "id": 162210639,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by Tzshalgoth (Victim had 125% the might).",
+        "type": "DEA",
+        "date": "2025-04-11 21:06:55"
+    },
+    {
+        "id": 162210694,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by Tzshalgoth (Victim had 125% the might).",
+        "type": "DEA",
+        "date": "2025-04-11 21:09:45"
+    },
+    {
+        "id": 162210719,
+        "caption": "Player Death",
+        "description": "Shango was slain by Inagin (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-04-11 21:10:18"
+    },
+    {
+        "id": 162210840,
+        "caption": "Player Death",
+        "description": "Numinous was slain by Tzshalgoth (Victim had 135% the might).",
+        "type": "DEA",
+        "date": "2025-04-11 21:14:03"
+    },
+    {
+        "id": 162210868,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Inagin (Victim had 65% the might).",
+        "type": "DEA",
+        "date": "2025-04-11 21:16:51"
     }
 ]
