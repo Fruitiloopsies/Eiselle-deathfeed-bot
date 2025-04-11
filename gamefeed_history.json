@@ -6466,5 +6466,12 @@
         "description": "Sundur was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-11 09:08:13"
+    },
+    {
+        "id": 162208673,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Tuilinn (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-04-11 15:21:32"
     }
 ]
