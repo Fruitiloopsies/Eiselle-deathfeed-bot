@@ -6795,5 +6795,12 @@
         "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-04-12 04:50:56"
+    },
+    {
+        "id": 162217529,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Ixchilgal (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2025-04-12 21:16:18"
     }
 ]
