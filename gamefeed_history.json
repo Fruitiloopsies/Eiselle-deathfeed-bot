@@ -6802,5 +6802,12 @@
         "description": "Eiselle was slain by Ixchilgal (Victim had 95% the might).",
         "type": "DEA",
         "date": "2025-04-12 21:16:18"
+    },
+    {
+        "id": 162217599,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
+        "type": "DEA",
+        "date": "2025-04-12 21:21:11"
     }
 ]
