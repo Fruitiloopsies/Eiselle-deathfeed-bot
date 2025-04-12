@@ -6578,5 +6578,40 @@
         "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
         "type": "DEA",
         "date": "2025-04-12 02:21:04"
+    },
+    {
+        "id": 162212975,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-12 02:48:33"
+    },
+    {
+        "id": 162213034,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-12 03:10:12"
+    },
+    {
+        "id": 162213051,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-12 03:14:40"
+    },
+    {
+        "id": 162213058,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-12 03:15:22"
+    },
+    {
+        "id": 162213114,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
+        "type": "DEA",
+        "date": "2025-04-12 03:21:04"
     }
 ]
