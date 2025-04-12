@@ -6627,5 +6627,61 @@
         "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-04-12 03:45:04"
+    },
+    {
+        "id": 162213299,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-12 03:51:02"
+    },
+    {
+        "id": 162213306,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-12 03:51:30"
+    },
+    {
+        "id": 162213350,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-12 03:53:28"
+    },
+    {
+        "id": 162213363,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Malayn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-12 03:54:25"
+    },
+    {
+        "id": 162213391,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-12 03:55:17"
+    },
+    {
+        "id": 162213403,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-12 03:56:24"
+    },
+    {
+        "id": 162213452,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-12 03:56:40"
+    },
+    {
+        "id": 162213464,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-12 03:56:52"
     }
 ]
