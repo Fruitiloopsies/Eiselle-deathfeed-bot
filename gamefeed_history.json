@@ -6767,5 +6767,33 @@
         "description": "Body dissolving into sludge, Tzshalgoth has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-04-12 04:44:13"
+    },
+    {
+        "id": 162213905,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-12 04:46:29"
+    },
+    {
+        "id": 162213936,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-12 04:49:36"
+    },
+    {
+        "id": 162213985,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Zagreus has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-12 04:50:55"
+    },
+    {
+        "id": 162214009,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-12 04:50:56"
     }
 ]
