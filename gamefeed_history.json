@@ -6732,5 +6732,40 @@
         "description": "A ghostly battlecharger has brought war to Tzshalgoth, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2025-04-12 04:24:40"
+    },
+    {
+        "id": 162213727,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Shango, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-04-12 04:30:35"
+    },
+    {
+        "id": 162213777,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-12 04:32:52"
+    },
+    {
+        "id": 162213795,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-12 04:33:26"
+    },
+    {
+        "id": 162213807,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-12 04:34:43"
+    },
+    {
+        "id": 162213897,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tzshalgoth has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-12 04:44:13"
     }
 ]
