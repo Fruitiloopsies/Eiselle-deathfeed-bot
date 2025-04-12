@@ -6809,5 +6809,12 @@
         "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
         "type": "DEA",
         "date": "2025-04-12 21:21:11"
+    },
+    {
+        "id": 162217718,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Valtreth (Victim had 45% the might).",
+        "type": "DEA",
+        "date": "2025-04-12 21:35:20"
     }
 ]
