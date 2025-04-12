@@ -6683,5 +6683,54 @@
         "description": "Tzshalgoth has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-04-12 03:56:52"
+    },
+    {
+        "id": 162213493,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-12 03:57:28"
+    },
+    {
+        "id": 162213505,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Shango has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-12 03:58:10"
+    },
+    {
+        "id": 162213548,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-12 03:58:11"
+    },
+    {
+        "id": 162213576,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Freja has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-12 03:58:25"
+    },
+    {
+        "id": 162213589,
+        "caption": "Player Death",
+        "description": "Zagreus has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-12 03:58:54"
+    },
+    {
+        "id": 162213669,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
+        "type": "DEA",
+        "date": "2025-04-12 04:21:04"
+    },
+    {
+        "id": 162213678,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tzshalgoth, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-04-12 04:24:40"
     }
 ]
