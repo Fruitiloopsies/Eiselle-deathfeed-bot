@@ -6823,5 +6823,26 @@
         "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
         "type": "DEA",
         "date": "2025-04-12 22:21:11"
+    },
+    {
+        "id": 162220714,
+        "caption": "Player Death",
+        "description": "Legac was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-13 02:44:19"
+    },
+    {
+        "id": 162220785,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-13 02:48:42"
+    },
+    {
+        "id": 162220855,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-13 02:54:16"
     }
 ]
