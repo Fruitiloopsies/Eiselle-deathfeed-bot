@@ -6844,5 +6844,12 @@
         "description": "Shango was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-13 02:54:16"
+    },
+    {
+        "id": 162225128,
+        "caption": "Player Death",
+        "description": "Kojin has been slain by the might of a horrific asylum warden.",
+        "type": "DEA",
+        "date": "2025-04-13 18:17:44"
     }
 ]
