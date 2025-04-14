@@ -6893,5 +6893,12 @@
         "description": "Shango was slain by Tuilinn (Victim had 110% the might).",
         "type": "DEA",
         "date": "2025-04-13 20:53:09"
+    },
+    {
+        "id": 162228218,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-14 03:53:36"
     }
 ]
