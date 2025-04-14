@@ -6984,5 +6984,12 @@
         "description": "Romaan was slain by Tzshalgoth (Victim had 135% the might).",
         "type": "DEA",
         "date": "2025-04-14 23:44:50"
+    },
+    {
+        "id": 162233150,
+        "caption": "Player Death",
+        "description": "Romaan was slain by Tzshalgoth (Victim had 135% the might).",
+        "type": "DEA",
+        "date": "2025-04-14 23:58:41"
     }
 ]
