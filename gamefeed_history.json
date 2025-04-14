@@ -6956,5 +6956,12 @@
         "description": "Tzshalgoth was slain by Tuilinn (Victim had 70% the might).",
         "type": "DEA",
         "date": "2025-04-14 18:35:51"
+    },
+    {
+        "id": 162231809,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
+        "type": "DEA",
+        "date": "2025-04-14 19:21:26"
     }
 ]
