@@ -6900,5 +6900,12 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-14 03:53:36"
+    },
+    {
+        "id": 162229838,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Aramantos, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-04-14 12:14:56"
     }
 ]
