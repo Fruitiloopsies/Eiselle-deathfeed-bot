@@ -6907,5 +6907,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Aramantos, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-04-14 12:14:56"
+    },
+    {
+        "id": 162230328,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
+        "type": "DEA",
+        "date": "2025-04-14 14:21:25"
     }
 ]
