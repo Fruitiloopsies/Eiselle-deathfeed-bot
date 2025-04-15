@@ -7068,5 +7068,12 @@
         "description": "Bilaby has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-04-15 10:00:09"
+    },
+    {
+        "id": 162237720,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
+        "type": "DEA",
+        "date": "2025-04-15 15:21:33"
     }
 ]
