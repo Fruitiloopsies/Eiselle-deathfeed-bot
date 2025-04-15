@@ -7026,5 +7026,33 @@
         "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
         "type": "DEA",
         "date": "2025-04-15 04:21:30"
+    },
+    {
+        "id": 162235415,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-04-15 07:20:38"
+    },
+    {
+        "id": 162235440,
+        "caption": "Player Death",
+        "description": "Sundur was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-15 07:24:10"
+    },
+    {
+        "id": 162235444,
+        "caption": "Player Death",
+        "description": "Sundur was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-15 07:27:43"
+    },
+    {
+        "id": 162235453,
+        "caption": "Player Death",
+        "description": "Sundur was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-15 07:31:09"
     }
 ]
