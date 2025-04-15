@@ -7082,5 +7082,12 @@
         "description": "Tzshalgoth was slain by Legac (Victim had 90% the might).",
         "type": "DEA",
         "date": "2025-04-15 15:31:22"
+    },
+    {
+        "id": 162237976,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
+        "type": "DEA",
+        "date": "2025-04-15 16:21:33"
     }
 ]
