@@ -7054,5 +7054,19 @@
         "description": "Sundur was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-15 07:31:09"
+    },
+    {
+        "id": 162235881,
+        "caption": "Player Death",
+        "description": "Pyawr has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-04-15 10:00:07"
+    },
+    {
+        "id": 162235904,
+        "caption": "Player Death",
+        "description": "Bilaby has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-04-15 10:00:09"
     }
 ]
