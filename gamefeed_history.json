@@ -7096,5 +7096,19 @@
         "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
         "type": "DEA",
         "date": "2025-04-15 17:21:34"
+    },
+    {
+        "id": 162238472,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Ollie (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-04-15 18:02:49"
+    },
+    {
+        "id": 162238529,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Ollie (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-04-15 18:11:03"
     }
 ]
