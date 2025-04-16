@@ -7208,5 +7208,12 @@
         "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
         "type": "DEA",
         "date": "2025-04-16 02:21:37"
+    },
+    {
+        "id": 162244114,
+        "caption": "Player Death",
+        "description": "Hiddo has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-04-16 14:35:55"
     }
 ]
