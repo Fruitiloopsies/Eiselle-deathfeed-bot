@@ -7215,5 +7215,19 @@
         "description": "Hiddo has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-04-16 14:35:55"
+    },
+    {
+        "id": 162244898,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Legac (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-04-16 16:50:00"
+    },
+    {
+        "id": 162244923,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by Legac (Victim had 135% the might).",
+        "type": "DEA",
+        "date": "2025-04-16 16:53:13"
     }
 ]
