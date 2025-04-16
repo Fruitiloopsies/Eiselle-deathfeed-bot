@@ -7327,5 +7327,12 @@
         "description": "Veldrin was slain by Exeryte (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-04-16 17:32:32"
+    },
+    {
+        "id": 162246303,
+        "caption": "Player Death",
+        "description": "Tuilinn has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-04-16 19:04:00"
     }
 ]
