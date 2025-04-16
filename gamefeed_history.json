@@ -7229,5 +7229,89 @@
         "description": "Veldrin was slain by Legac (Victim had 135% the might).",
         "type": "DEA",
         "date": "2025-04-16 16:53:13"
+    },
+    {
+        "id": 162244980,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Tuilinn (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-04-16 16:59:31"
+    },
+    {
+        "id": 162244994,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by Exeryte (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-04-16 17:03:42"
+    },
+    {
+        "id": 162245031,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Inagin (Victim had 65% the might).",
+        "type": "DEA",
+        "date": "2025-04-16 17:04:17"
+    },
+    {
+        "id": 162245045,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by Exeryte (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-04-16 17:06:59"
+    },
+    {
+        "id": 162245082,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Exeryte (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-04-16 17:07:44"
+    },
+    {
+        "id": 162245097,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Inagin (Victim had 65% the might).",
+        "type": "DEA",
+        "date": "2025-04-16 17:11:14"
+    },
+    {
+        "id": 162245110,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by Exeryte (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-04-16 17:11:37"
+    },
+    {
+        "id": 162245166,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by Inagin (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-04-16 17:14:29"
+    },
+    {
+        "id": 162245223,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by Romaan (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-04-16 17:16:27"
+    },
+    {
+        "id": 162245259,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Romaan (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-04-16 17:17:04"
+    },
+    {
+        "id": 162245272,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by Exeryte (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-04-16 17:19:30"
+    },
+    {
+        "id": 162245322,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Exeryte (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-04-16 17:20:44"
     }
 ]
