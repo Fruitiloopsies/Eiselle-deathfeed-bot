@@ -7334,5 +7334,12 @@
         "description": "Tuilinn has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-04-16 19:04:00"
+    },
+    {
+        "id": 162247498,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
+        "type": "DEA",
+        "date": "2025-04-16 23:21:44"
     }
 ]
