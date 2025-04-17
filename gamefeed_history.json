@@ -7369,5 +7369,12 @@
         "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
         "type": "DEA",
         "date": "2025-04-17 01:21:45"
+    },
+    {
+        "id": 162249997,
+        "caption": "Player Death",
+        "description": "Hiddo has been slain by the might of High Priest Yishughom.",
+        "type": "DEA",
+        "date": "2025-04-17 06:19:08"
     }
 ]
