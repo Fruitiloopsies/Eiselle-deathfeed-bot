@@ -7376,5 +7376,12 @@
         "description": "Hiddo has been slain by the might of High Priest Yishughom.",
         "type": "DEA",
         "date": "2025-04-17 06:19:08"
+    },
+    {
+        "id": 162250890,
+        "caption": "Player Death",
+        "description": "Sundur was slain by Sundur (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-04-17 10:13:12"
     }
 ]
