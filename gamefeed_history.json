@@ -7383,5 +7383,12 @@
         "description": "Sundur was slain by Sundur (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-04-17 10:13:12"
+    },
+    {
+        "id": 162254803,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Freja (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-04-18 00:37:20"
     }
 ]
