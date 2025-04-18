@@ -7411,5 +7411,12 @@
         "description": "Abis was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-18 15:58:34"
+    },
+    {
+        "id": 162260994,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Galaphyrae (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2025-04-18 21:17:45"
     }
 ]
