@@ -7425,5 +7425,12 @@
         "description": "Legac was slain by Malayn (Victim had 65% the might).",
         "type": "DEA",
         "date": "2025-04-18 21:28:17"
+    },
+    {
+        "id": 162262196,
+        "caption": "Player Death",
+        "description": "Hiddo's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2025-04-18 23:49:57"
     }
 ]
