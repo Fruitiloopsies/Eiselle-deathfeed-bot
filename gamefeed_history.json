@@ -7418,5 +7418,12 @@
         "description": "Faragan was slain by Galaphyrae (Victim had 95% the might).",
         "type": "DEA",
         "date": "2025-04-18 21:17:45"
+    },
+    {
+        "id": 162261209,
+        "caption": "Player Death",
+        "description": "Legac was slain by Malayn (Victim had 65% the might).",
+        "type": "DEA",
+        "date": "2025-04-18 21:28:17"
     }
 ]
