@@ -7404,5 +7404,12 @@
         "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-04-18 09:54:53"
+    },
+    {
+        "id": 162259422,
+        "caption": "Player Death",
+        "description": "Abis was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-18 15:58:34"
     }
 ]
