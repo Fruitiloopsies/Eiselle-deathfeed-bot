@@ -7516,5 +7516,12 @@
         "description": "Tuilinn was slain by Galaphyrae (Victim had 80% the might).",
         "type": "DEA",
         "date": "2025-04-19 16:12:43"
+    },
+    {
+        "id": 162266950,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-19 16:32:10"
     }
 ]
