@@ -7523,5 +7523,12 @@
         "description": "Veldrin was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-19 16:32:10"
+    },
+    {
+        "id": 162267077,
+        "caption": "Player Death",
+        "description": "Tayah has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-04-19 17:16:21"
     }
 ]
