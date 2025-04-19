@@ -7467,5 +7467,12 @@
         "description": "Arix has been slain by the might of a two-headed eagle.",
         "type": "DEA",
         "date": "2025-04-19 02:13:47"
+    },
+    {
+        "id": 162263222,
+        "caption": "Player Death",
+        "description": "Pyawr has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-04-19 03:15:47"
     }
 ]
