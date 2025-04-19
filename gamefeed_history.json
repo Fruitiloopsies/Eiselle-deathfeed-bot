@@ -7481,5 +7481,12 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Laina.",
         "type": "DEA",
         "date": "2025-04-19 03:36:42"
+    },
+    {
+        "id": 162264105,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of an illithoid ravager.",
+        "type": "DEA",
+        "date": "2025-04-19 05:08:07"
     }
 ]
