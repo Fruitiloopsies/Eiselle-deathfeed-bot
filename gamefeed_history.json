@@ -7432,5 +7432,26 @@
         "description": "Hiddo's body has been pinched in half by the claws of a monstrous lobstrosity.",
         "type": "DEA",
         "date": "2025-04-18 23:49:57"
+    },
+    {
+        "id": 162262277,
+        "caption": "Player Death",
+        "description": "Romaan has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2025-04-19 00:12:42"
+    },
+    {
+        "id": 162262957,
+        "caption": "Player Death",
+        "description": "Gilda was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-19 01:46:38"
+    },
+    {
+        "id": 162262977,
+        "caption": "Player Death",
+        "description": "Otem has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2025-04-19 01:53:59"
     }
 ]
