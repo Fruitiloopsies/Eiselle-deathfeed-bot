@@ -7537,5 +7537,26 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Hiddo, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-04-19 20:25:01"
+    },
+    {
+        "id": 162268145,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Numinous, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-04-19 20:56:52"
+    },
+    {
+        "id": 162268170,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Hiddo, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-04-19 20:56:53"
+    },
+    {
+        "id": 162268176,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-04-19 20:56:53"
     }
 ]
