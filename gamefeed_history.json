@@ -7488,5 +7488,33 @@
         "description": "Sundur has been slain by the might of an illithoid ravager.",
         "type": "DEA",
         "date": "2025-04-19 05:08:07"
+    },
+    {
+        "id": 162266687,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-04-19 16:06:57"
+    },
+    {
+        "id": 162266774,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Zagreus (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-04-19 16:11:46"
+    },
+    {
+        "id": 162266835,
+        "caption": "Player Death",
+        "description": "Gilda was slain by Zagreus (Victim had 45% the might).",
+        "type": "DEA",
+        "date": "2025-04-19 16:12:29"
+    },
+    {
+        "id": 162266844,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Galaphyrae (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-04-19 16:12:43"
     }
 ]
