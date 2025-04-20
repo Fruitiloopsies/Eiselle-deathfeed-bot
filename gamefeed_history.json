@@ -7565,5 +7565,12 @@
         "description": "Malayn was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-20 00:47:28"
+    },
+    {
+        "id": 162270536,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
+        "type": "DEA",
+        "date": "2025-04-20 03:28:53"
     }
 ]
