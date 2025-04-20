@@ -7558,5 +7558,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-04-19 20:56:53"
+    },
+    {
+        "id": 162269802,
+        "caption": "Player Death",
+        "description": "Malayn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-20 00:47:28"
     }
 ]
