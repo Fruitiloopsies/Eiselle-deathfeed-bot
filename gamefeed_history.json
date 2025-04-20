@@ -7586,5 +7586,12 @@
         "description": "Hiddo has been slain by the might of a grinning gulper eel.",
         "type": "DEA",
         "date": "2025-04-20 04:43:04"
+    },
+    {
+        "id": 162271289,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
+        "type": "DEA",
+        "date": "2025-04-20 05:28:57"
     }
 ]
