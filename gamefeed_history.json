@@ -7593,5 +7593,12 @@
         "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
         "type": "DEA",
         "date": "2025-04-20 05:28:57"
+    },
+    {
+        "id": 162274242,
+        "caption": "Player Death",
+        "description": "Nilofer was slain by Nilofer (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-04-20 19:33:35"
     }
 ]
