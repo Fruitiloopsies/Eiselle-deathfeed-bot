@@ -7607,5 +7607,12 @@
         "description": "Xiran was slain by Ixchilgal (Victim had 60% the might).",
         "type": "DEA",
         "date": "2025-04-20 20:00:13"
+    },
+    {
+        "id": 162274755,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
+        "type": "DEA",
+        "date": "2025-04-20 21:29:03"
     }
 ]
