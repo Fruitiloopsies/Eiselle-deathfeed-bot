@@ -7621,5 +7621,12 @@
         "description": "Pyawr was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-21 05:53:28"
+    },
+    {
+        "id": 162280341,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
+        "type": "DEA",
+        "date": "2025-04-21 16:29:35"
     }
 ]
