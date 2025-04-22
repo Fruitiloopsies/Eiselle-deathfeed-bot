@@ -7635,5 +7635,12 @@
         "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
         "type": "DEA",
         "date": "2025-04-21 17:29:35"
+    },
+    {
+        "id": 162290187,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Numinous (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-04-22 17:45:06"
     }
 ]
