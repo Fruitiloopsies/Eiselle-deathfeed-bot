@@ -7649,5 +7649,19 @@
         "description": "Csilla has been slain by the might of a sleek grey mrriak.",
         "type": "DEA",
         "date": "2025-04-23 09:26:37"
+    },
+    {
+        "id": 162296587,
+        "caption": "Player Death",
+        "description": "Llyr has been slain by the might of a formless entity.",
+        "type": "DEA",
+        "date": "2025-04-23 13:12:22"
+    },
+    {
+        "id": 162296594,
+        "caption": "Player Death",
+        "description": "Llyr has been slain by the might of a ghostly wolf.",
+        "type": "DEA",
+        "date": "2025-04-23 13:26:54"
     }
 ]
