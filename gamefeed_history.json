@@ -7670,5 +7670,12 @@
         "description": "Llyr has been slain by the might of an aslaran warrior.",
         "type": "DEA",
         "date": "2025-04-23 14:57:00"
+    },
+    {
+        "id": 162297212,
+        "caption": "Player Death",
+        "description": "Llyr has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-04-23 15:44:07"
     }
 ]
