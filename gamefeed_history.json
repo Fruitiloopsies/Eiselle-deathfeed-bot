@@ -7642,5 +7642,12 @@
         "description": "Huskii was slain by Numinous (Victim had 110% the might).",
         "type": "DEA",
         "date": "2025-04-22 17:45:06"
+    },
+    {
+        "id": 162295591,
+        "caption": "Player Death",
+        "description": "Csilla has been slain by the might of a sleek grey mrriak.",
+        "type": "DEA",
+        "date": "2025-04-23 09:26:37"
     }
 ]
