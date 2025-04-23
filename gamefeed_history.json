@@ -7663,5 +7663,12 @@
         "description": "Llyr has been slain by the might of a ghostly wolf.",
         "type": "DEA",
         "date": "2025-04-23 13:26:54"
+    },
+    {
+        "id": 162297103,
+        "caption": "Player Death",
+        "description": "Llyr has been slain by the might of an aslaran warrior.",
+        "type": "DEA",
+        "date": "2025-04-23 14:57:00"
     }
 ]
