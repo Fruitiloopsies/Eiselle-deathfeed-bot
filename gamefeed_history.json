@@ -7677,5 +7677,12 @@
         "description": "Llyr has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-04-23 15:44:07"
+    },
+    {
+        "id": 162298161,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-23 19:36:53"
     }
 ]
