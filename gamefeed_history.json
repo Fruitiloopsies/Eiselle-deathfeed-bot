@@ -7684,5 +7684,61 @@
         "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-04-23 19:36:53"
+    },
+    {
+        "id": 162298211,
+        "caption": "Player Death",
+        "description": "Wrynn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-23 19:37:53"
+    },
+    {
+        "id": 162298260,
+        "caption": "Player Death",
+        "description": "Ferelith has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-23 19:38:01"
+    },
+    {
+        "id": 162298293,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-04-23 19:38:58"
+    },
+    {
+        "id": 162298304,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Faragan has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-23 19:39:23"
+    },
+    {
+        "id": 162298354,
+        "caption": "Player Death",
+        "description": "Ferelith was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-23 19:40:35"
+    },
+    {
+        "id": 162298455,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-04-23 19:44:10"
+    },
+    {
+        "id": 162298480,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-23 19:44:10"
+    },
+    {
+        "id": 162298491,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Ferelith, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-04-23 19:44:25"
     }
 ]
