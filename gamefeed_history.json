@@ -7971,5 +7971,47 @@
         "description": "Laina has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-04-24 02:37:00"
+    },
+    {
+        "id": 162302430,
+        "caption": "Player Death",
+        "description": "Otem has disappeared into a mass of starving, mutated sea snakes.",
+        "type": "DEA",
+        "date": "2025-04-24 03:56:53"
+    },
+    {
+        "id": 162302438,
+        "caption": "Player Death",
+        "description": "Otem has become food for an adolescent Great Worm, his body never to be seen again.",
+        "type": "DEA",
+        "date": "2025-04-24 04:04:57"
+    },
+    {
+        "id": 162302474,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-24 04:11:33"
+    },
+    {
+        "id": 162302513,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Zagreus has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-24 04:12:28"
+    },
+    {
+        "id": 162302539,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-24 04:14:45"
+    },
+    {
+        "id": 162302583,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-24 04:15:12"
     }
 ]
