@@ -7964,5 +7964,12 @@
         "description": "Gilda was slain by Zagreus (Victim had 45% the might).",
         "type": "DEA",
         "date": "2025-04-24 02:12:44"
+    },
+    {
+        "id": 162301643,
+        "caption": "Player Death",
+        "description": "Laina has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-04-24 02:37:00"
     }
 ]
