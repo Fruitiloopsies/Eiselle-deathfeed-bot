@@ -7740,5 +7740,68 @@
         "description": "A ghostly battlecharger has brought war to Ferelith, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2025-04-23 19:44:25"
+    },
+    {
+        "id": 162299956,
+        "caption": "Player Death",
+        "description": "Zynna was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-04-24 00:44:28"
+    },
+    {
+        "id": 162299978,
+        "caption": "Player Death",
+        "description": "Tayah was slain by Zagreus (Victim had 35% the might).",
+        "type": "DEA",
+        "date": "2025-04-24 00:46:17"
+    },
+    {
+        "id": 162299997,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-04-24 00:46:46"
+    },
+    {
+        "id": 162300043,
+        "caption": "Player Death",
+        "description": "Vyell was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-04-24 00:47:38"
+    },
+    {
+        "id": 162300055,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Freja (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-04-24 00:47:53"
+    },
+    {
+        "id": 162300081,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Ixchilgal (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-04-24 00:48:27"
+    },
+    {
+        "id": 162300128,
+        "caption": "Player Death",
+        "description": "Naralis was slain by Freja (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-04-24 00:49:04"
+    },
+    {
+        "id": 162300133,
+        "caption": "Player Death",
+        "description": "Tayah was slain by Malayn (Victim had 35% the might).",
+        "type": "DEA",
+        "date": "2025-04-24 00:49:09"
+    },
+    {
+        "id": 162300146,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-04-24 00:50:46"
     }
 ]
