@@ -8097,5 +8097,12 @@
         "description": "Sundur has been culled and dragged off into the darkness of the Illithoid Prison.",
         "type": "DEA",
         "date": "2025-04-25 02:41:28"
+    },
+    {
+        "id": 162309392,
+        "caption": "Player Death",
+        "description": "Jemna has frozen to death under the piercing gaze of a freezing eyebane.",
+        "type": "DEA",
+        "date": "2025-04-25 04:25:45"
     }
 ]
