@@ -8125,5 +8125,26 @@
         "description": "Llyr's body has been pinched in half by the claws of a monstrous lobstrosity.",
         "type": "DEA",
         "date": "2025-04-25 18:29:47"
+    },
+    {
+        "id": 162314532,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Numinous has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-25 22:23:57"
+    },
+    {
+        "id": 162314558,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Jaye has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-25 22:25:06"
+    },
+    {
+        "id": 162314597,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-25 22:26:04"
     }
 ]
