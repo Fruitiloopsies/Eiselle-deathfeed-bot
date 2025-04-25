@@ -8118,5 +8118,12 @@
         "description": "Jemna has frozen into fatal catatonia, victim to a monstrous ice devil.",
         "type": "DEA",
         "date": "2025-04-25 05:00:01"
+    },
+    {
+        "id": 162313273,
+        "caption": "Player Death",
+        "description": "Llyr's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2025-04-25 18:29:47"
     }
 ]
