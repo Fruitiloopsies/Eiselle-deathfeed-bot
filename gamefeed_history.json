@@ -8104,5 +8104,12 @@
         "description": "Jemna has frozen to death under the piercing gaze of a freezing eyebane.",
         "type": "DEA",
         "date": "2025-04-25 04:25:45"
+    },
+    {
+        "id": 162309475,
+        "caption": "Player Death",
+        "description": "Jemna has frozen into fatal catatonia, victim to a monstrous ice devil.",
+        "type": "DEA",
+        "date": "2025-04-25 04:32:47"
     }
 ]
