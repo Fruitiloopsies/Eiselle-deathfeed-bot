@@ -8034,5 +8034,68 @@
         "description": "Llyr has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-04-24 17:40:56"
+    },
+    {
+        "id": 162308573,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Freja has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-25 02:31:53"
+    },
+    {
+        "id": 162308584,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Malayn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-25 02:32:12"
+    },
+    {
+        "id": 162308612,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-25 02:32:29"
+    },
+    {
+        "id": 162308656,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-25 02:32:41"
+    },
+    {
+        "id": 162308679,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-25 02:34:38"
+    },
+    {
+        "id": 162308690,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-25 02:34:39"
+    },
+    {
+        "id": 162308720,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-25 02:37:11"
+    },
+    {
+        "id": 162308748,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-25 02:37:17"
+    },
+    {
+        "id": 162308809,
+        "caption": "Player Death",
+        "description": "Sundur has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2025-04-25 02:41:28"
     }
 ]
