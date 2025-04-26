@@ -8251,5 +8251,12 @@
         "description": "Otem has been slain by the might of an alluring siren of beauty.",
         "type": "DEA",
         "date": "2025-04-26 12:10:55"
+    },
+    {
+        "id": 162318823,
+        "caption": "Player Death",
+        "description": "Eiselle has been slain by the might of a champion of war.",
+        "type": "DEA",
+        "date": "2025-04-26 14:21:23"
     }
 ]
