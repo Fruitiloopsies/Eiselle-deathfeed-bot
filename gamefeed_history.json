@@ -8237,5 +8237,12 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Laina.",
         "type": "DEA",
         "date": "2025-04-26 05:58:15"
+    },
+    {
+        "id": 162318080,
+        "caption": "Player Death",
+        "description": "Llyr has been slain by the might of the spirit of a loboshigaru hunter.",
+        "type": "DEA",
+        "date": "2025-04-26 11:19:45"
     }
 ]
