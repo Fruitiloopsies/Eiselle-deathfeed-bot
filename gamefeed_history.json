@@ -8230,5 +8230,12 @@
         "description": "Otem has been fatally injected with the venom of a monstrous bluebottle jellyfish.",
         "type": "DEA",
         "date": "2025-04-26 05:24:52"
+    },
+    {
+        "id": 162317462,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Laina.",
+        "type": "DEA",
+        "date": "2025-04-26 05:58:15"
     }
 ]
