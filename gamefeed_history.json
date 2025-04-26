@@ -8244,5 +8244,12 @@
         "description": "Llyr has been slain by the might of the spirit of a loboshigaru hunter.",
         "type": "DEA",
         "date": "2025-04-26 11:19:45"
+    },
+    {
+        "id": 162318289,
+        "caption": "Player Death",
+        "description": "Otem has been slain by the might of an alluring siren of beauty.",
+        "type": "DEA",
+        "date": "2025-04-26 12:10:55"
     }
 ]
