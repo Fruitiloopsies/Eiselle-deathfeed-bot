@@ -8160,5 +8160,68 @@
         "description": "Bilaby has drowned in the putrid waters of the Sea of Despair.",
         "type": "DEA",
         "date": "2025-04-26 02:27:28"
+    },
+    {
+        "id": 162316074,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-04-26 02:46:13"
+    },
+    {
+        "id": 162316245,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-26 02:55:46"
+    },
+    {
+        "id": 162316277,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-26 03:01:12"
+    },
+    {
+        "id": 162316305,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-26 03:02:40"
+    },
+    {
+        "id": 162316319,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-26 03:04:53"
+    },
+    {
+        "id": 162316363,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-26 03:04:54"
+    },
+    {
+        "id": 162316395,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-26 03:06:03"
+    },
+    {
+        "id": 162316423,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Huskii has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-26 03:06:03"
+    },
+    {
+        "id": 162316443,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-26 03:06:22"
     }
 ]
