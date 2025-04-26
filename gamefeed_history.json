@@ -8223,5 +8223,12 @@
         "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-04-26 03:06:22"
+    },
+    {
+        "id": 162317318,
+        "caption": "Player Death",
+        "description": "Otem has been fatally injected with the venom of a monstrous bluebottle jellyfish.",
+        "type": "DEA",
+        "date": "2025-04-26 05:24:52"
     }
 ]
