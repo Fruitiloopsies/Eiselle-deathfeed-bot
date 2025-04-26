@@ -8146,5 +8146,19 @@
         "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-04-25 22:26:04"
+    },
+    {
+        "id": 162315812,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Galaphyrae has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-04-26 02:11:38"
+    },
+    {
+        "id": 162315996,
+        "caption": "Player Death",
+        "description": "Bilaby has drowned in the putrid waters of the Sea of Despair.",
+        "type": "DEA",
+        "date": "2025-04-26 02:27:28"
     }
 ]
