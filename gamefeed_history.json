@@ -8258,5 +8258,26 @@
         "description": "Eiselle has been slain by the might of a champion of war.",
         "type": "DEA",
         "date": "2025-04-26 14:21:23"
+    },
+    {
+        "id": 162321716,
+        "caption": "Player Death",
+        "description": "Romaan was slain by Akyaevin (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-04-27 00:49:17"
+    },
+    {
+        "id": 162321766,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-04-27 00:49:37"
+    },
+    {
+        "id": 162321826,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Freja (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-04-27 00:50:31"
     }
 ]
