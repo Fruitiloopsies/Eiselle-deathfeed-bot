@@ -8300,5 +8300,12 @@
         "description": "Body dissolving into sludge, Shango has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-04-27 03:37:41"
+    },
+    {
+        "id": 162322865,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-27 03:58:08"
     }
 ]
