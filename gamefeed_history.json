@@ -8377,5 +8377,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Gilda, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-04-27 20:19:21"
+    },
+    {
+        "id": 162327730,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Freja (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-04-27 23:40:26"
     }
 ]
