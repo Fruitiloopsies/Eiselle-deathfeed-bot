@@ -8286,5 +8286,19 @@
         "description": "Llywelyn has been defeated by the prowess of an aslaran maiden.",
         "type": "DEA",
         "date": "2025-04-27 02:09:43"
+    },
+    {
+        "id": 162322518,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-04-27 03:26:14"
+    },
+    {
+        "id": 162322655,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Shango has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-04-27 03:37:41"
     }
 ]
