@@ -8279,5 +8279,12 @@
         "description": "Faragan was slain by Freja (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-04-27 00:50:31"
+    },
+    {
+        "id": 162322301,
+        "caption": "Player Death",
+        "description": "Llywelyn has been defeated by the prowess of an aslaran maiden.",
+        "type": "DEA",
+        "date": "2025-04-27 02:09:43"
     }
 ]
