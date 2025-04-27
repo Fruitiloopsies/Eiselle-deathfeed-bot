@@ -8356,5 +8356,26 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Gilda, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-04-27 19:58:55"
+    },
+    {
+        "id": 162326781,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-04-27 20:18:53"
+    },
+    {
+        "id": 162326821,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Llyr, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-04-27 20:18:53"
+    },
+    {
+        "id": 162326828,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Gilda, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-04-27 20:19:21"
     }
 ]
