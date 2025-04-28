@@ -8412,5 +8412,12 @@
         "description": "Llywelyn has been slain by the might of a vicious crystalline lopaqu.",
         "type": "DEA",
         "date": "2025-04-28 00:01:57"
+    },
+    {
+        "id": 162333002,
+        "caption": "Player Death",
+        "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-04-28 17:29:16"
     }
 ]
