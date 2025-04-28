@@ -8405,5 +8405,12 @@
         "description": "Shango was slain by Legac (Victim had 135% the might).",
         "type": "DEA",
         "date": "2025-04-27 23:54:36"
+    },
+    {
+        "id": 162328045,
+        "caption": "Player Death",
+        "description": "Llywelyn has been slain by the might of a vicious crystalline lopaqu.",
+        "type": "DEA",
+        "date": "2025-04-28 00:01:57"
     }
 ]
