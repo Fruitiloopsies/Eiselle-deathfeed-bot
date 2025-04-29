@@ -8433,5 +8433,12 @@
         "description": "Otem was slain by Otem (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-04-29 00:55:18"
+    },
+    {
+        "id": 162335896,
+        "caption": "Player Death",
+        "description": "Ixchilgal has disappeared into the twisting depths of Gaudiguch's alleyways.",
+        "type": "DEA",
+        "date": "2025-04-29 02:35:56"
     }
 ]
