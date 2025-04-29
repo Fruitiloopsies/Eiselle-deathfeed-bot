@@ -8489,5 +8489,12 @@
         "description": "Sundur has been slain by the might of an illithoid marauder.",
         "type": "DEA",
         "date": "2025-04-29 09:48:37"
+    },
+    {
+        "id": 162337655,
+        "caption": "Player Death",
+        "description": "Sundur was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-29 10:19:20"
     }
 ]
