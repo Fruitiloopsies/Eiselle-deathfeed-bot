@@ -8587,5 +8587,12 @@
         "description": "Veldrin was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-29 22:09:32"
+    },
+    {
+        "id": 162340917,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
+        "type": "DEA",
+        "date": "2025-04-29 22:41:01"
     }
 ]
