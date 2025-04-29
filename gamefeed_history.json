@@ -8580,5 +8580,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Gilda, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-04-29 18:03:06"
+    },
+    {
+        "id": 162340811,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-29 22:09:32"
     }
 ]
