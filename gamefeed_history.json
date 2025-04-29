@@ -8426,5 +8426,12 @@
         "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-04-28 18:53:15"
+    },
+    {
+        "id": 162335385,
+        "caption": "Player Death",
+        "description": "Otem was slain by Otem (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-04-29 00:55:18"
     }
 ]
