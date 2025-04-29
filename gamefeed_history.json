@@ -8496,5 +8496,12 @@
         "description": "Sundur was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-29 10:19:20"
+    },
+    {
+        "id": 162338759,
+        "caption": "Player Death",
+        "description": "Llywelyn has just become the next meal for a mutated, undead cave-fisher.",
+        "type": "DEA",
+        "date": "2025-04-29 14:54:24"
     }
 ]
