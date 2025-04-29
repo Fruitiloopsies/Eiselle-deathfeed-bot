@@ -8503,5 +8503,26 @@
         "description": "Llywelyn has just become the next meal for a mutated, undead cave-fisher.",
         "type": "DEA",
         "date": "2025-04-29 14:54:24"
+    },
+    {
+        "id": 162339084,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Klark, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-04-29 16:27:03"
+    },
+    {
+        "id": 162339086,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Llyr, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-04-29 16:27:19"
+    },
+    {
+        "id": 162339098,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Gilda, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-04-29 16:30:34"
     }
 ]
