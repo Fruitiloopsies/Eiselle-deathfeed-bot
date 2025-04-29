@@ -8559,5 +8559,19 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Tuilinn, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-04-29 17:10:19"
+    },
+    {
+        "id": 162339372,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Klark, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-04-29 17:29:20"
+    },
+    {
+        "id": 162339379,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Llyr, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-04-29 17:30:46"
     }
 ]
