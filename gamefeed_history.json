@@ -8482,5 +8482,12 @@
         "description": "Pyawr was slain by Malayn (Victim had 75% the might).",
         "type": "DEA",
         "date": "2025-04-29 03:03:57"
+    },
+    {
+        "id": 162337627,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of an illithoid marauder.",
+        "type": "DEA",
+        "date": "2025-04-29 09:48:37"
     }
 ]
