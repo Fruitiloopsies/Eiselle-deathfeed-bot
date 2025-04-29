@@ -8440,5 +8440,47 @@
         "description": "Ixchilgal has disappeared into the twisting depths of Gaudiguch's alleyways.",
         "type": "DEA",
         "date": "2025-04-29 02:35:56"
+    },
+    {
+        "id": 162336081,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Eiselle (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-04-29 02:53:52"
+    },
+    {
+        "id": 162336142,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by Zagreus (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-04-29 02:57:18"
+    },
+    {
+        "id": 162336173,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Eiselle (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-04-29 02:59:20"
+    },
+    {
+        "id": 162336208,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Ixchilgal (Victim had 115% the might).",
+        "type": "DEA",
+        "date": "2025-04-29 03:02:27"
+    },
+    {
+        "id": 162336237,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Zagreus (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2025-04-29 03:02:41"
+    },
+    {
+        "id": 162336297,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by Malayn (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-04-29 03:03:57"
     }
 ]
