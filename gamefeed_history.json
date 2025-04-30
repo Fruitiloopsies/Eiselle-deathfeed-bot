@@ -8601,5 +8601,12 @@
         "description": "Tzshalgoth has witnessed the sublime radiance of the Dawn, his very essence extinguished in a moment of rapturous awe.",
         "type": "DEA",
         "date": "2025-04-29 23:41:01"
+    },
+    {
+        "id": 162342431,
+        "caption": "Player Death",
+        "description": "Llywelyn has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-04-30 03:40:56"
     }
 ]
