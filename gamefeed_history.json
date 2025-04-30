@@ -8629,5 +8629,12 @@
         "description": "Bilaby was slain by misadventure.",
         "type": "DEA",
         "date": "2025-04-30 16:07:49"
+    },
+    {
+        "id": 162346123,
+        "caption": "Player Death",
+        "description": "Malayn has been slain by the might of a patch of quicksand.",
+        "type": "DEA",
+        "date": "2025-04-30 20:39:40"
     }
 ]
