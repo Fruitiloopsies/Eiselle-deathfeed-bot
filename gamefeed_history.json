@@ -8608,5 +8608,12 @@
         "description": "Llywelyn has been trampled and crushed by a stainless steel goat.",
         "type": "DEA",
         "date": "2025-04-30 03:40:56"
+    },
+    {
+        "id": 162343955,
+        "caption": "Player Death",
+        "description": "Tayah has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2025-04-30 12:36:57"
     }
 ]
