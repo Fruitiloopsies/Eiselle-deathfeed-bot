@@ -8636,5 +8636,12 @@
         "description": "Malayn has been slain by the might of a patch of quicksand.",
         "type": "DEA",
         "date": "2025-04-30 20:39:40"
+    },
+    {
+        "id": 162346462,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Malayn (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-04-30 21:46:18"
     }
 ]
