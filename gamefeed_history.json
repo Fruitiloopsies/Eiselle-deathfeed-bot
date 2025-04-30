@@ -8622,5 +8622,12 @@
         "description": "Tayah has been slain by the might of a Grand Illithoid Cenobite.",
         "type": "DEA",
         "date": "2025-04-30 13:42:46"
+    },
+    {
+        "id": 162344820,
+        "caption": "Player Death",
+        "description": "Bilaby was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-04-30 16:07:49"
     }
 ]
