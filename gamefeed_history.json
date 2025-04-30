@@ -8615,5 +8615,12 @@
         "description": "Tayah has been culled and dragged off into the darkness of the Illithoid Prison.",
         "type": "DEA",
         "date": "2025-04-30 12:36:57"
+    },
+    {
+        "id": 162344143,
+        "caption": "Player Death",
+        "description": "Tayah has been slain by the might of a Grand Illithoid Cenobite.",
+        "type": "DEA",
+        "date": "2025-04-30 13:42:46"
     }
 ]
