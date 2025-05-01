@@ -8643,5 +8643,12 @@
         "description": "Faragan was slain by Malayn (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-04-30 21:46:18"
+    },
+    {
+        "id": 162348836,
+        "caption": "Player Death",
+        "description": "Suavium was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-01 05:04:04"
     }
 ]
