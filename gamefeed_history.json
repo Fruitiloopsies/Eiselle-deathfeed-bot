@@ -8650,5 +8650,12 @@
         "description": "Suavium was slain by misadventure.",
         "type": "DEA",
         "date": "2025-05-01 05:04:04"
+    },
+    {
+        "id": 162354918,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-05-02 01:45:06"
     }
 ]
