@@ -8664,5 +8664,12 @@
         "description": "Laina became the target of a hulking three-horned bull's violent rage.",
         "type": "DEA",
         "date": "2025-05-02 05:41:04"
+    },
+    {
+        "id": 162357905,
+        "caption": "Player Death",
+        "description": "Stelvi was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-02 13:02:13"
     }
 ]
