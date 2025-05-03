@@ -8832,5 +8832,19 @@
         "description": "Kojin has been subsumed by a bloated gorgog.",
         "type": "DEA",
         "date": "2025-05-03 14:13:49"
+    },
+    {
+        "id": 162365937,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Klark, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-03 15:37:37"
+    },
+    {
+        "id": 162365940,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Aknarin, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-03 15:37:37"
     }
 ]
