@@ -8909,5 +8909,12 @@
         "description": "Yuolk has been assassinated on orders from the Castellan of Djarrakh.",
         "type": "DEA",
         "date": "2025-05-03 19:47:28"
+    },
+    {
+        "id": 162367517,
+        "caption": "Player Death",
+        "description": "Ollie has been grappled, crushed, and consumed by Uskashyth, the Great Worm.",
+        "type": "DEA",
+        "date": "2025-05-03 20:58:33"
     }
 ]
