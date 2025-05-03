@@ -8888,5 +8888,19 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Klark, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-05-03 16:40:50"
+    },
+    {
+        "id": 162366453,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Klark, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-03 17:23:44"
+    },
+    {
+        "id": 162366456,
+        "caption": "Player Death",
+        "description": "Aknarin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-03 17:23:47"
     }
 ]
