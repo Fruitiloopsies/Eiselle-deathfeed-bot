@@ -8804,5 +8804,12 @@
         "description": "Pyawr was slain by Malayn (Victim had 75% the might).",
         "type": "DEA",
         "date": "2025-05-03 03:21:18"
+    },
+    {
+        "id": 162363586,
+        "caption": "Player Death",
+        "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-05-03 04:20:58"
     }
 ]
