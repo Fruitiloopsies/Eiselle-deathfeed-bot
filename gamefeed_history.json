@@ -8811,5 +8811,12 @@
         "description": "Sundur has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-05-03 04:20:58"
+    },
+    {
+        "id": 162363723,
+        "caption": "Player Death",
+        "description": "Sundur has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-05-03 05:04:22"
     }
 ]
