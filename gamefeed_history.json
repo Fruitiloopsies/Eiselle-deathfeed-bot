@@ -8846,5 +8846,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Aknarin, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-05-03 15:37:37"
+    },
+    {
+        "id": 162365999,
+        "caption": "Player Death",
+        "description": "Freja's entrails have been torn out by a vicious frost fiend.",
+        "type": "DEA",
+        "date": "2025-05-03 15:49:35"
     }
 ]
