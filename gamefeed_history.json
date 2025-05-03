@@ -8818,5 +8818,12 @@
         "description": "Sundur has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-05-03 05:04:22"
+    },
+    {
+        "id": 162365499,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Klark, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-03 13:47:00"
     }
 ]
