@@ -8867,5 +8867,26 @@
         "description": "Kojin has been slain by the might of an aslaran warrior.",
         "type": "DEA",
         "date": "2025-05-03 16:11:54"
+    },
+    {
+        "id": 162366305,
+        "caption": "Player Death",
+        "description": "Llyr has been slain by the might of a Grand Illithoid Cenobite.",
+        "type": "DEA",
+        "date": "2025-05-03 16:33:19"
+    },
+    {
+        "id": 162366312,
+        "caption": "Player Death",
+        "description": "Llyr has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2025-05-03 16:34:11"
+    },
+    {
+        "id": 162366327,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Klark, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-03 16:40:50"
     }
 ]
