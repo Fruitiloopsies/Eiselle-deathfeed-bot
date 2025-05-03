@@ -8671,5 +8671,12 @@
         "description": "Stelvi was slain by misadventure.",
         "type": "DEA",
         "date": "2025-05-02 13:02:13"
+    },
+    {
+        "id": 162361720,
+        "caption": "Player Death",
+        "description": "Freja has frozen to death under the piercing gaze of a freezing eyebane.",
+        "type": "DEA",
+        "date": "2025-05-03 01:07:21"
     }
 ]
