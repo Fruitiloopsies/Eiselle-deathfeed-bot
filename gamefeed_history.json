@@ -8678,5 +8678,54 @@
         "description": "Freja has frozen to death under the piercing gaze of a freezing eyebane.",
         "type": "DEA",
         "date": "2025-05-03 01:07:21"
+    },
+    {
+        "id": 162361870,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Tzshalgoth, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-03 01:36:31"
+    },
+    {
+        "id": 162361877,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Tzshalgoth, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-03 01:38:47"
+    },
+    {
+        "id": 162362017,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Tzshalgoth, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-03 01:59:42"
+    },
+    {
+        "id": 162362025,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Ayisdra, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-03 02:02:33"
+    },
+    {
+        "id": 162362078,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Romaan, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-03 02:02:55"
+    },
+    {
+        "id": 162362130,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Legac, petrifying them for eternity.",
+        "type": "DEA",
+        "date": "2025-05-03 02:03:17"
+    },
+    {
+        "id": 162362216,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Tzshalgoth, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-03 02:15:51"
     }
 ]
