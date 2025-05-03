@@ -8853,5 +8853,19 @@
         "description": "Freja's entrails have been torn out by a vicious frost fiend.",
         "type": "DEA",
         "date": "2025-05-03 15:49:35"
+    },
+    {
+        "id": 162366169,
+        "caption": "Player Death",
+        "description": "Freja has succumbed to the chill presence of a floating ice skull.",
+        "type": "DEA",
+        "date": "2025-05-03 16:08:42"
+    },
+    {
+        "id": 162366206,
+        "caption": "Player Death",
+        "description": "Kojin has been slain by the might of an aslaran warrior.",
+        "type": "DEA",
+        "date": "2025-05-03 16:11:54"
     }
 ]
