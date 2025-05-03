@@ -8916,5 +8916,12 @@
         "description": "Ollie has been grappled, crushed, and consumed by Uskashyth, the Great Worm.",
         "type": "DEA",
         "date": "2025-05-03 20:58:33"
+    },
+    {
+        "id": 162368274,
+        "caption": "Player Death",
+        "description": "Tuilinn has been slain by the might of an alluring siren of beauty.",
+        "type": "DEA",
+        "date": "2025-05-03 22:23:30"
     }
 ]
