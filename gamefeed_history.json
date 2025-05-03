@@ -8902,5 +8902,12 @@
         "description": "Aknarin was slain by misadventure.",
         "type": "DEA",
         "date": "2025-05-03 17:23:47"
+    },
+    {
+        "id": 162367153,
+        "caption": "Player Death",
+        "description": "Yuolk has been assassinated on orders from the Castellan of Djarrakh.",
+        "type": "DEA",
+        "date": "2025-05-03 19:47:28"
     }
 ]
