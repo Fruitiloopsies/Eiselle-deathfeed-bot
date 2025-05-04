@@ -9035,5 +9035,12 @@
         "description": "Kaevra has been devoured by an ironjaw crocodile.",
         "type": "DEA",
         "date": "2025-05-04 22:35:29"
+    },
+    {
+        "id": 162377114,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Klark, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-04 22:55:33"
     }
 ]
