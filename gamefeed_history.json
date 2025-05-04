@@ -9014,5 +9014,26 @@
         "description": "Kaevra was slain by misadventure.",
         "type": "DEA",
         "date": "2025-05-04 21:57:47"
+    },
+    {
+        "id": 162376821,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Klark, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-04 22:35:06"
+    },
+    {
+        "id": 162376829,
+        "caption": "Player Death",
+        "description": "Appallingly, Llywelyn has been killed by a virulent nine-armed crabstrosity.",
+        "type": "DEA",
+        "date": "2025-05-04 22:35:10"
+    },
+    {
+        "id": 162376834,
+        "caption": "Player Death",
+        "description": "Kaevra has been devoured by an ironjaw crocodile.",
+        "type": "DEA",
+        "date": "2025-05-04 22:35:29"
     }
 ]
