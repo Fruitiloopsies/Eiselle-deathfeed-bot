@@ -8923,5 +8923,40 @@
         "description": "Tuilinn has been slain by the might of an alluring siren of beauty.",
         "type": "DEA",
         "date": "2025-05-03 22:23:30"
+    },
+    {
+        "id": 162374852,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Aidune, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-04 17:21:27"
+    },
+    {
+        "id": 162374872,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Llywelyn, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-04 17:21:29"
+    },
+    {
+        "id": 162374884,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Tuilinn, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-04 17:21:50"
+    },
+    {
+        "id": 162374911,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Gilda, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-04 17:22:11"
+    },
+    {
+        "id": 162374922,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Ixchilgal, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-04 17:22:11"
     }
 ]
