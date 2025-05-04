@@ -8972,5 +8972,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Medillai, petrifying them for eternity.",
         "type": "DEA",
         "date": "2025-05-04 18:16:31"
+    },
+    {
+        "id": 162375594,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Aerech, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-04 18:43:50"
     }
 ]
