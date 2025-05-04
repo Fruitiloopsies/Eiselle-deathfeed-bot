@@ -9007,5 +9007,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Ferelith, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-05-04 20:38:03"
+    },
+    {
+        "id": 162376586,
+        "caption": "Player Death",
+        "description": "Kaevra was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-04 21:57:47"
     }
 ]
