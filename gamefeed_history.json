@@ -9098,5 +9098,12 @@
         "description": "Iae was slain by Eiselle (Victim had 80% the might).",
         "type": "DEA",
         "date": "2025-05-05 01:27:34"
+    },
+    {
+        "id": 162379454,
+        "caption": "Player Death",
+        "description": "Laina has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2025-05-05 03:10:25"
     }
 ]
