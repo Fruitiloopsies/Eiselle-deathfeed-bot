@@ -9112,5 +9112,12 @@
         "description": "Kaevra has been devoured by an ironjaw crocodile.",
         "type": "DEA",
         "date": "2025-05-05 14:09:13"
+    },
+    {
+        "id": 162382256,
+        "caption": "Player Death",
+        "description": "Kaevra has been slain by the might of Lord Necco.",
+        "type": "DEA",
+        "date": "2025-05-05 14:54:23"
     }
 ]
