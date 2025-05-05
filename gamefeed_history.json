@@ -9105,5 +9105,12 @@
         "description": "Laina has been given the kiss of death by an emaciated virgin.",
         "type": "DEA",
         "date": "2025-05-05 03:10:25"
+    },
+    {
+        "id": 162382095,
+        "caption": "Player Death",
+        "description": "Kaevra has been devoured by an ironjaw crocodile.",
+        "type": "DEA",
+        "date": "2025-05-05 14:09:13"
     }
 ]
