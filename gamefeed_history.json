@@ -9042,5 +9042,61 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Klark, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-05-04 22:55:33"
+    },
+    {
+        "id": 162378333,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Tuilinn (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-05-05 01:15:12"
+    },
+    {
+        "id": 162378356,
+        "caption": "Player Death",
+        "description": "Naralis was slain by Ayisdra (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-05-05 01:17:18"
+    },
+    {
+        "id": 162378360,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Aerech (Victim had 145% the might).",
+        "type": "DEA",
+        "date": "2025-05-05 01:18:20"
+    },
+    {
+        "id": 162378378,
+        "caption": "Player Death",
+        "description": "Iae was slain by Aerech (Victim had 125% the might).",
+        "type": "DEA",
+        "date": "2025-05-05 01:20:21"
+    },
+    {
+        "id": 162378390,
+        "caption": "Player Death",
+        "description": "Gilda was slain by Aerech (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-05-05 01:21:25"
+    },
+    {
+        "id": 162378415,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by Eiselle (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-05-05 01:22:24"
+    },
+    {
+        "id": 162378435,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Ayisdra (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-05-05 01:22:50"
+    },
+    {
+        "id": 162378575,
+        "caption": "Player Death",
+        "description": "Iae was slain by Eiselle (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-05-05 01:27:34"
     }
 ]
