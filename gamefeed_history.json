@@ -9147,5 +9147,33 @@
         "description": "Marked for death by a clangoru artificer, Wrynn has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-05-06 17:31:26"
+    },
+    {
+        "id": 162390000,
+        "caption": "Player Death",
+        "description": "Tayah has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-06 17:37:13"
+    },
+    {
+        "id": 162390007,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-06 17:38:01"
+    },
+    {
+        "id": 162390028,
+        "caption": "Player Death",
+        "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-06 17:38:45"
+    },
+    {
+        "id": 162390078,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-06 17:39:25"
     }
 ]
