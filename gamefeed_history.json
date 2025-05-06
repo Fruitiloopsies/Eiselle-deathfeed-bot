@@ -9196,5 +9196,19 @@
         "description": "Rydal has been devoured by an ironjaw crocodile.",
         "type": "DEA",
         "date": "2025-05-06 18:53:14"
+    },
+    {
+        "id": 162391324,
+        "caption": "Player Death",
+        "description": "Aerech has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2025-05-06 20:53:22"
+    },
+    {
+        "id": 162391384,
+        "caption": "Player Death",
+        "description": "Ollie has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2025-05-06 20:58:07"
     }
 ]
