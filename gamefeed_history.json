@@ -9126,5 +9126,19 @@
         "description": "Otem was slain by misadventure.",
         "type": "DEA",
         "date": "2025-05-06 01:43:01"
+    },
+    {
+        "id": 162388743,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-06 14:02:23"
+    },
+    {
+        "id": 162388797,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-06 14:02:46"
     }
 ]
