@@ -9140,5 +9140,12 @@
         "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-05-06 14:02:46"
+    },
+    {
+        "id": 162389951,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Wrynn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-06 17:31:26"
     }
 ]
