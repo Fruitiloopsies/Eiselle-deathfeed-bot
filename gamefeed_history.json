@@ -9175,5 +9175,12 @@
         "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-05-06 17:39:25"
+    },
+    {
+        "id": 162390396,
+        "caption": "Player Death",
+        "description": "Rydal was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-06 18:32:55"
     }
 ]
