@@ -9119,5 +9119,12 @@
         "description": "Kaevra has been slain by the might of Lord Necco.",
         "type": "DEA",
         "date": "2025-05-05 14:54:23"
+    },
+    {
+        "id": 162385891,
+        "caption": "Player Death",
+        "description": "Otem was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-06 01:43:01"
     }
 ]
