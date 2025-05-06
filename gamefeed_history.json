@@ -9182,5 +9182,12 @@
         "description": "Rydal was slain by misadventure.",
         "type": "DEA",
         "date": "2025-05-06 18:32:55"
+    },
+    {
+        "id": 162390404,
+        "caption": "Player Death",
+        "description": "Kaevra has expired from the venomous bite of a slimy ooze viper.",
+        "type": "DEA",
+        "date": "2025-05-06 18:33:43"
     }
 ]
