@@ -9189,5 +9189,12 @@
         "description": "Kaevra has expired from the venomous bite of a slimy ooze viper.",
         "type": "DEA",
         "date": "2025-05-06 18:33:43"
+    },
+    {
+        "id": 162390540,
+        "caption": "Player Death",
+        "description": "Rydal has been devoured by an ironjaw crocodile.",
+        "type": "DEA",
+        "date": "2025-05-06 18:53:14"
     }
 ]
