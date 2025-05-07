@@ -9224,5 +9224,12 @@
         "description": "Alainna has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-05-07 05:21:31"
+    },
+    {
+        "id": 162396089,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-07 06:43:34"
     }
 ]
