@@ -9252,5 +9252,12 @@
         "description": "Ollie was slain by Ollie (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-05-07 14:21:15"
+    },
+    {
+        "id": 162399491,
+        "caption": "Player Death",
+        "description": "Aerech has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-05-07 19:34:58"
     }
 ]
