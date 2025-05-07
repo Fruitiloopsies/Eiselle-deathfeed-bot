@@ -9217,5 +9217,12 @@
         "description": "Tuilinn has become the delicious main course for a ravenous fesix.",
         "type": "DEA",
         "date": "2025-05-06 21:56:33"
+    },
+    {
+        "id": 162395791,
+        "caption": "Player Death",
+        "description": "Alainna has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-05-07 05:21:31"
     }
 ]
