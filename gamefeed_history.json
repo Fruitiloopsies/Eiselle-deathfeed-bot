@@ -9231,5 +9231,12 @@
         "description": "Shango was slain by misadventure.",
         "type": "DEA",
         "date": "2025-05-07 06:43:34"
+    },
+    {
+        "id": 162397388,
+        "caption": "Player Death",
+        "description": "Bilaby wandered into the Iceburn Plains, never to walk out alive.",
+        "type": "DEA",
+        "date": "2025-05-07 13:20:50"
     }
 ]
