@@ -9266,5 +9266,12 @@
         "description": "Hibagon was slain by misadventure.",
         "type": "DEA",
         "date": "2025-05-08 11:46:47"
+    },
+    {
+        "id": 162406009,
+        "caption": "Player Death",
+        "description": "Aerech has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2025-05-08 17:36:49"
     }
 ]
