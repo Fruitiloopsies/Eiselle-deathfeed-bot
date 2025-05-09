@@ -9273,5 +9273,12 @@
         "description": "Aerech has been given the kiss of death by an emaciated virgin.",
         "type": "DEA",
         "date": "2025-05-08 17:36:49"
+    },
+    {
+        "id": 162410867,
+        "caption": "Player Death",
+        "description": "Otem has been slain by the might of a Grand Illithoid Cenobite.",
+        "type": "DEA",
+        "date": "2025-05-09 12:32:04"
     }
 ]
