@@ -9280,5 +9280,12 @@
         "description": "Otem has been slain by the might of a Grand Illithoid Cenobite.",
         "type": "DEA",
         "date": "2025-05-09 12:32:04"
+    },
+    {
+        "id": 162413180,
+        "caption": "Player Death",
+        "description": "Reduced to naught but an ooze, Rydal has been masticated furiously by a giant swamp rat.",
+        "type": "DEA",
+        "date": "2025-05-09 19:14:55"
     }
 ]
