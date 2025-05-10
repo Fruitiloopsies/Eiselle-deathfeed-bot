@@ -9294,5 +9294,12 @@
         "description": "Bilaby has been subsumed by a bloated gorgog.",
         "type": "DEA",
         "date": "2025-05-10 03:29:10"
+    },
+    {
+        "id": 162420644,
+        "caption": "Player Death",
+        "description": "Rydal has been mauled to an early death by a mammoth grasshopper.",
+        "type": "DEA",
+        "date": "2025-05-10 19:15:33"
     }
 ]
