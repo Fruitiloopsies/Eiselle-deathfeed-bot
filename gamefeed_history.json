@@ -9287,5 +9287,12 @@
         "description": "Reduced to naught but an ooze, Rydal has been masticated furiously by a giant swamp rat.",
         "type": "DEA",
         "date": "2025-05-09 19:14:55"
+    },
+    {
+        "id": 162415995,
+        "caption": "Player Death",
+        "description": "Bilaby has been subsumed by a bloated gorgog.",
+        "type": "DEA",
+        "date": "2025-05-10 03:29:10"
     }
 ]
