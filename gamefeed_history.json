@@ -9301,5 +9301,12 @@
         "description": "Rydal has been mauled to an early death by a mammoth grasshopper.",
         "type": "DEA",
         "date": "2025-05-10 19:15:33"
+    },
+    {
+        "id": 162426532,
+        "caption": "Player Death",
+        "description": "Rydal was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-11 15:32:55"
     }
 ]
