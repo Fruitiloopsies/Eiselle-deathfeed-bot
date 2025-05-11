@@ -9308,5 +9308,12 @@
         "description": "Rydal was slain by misadventure.",
         "type": "DEA",
         "date": "2025-05-11 15:32:55"
+    },
+    {
+        "id": 162428830,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-11 23:33:11"
     }
 ]
