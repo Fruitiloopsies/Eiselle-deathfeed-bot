@@ -9406,5 +9406,19 @@
         "description": "Marked for death by a clangoru artificer, Ferelith has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-05-12 18:34:38"
+    },
+    {
+        "id": 162435008,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-12 21:04:11"
+    },
+    {
+        "id": 162435069,
+        "caption": "Player Death",
+        "description": "Ayisdra has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-12 21:05:57"
     }
 ]
