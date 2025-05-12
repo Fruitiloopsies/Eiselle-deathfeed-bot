@@ -9441,5 +9441,19 @@
         "description": "Wrynn has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-05-12 21:56:14"
+    },
+    {
+        "id": 162436427,
+        "caption": "Player Death",
+        "description": "Shango was slain by Legac (Victim had 130% the might).",
+        "type": "DEA",
+        "date": "2025-05-12 23:36:49"
+    },
+    {
+        "id": 162436471,
+        "caption": "Player Death",
+        "description": "Freja was slain by Legac (Victim had 140% the might).",
+        "type": "DEA",
+        "date": "2025-05-12 23:37:22"
     }
 ]
