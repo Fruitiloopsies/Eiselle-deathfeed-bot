@@ -9315,5 +9315,40 @@
         "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-05-11 23:33:11"
+    },
+    {
+        "id": 162428987,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-12 00:05:53"
+    },
+    {
+        "id": 162429057,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-12 00:07:09"
+    },
+    {
+        "id": 162429127,
+        "caption": "Player Death",
+        "description": "Jaye has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-12 00:08:42"
+    },
+    {
+        "id": 162429167,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Wrynn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-05-12 00:08:57"
+    },
+    {
+        "id": 162429197,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-12 00:09:18"
     }
 ]
