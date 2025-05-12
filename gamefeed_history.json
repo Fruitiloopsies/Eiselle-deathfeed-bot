@@ -9420,5 +9420,26 @@
         "description": "Ayisdra has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-05-12 21:05:57"
+    },
+    {
+        "id": 162435599,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-05-12 21:54:54"
+    },
+    {
+        "id": 162435661,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-12 21:56:09"
+    },
+    {
+        "id": 162435749,
+        "caption": "Player Death",
+        "description": "Wrynn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-12 21:56:14"
     }
 ]
