@@ -9350,5 +9350,12 @@
         "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-05-12 00:09:18"
+    },
+    {
+        "id": 162432327,
+        "caption": "Player Death",
+        "description": "Klark has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2025-05-12 13:08:40"
     }
 ]
