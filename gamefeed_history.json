@@ -9357,5 +9357,26 @@
         "description": "Klark has been slain by the might of a two-headed eagle.",
         "type": "DEA",
         "date": "2025-05-12 13:08:40"
+    },
+    {
+        "id": 162433456,
+        "caption": "Player Death",
+        "description": "Basharaii has been slain by the might of an incorporeal dark spirit.",
+        "type": "DEA",
+        "date": "2025-05-12 17:12:13"
+    },
+    {
+        "id": 162433460,
+        "caption": "Player Death",
+        "description": "Basharaii has been slain by the might of an incorporeal dark spirit.",
+        "type": "DEA",
+        "date": "2025-05-12 17:14:47"
+    },
+    {
+        "id": 162433484,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-12 17:23:24"
     }
 ]
