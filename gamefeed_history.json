@@ -9455,5 +9455,12 @@
         "description": "Freja was slain by Legac (Victim had 140% the might).",
         "type": "DEA",
         "date": "2025-05-12 23:37:22"
+    },
+    {
+        "id": 162445906,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-14 12:01:37"
     }
 ]
