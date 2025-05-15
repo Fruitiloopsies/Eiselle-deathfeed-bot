@@ -9490,5 +9490,33 @@
         "description": "Aidune has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-05-15 19:54:57"
+    },
+    {
+        "id": 162456314,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Aidune has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-15 21:13:07"
+    },
+    {
+        "id": 162456332,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Jaye has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-15 21:13:17"
+    },
+    {
+        "id": 162456373,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-15 21:13:41"
+    },
+    {
+        "id": 162456435,
+        "caption": "Player Death",
+        "description": "Ferelith has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-15 21:14:15"
     }
 ]
