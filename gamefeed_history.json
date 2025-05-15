@@ -9469,5 +9469,12 @@
         "description": "Aebor was slain by misadventure.",
         "type": "DEA",
         "date": "2025-05-15 05:34:42"
+    },
+    {
+        "id": 162453481,
+        "caption": "Player Death",
+        "description": "Otem has been slain by the might of a shadowlord widowrider.",
+        "type": "DEA",
+        "date": "2025-05-15 14:42:39"
     }
 ]
