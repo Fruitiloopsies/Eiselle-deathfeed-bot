@@ -9462,5 +9462,12 @@
         "description": "Pyawr was slain by misadventure.",
         "type": "DEA",
         "date": "2025-05-14 12:01:37"
+    },
+    {
+        "id": 162451161,
+        "caption": "Player Death",
+        "description": "Aebor was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-15 05:34:42"
     }
 ]
