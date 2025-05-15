@@ -9483,5 +9483,12 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Ollie.",
         "type": "DEA",
         "date": "2025-05-15 16:31:35"
+    },
+    {
+        "id": 162455807,
+        "caption": "Player Death",
+        "description": "Aidune has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-15 19:54:57"
     }
 ]
