@@ -9476,5 +9476,12 @@
         "description": "Otem has been slain by the might of a shadowlord widowrider.",
         "type": "DEA",
         "date": "2025-05-15 14:42:39"
+    },
+    {
+        "id": 162454413,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Ollie.",
+        "type": "DEA",
+        "date": "2025-05-15 16:31:35"
     }
 ]
