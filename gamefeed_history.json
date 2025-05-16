@@ -9518,5 +9518,19 @@
         "description": "Ferelith has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-05-15 21:14:15"
+    },
+    {
+        "id": 162463685,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Galaphyrae (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-05-16 22:04:01"
+    },
+    {
+        "id": 162463747,
+        "caption": "Player Death",
+        "description": "Aerys was slain by Zagreus (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-05-16 22:04:26"
     }
 ]
