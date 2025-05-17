@@ -9532,5 +9532,12 @@
         "description": "Aerys was slain by Zagreus (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-05-16 22:04:26"
+    },
+    {
+        "id": 162469971,
+        "caption": "Player Death",
+        "description": "Otem was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-17 17:10:21"
     }
 ]
