@@ -9560,5 +9560,19 @@
         "description": "Eiselle was slain by Freja (Victim had 90% the might).",
         "type": "DEA",
         "date": "2025-05-17 22:19:06"
+    },
+    {
+        "id": 162473618,
+        "caption": "Player Death",
+        "description": "Laina was slain by Galaphyrae (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-05-18 04:17:25"
+    },
+    {
+        "id": 162473630,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by Freja (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-05-18 04:17:40"
     }
 ]
