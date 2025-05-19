@@ -9595,5 +9595,12 @@
         "description": "Otem has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-05-19 18:25:10"
+    },
+    {
+        "id": 162483256,
+        "caption": "Player Death",
+        "description": "Basharaii has been slain by the might of an old bull mammoth.",
+        "type": "DEA",
+        "date": "2025-05-19 18:43:09"
     }
 ]
