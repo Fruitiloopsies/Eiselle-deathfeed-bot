@@ -9588,5 +9588,12 @@
         "description": "Otem has been culled and dragged off into the darkness of the Illithoid Prison.",
         "type": "DEA",
         "date": "2025-05-19 11:42:33"
+    },
+    {
+        "id": 162483165,
+        "caption": "Player Death",
+        "description": "Otem has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-05-19 18:25:10"
     }
 ]
