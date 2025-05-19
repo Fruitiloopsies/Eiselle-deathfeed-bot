@@ -9581,5 +9581,12 @@
         "description": "Otem has been slain by the might of Cyaratalegur, Overseer of the Reservoir.",
         "type": "DEA",
         "date": "2025-05-19 11:21:24"
+    },
+    {
+        "id": 162481694,
+        "caption": "Player Death",
+        "description": "Otem has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2025-05-19 11:42:33"
     }
 ]
