@@ -9602,5 +9602,12 @@
         "description": "Basharaii has been slain by the might of an old bull mammoth.",
         "type": "DEA",
         "date": "2025-05-19 18:43:09"
+    },
+    {
+        "id": 162483489,
+        "caption": "Player Death",
+        "description": "Basharaii has been slain by the might of an old bull mammoth.",
+        "type": "DEA",
+        "date": "2025-05-19 19:27:39"
     }
 ]
