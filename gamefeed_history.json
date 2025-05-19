@@ -9574,5 +9574,12 @@
         "description": "Tylwyth was slain by Freja (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-05-18 04:17:40"
+    },
+    {
+        "id": 162481655,
+        "caption": "Player Death",
+        "description": "Otem has been slain by the might of Cyaratalegur, Overseer of the Reservoir.",
+        "type": "DEA",
+        "date": "2025-05-19 11:21:24"
     }
 ]
