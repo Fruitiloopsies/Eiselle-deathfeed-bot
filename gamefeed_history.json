@@ -9749,5 +9749,61 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Iae, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-05-20 15:29:21"
+    },
+    {
+        "id": 162488415,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Iae, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 15:31:54"
+    },
+    {
+        "id": 162488443,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Iae, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 15:41:31"
+    },
+    {
+        "id": 162488451,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Gilda, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 15:41:33"
+    },
+    {
+        "id": 162488462,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Klark, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 15:41:34"
+    },
+    {
+        "id": 162488473,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Rysic, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 15:41:44"
+    },
+    {
+        "id": 162488485,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Aerech, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 15:41:54"
+    },
+    {
+        "id": 162488501,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Tuilinn, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 15:41:56"
+    },
+    {
+        "id": 162488537,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Rysic, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 15:45:41"
     }
 ]
