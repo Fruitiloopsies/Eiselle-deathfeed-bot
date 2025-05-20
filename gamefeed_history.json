@@ -9805,5 +9805,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Rysic, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-05-20 15:45:41"
+    },
+    {
+        "id": 162489142,
+        "caption": "Player Death",
+        "description": "Llyr has been slain by the might of a festering garghoul.",
+        "type": "DEA",
+        "date": "2025-05-20 17:47:10"
     }
 ]
