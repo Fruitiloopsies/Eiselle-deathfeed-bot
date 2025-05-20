@@ -9609,5 +9609,12 @@
         "description": "Basharaii has been slain by the might of an old bull mammoth.",
         "type": "DEA",
         "date": "2025-05-19 19:27:39"
+    },
+    {
+        "id": 162487810,
+        "caption": "Player Death",
+        "description": "Kojin has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-05-20 13:50:16"
     }
 ]
