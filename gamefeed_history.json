@@ -9616,5 +9616,33 @@
         "description": "Kojin has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-05-20 13:50:16"
+    },
+    {
+        "id": 162487945,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Iae, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 14:22:56"
+    },
+    {
+        "id": 162487954,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Klark, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 14:23:02"
+    },
+    {
+        "id": 162487966,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Gilda, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 14:23:06"
+    },
+    {
+        "id": 162487977,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Aidune, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 14:23:18"
     }
 ]
