@@ -9644,5 +9644,61 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Aidune, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-05-20 14:23:18"
+    },
+    {
+        "id": 162488028,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Klark, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 14:31:15"
+    },
+    {
+        "id": 162488047,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Klark, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 14:37:55"
+    },
+    {
+        "id": 162488058,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Gilda, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 14:37:55"
+    },
+    {
+        "id": 162488069,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Aidune, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 14:37:56"
+    },
+    {
+        "id": 162488087,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Iae, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 14:38:01"
+    },
+    {
+        "id": 162488094,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Aerech, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 14:38:04"
+    },
+    {
+        "id": 162488109,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Tuilinn, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 14:38:12"
+    },
+    {
+        "id": 162488187,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Klark, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-20 14:42:37"
     }
 ]
