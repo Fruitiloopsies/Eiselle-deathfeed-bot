@@ -9812,5 +9812,26 @@
         "description": "Llyr has been slain by the might of a festering garghoul.",
         "type": "DEA",
         "date": "2025-05-20 17:47:10"
+    },
+    {
+        "id": 162500391,
+        "caption": "Player Death",
+        "description": "Llyr has been slain by the might of a garghast.",
+        "type": "DEA",
+        "date": "2025-05-22 12:08:36"
+    },
+    {
+        "id": 162500416,
+        "caption": "Player Death",
+        "description": "Llyr has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2025-05-22 12:16:06"
+    },
+    {
+        "id": 162500554,
+        "caption": "Player Death",
+        "description": "Llyr has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2025-05-22 12:33:17"
     }
 ]
