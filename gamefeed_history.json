@@ -9889,5 +9889,33 @@
         "description": "Numinous was slain by Malayn (Victim had 80% the might).",
         "type": "DEA",
         "date": "2025-05-22 22:38:55"
+    },
+    {
+        "id": 162503940,
+        "caption": "Player Death",
+        "description": "Klark was slain by Shango (Victim had 35% the might).",
+        "type": "DEA",
+        "date": "2025-05-22 22:39:00"
+    },
+    {
+        "id": 162503955,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-05-22 22:39:51"
+    },
+    {
+        "id": 162504007,
+        "caption": "Player Death",
+        "description": "Suavium was slain by Shango (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-05-22 22:40:25"
+    },
+    {
+        "id": 162504026,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-05-22 22:41:24"
     }
 ]
