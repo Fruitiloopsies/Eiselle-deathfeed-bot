@@ -9833,5 +9833,12 @@
         "description": "Llyr has been culled and dragged off into the darkness of the Illithoid Prison.",
         "type": "DEA",
         "date": "2025-05-22 12:33:17"
+    },
+    {
+        "id": 162500569,
+        "caption": "Player Death",
+        "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-05-22 12:42:06"
     }
 ]
