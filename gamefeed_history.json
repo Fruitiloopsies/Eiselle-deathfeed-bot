@@ -9924,5 +9924,47 @@
         "description": "Aimoku was slain by misadventure.",
         "type": "DEA",
         "date": "2025-05-23 06:53:26"
+    },
+    {
+        "id": 162508910,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Jaye, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-05-23 14:13:01"
+    },
+    {
+        "id": 162508916,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aerys, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-05-23 14:15:17"
+    },
+    {
+        "id": 162508948,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Klark has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-05-23 14:15:26"
+    },
+    {
+        "id": 162508962,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-23 14:15:57"
+    },
+    {
+        "id": 162508992,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Aidune has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-05-23 14:16:32"
+    },
+    {
+        "id": 162509009,
+        "caption": "Player Death",
+        "description": "Jaye has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-23 14:16:41"
     }
 ]
