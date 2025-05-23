@@ -9980,5 +9980,33 @@
         "description": "Aerys has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-05-23 14:56:08"
+    },
+    {
+        "id": 162509286,
+        "caption": "Player Death",
+        "description": "Jaye has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-23 15:00:18"
+    },
+    {
+        "id": 162509291,
+        "caption": "Player Death",
+        "description": "Klark has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-23 15:00:18"
+    },
+    {
+        "id": 162509308,
+        "caption": "Player Death",
+        "description": "Aerys has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-23 15:01:22"
+    },
+    {
+        "id": 162509494,
+        "caption": "Player Death",
+        "description": "Aerys has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-23 15:22:26"
     }
 ]
