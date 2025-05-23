@@ -9966,5 +9966,19 @@
         "description": "Jaye has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-05-23 14:16:41"
+    },
+    {
+        "id": 162509224,
+        "caption": "Player Death",
+        "description": "Aidune has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-23 14:55:48"
+    },
+    {
+        "id": 162509241,
+        "caption": "Player Death",
+        "description": "Aerys has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-23 14:56:08"
     }
 ]
