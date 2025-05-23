@@ -9917,5 +9917,12 @@
         "description": "Ayisdra was slain by Malayn (Victim had 85% the might).",
         "type": "DEA",
         "date": "2025-05-22 22:41:24"
+    },
+    {
+        "id": 162507620,
+        "caption": "Player Death",
+        "description": "Aimoku was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-23 06:53:26"
     }
 ]
