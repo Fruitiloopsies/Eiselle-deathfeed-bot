@@ -10078,5 +10078,26 @@
         "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-05-23 16:24:33"
+    },
+    {
+        "id": 162510921,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Zierk, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-23 19:02:51"
+    },
+    {
+        "id": 162510925,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-23 19:02:51"
+    },
+    {
+        "id": 162510932,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Otem, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-23 19:02:56"
     }
 ]
