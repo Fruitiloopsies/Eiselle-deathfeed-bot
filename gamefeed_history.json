@@ -10008,5 +10008,12 @@
         "description": "Aerys has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-05-23 15:22:26"
+    },
+    {
+        "id": 162509543,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-23 15:33:08"
     }
 ]
