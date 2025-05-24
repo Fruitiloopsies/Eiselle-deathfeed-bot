@@ -10190,5 +10190,12 @@
         "description": "Llyr has been slain by the might of a spectral garwight.",
         "type": "DEA",
         "date": "2025-05-24 17:01:27"
+    },
+    {
+        "id": 162517460,
+        "caption": "Player Death",
+        "description": "Meeting a fiery death, Llyr perishes to the sting of a colossal blistering scorpion.",
+        "type": "DEA",
+        "date": "2025-05-24 17:39:25"
     }
 ]
