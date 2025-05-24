@@ -10197,5 +10197,12 @@
         "description": "Meeting a fiery death, Llyr perishes to the sting of a colossal blistering scorpion.",
         "type": "DEA",
         "date": "2025-05-24 17:39:25"
+    },
+    {
+        "id": 162518128,
+        "caption": "Player Death",
+        "description": "Aknarin was slain by Zagreus (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-05-24 19:38:27"
     }
 ]
