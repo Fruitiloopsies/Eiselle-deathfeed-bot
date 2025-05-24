@@ -10204,5 +10204,47 @@
         "description": "Aknarin was slain by Zagreus (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-05-24 19:38:27"
+    },
+    {
+        "id": 162519436,
+        "caption": "Player Death",
+        "description": "Eriette has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-24 23:26:48"
+    },
+    {
+        "id": 162519439,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aidune, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-05-24 23:26:59"
+    },
+    {
+        "id": 162519456,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Numinous has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-24 23:27:19"
+    },
+    {
+        "id": 162519480,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-24 23:27:21"
+    },
+    {
+        "id": 162519510,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Otem has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-24 23:27:25"
+    },
+    {
+        "id": 162519519,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Jaye has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-24 23:27:29"
     }
 ]
