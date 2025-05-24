@@ -10183,5 +10183,12 @@
         "description": "Arcanis has been slammed, smashed, crushed, pummeled, and finally rent in half by Ashtorath, Duke of Inescapable Damnation.",
         "type": "DEA",
         "date": "2025-05-24 06:44:34"
+    },
+    {
+        "id": 162517251,
+        "caption": "Player Death",
+        "description": "Llyr has been slain by the might of a spectral garwight.",
+        "type": "DEA",
+        "date": "2025-05-24 17:01:27"
     }
 ]
