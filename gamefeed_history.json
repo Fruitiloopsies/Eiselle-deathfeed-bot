@@ -10176,5 +10176,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Otem, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-05-23 20:30:15"
+    },
+    {
+        "id": 162514990,
+        "caption": "Player Death",
+        "description": "Arcanis has been slammed, smashed, crushed, pummeled, and finally rent in half by Ashtorath, Duke of Inescapable Damnation.",
+        "type": "DEA",
+        "date": "2025-05-24 06:44:34"
     }
 ]
