@@ -10246,5 +10246,82 @@
         "description": "Marked for death by a clangoru artificer, Jaye has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-05-24 23:27:29"
+    },
+    {
+        "id": 162519875,
+        "caption": "Player Death",
+        "description": "Otem has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-25 00:27:32"
+    },
+    {
+        "id": 162519996,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Aidune has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-05-25 00:45:37"
+    },
+    {
+        "id": 162520018,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Jaye has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-25 00:46:59"
+    },
+    {
+        "id": 162520061,
+        "caption": "Player Death",
+        "description": "Otem has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-25 00:46:59"
+    },
+    {
+        "id": 162520076,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-25 00:48:46"
+    },
+    {
+        "id": 162520113,
+        "caption": "Player Death",
+        "description": "Aidune has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-25 00:50:07"
+    },
+    {
+        "id": 162520130,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Ayisdra has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-25 00:50:15"
+    },
+    {
+        "id": 162520178,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Otem has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-25 00:50:23"
+    },
+    {
+        "id": 162520185,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Jaye has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-25 00:50:25"
+    },
+    {
+        "id": 162520420,
+        "caption": "Player Death",
+        "description": "Gilda was slain by Freja (Victim had 50% the might).",
+        "type": "DEA",
+        "date": "2025-05-25 01:16:24"
+    },
+    {
+        "id": 162520585,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-25 01:44:41"
     }
 ]
