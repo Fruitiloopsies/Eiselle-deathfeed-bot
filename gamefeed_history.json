@@ -10330,5 +10330,47 @@
         "description": "Otem has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-05-25 02:24:22"
+    },
+    {
+        "id": 162521232,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-25 03:50:57"
+    },
+    {
+        "id": 162521266,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-25 03:52:31"
+    },
+    {
+        "id": 162521312,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Galaphyrae has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-05-25 03:53:24"
+    },
+    {
+        "id": 162521351,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-25 03:53:42"
+    },
+    {
+        "id": 162521381,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Freja, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-05-25 03:54:09"
+    },
+    {
+        "id": 162521392,
+        "caption": "Player Death",
+        "description": "Zagreus was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-25 03:54:14"
     }
 ]
