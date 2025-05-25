@@ -10323,5 +10323,12 @@
         "description": "Veldrin was slain by misadventure.",
         "type": "DEA",
         "date": "2025-05-25 01:44:41"
+    },
+    {
+        "id": 162520767,
+        "caption": "Player Death",
+        "description": "Otem has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-05-25 02:24:22"
     }
 ]
