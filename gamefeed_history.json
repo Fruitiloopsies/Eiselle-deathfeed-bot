@@ -10372,5 +10372,12 @@
         "description": "Zagreus was slain by misadventure.",
         "type": "DEA",
         "date": "2025-05-25 03:54:14"
+    },
+    {
+        "id": 162522679,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by Galaphyrae (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2025-05-25 07:14:04"
     }
 ]
