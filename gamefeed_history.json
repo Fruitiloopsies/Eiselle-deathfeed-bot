@@ -10400,5 +10400,12 @@
         "description": "Marked for death by a clangoru artificer, Zagreus has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-05-25 17:25:33"
+    },
+    {
+        "id": 162525680,
+        "caption": "Player Death",
+        "description": "Otem has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-25 17:40:44"
     }
 ]
