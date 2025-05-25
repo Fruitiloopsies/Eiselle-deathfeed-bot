@@ -10449,5 +10449,40 @@
         "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-05-25 17:58:54"
+    },
+    {
+        "id": 162526217,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Jaye, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-05-25 19:25:40"
+    },
+    {
+        "id": 162526261,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Otem, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-05-25 19:25:40"
+    },
+    {
+        "id": 162526311,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Aidune has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-25 19:26:07"
+    },
+    {
+        "id": 162526330,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-25 19:27:17"
+    },
+    {
+        "id": 162526395,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-25 19:27:37"
     }
 ]
