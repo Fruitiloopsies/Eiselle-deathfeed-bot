@@ -10407,5 +10407,26 @@
         "description": "Otem has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-05-25 17:40:44"
+    },
+    {
+        "id": 162525730,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Zagreus has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-25 17:52:05"
+    },
+    {
+        "id": 162525776,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-25 17:53:59"
+    },
+    {
+        "id": 162525811,
+        "caption": "Player Death",
+        "description": "Elarin has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-25 17:55:35"
     }
 ]
