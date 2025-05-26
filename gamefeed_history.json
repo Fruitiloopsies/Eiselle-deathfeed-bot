@@ -10484,5 +10484,12 @@
         "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-05-25 19:27:37"
+    },
+    {
+        "id": 162529267,
+        "caption": "Player Death",
+        "description": "Laina became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2025-05-26 03:29:10"
     }
 ]
