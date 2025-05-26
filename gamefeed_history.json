@@ -10491,5 +10491,47 @@
         "description": "Laina became the target of a hulking three-horned bull's violent rage.",
         "type": "DEA",
         "date": "2025-05-26 03:29:10"
+    },
+    {
+        "id": 162529587,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Otem, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-05-26 04:19:47"
+    },
+    {
+        "id": 162529595,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Jaye has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-05-26 04:19:48"
+    },
+    {
+        "id": 162529652,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Jaye has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-05-26 04:24:32"
+    },
+    {
+        "id": 162529708,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Otem has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-05-26 04:28:40"
+    },
+    {
+        "id": 162529765,
+        "caption": "Player Death",
+        "description": "Otem has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-26 04:33:00"
+    },
+    {
+        "id": 162529775,
+        "caption": "Player Death",
+        "description": "Yinuish has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-26 04:33:45"
     }
 ]
