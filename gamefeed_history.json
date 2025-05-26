@@ -10533,5 +10533,26 @@
         "description": "Yinuish has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-05-26 04:33:45"
+    },
+    {
+        "id": 162529838,
+        "caption": "Player Death",
+        "description": "Otem has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-05-26 04:35:01"
+    },
+    {
+        "id": 162529847,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Ayisdra, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-05-26 04:35:31"
+    },
+    {
+        "id": 162529896,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-05-26 04:36:20"
     }
 ]
