@@ -10554,5 +10554,12 @@
         "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-05-26 04:36:20"
+    },
+    {
+        "id": 162531757,
+        "caption": "Player Death",
+        "description": "Gramaun has been fatally injected with the venom of a monstrous bluebottle jellyfish.",
+        "type": "DEA",
+        "date": "2025-05-26 12:14:41"
     }
 ]
