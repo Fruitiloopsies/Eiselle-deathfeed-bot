@@ -10596,5 +10596,61 @@
         "description": "Alainna was slain by Eiselle (Victim had 65% the might).",
         "type": "DEA",
         "date": "2025-05-27 19:12:41"
+    },
+    {
+        "id": 162541390,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-27 19:39:08"
+    },
+    {
+        "id": 162541396,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Llyr, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-27 19:39:08"
+    },
+    {
+        "id": 162541403,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Otem, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-27 19:39:21"
+    },
+    {
+        "id": 162541412,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Zierk, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-27 19:39:21"
+    },
+    {
+        "id": 162541417,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Numinous, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-27 19:39:21"
+    },
+    {
+        "id": 162541442,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Eiselle, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-27 19:39:23"
+    },
+    {
+        "id": 162541506,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Alainna, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-27 19:39:23"
+    },
+    {
+        "id": 162541514,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Tuilinn, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-27 19:39:34"
     }
 ]
