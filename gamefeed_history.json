@@ -10589,5 +10589,12 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Pyawr.",
         "type": "DEA",
         "date": "2025-05-27 02:00:39"
+    },
+    {
+        "id": 162541150,
+        "caption": "Player Death",
+        "description": "Alainna was slain by Eiselle (Victim had 65% the might).",
+        "type": "DEA",
+        "date": "2025-05-27 19:12:41"
     }
 ]
