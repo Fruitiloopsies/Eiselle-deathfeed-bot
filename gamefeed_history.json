@@ -10575,5 +10575,19 @@
         "description": "Ollie was slain by Freja (Victim had 70% the might).",
         "type": "DEA",
         "date": "2025-05-27 00:03:06"
+    },
+    {
+        "id": 162535838,
+        "caption": "Player Death",
+        "description": "Legac was slain by Malayn (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-05-27 01:03:38"
+    },
+    {
+        "id": 162536427,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Pyawr.",
+        "type": "DEA",
+        "date": "2025-05-27 02:00:39"
     }
 ]
