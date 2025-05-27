@@ -10652,5 +10652,40 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Tuilinn, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-05-27 19:39:34"
+    },
+    {
+        "id": 162541604,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Otem, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-27 19:48:57"
+    },
+    {
+        "id": 162541618,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-27 19:55:26"
+    },
+    {
+        "id": 162541624,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Numinous, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-27 19:55:26"
+    },
+    {
+        "id": 162541649,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Llyr, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-27 19:55:26"
+    },
+    {
+        "id": 162541656,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Zierk, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-27 19:55:28"
     }
 ]
