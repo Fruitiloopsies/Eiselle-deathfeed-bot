@@ -10722,5 +10722,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Eiselle, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-05-27 20:01:35"
+    },
+    {
+        "id": 162546129,
+        "caption": "Player Death",
+        "description": "Suavium was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-28 09:46:44"
     }
 ]
