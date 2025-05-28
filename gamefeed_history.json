@@ -10736,5 +10736,19 @@
         "description": "Llyr has been trampled and crushed by a stainless steel goat.",
         "type": "DEA",
         "date": "2025-05-28 18:22:52"
+    },
+    {
+        "id": 162549229,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Zierk, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-28 22:01:19"
+    },
+    {
+        "id": 162549234,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Otem, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-28 22:01:31"
     }
 ]
