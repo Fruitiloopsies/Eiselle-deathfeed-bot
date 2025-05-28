@@ -10750,5 +10750,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Otem, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-05-28 22:01:31"
+    },
+    {
+        "id": 162549323,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Zierk, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-28 22:37:20"
     }
 ]
