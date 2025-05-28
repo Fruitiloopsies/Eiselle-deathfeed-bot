@@ -10757,5 +10757,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Zierk, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-05-28 22:37:20"
+    },
+    {
+        "id": 162549381,
+        "caption": "Player Death",
+        "description": "Shango was slain by Legac (Victim had 130% the might).",
+        "type": "DEA",
+        "date": "2025-05-28 22:53:10"
     }
 ]
