@@ -10771,5 +10771,12 @@
         "description": "Llyr has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-05-29 06:18:48"
+    },
+    {
+        "id": 162552581,
+        "caption": "Player Death",
+        "description": "Llyr has been slain by the might of a garghast.",
+        "type": "DEA",
+        "date": "2025-05-29 12:30:13"
     }
 ]
