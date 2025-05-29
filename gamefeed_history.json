@@ -10778,5 +10778,33 @@
         "description": "Llyr has been slain by the might of a garghast.",
         "type": "DEA",
         "date": "2025-05-29 12:30:13"
+    },
+    {
+        "id": 162554082,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Llyr, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-29 18:30:01"
+    },
+    {
+        "id": 162554131,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Llyr, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-29 18:47:50"
+    },
+    {
+        "id": 162554137,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Zierk, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-29 18:48:05"
+    },
+    {
+        "id": 162554142,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Numinous, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-29 18:48:05"
     }
 ]
