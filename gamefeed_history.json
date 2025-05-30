@@ -10820,5 +10820,12 @@
         "description": "Aknarin was slain by Zagreus (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-05-30 10:03:42"
+    },
+    {
+        "id": 162559622,
+        "caption": "Player Death",
+        "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-05-30 16:33:53"
     }
 ]
