@@ -10806,5 +10806,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Numinous, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-05-29 18:48:05"
+    },
+    {
+        "id": 162557180,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-05-30 05:39:34"
     }
 ]
