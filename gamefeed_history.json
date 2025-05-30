@@ -10813,5 +10813,12 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-05-30 05:39:34"
+    },
+    {
+        "id": 162558326,
+        "caption": "Player Death",
+        "description": "Aknarin was slain by Zagreus (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-05-30 10:03:42"
     }
 ]
