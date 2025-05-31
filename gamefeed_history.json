@@ -10827,5 +10827,33 @@
         "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-05-30 16:33:53"
+    },
+    {
+        "id": 162561790,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Zagreus (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-05-31 00:04:42"
+    },
+    {
+        "id": 162561855,
+        "caption": "Player Death",
+        "description": "Klark was slain by Zagreus (Victim had 40% the might).",
+        "type": "DEA",
+        "date": "2025-05-31 00:05:30"
+    },
+    {
+        "id": 162561893,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Zagreus (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-05-31 00:07:13"
+    },
+    {
+        "id": 162562035,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-05-31 00:29:44"
     }
 ]
