@@ -10862,5 +10862,26 @@
         "description": "Otem has been slain by the might of Cyaratalegur, Overseer of the Reservoir.",
         "type": "DEA",
         "date": "2025-05-31 13:52:08"
+    },
+    {
+        "id": 162564750,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Gramaun, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-31 14:57:13"
+    },
+    {
+        "id": 162564835,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-31 15:09:55"
+    },
+    {
+        "id": 162564879,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Gramaun, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-31 15:09:57"
     }
 ]
