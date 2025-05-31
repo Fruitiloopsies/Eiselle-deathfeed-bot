@@ -10855,5 +10855,12 @@
         "description": "Shango was slain by misadventure.",
         "type": "DEA",
         "date": "2025-05-31 00:29:44"
+    },
+    {
+        "id": 162564517,
+        "caption": "Player Death",
+        "description": "Otem has been slain by the might of Cyaratalegur, Overseer of the Reservoir.",
+        "type": "DEA",
+        "date": "2025-05-31 13:52:08"
     }
 ]
