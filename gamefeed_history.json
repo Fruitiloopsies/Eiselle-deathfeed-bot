@@ -10932,5 +10932,19 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Gramaun, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-05-31 15:52:52"
+    },
+    {
+        "id": 162565269,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-05-31 15:56:18"
+    },
+    {
+        "id": 162565313,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Gramaun, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-05-31 15:56:28"
     }
 ]
