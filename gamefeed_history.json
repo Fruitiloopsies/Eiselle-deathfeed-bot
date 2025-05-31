@@ -10946,5 +10946,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Gramaun, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-05-31 15:56:28"
+    },
+    {
+        "id": 162565477,
+        "caption": "Player Death",
+        "description": "Kojin was slain by Kojin (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-05-31 16:38:26"
     }
 ]
