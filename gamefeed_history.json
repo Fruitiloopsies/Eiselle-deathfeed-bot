@@ -10953,5 +10953,12 @@
         "description": "Kojin was slain by Kojin (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-05-31 16:38:26"
+    },
+    {
+        "id": 162566088,
+        "caption": "Player Death",
+        "description": "Llyr has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-05-31 18:16:26"
     }
 ]
