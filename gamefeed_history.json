@@ -11002,5 +11002,12 @@
         "description": "Huskii was slain by Inagin (Victim had 110% the might).",
         "type": "DEA",
         "date": "2025-06-01 10:16:09"
+    },
+    {
+        "id": 162570383,
+        "caption": "Player Death",
+        "description": "Otem was slain by Otem (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-06-01 12:03:25"
     }
 ]
