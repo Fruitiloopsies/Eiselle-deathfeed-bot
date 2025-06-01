@@ -10995,5 +10995,12 @@
         "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
         "type": "DEA",
         "date": "2025-06-01 06:20:28"
+    },
+    {
+        "id": 162569793,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Inagin (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-06-01 10:16:09"
     }
 ]
