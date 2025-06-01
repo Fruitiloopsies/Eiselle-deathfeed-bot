@@ -10974,5 +10974,12 @@
         "description": "A two-headed abhorrence has trampled all over Laina.",
         "type": "DEA",
         "date": "2025-06-01 04:39:28"
+    },
+    {
+        "id": 162568927,
+        "caption": "Player Death",
+        "description": "Laina has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-06-01 05:39:39"
     }
 ]
