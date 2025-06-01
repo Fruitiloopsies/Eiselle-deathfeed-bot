@@ -10981,5 +10981,19 @@
         "description": "Laina has been trampled and crushed by a stainless steel goat.",
         "type": "DEA",
         "date": "2025-06-01 05:39:39"
+    },
+    {
+        "id": 162569111,
+        "caption": "Player Death",
+        "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2025-06-01 06:14:44"
+    },
+    {
+        "id": 162569139,
+        "caption": "Player Death",
+        "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2025-06-01 06:20:28"
     }
 ]
