@@ -11030,5 +11030,19 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-06-02 03:31:35"
+    },
+    {
+        "id": 162574262,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
+        "type": "DEA",
+        "date": "2025-06-02 04:31:03"
+    },
+    {
+        "id": 162574283,
+        "caption": "Player Death",
+        "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-06-02 04:41:05"
     }
 ]
