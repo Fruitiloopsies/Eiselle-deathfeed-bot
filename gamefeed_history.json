@@ -11009,5 +11009,26 @@
         "description": "Otem was slain by Otem (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-06-01 12:03:25"
+    },
+    {
+        "id": 162574032,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Otem, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-06-02 03:31:34"
+    },
+    {
+        "id": 162574041,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Zierk, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-06-02 03:31:35"
+    },
+    {
+        "id": 162574046,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-06-02 03:31:35"
     }
 ]
