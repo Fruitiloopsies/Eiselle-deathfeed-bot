@@ -11058,5 +11058,19 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-06-02 05:30:16"
+    },
+    {
+        "id": 162578561,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-06-02 22:39:52"
+    },
+    {
+        "id": 162578594,
+        "caption": "Player Death",
+        "description": "Gilda was slain by Galaphyrae (Victim had 50% the might).",
+        "type": "DEA",
+        "date": "2025-06-02 22:40:13"
     }
 ]
