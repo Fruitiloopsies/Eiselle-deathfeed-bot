@@ -11135,5 +11135,12 @@
         "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-06-03 16:30:03"
+    },
+    {
+        "id": 162585491,
+        "caption": "Player Death",
+        "description": "Zimmer was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-03 21:18:59"
     }
 ]
