@@ -11107,5 +11107,12 @@
         "description": "Alainna has been trampled and crushed by a stainless steel goat.",
         "type": "DEA",
         "date": "2025-06-03 03:38:39"
+    },
+    {
+        "id": 162581071,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-06-03 04:18:21"
     }
 ]
