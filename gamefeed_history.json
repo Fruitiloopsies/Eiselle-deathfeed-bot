@@ -11128,5 +11128,12 @@
         "description": "Zimmer has been slain by the might of a mighty quinotaur.",
         "type": "DEA",
         "date": "2025-06-03 16:07:15"
+    },
+    {
+        "id": 162583816,
+        "caption": "Player Death",
+        "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-06-03 16:30:03"
     }
 ]
