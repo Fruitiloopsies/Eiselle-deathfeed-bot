@@ -11086,5 +11086,26 @@
         "description": "Zimmer has been slain by the might of a serpentine sea snake.",
         "type": "DEA",
         "date": "2025-06-03 02:18:57"
+    },
+    {
+        "id": 162580567,
+        "caption": "Player Death",
+        "description": "Otem was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-03 03:01:46"
+    },
+    {
+        "id": 162580662,
+        "caption": "Player Death",
+        "description": "Otem was slain by Otem (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-06-03 03:10:11"
+    },
+    {
+        "id": 162580880,
+        "caption": "Player Death",
+        "description": "Alainna has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-06-03 03:38:39"
     }
 ]
