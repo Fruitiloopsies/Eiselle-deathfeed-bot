@@ -11079,5 +11079,12 @@
         "description": "Shango was slain by misadventure.",
         "type": "DEA",
         "date": "2025-06-02 23:05:27"
+    },
+    {
+        "id": 162580183,
+        "caption": "Player Death",
+        "description": "Zimmer has been slain by the might of a serpentine sea snake.",
+        "type": "DEA",
+        "date": "2025-06-03 02:18:57"
     }
 ]
