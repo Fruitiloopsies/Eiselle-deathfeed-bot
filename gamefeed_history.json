@@ -11121,5 +11121,12 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-06-03 06:21:31"
+    },
+    {
+        "id": 162583763,
+        "caption": "Player Death",
+        "description": "Zimmer has been slain by the might of a mighty quinotaur.",
+        "type": "DEA",
+        "date": "2025-06-03 16:07:15"
     }
 ]
