@@ -11149,5 +11149,12 @@
         "description": "Zimmer has been slain by the might of a titanic, fearsome kraken.",
         "type": "DEA",
         "date": "2025-06-04 03:03:24"
+    },
+    {
+        "id": 162587497,
+        "caption": "Player Death",
+        "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-06-04 04:16:48"
     }
 ]
