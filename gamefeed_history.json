@@ -11170,5 +11170,19 @@
         "description": "A two-headed abhorrence has trampled all over Llyr.",
         "type": "DEA",
         "date": "2025-06-04 06:13:12"
+    },
+    {
+        "id": 162590590,
+        "caption": "Player Death",
+        "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-06-04 18:19:44"
+    },
+    {
+        "id": 162590612,
+        "caption": "Player Death",
+        "description": "Llyr has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-06-04 18:32:28"
     }
 ]
