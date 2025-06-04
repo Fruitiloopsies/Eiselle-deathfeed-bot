@@ -11142,5 +11142,12 @@
         "description": "Zimmer was slain by misadventure.",
         "type": "DEA",
         "date": "2025-06-03 21:18:59"
+    },
+    {
+        "id": 162587165,
+        "caption": "Player Death",
+        "description": "Zimmer has been slain by the might of a titanic, fearsome kraken.",
+        "type": "DEA",
+        "date": "2025-06-04 03:03:24"
     }
 ]
