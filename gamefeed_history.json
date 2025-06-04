@@ -11163,5 +11163,12 @@
         "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2025-06-04 04:41:28"
+    },
+    {
+        "id": 162587994,
+        "caption": "Player Death",
+        "description": "A two-headed abhorrence has trampled all over Llyr.",
+        "type": "DEA",
+        "date": "2025-06-04 06:13:12"
     }
 ]
