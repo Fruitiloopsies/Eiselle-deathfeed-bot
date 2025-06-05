@@ -11205,5 +11205,26 @@
         "description": "Tuilinn was slain by Tuilinn (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-06-05 00:18:04"
+    },
+    {
+        "id": 162595483,
+        "caption": "Player Death",
+        "description": "Aerech was slain by Freja (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-06-05 12:51:18"
+    },
+    {
+        "id": 162595539,
+        "caption": "Player Death",
+        "description": "Zimmer was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-05 13:18:48"
+    },
+    {
+        "id": 162595541,
+        "caption": "Player Death",
+        "description": "Kojin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-05 13:18:48"
     }
 ]
