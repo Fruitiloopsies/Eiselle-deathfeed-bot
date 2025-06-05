@@ -11226,5 +11226,26 @@
         "description": "Kojin was slain by misadventure.",
         "type": "DEA",
         "date": "2025-06-05 13:18:48"
+    },
+    {
+        "id": 162597488,
+        "caption": "Player Death",
+        "description": "Aerech was slain by Galaphyrae (Victim had 55% the might).",
+        "type": "DEA",
+        "date": "2025-06-05 20:09:02"
+    },
+    {
+        "id": 162597509,
+        "caption": "Player Death",
+        "description": "Llyr was slain by Shango (Victim had 30% the might).",
+        "type": "DEA",
+        "date": "2025-06-05 20:10:11"
+    },
+    {
+        "id": 162597519,
+        "caption": "Player Death",
+        "description": "Zimmer was slain by Galaphyrae (Victim had 15% the might).",
+        "type": "DEA",
+        "date": "2025-06-05 20:10:38"
     }
 ]
