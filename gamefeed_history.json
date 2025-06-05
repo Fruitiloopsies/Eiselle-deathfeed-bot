@@ -11247,5 +11247,47 @@
         "description": "Zimmer was slain by Galaphyrae (Victim had 15% the might).",
         "type": "DEA",
         "date": "2025-06-05 20:10:38"
+    },
+    {
+        "id": 162597675,
+        "caption": "Player Death",
+        "description": "Freja was slain by Legac (Victim had 130% the might).",
+        "type": "DEA",
+        "date": "2025-06-05 20:32:20"
+    },
+    {
+        "id": 162597698,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Galaphyrae (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-06-05 20:33:00"
+    },
+    {
+        "id": 162597762,
+        "caption": "Player Death",
+        "description": "Abraxin was slain by Aerech (Victim had 140% the might).",
+        "type": "DEA",
+        "date": "2025-06-05 20:33:03"
+    },
+    {
+        "id": 162597798,
+        "caption": "Player Death",
+        "description": "Legac was slain by Freja (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-06-05 20:35:57"
+    },
+    {
+        "id": 162597823,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Galaphyrae (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-06-05 20:37:07"
+    },
+    {
+        "id": 162597888,
+        "caption": "Player Death",
+        "description": "Zimmer was slain by Shango (Victim had 15% the might).",
+        "type": "DEA",
+        "date": "2025-06-05 20:37:53"
     }
 ]
