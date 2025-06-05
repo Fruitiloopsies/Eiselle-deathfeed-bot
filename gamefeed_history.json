@@ -11289,5 +11289,26 @@
         "description": "Zimmer was slain by Shango (Victim had 15% the might).",
         "type": "DEA",
         "date": "2025-06-05 20:37:53"
+    },
+    {
+        "id": 162597893,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Galaphyrae (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-06-05 20:44:16"
+    },
+    {
+        "id": 162597958,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Galaphyrae (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-06-05 20:46:09"
+    },
+    {
+        "id": 162598032,
+        "caption": "Player Death",
+        "description": "Aerech was slain by Shango (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-06-05 20:50:03"
     }
 ]
