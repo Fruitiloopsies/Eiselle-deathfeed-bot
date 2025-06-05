@@ -11198,5 +11198,12 @@
         "description": "Naralis has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-06-04 23:31:22"
+    },
+    {
+        "id": 162592494,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Tuilinn (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-06-05 00:18:04"
     }
 ]
