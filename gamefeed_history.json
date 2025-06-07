@@ -11345,5 +11345,12 @@
         "description": "Klark has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-06-07 20:56:11"
+    },
+    {
+        "id": 162611493,
+        "caption": "Player Death",
+        "description": "Klark has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-06-07 21:27:18"
     }
 ]
