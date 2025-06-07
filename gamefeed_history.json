@@ -11422,5 +11422,47 @@
         "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-06-07 23:25:20"
+    },
+    {
+        "id": 162612460,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aidune, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-06-07 23:26:10"
+    },
+    {
+        "id": 162612481,
+        "caption": "Player Death",
+        "description": "Klark has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-06-07 23:26:13"
+    },
+    {
+        "id": 162612496,
+        "caption": "Player Death",
+        "description": "Aerech has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-06-07 23:26:16"
+    },
+    {
+        "id": 162612514,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Eiselle, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-06-07 23:26:22"
+    },
+    {
+        "id": 162612578,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Jaye, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-06-07 23:26:25"
+    },
+    {
+        "id": 162612621,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-06-07 23:27:01"
     }
 ]
