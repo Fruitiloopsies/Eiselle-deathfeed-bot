@@ -11352,5 +11352,75 @@
         "description": "Klark has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-06-07 21:27:18"
+    },
+    {
+        "id": 162612168,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aidune, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-06-07 23:15:14"
+    },
+    {
+        "id": 162612198,
+        "caption": "Player Death",
+        "description": "Jaye has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-06-07 23:20:44"
+    },
+    {
+        "id": 162612240,
+        "caption": "Player Death",
+        "description": "Klark has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-06-07 23:20:44"
+    },
+    {
+        "id": 162612255,
+        "caption": "Player Death",
+        "description": "Aidune has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-06-07 23:20:45"
+    },
+    {
+        "id": 162612275,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-06-07 23:20:58"
+    },
+    {
+        "id": 162612290,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aerech, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-06-07 23:21:31"
+    },
+    {
+        "id": 162612308,
+        "caption": "Player Death",
+        "description": "Numinous has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-06-07 23:22:07"
+    },
+    {
+        "id": 162612333,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Klark has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-06-07 23:22:37"
+    },
+    {
+        "id": 162612348,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-06-07 23:22:46"
+    },
+    {
+        "id": 162612404,
+        "caption": "Player Death",
+        "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-06-07 23:25:20"
     }
 ]
