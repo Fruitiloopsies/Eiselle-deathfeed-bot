@@ -11338,5 +11338,12 @@
         "description": "Vella has been slain by the might of a bone shark.",
         "type": "DEA",
         "date": "2025-06-07 16:23:23"
+    },
+    {
+        "id": 162611295,
+        "caption": "Player Death",
+        "description": "Klark has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-06-07 20:56:11"
     }
 ]
