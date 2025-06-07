@@ -11317,5 +11317,12 @@
         "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-06-07 04:25:25"
+    },
+    {
+        "id": 162607482,
+        "caption": "Player Death",
+        "description": "Galaphyrae was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-07 07:18:03"
     }
 ]
