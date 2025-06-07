@@ -11331,5 +11331,12 @@
         "description": "Deluril was slain by misadventure.",
         "type": "DEA",
         "date": "2025-06-07 10:26:08"
+    },
+    {
+        "id": 162609615,
+        "caption": "Player Death",
+        "description": "Vella has been slain by the might of a bone shark.",
+        "type": "DEA",
+        "date": "2025-06-07 16:23:23"
     }
 ]
