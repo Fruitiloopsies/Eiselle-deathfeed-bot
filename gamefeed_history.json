@@ -11310,5 +11310,12 @@
         "description": "Aerech was slain by Shango (Victim had 60% the might).",
         "type": "DEA",
         "date": "2025-06-05 20:50:03"
+    },
+    {
+        "id": 162606699,
+        "caption": "Player Death",
+        "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-06-07 04:25:25"
     }
 ]
