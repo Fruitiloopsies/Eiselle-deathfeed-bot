@@ -11324,5 +11324,12 @@
         "description": "Galaphyrae was slain by misadventure.",
         "type": "DEA",
         "date": "2025-06-07 07:18:03"
+    },
+    {
+        "id": 162608036,
+        "caption": "Player Death",
+        "description": "Deluril was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-07 10:26:08"
     }
 ]
