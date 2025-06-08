@@ -11471,5 +11471,12 @@
         "description": "Llyr has died in a dazzling spark-storm, courtesy of an iron wool three-horned ram.",
         "type": "DEA",
         "date": "2025-06-08 12:17:34"
+    },
+    {
+        "id": 162617267,
+        "caption": "Player Death",
+        "description": "Jemna has been slain by the might of a slithering inner worm.",
+        "type": "DEA",
+        "date": "2025-06-08 13:57:16"
     }
 ]
