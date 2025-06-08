@@ -11464,5 +11464,12 @@
         "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-06-07 23:27:01"
+    },
+    {
+        "id": 162616618,
+        "caption": "Player Death",
+        "description": "Llyr has died in a dazzling spark-storm, courtesy of an iron wool three-horned ram.",
+        "type": "DEA",
+        "date": "2025-06-08 12:17:34"
     }
 ]
