@@ -11520,5 +11520,12 @@
         "description": "Llyr has been dissolved within a broken living amphora.",
         "type": "DEA",
         "date": "2025-06-09 05:24:16"
+    },
+    {
+        "id": 162628972,
+        "caption": "Player Death",
+        "description": "A two-headed abhorrence has trampled all over Alainna.",
+        "type": "DEA",
+        "date": "2025-06-10 04:45:38"
     }
 ]
