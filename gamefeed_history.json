@@ -11527,5 +11527,12 @@
         "description": "A two-headed abhorrence has trampled all over Alainna.",
         "type": "DEA",
         "date": "2025-06-10 04:45:38"
+    },
+    {
+        "id": 162630630,
+        "caption": "Player Death",
+        "description": "Tearing flesh and snapping bone with its strong jaw, a savage gatorshark mauls Huskii, leaving naught but scraps and blood in its wake.",
+        "type": "DEA",
+        "date": "2025-06-10 12:15:34"
     }
 ]
