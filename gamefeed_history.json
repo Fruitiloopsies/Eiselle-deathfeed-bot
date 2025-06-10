@@ -11534,5 +11534,19 @@
         "description": "Tearing flesh and snapping bone with its strong jaw, a savage gatorshark mauls Huskii, leaving naught but scraps and blood in its wake.",
         "type": "DEA",
         "date": "2025-06-10 12:15:34"
+    },
+    {
+        "id": 162631100,
+        "caption": "Player Death",
+        "description": "Gramaun has been easily bested by a Kusala of the Tahtetso.",
+        "type": "DEA",
+        "date": "2025-06-10 13:42:03"
+    },
+    {
+        "id": 162631108,
+        "caption": "Player Death",
+        "description": "An archon of Eternal Light banishes Gramaun's soul for crimes against New Celest.",
+        "type": "DEA",
+        "date": "2025-06-10 13:48:12"
     }
 ]
