@@ -11548,5 +11548,12 @@
         "description": "An archon of Eternal Light banishes Gramaun's soul for crimes against New Celest.",
         "type": "DEA",
         "date": "2025-06-10 13:48:12"
+    },
+    {
+        "id": 162632188,
+        "caption": "Player Death",
+        "description": "Jemna wandered into the Iceburn Plains, never to walk out alive.",
+        "type": "DEA",
+        "date": "2025-06-10 17:20:27"
     }
 ]
