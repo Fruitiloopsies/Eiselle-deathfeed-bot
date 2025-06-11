@@ -11562,5 +11562,12 @@
         "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-06-11 18:09:21"
+    },
+    {
+        "id": 162638573,
+        "caption": "Player Death",
+        "description": "Otem has become food for an adolescent Great Worm, his body never to be seen again.",
+        "type": "DEA",
+        "date": "2025-06-11 19:07:15"
     }
 ]
