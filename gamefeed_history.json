@@ -11569,5 +11569,12 @@
         "description": "Otem has become food for an adolescent Great Worm, his body never to be seen again.",
         "type": "DEA",
         "date": "2025-06-11 19:07:15"
+    },
+    {
+        "id": 162642182,
+        "caption": "Player Death",
+        "description": "Alainna was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-12 05:08:23"
     }
 ]
