@@ -11597,5 +11597,12 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Llyr.",
         "type": "DEA",
         "date": "2025-06-13 18:36:36"
+    },
+    {
+        "id": 162651988,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Inagin (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-06-13 21:33:21"
     }
 ]
