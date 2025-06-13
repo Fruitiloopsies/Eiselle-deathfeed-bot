@@ -11583,5 +11583,19 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-06-13 04:50:34"
+    },
+    {
+        "id": 162651321,
+        "caption": "Player Death",
+        "description": "Kaenar was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-13 18:30:50"
+    },
+    {
+        "id": 162651342,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Llyr.",
+        "type": "DEA",
+        "date": "2025-06-13 18:36:36"
     }
 ]
