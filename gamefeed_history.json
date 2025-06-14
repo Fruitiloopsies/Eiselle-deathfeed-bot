@@ -11653,5 +11653,33 @@
         "description": "Llyr has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-06-14 13:14:06"
+    },
+    {
+        "id": 162656955,
+        "caption": "Player Death",
+        "description": "Gilda was slain by Freja (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-06-14 16:37:07"
+    },
+    {
+        "id": 162657032,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-06-14 16:41:09"
+    },
+    {
+        "id": 162657073,
+        "caption": "Player Death",
+        "description": "Jemna was slain by Zagreus (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-06-14 16:41:44"
+    },
+    {
+        "id": 162657092,
+        "caption": "Player Death",
+        "description": "Gilda was slain by Freja (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-06-14 16:42:08"
     }
 ]
