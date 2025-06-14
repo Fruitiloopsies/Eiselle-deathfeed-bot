@@ -11646,5 +11646,12 @@
         "description": "Llyr has become the delicious main course for a ravenous fesix.",
         "type": "DEA",
         "date": "2025-06-14 12:20:13"
+    },
+    {
+        "id": 162656187,
+        "caption": "Player Death",
+        "description": "Llyr has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-06-14 13:14:06"
     }
 ]
