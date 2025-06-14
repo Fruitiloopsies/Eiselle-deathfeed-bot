@@ -11639,5 +11639,12 @@
         "description": "Freja was slain by misadventure.",
         "type": "DEA",
         "date": "2025-06-14 07:28:47"
+    },
+    {
+        "id": 162656088,
+        "caption": "Player Death",
+        "description": "Llyr has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2025-06-14 12:20:13"
     }
 ]
