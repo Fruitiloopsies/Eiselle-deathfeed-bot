@@ -11604,5 +11604,12 @@
         "description": "Xiran was slain by Inagin (Victim had 70% the might).",
         "type": "DEA",
         "date": "2025-06-13 21:33:21"
+    },
+    {
+        "id": 162653151,
+        "caption": "Player Death",
+        "description": "Jemna has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2025-06-14 01:42:58"
     }
 ]
