@@ -11695,5 +11695,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-06-15 05:12:07"
+    },
+    {
+        "id": 162663235,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Inagin (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-06-15 13:42:16"
     }
 ]
