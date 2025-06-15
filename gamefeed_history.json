@@ -11688,5 +11688,12 @@
         "description": "Otem has been culled and dragged off into the darkness of the Illithoid Prison.",
         "type": "DEA",
         "date": "2025-06-15 02:50:29"
+    },
+    {
+        "id": 162661451,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-06-15 05:12:07"
     }
 ]
