@@ -11681,5 +11681,12 @@
         "description": "Gilda was slain by Freja (Victim had 60% the might).",
         "type": "DEA",
         "date": "2025-06-14 16:42:08"
+    },
+    {
+        "id": 162660901,
+        "caption": "Player Death",
+        "description": "Otem has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2025-06-15 02:50:29"
     }
 ]
