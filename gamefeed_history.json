@@ -11709,5 +11709,19 @@
         "description": "Alainna has been trampled and crushed by a stainless steel goat.",
         "type": "DEA",
         "date": "2025-06-16 03:42:00"
+    },
+    {
+        "id": 162671464,
+        "caption": "Player Death",
+        "description": "Jaye has been grappled, crushed, and consumed by Uskashyth, the Great Worm.",
+        "type": "DEA",
+        "date": "2025-06-16 18:18:50"
+    },
+    {
+        "id": 162671572,
+        "caption": "Player Death",
+        "description": "Otem has been grappled, crushed, and consumed by Uskashyth, the Great Worm.",
+        "type": "DEA",
+        "date": "2025-06-16 18:32:08"
     }
 ]
