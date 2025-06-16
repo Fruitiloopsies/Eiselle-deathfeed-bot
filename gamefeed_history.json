@@ -11723,5 +11723,12 @@
         "description": "Otem has been grappled, crushed, and consumed by Uskashyth, the Great Worm.",
         "type": "DEA",
         "date": "2025-06-16 18:32:08"
+    },
+    {
+        "id": 162671723,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Inagin (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-06-16 18:53:07"
     }
 ]
