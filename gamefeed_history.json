@@ -11730,5 +11730,12 @@
         "description": "Xiran was slain by Inagin (Victim had 70% the might).",
         "type": "DEA",
         "date": "2025-06-16 18:53:07"
+    },
+    {
+        "id": 162674380,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-17 04:17:36"
     }
 ]
