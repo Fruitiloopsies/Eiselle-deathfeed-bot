@@ -11751,5 +11751,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Yinuish, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-06-17 13:27:58"
+    },
+    {
+        "id": 162677342,
+        "caption": "Player Death",
+        "description": "Llyr has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-06-17 16:48:10"
     }
 ]
