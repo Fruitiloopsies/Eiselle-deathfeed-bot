@@ -11779,5 +11779,19 @@
         "description": "Laina has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2025-06-18 03:27:44"
+    },
+    {
+        "id": 162683930,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Llyr, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-06-18 18:14:24"
+    },
+    {
+        "id": 162684109,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Llyr, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-06-18 18:29:49"
     }
 ]
