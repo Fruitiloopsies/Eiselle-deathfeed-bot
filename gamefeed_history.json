@@ -11800,5 +11800,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Llyr, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-06-18 18:38:34"
+    },
+    {
+        "id": 162684595,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Inagin (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-06-18 19:55:45"
     }
 ]
