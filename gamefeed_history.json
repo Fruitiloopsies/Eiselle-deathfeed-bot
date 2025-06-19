@@ -11828,5 +11828,19 @@
         "description": "Llyr was slain by misadventure.",
         "type": "DEA",
         "date": "2025-06-19 16:39:59"
+    },
+    {
+        "id": 162690187,
+        "caption": "Player Death",
+        "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-06-19 16:47:19"
+    },
+    {
+        "id": 162690209,
+        "caption": "Player Death",
+        "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-06-19 16:49:47"
     }
 ]
