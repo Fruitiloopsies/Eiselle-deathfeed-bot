@@ -11842,5 +11842,12 @@
         "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-06-19 16:49:47"
+    },
+    {
+        "id": 162690486,
+        "caption": "Player Death",
+        "description": "Jemna has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2025-06-19 17:49:55"
     }
 ]
