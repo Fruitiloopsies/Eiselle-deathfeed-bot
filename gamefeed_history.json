@@ -11821,5 +11821,12 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-06-19 04:52:41"
+    },
+    {
+        "id": 162690167,
+        "caption": "Player Death",
+        "description": "Llyr was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-19 16:39:59"
     }
 ]
