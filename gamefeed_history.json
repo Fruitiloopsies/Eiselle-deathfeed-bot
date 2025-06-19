@@ -11807,5 +11807,19 @@
         "description": "Xiran was slain by Inagin (Victim had 70% the might).",
         "type": "DEA",
         "date": "2025-06-18 19:55:45"
+    },
+    {
+        "id": 162687284,
+        "caption": "Player Death",
+        "description": "Otem was slain by Otem (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-06-19 04:37:52"
+    },
+    {
+        "id": 162687400,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-06-19 04:52:41"
     }
 ]
