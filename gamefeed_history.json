@@ -11877,5 +11877,12 @@
         "description": "Jemna was slain by Galaphyrae (Victim had 55% the might).",
         "type": "DEA",
         "date": "2025-06-20 15:45:43"
+    },
+    {
+        "id": 162697157,
+        "caption": "Player Death",
+        "description": "Liora has been slain by the might of a monstrous gravedigger.",
+        "type": "DEA",
+        "date": "2025-06-20 18:05:47"
     }
 ]
