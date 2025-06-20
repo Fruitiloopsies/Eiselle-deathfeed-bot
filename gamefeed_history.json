@@ -11884,5 +11884,12 @@
         "description": "Liora has been slain by the might of a monstrous gravedigger.",
         "type": "DEA",
         "date": "2025-06-20 18:05:47"
+    },
+    {
+        "id": 162699022,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-20 22:49:52"
     }
 ]
