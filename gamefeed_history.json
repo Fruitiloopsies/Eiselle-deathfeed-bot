@@ -11863,5 +11863,19 @@
         "description": "An archon of Eternal Light banishes Malayn's soul for crimes against New Celest.",
         "type": "DEA",
         "date": "2025-06-19 21:45:38"
+    },
+    {
+        "id": 162696094,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Galaphyrae (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-06-20 15:44:42"
+    },
+    {
+        "id": 162696142,
+        "caption": "Player Death",
+        "description": "Jemna was slain by Galaphyrae (Victim had 55% the might).",
+        "type": "DEA",
+        "date": "2025-06-20 15:45:43"
     }
 ]
