@@ -11891,5 +11891,19 @@
         "description": "Shango was slain by misadventure.",
         "type": "DEA",
         "date": "2025-06-20 22:49:52"
+    },
+    {
+        "id": 162699909,
+        "caption": "Player Death",
+        "description": "Liora has been slain by the might of a fierce and enormous roc.",
+        "type": "DEA",
+        "date": "2025-06-21 01:21:19"
+    },
+    {
+        "id": 162699997,
+        "caption": "Player Death",
+        "description": "Liora has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-06-21 01:43:38"
     }
 ]
