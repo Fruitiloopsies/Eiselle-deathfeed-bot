@@ -11905,5 +11905,12 @@
         "description": "Liora has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-06-21 01:43:38"
+    },
+    {
+        "id": 162703829,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Llyr, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-06-21 17:21:45"
     }
 ]
