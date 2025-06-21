@@ -11912,5 +11912,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Llyr, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-06-21 17:21:45"
+    },
+    {
+        "id": 162703853,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Galaphyrae (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-06-21 17:26:55"
     }
 ]
