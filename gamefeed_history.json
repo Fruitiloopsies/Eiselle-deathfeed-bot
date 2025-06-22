@@ -11933,5 +11933,12 @@
         "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-06-22 10:42:24"
+    },
+    {
+        "id": 162707978,
+        "caption": "Player Death",
+        "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-06-22 10:56:11"
     }
 ]
