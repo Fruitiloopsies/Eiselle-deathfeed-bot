@@ -11940,5 +11940,19 @@
         "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-06-22 10:56:11"
+    },
+    {
+        "id": 162710561,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Freja (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-06-22 21:06:07"
+    },
+    {
+        "id": 162710613,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Freja (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-06-22 21:06:43"
     }
 ]
