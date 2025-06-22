@@ -11919,5 +11919,12 @@
         "description": "Faragan was slain by Galaphyrae (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-06-21 17:26:55"
+    },
+    {
+        "id": 162707883,
+        "caption": "Player Death",
+        "description": "Llyr was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-22 10:30:04"
     }
 ]
