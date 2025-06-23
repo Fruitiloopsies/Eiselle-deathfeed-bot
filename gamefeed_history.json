@@ -11961,5 +11961,54 @@
         "description": "Liora has been slain by the might of a monstrous gravedigger.",
         "type": "DEA",
         "date": "2025-06-22 23:31:21"
+    },
+    {
+        "id": 162712995,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-06-23 03:33:44"
+    },
+    {
+        "id": 162713039,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Freja has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-06-23 03:33:47"
+    },
+    {
+        "id": 162713053,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-06-23 03:34:49"
+    },
+    {
+        "id": 162713066,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Malayn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-06-23 03:35:00"
+    },
+    {
+        "id": 162713096,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Shango, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-06-23 03:36:55"
+    },
+    {
+        "id": 162713140,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-06-23 03:37:16"
+    },
+    {
+        "id": 162713153,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-06-23 03:37:47"
     }
 ]
