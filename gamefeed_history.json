@@ -12010,5 +12010,12 @@
         "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-06-23 03:37:47"
+    },
+    {
+        "id": 162713806,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-06-23 05:26:28"
     }
 ]
