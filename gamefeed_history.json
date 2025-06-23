@@ -12017,5 +12017,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-06-23 05:26:28"
+    },
+    {
+        "id": 162714740,
+        "caption": "Player Death",
+        "description": "Rogziel was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-23 10:33:21"
     }
 ]
