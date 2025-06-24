@@ -12122,5 +12122,12 @@
         "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-06-24 17:31:45"
+    },
+    {
+        "id": 162724999,
+        "caption": "Player Death",
+        "description": "Hronorn's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2025-06-24 20:37:38"
     }
 ]
