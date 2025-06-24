@@ -12143,5 +12143,12 @@
         "description": "Hronorn has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-06-24 22:01:56"
+    },
+    {
+        "id": 162725463,
+        "caption": "Player Death",
+        "description": "Hronorn has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-06-24 22:26:28"
     }
 ]
