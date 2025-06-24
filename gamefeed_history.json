@@ -12101,5 +12101,26 @@
         "description": "Hronorn has been slain by the might of a two-headed eagle.",
         "type": "DEA",
         "date": "2025-06-24 06:21:09"
+    },
+    {
+        "id": 162723896,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Llyr.",
+        "type": "DEA",
+        "date": "2025-06-24 17:22:47"
+    },
+    {
+        "id": 162723916,
+        "caption": "Player Death",
+        "description": "Llyr has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2025-06-24 17:28:15"
+    },
+    {
+        "id": 162723941,
+        "caption": "Player Death",
+        "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-06-24 17:31:45"
     }
 ]
