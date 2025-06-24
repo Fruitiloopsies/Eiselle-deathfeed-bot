@@ -12129,5 +12129,12 @@
         "description": "Hronorn's body has been pinched in half by the claws of a monstrous lobstrosity.",
         "type": "DEA",
         "date": "2025-06-24 20:37:38"
+    },
+    {
+        "id": 162725208,
+        "caption": "Player Death",
+        "description": "Aramantos was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-24 21:23:07"
     }
 ]
