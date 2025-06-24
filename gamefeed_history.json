@@ -12087,5 +12087,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-06-24 04:39:24"
+    },
+    {
+        "id": 162720576,
+        "caption": "Player Death",
+        "description": "Hronorn has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-06-24 05:07:08"
     }
 ]
