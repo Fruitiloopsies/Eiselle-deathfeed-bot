@@ -12073,5 +12073,19 @@
         "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
         "type": "DEA",
         "date": "2025-06-24 01:42:04"
+    },
+    {
+        "id": 162720418,
+        "caption": "Player Death",
+        "description": "Hronorn has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2025-06-24 04:31:18"
+    },
+    {
+        "id": 162720450,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-06-24 04:39:24"
     }
 ]
