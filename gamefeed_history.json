@@ -12024,5 +12024,26 @@
         "description": "Rogziel was slain by misadventure.",
         "type": "DEA",
         "date": "2025-06-23 10:33:21"
+    },
+    {
+        "id": 162718846,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Otem, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-06-24 00:30:34"
+    },
+    {
+        "id": 162718856,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-06-24 00:30:42"
+    },
+    {
+        "id": 162718906,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Jemna, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-06-24 00:33:04"
     }
 ]
