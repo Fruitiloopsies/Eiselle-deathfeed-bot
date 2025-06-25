@@ -12178,5 +12178,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-06-25 05:38:44"
+    },
+    {
+        "id": 162727600,
+        "caption": "Player Death",
+        "description": "Hronorn has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-06-25 08:31:13"
     }
 ]
