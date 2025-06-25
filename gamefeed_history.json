@@ -12164,5 +12164,12 @@
         "description": "Hronorn has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-06-24 23:59:42"
+    },
+    {
+        "id": 162726709,
+        "caption": "Player Death",
+        "description": "Forrest was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-25 03:19:44"
     }
 ]
