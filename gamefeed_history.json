@@ -12171,5 +12171,12 @@
         "description": "Forrest was slain by misadventure.",
         "type": "DEA",
         "date": "2025-06-25 03:19:44"
+    },
+    {
+        "id": 162727165,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-06-25 05:38:44"
     }
 ]
