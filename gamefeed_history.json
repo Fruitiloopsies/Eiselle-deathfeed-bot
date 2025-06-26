@@ -12241,5 +12241,12 @@
         "description": "Huskii was slain by misadventure.",
         "type": "DEA",
         "date": "2025-06-26 18:37:27"
+    },
+    {
+        "id": 162736747,
+        "caption": "Player Death",
+        "description": "Liora has become food for an adolescent Great Worm, her body never to be seen again.",
+        "type": "DEA",
+        "date": "2025-06-26 22:01:03"
     }
 ]
