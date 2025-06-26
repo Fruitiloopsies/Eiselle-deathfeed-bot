@@ -12192,5 +12192,26 @@
         "description": "Jemna was slain by misadventure.",
         "type": "DEA",
         "date": "2025-06-26 14:37:45"
+    },
+    {
+        "id": 162735511,
+        "caption": "Player Death",
+        "description": "Llyr has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-06-26 17:28:19"
+    },
+    {
+        "id": 162735577,
+        "caption": "Player Death",
+        "description": "Leika has been slain by the might of a deadly poison trap.",
+        "type": "DEA",
+        "date": "2025-06-26 17:32:50"
+    },
+    {
+        "id": 162735587,
+        "caption": "Player Death",
+        "description": "Jaye has been slain by the might of a deadly poison trap.",
+        "type": "DEA",
+        "date": "2025-06-26 17:32:50"
     }
 ]
