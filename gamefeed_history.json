@@ -12220,5 +12220,26 @@
         "description": "Jaye has been slain by the might of a deadly poison trap.",
         "type": "DEA",
         "date": "2025-06-26 18:08:31"
+    },
+    {
+        "id": 162735889,
+        "caption": "Player Death",
+        "description": "Leika has been slain by the might of a deadly poison trap.",
+        "type": "DEA",
+        "date": "2025-06-26 18:20:57"
+    },
+    {
+        "id": 162735899,
+        "caption": "Player Death",
+        "description": "Jaye has been slain by the might of a deadly poison trap.",
+        "type": "DEA",
+        "date": "2025-06-26 18:20:57"
+    },
+    {
+        "id": 162735979,
+        "caption": "Player Death",
+        "description": "Huskii was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-26 18:37:27"
     }
 ]
