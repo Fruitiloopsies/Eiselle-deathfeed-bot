@@ -12248,5 +12248,12 @@
         "description": "Liora has become food for an adolescent Great Worm, her body never to be seen again.",
         "type": "DEA",
         "date": "2025-06-26 22:01:03"
+    },
+    {
+        "id": 162738233,
+        "caption": "Player Death",
+        "description": "Hronorn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-27 03:54:20"
     }
 ]
