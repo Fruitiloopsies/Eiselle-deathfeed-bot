@@ -12297,5 +12297,12 @@
         "description": "Marked for death by a clangoru artificer, Otem has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-06-28 21:41:47"
+    },
+    {
+        "id": 162748263,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Otem has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-06-28 21:51:41"
     }
 ]
