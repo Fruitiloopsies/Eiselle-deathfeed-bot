@@ -12290,5 +12290,12 @@
         "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
         "type": "DEA",
         "date": "2025-06-28 06:29:29"
+    },
+    {
+        "id": 162748215,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Otem has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-06-28 21:41:47"
     }
 ]
