@@ -12283,5 +12283,12 @@
         "description": "Jemna has been slain by the might of a two-headed eagle.",
         "type": "DEA",
         "date": "2025-06-28 04:45:37"
+    },
+    {
+        "id": 162745280,
+        "caption": "Player Death",
+        "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2025-06-28 06:29:29"
     }
 ]
