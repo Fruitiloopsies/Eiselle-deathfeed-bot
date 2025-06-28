@@ -12304,5 +12304,40 @@
         "description": "Marked for death by a clangoru artificer, Otem has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-06-28 21:51:41"
+    },
+    {
+        "id": 162748279,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Otem has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-06-28 22:00:55"
+    },
+    {
+        "id": 162748294,
+        "caption": "Player Death",
+        "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-06-28 22:04:29"
+    },
+    {
+        "id": 162748323,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Numinous has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-06-28 22:04:39"
+    },
+    {
+        "id": 162748354,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-28 22:05:40"
+    },
+    {
+        "id": 162748387,
+        "caption": "Player Death",
+        "description": "Jaye has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-06-28 22:05:43"
     }
 ]
