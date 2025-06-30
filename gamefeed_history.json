@@ -12353,5 +12353,12 @@
         "description": "Jemna was slain by Freja (Victim had 60% the might).",
         "type": "DEA",
         "date": "2025-06-29 22:13:24"
+    },
+    {
+        "id": 162757549,
+        "caption": "Player Death",
+        "description": "Alainna was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-06-30 06:44:21"
     }
 ]
