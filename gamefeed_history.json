@@ -12360,5 +12360,12 @@
         "description": "Alainna was slain by misadventure.",
         "type": "DEA",
         "date": "2025-06-30 06:44:21"
+    },
+    {
+        "id": 162758463,
+        "caption": "Player Death",
+        "description": "Otem has been slain by the might of Eithatha, Mistress of Poisons.",
+        "type": "DEA",
+        "date": "2025-06-30 12:31:27"
     }
 ]
