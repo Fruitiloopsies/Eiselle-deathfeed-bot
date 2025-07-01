@@ -12367,5 +12367,12 @@
         "description": "Otem has been slain by the might of Eithatha, Mistress of Poisons.",
         "type": "DEA",
         "date": "2025-06-30 12:31:27"
+    },
+    {
+        "id": 162765730,
+        "caption": "Player Death",
+        "description": "Aidune has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2025-07-01 16:13:32"
     }
 ]
