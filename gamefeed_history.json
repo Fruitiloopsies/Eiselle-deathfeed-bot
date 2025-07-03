@@ -12388,5 +12388,12 @@
         "description": "Alainna was slain by misadventure.",
         "type": "DEA",
         "date": "2025-07-03 05:43:41"
+    },
+    {
+        "id": 162776090,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-07-03 06:28:17"
     }
 ]
