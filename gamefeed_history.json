@@ -12381,5 +12381,12 @@
         "description": "Otem has been slain by the might of a slithering inner worm.",
         "type": "DEA",
         "date": "2025-07-02 02:38:22"
+    },
+    {
+        "id": 162775916,
+        "caption": "Player Death",
+        "description": "Alainna was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-07-03 05:43:41"
     }
 ]
