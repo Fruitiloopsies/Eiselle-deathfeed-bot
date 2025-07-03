@@ -12409,5 +12409,12 @@
         "description": "Freja was slain by misadventure.",
         "type": "DEA",
         "date": "2025-07-03 12:39:23"
+    },
+    {
+        "id": 162777895,
+        "caption": "Player Death",
+        "description": "Llyr has been dissolved within a broken living amphora.",
+        "type": "DEA",
+        "date": "2025-07-03 17:21:19"
     }
 ]
