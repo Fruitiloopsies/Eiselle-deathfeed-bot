@@ -12395,5 +12395,19 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-07-03 06:28:17"
+    },
+    {
+        "id": 162777157,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-07-03 12:39:23"
+    },
+    {
+        "id": 162777189,
+        "caption": "Player Death",
+        "description": "Freja was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-07-03 12:39:23"
     }
 ]
