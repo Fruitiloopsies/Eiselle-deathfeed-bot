@@ -12423,5 +12423,12 @@
         "description": "Shango was slain by misadventure.",
         "type": "DEA",
         "date": "2025-07-04 01:15:18"
+    },
+    {
+        "id": 162784240,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Galaphyrae (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-07-04 21:27:09"
     }
 ]
