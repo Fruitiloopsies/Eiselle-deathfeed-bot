@@ -12416,5 +12416,12 @@
         "description": "Llyr has been dissolved within a broken living amphora.",
         "type": "DEA",
         "date": "2025-07-03 17:21:19"
+    },
+    {
+        "id": 162780051,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-07-04 01:15:18"
     }
 ]
