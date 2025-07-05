@@ -12430,5 +12430,12 @@
         "description": "Faragan was slain by Galaphyrae (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-07-04 21:27:09"
+    },
+    {
+        "id": 162786085,
+        "caption": "Player Death",
+        "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2025-07-05 05:00:28"
     }
 ]
