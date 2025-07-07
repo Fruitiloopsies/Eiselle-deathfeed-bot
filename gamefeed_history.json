@@ -12444,5 +12444,12 @@
         "description": "Alainna has been given the kiss of death by an emaciated virgin.",
         "type": "DEA",
         "date": "2025-07-07 06:00:02"
+    },
+    {
+        "id": 162798879,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Aramantos, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-07-07 12:13:13"
     }
 ]
