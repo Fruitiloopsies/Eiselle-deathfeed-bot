@@ -12437,5 +12437,12 @@
         "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2025-07-05 05:00:28"
+    },
+    {
+        "id": 162797639,
+        "caption": "Player Death",
+        "description": "Alainna has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2025-07-07 06:00:02"
     }
 ]
