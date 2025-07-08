@@ -12479,5 +12479,12 @@
         "description": "Dedra has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-07-08 21:23:48"
+    },
+    {
+        "id": 162808318,
+        "caption": "Player Death",
+        "description": "A two-headed abhorrence has trampled all over Dedra.",
+        "type": "DEA",
+        "date": "2025-07-08 22:07:43"
     }
 ]
