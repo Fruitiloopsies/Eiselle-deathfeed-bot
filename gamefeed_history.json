@@ -12472,5 +12472,12 @@
         "description": "Dedra has been slain by the might of a vicious allisaur.",
         "type": "DEA",
         "date": "2025-07-08 19:18:17"
+    },
+    {
+        "id": 162808019,
+        "caption": "Player Death",
+        "description": "Dedra has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-07-08 21:23:48"
     }
 ]
