@@ -12535,5 +12535,12 @@
         "description": "Alainna has become the delicious main course for a ravenous fesix.",
         "type": "DEA",
         "date": "2025-07-10 05:47:22"
+    },
+    {
+        "id": 162820273,
+        "caption": "Player Death",
+        "description": "Klark has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2025-07-10 20:55:32"
     }
 ]
