@@ -12493,5 +12493,26 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-07-09 05:04:41"
+    },
+    {
+        "id": 162815271,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-07-10 01:40:57"
+    },
+    {
+        "id": 162815336,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Freja (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-07-10 01:41:29"
+    },
+    {
+        "id": 162815369,
+        "caption": "Player Death",
+        "description": "Gilda was slain by Freja (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-07-10 01:42:01"
     }
 ]
