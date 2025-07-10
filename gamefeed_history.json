@@ -12521,5 +12521,12 @@
         "description": "Bezejeth has been slain by the might of a deadly poison trap.",
         "type": "DEA",
         "date": "2025-07-10 03:45:29"
+    },
+    {
+        "id": 162816886,
+        "caption": "Player Death",
+        "description": "Alainna has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-07-10 05:13:13"
     }
 ]
