@@ -12514,5 +12514,12 @@
         "description": "Gilda was slain by Freja (Victim had 60% the might).",
         "type": "DEA",
         "date": "2025-07-10 01:42:01"
+    },
+    {
+        "id": 162816255,
+        "caption": "Player Death",
+        "description": "Bezejeth has been slain by the might of a deadly poison trap.",
+        "type": "DEA",
+        "date": "2025-07-10 03:45:29"
     }
 ]
