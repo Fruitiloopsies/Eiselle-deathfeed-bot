@@ -12542,5 +12542,12 @@
         "description": "Klark has been slain by the might of a two-headed eagle.",
         "type": "DEA",
         "date": "2025-07-10 20:55:32"
+    },
+    {
+        "id": 162820383,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-07-10 21:41:47"
     }
 ]
