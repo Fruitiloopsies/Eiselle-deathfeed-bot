@@ -12549,5 +12549,12 @@
         "description": "Tuilinn was slain by misadventure.",
         "type": "DEA",
         "date": "2025-07-10 21:41:47"
+    },
+    {
+        "id": 162830678,
+        "caption": "Player Death",
+        "description": "Vablus has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-07-12 19:14:55"
     }
 ]
