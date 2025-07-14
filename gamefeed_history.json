@@ -12556,5 +12556,19 @@
         "description": "Vablus has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-07-12 19:14:55"
+    },
+    {
+        "id": 162838674,
+        "caption": "Player Death",
+        "description": "Alainna has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-07-14 03:14:45"
+    },
+    {
+        "id": 162838811,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-07-14 03:49:08"
     }
 ]
