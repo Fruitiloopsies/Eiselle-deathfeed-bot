@@ -12570,5 +12570,12 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-07-14 03:49:08"
+    },
+    {
+        "id": 162838844,
+        "caption": "Player Death",
+        "description": "Alainna became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2025-07-14 04:02:00"
     }
 ]
