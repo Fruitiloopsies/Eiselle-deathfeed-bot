@@ -12612,5 +12612,12 @@
         "description": "Mandrayke was slain by misadventure.",
         "type": "DEA",
         "date": "2025-07-16 13:40:58"
+    },
+    {
+        "id": 162850949,
+        "caption": "Player Death",
+        "description": "Llyr has become food for an adolescent Great Worm, his body never to be seen again.",
+        "type": "DEA",
+        "date": "2025-07-16 19:16:11"
     }
 ]
