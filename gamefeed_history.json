@@ -12598,5 +12598,19 @@
         "description": "Mandrayke was slain by misadventure.",
         "type": "DEA",
         "date": "2025-07-16 12:25:23"
+    },
+    {
+        "id": 162849971,
+        "caption": "Player Death",
+        "description": "Mandrayke was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-07-16 13:30:16"
+    },
+    {
+        "id": 162849980,
+        "caption": "Player Death",
+        "description": "Mandrayke was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-07-16 13:40:58"
     }
 ]
