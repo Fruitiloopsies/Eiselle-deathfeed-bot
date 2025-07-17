@@ -12640,5 +12640,26 @@
         "description": "Llyr has become food for an adolescent Great Worm, his body never to be seen again.",
         "type": "DEA",
         "date": "2025-07-17 16:41:36"
+    },
+    {
+        "id": 162855573,
+        "caption": "Player Death",
+        "description": "Jaye has been slain by the might of Uskashyth, the Great Worm's innards.",
+        "type": "DEA",
+        "date": "2025-07-17 18:17:14"
+    },
+    {
+        "id": 162855617,
+        "caption": "Player Death",
+        "description": "Llyr has been slain by the might of Uskashyth, the Great Worm's innards.",
+        "type": "DEA",
+        "date": "2025-07-17 18:17:14"
+    },
+    {
+        "id": 162855637,
+        "caption": "Player Death",
+        "description": "Jaye has been grappled, crushed, and consumed by Uskashyth, the Great Worm.",
+        "type": "DEA",
+        "date": "2025-07-17 18:30:09"
     }
 ]
