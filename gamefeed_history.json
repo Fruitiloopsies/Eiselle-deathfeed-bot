@@ -12626,5 +12626,19 @@
         "description": "Llyr has become food for an adolescent Great Worm, his body never to be seen again.",
         "type": "DEA",
         "date": "2025-07-17 05:31:18"
+    },
+    {
+        "id": 162855018,
+        "caption": "Player Death",
+        "description": "Huskii was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-07-17 16:14:38"
+    },
+    {
+        "id": 162855093,
+        "caption": "Player Death",
+        "description": "Llyr has become food for an adolescent Great Worm, his body never to be seen again.",
+        "type": "DEA",
+        "date": "2025-07-17 16:41:36"
     }
 ]
