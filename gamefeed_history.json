@@ -12668,5 +12668,12 @@
         "description": "Assarni was slain by Jaye (Victim had 70% the might).",
         "type": "DEA",
         "date": "2025-07-19 05:40:34"
+    },
+    {
+        "id": 162871167,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Zagreus (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-07-20 21:37:58"
     }
 ]
