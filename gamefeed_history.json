@@ -12689,5 +12689,12 @@
         "description": "Alainna has been trampled and crushed by a stainless steel goat.",
         "type": "DEA",
         "date": "2025-07-21 05:21:23"
+    },
+    {
+        "id": 162874365,
+        "caption": "Player Death",
+        "description": "Huskii was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-07-21 14:23:28"
     }
 ]
