@@ -12682,5 +12682,12 @@
         "description": "Assarni was slain by Manteekan (Victim had 25% the might).",
         "type": "DEA",
         "date": "2025-07-21 00:33:22"
+    },
+    {
+        "id": 162872811,
+        "caption": "Player Death",
+        "description": "Alainna has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-07-21 05:21:23"
     }
 ]
