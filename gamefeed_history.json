@@ -12724,5 +12724,26 @@
         "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
         "type": "DEA",
         "date": "2025-07-23 04:37:17"
+    },
+    {
+        "id": 162883458,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-07-23 15:01:16"
+    },
+    {
+        "id": 162883473,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Shango, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-07-23 15:01:57"
+    },
+    {
+        "id": 162883525,
+        "caption": "Player Death",
+        "description": "Elarin has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-07-23 15:03:08"
     }
 ]
