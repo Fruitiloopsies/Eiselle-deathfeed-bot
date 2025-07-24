@@ -12745,5 +12745,12 @@
         "description": "Elarin has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-07-23 15:03:08"
+    },
+    {
+        "id": 162885974,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-07-24 04:47:51"
     }
 ]
