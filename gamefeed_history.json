@@ -12759,5 +12759,12 @@
         "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2025-07-24 04:56:47"
+    },
+    {
+        "id": 162886226,
+        "caption": "Player Death",
+        "description": "Hronorn has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2025-07-24 06:20:03"
     }
 ]
