@@ -12752,5 +12752,12 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-07-24 04:47:51"
+    },
+    {
+        "id": 162886024,
+        "caption": "Player Death",
+        "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2025-07-24 04:56:47"
     }
 ]
