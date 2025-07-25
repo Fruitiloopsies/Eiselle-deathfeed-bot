@@ -12766,5 +12766,12 @@
         "description": "Hronorn has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2025-07-24 06:20:03"
+    },
+    {
+        "id": 162890418,
+        "caption": "Player Death",
+        "description": "Assarni was slain by Vyell (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-07-25 01:37:51"
     }
 ]
