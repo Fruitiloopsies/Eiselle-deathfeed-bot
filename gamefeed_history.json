@@ -12773,5 +12773,12 @@
         "description": "Assarni was slain by Vyell (Victim had 70% the might).",
         "type": "DEA",
         "date": "2025-07-25 01:37:51"
+    },
+    {
+        "id": 162891138,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-07-25 04:52:55"
     }
 ]
