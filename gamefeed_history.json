@@ -12801,5 +12801,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Hronorn, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-07-27 13:19:32"
+    },
+    {
+        "id": 162904195,
+        "caption": "Player Death",
+        "description": "Assarni was slain by Kalikai (Victim had 35% the might).",
+        "type": "DEA",
+        "date": "2025-07-27 21:24:38"
     }
 ]
