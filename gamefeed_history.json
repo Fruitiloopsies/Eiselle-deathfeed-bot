@@ -12815,5 +12815,12 @@
         "description": "Ixchilgal was slain by Eiselle (Victim had 85% the might).",
         "type": "DEA",
         "date": "2025-07-28 01:51:57"
+    },
+    {
+        "id": 162906201,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
+        "type": "DEA",
+        "date": "2025-07-28 04:54:34"
     }
 ]
