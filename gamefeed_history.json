@@ -12822,5 +12822,12 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
         "type": "DEA",
         "date": "2025-07-28 04:54:34"
+    },
+    {
+        "id": 162911096,
+        "caption": "Player Death",
+        "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-07-29 04:15:55"
     }
 ]
