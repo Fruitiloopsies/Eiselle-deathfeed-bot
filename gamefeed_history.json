@@ -12836,5 +12836,19 @@
         "description": "Alainna has been trampled and crushed by a stainless steel goat.",
         "type": "DEA",
         "date": "2025-07-30 05:41:02"
+    },
+    {
+        "id": 162917559,
+        "caption": "Player Death",
+        "description": "Alainna was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-07-30 06:07:57"
+    },
+    {
+        "id": 162917574,
+        "caption": "Player Death",
+        "description": "Alainna became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2025-07-30 06:17:15"
     }
 ]
