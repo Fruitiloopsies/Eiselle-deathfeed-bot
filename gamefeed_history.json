@@ -12829,5 +12829,12 @@
         "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-07-29 04:15:55"
+    },
+    {
+        "id": 162917465,
+        "caption": "Player Death",
+        "description": "Alainna has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-07-30 05:41:02"
     }
 ]
