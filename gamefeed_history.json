@@ -12857,5 +12857,19 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Hronorn, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-07-30 23:09:13"
+    },
+    {
+        "id": 162921753,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Assarni, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-07-31 00:45:31"
+    },
+    {
+        "id": 162921768,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Assarni, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-07-31 01:01:29"
     }
 ]
