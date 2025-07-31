@@ -12885,5 +12885,47 @@
         "description": "A ghostly battlecharger has brought war to Llyr, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2025-07-31 19:43:07"
+    },
+    {
+        "id": 162926181,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Faragan has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-07-31 20:30:30"
+    },
+    {
+        "id": 162926212,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Numinous has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-07-31 20:31:52"
+    },
+    {
+        "id": 162926238,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-07-31 20:32:23"
+    },
+    {
+        "id": 162926271,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-07-31 20:33:31"
+    },
+    {
+        "id": 162926336,
+        "caption": "Player Death",
+        "description": "Gilda has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-07-31 20:33:32"
+    },
+    {
+        "id": 162926393,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Aknarin has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-07-31 20:38:52"
     }
 ]
