@@ -12871,5 +12871,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Assarni, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-07-31 01:01:29"
+    },
+    {
+        "id": 162922879,
+        "caption": "Player Death",
+        "description": "Qoivhae was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-07-31 04:21:00"
     }
 ]
