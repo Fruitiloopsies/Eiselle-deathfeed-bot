@@ -12927,5 +12927,12 @@
         "description": "Marked for death by a clangoru artificer, Aknarin has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-07-31 20:38:52"
+    },
+    {
+        "id": 162927418,
+        "caption": "Player Death",
+        "description": "Freja has been reduced to the mental equivalent of a drooling puddle of degenerate sludge by Zenobia, the Queen of Queens.",
+        "type": "DEA",
+        "date": "2025-07-31 23:29:44"
     }
 ]
