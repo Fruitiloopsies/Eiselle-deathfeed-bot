@@ -12955,5 +12955,19 @@
         "description": "Xiran was slain by Eiselle (Victim had 65% the might).",
         "type": "DEA",
         "date": "2025-08-01 20:11:31"
+    },
+    {
+        "id": 162932771,
+        "caption": "Player Death",
+        "description": "Legac has been disemboweled by Cthoglogg, their entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-08-01 21:18:11"
+    },
+    {
+        "id": 162932831,
+        "caption": "Player Death",
+        "description": "Legac has been disemboweled by Cthoglogg, their entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-08-01 21:23:53"
     }
 ]
