@@ -12983,5 +12983,12 @@
         "description": "Farlaris has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-08-02 02:41:26"
+    },
+    {
+        "id": 162936877,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-08-02 15:16:45"
     }
 ]
