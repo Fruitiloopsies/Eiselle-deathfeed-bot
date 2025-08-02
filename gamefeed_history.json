@@ -12969,5 +12969,12 @@
         "description": "Legac has been disemboweled by Cthoglogg, their entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-08-01 21:23:53"
+    },
+    {
+        "id": 162934154,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-08-02 01:56:56"
     }
 ]
