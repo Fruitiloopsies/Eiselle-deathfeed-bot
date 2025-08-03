@@ -13060,5 +13060,19 @@
         "description": "Numinous has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-08-03 11:09:41"
+    },
+    {
+        "id": 162942395,
+        "caption": "Player Death",
+        "description": "Tuilinn has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-08-03 13:48:51"
+    },
+    {
+        "id": 162942430,
+        "caption": "Player Death",
+        "description": "Tuilinn has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-08-03 13:53:00"
     }
 ]
