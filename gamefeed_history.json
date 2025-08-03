@@ -13053,5 +13053,12 @@
         "description": "Alainna has been trampled and crushed by a stainless steel goat.",
         "type": "DEA",
         "date": "2025-08-03 05:28:55"
+    },
+    {
+        "id": 162941940,
+        "caption": "Player Death",
+        "description": "Numinous has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-08-03 11:09:41"
     }
 ]
