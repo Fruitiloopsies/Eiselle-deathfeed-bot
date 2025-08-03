@@ -13046,5 +13046,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Hronorn, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-08-03 03:27:43"
+    },
+    {
+        "id": 162941115,
+        "caption": "Player Death",
+        "description": "Alainna has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-08-03 05:28:55"
     }
 ]
