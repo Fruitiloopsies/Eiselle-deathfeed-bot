@@ -13081,5 +13081,19 @@
         "description": "Marked for death by a clangoru artificer, Aknarin has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-08-03 22:21:26"
+    },
+    {
+        "id": 162945020,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Malayn (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-08-03 22:39:06"
+    },
+    {
+        "id": 162945041,
+        "caption": "Player Death",
+        "description": "Gilda was slain by Freja (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-08-03 22:39:48"
     }
 ]
