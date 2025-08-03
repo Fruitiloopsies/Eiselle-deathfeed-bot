@@ -13095,5 +13095,19 @@
         "description": "Gilda was slain by Freja (Victim had 60% the might).",
         "type": "DEA",
         "date": "2025-08-03 22:39:48"
+    },
+    {
+        "id": 162945290,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-08-03 23:17:00"
+    },
+    {
+        "id": 162945375,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Aidune, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-08-03 23:20:24"
     }
 ]
