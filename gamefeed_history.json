@@ -13109,5 +13109,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Aidune, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-08-03 23:20:24"
+    },
+    {
+        "id": 162945791,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Hronorn, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-08-04 01:00:16"
     }
 ]
