@@ -13116,5 +13116,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Hronorn, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-08-04 01:00:16"
+    },
+    {
+        "id": 162946706,
+        "caption": "Player Death",
+        "description": "Alainna has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2025-08-04 04:51:25"
     }
 ]
