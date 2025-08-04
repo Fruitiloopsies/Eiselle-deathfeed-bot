@@ -13123,5 +13123,19 @@
         "description": "Alainna has become the delicious main course for a ravenous fesix.",
         "type": "DEA",
         "date": "2025-08-04 04:51:25"
+    },
+    {
+        "id": 162950019,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-04 19:10:55"
+    },
+    {
+        "id": 162950082,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-04 19:10:55"
     }
 ]
