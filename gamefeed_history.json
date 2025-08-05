@@ -13137,5 +13137,19 @@
         "description": "Ixchilgal was slain by misadventure.",
         "type": "DEA",
         "date": "2025-08-04 19:10:55"
+    },
+    {
+        "id": 162952279,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Jaye (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-08-05 01:54:06"
+    },
+    {
+        "id": 162952307,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Jemna (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-08-05 01:57:34"
     }
 ]
