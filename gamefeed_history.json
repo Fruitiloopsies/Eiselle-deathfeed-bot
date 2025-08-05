@@ -13151,5 +13151,19 @@
         "description": "Xiran was slain by Jemna (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-08-05 01:57:34"
+    },
+    {
+        "id": 162953186,
+        "caption": "Player Death",
+        "description": "Oriath has been slain by the might of a spectral paladin.",
+        "type": "DEA",
+        "date": "2025-08-05 05:13:38"
+    },
+    {
+        "id": 162953248,
+        "caption": "Player Death",
+        "description": "Alainna has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-08-05 05:18:55"
     }
 ]
