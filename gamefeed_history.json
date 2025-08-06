@@ -13172,5 +13172,12 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-08-06 06:27:00"
+    },
+    {
+        "id": 162961347,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Numinous has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-08-06 20:04:22"
     }
 ]
