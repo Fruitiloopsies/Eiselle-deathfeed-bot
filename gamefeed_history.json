@@ -13263,5 +13263,19 @@
         "description": "Malayn was slain by Tuilinn (Victim had 120% the might).",
         "type": "DEA",
         "date": "2025-08-06 22:49:09"
+    },
+    {
+        "id": 162962331,
+        "caption": "Player Death",
+        "description": "Shango was slain by Jaye (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-08-06 22:53:08"
+    },
+    {
+        "id": 162962376,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Jaye (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-08-06 22:56:15"
     }
 ]
