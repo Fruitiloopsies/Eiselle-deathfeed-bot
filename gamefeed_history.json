@@ -13186,5 +13186,12 @@
         "description": "Body dissolving into sludge, Jemna has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-08-06 20:50:50"
+    },
+    {
+        "id": 162961615,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Jemna has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-08-06 21:34:00"
     }
 ]
