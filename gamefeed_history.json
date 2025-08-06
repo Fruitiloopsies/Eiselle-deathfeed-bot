@@ -13193,5 +13193,40 @@
         "description": "Body dissolving into sludge, Jemna has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-08-06 21:34:00"
+    },
+    {
+        "id": 162961766,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Ayisdra has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-08-06 22:06:10"
+    },
+    {
+        "id": 162961923,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Ayisdra has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-08-06 22:20:19"
+    },
+    {
+        "id": 162961971,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-08-06 22:21:07"
+    },
+    {
+        "id": 162961979,
+        "caption": "Player Death",
+        "description": "Jaye has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-08-06 22:21:20"
+    },
+    {
+        "id": 162962023,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-08-06 22:21:32"
     }
 ]
