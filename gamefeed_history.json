@@ -13305,5 +13305,12 @@
         "description": "Xiran was slain by Inagin (Victim had 70% the might).",
         "type": "DEA",
         "date": "2025-08-07 06:03:44"
+    },
+    {
+        "id": 162966952,
+        "caption": "Player Death",
+        "description": "Elarin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-07 19:01:35"
     }
 ]
