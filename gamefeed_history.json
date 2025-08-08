@@ -13312,5 +13312,12 @@
         "description": "Elarin was slain by misadventure.",
         "type": "DEA",
         "date": "2025-08-07 19:01:35"
+    },
+    {
+        "id": 162972631,
+        "caption": "Player Death",
+        "description": "Jemna has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-08-08 15:04:32"
     }
 ]
