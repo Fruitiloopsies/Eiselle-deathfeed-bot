@@ -13347,5 +13347,12 @@
         "description": "Alainna has been trampled and crushed by a stainless steel goat.",
         "type": "DEA",
         "date": "2025-08-10 08:11:32"
+    },
+    {
+        "id": 162983021,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-08-10 08:21:22"
     }
 ]
