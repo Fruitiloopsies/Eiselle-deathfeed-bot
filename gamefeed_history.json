@@ -13354,5 +13354,12 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-08-10 08:21:22"
+    },
+    {
+        "id": 162985895,
+        "caption": "Player Death",
+        "description": "Fentihr wandered into the Iceburn Plains, never to walk out alive.",
+        "type": "DEA",
+        "date": "2025-08-10 18:38:33"
     }
 ]
