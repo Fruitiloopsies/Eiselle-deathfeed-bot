@@ -13382,5 +13382,12 @@
         "description": "Xiran was slain by Jaye (Victim had 75% the might).",
         "type": "DEA",
         "date": "2025-08-11 02:33:53"
+    },
+    {
+        "id": 162988588,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-08-11 03:42:02"
     }
 ]
