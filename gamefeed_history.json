@@ -13361,5 +13361,12 @@
         "description": "Fentihr wandered into the Iceburn Plains, never to walk out alive.",
         "type": "DEA",
         "date": "2025-08-10 18:38:33"
+    },
+    {
+        "id": 162987571,
+        "caption": "Player Death",
+        "description": "Legac has been disemboweled by Cthoglogg, their entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-08-11 00:24:48"
     }
 ]
