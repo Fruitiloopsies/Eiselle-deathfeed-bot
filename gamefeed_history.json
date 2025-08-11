@@ -13389,5 +13389,19 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-08-11 03:42:02"
+    },
+    {
+        "id": 162989178,
+        "caption": "Player Death",
+        "description": "Inagin has been slain by the might of a kephera nature warder.",
+        "type": "DEA",
+        "date": "2025-08-11 07:20:34"
+    },
+    {
+        "id": 162989200,
+        "caption": "Player Death",
+        "description": "Inagin has been slain by the might of a kephera nature warder.",
+        "type": "DEA",
+        "date": "2025-08-11 07:24:53"
     }
 ]
