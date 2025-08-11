@@ -13410,5 +13410,12 @@
         "description": "Xiran was slain by Inagin (Victim had 70% the might).",
         "type": "DEA",
         "date": "2025-08-11 07:46:28"
+    },
+    {
+        "id": 162990767,
+        "caption": "Player Death",
+        "description": "Aknarin has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-08-11 15:01:17"
     }
 ]
