@@ -13403,5 +13403,12 @@
         "description": "Inagin has been slain by the might of a kephera nature warder.",
         "type": "DEA",
         "date": "2025-08-11 07:24:53"
+    },
+    {
+        "id": 162989249,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Inagin (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2025-08-11 07:46:28"
     }
 ]
