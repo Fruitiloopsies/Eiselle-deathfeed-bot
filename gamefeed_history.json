@@ -13431,5 +13431,19 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Iae, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-08-13 02:26:29"
+    },
+    {
+        "id": 163000777,
+        "caption": "Player Death",
+        "description": "Alainna has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2025-08-13 04:05:45"
+    },
+    {
+        "id": 163000838,
+        "caption": "Player Death",
+        "description": "Alainna has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-08-13 04:21:19"
     }
 ]
