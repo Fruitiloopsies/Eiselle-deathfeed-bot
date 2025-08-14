@@ -13536,5 +13536,12 @@
         "description": "Dedra was slain by misadventure.",
         "type": "DEA",
         "date": "2025-08-14 02:00:07"
+    },
+    {
+        "id": 163006016,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Iae, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-08-14 02:43:03"
     }
 ]
