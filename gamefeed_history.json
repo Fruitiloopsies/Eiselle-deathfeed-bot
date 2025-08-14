@@ -13543,5 +13543,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Iae, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-08-14 02:43:03"
+    },
+    {
+        "id": 163006982,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-08-14 04:15:33"
     }
 ]
