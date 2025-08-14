@@ -13452,5 +13452,89 @@
         "description": "Takhre has been slain by the might of a two-headed eagle.",
         "type": "DEA",
         "date": "2025-08-13 17:49:04"
+    },
+    {
+        "id": 163005285,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Iae, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-08-14 01:35:35"
+    },
+    {
+        "id": 163005323,
+        "caption": "Player Death",
+        "description": "Legac was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-14 01:39:54"
+    },
+    {
+        "id": 163005339,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-14 01:39:54"
+    },
+    {
+        "id": 163005388,
+        "caption": "Player Death",
+        "description": "Jaye was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-14 01:39:54"
+    },
+    {
+        "id": 163005530,
+        "caption": "Player Death",
+        "description": "Legac was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-14 01:52:27"
+    },
+    {
+        "id": 163005545,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-14 01:52:27"
+    },
+    {
+        "id": 163005593,
+        "caption": "Player Death",
+        "description": "Assarni was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-14 01:52:27"
+    },
+    {
+        "id": 163005604,
+        "caption": "Player Death",
+        "description": "Jemna was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-14 01:52:27"
+    },
+    {
+        "id": 163005665,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-14 01:55:37"
+    },
+    {
+        "id": 163005752,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-08-14 01:58:44"
+    },
+    {
+        "id": 163005803,
+        "caption": "Player Death",
+        "description": "Iae was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-14 02:00:07"
+    },
+    {
+        "id": 163005813,
+        "caption": "Player Death",
+        "description": "Dedra was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-14 02:00:07"
     }
 ]
