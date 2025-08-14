@@ -13557,5 +13557,12 @@
         "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2025-08-14 04:45:53"
+    },
+    {
+        "id": 163010408,
+        "caption": "Player Death",
+        "description": "Freja was slain by Exeryte (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-08-14 18:39:16"
     }
 ]
