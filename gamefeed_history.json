@@ -13564,5 +13564,12 @@
         "description": "Freja was slain by Exeryte (Victim had 110% the might).",
         "type": "DEA",
         "date": "2025-08-14 18:39:16"
+    },
+    {
+        "id": 163013538,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Iae, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-08-15 02:32:12"
     }
 ]
