@@ -13571,5 +13571,19 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Iae, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-08-15 02:32:12"
+    },
+    {
+        "id": 163019068,
+        "caption": "Player Death",
+        "description": "Huskii has been fatally injected with the venom of a monstrous bluebottle jellyfish.",
+        "type": "DEA",
+        "date": "2025-08-16 01:39:10"
+    },
+    {
+        "id": 163019425,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-08-16 02:33:39"
     }
 ]
