@@ -13585,5 +13585,26 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-08-16 02:33:39"
+    },
+    {
+        "id": 163021370,
+        "caption": "Player Death",
+        "description": "Llyr was slain by Freja (Victim had 35% the might).",
+        "type": "DEA",
+        "date": "2025-08-16 12:53:01"
+    },
+    {
+        "id": 163021421,
+        "caption": "Player Death",
+        "description": "Numinous was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-08-16 13:00:39"
+    },
+    {
+        "id": 163021447,
+        "caption": "Player Death",
+        "description": "Llyr was slain by Freja (Victim had 35% the might).",
+        "type": "DEA",
+        "date": "2025-08-16 13:01:06"
     }
 ]
