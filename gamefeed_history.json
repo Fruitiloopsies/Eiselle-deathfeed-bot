@@ -13613,5 +13613,40 @@
         "description": "Freja was slain by Kalikai (Victim had 60% the might).",
         "type": "DEA",
         "date": "2025-08-16 20:07:13"
+    },
+    {
+        "id": 163024397,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Hronorn, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-08-16 23:05:57"
+    },
+    {
+        "id": 163024408,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-08-16 23:06:44"
+    },
+    {
+        "id": 163024487,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Jaye (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-08-16 23:17:37"
+    },
+    {
+        "id": 163024497,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-08-16 23:18:40"
+    },
+    {
+        "id": 163024621,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Jaye (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-08-16 23:19:48"
     }
 ]
