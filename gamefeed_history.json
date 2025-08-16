@@ -13606,5 +13606,12 @@
         "description": "Llyr was slain by Freja (Victim had 35% the might).",
         "type": "DEA",
         "date": "2025-08-16 13:01:06"
+    },
+    {
+        "id": 163023278,
+        "caption": "Player Death",
+        "description": "Freja was slain by Kalikai (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2025-08-16 20:07:13"
     }
 ]
