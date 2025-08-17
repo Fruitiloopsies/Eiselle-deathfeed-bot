@@ -13711,5 +13711,26 @@
         "description": "Ayisdra was slain by Freja (Victim had 85% the might).",
         "type": "DEA",
         "date": "2025-08-17 00:42:18"
+    },
+    {
+        "id": 163025416,
+        "caption": "Player Death",
+        "description": "Kataelina was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-17 01:08:10"
+    },
+    {
+        "id": 163025433,
+        "caption": "Player Death",
+        "description": "Machlana was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-17 01:10:47"
+    },
+    {
+        "id": 163025477,
+        "caption": "Player Death",
+        "description": "Kataelina was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-17 01:17:02"
     }
 ]
