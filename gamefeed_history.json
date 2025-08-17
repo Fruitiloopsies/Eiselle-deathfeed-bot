@@ -13732,5 +13732,12 @@
         "description": "Kataelina was slain by misadventure.",
         "type": "DEA",
         "date": "2025-08-17 01:17:02"
+    },
+    {
+        "id": 163026236,
+        "caption": "Player Death",
+        "description": "Jaye has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-08-17 03:30:44"
     }
 ]
