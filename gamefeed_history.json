@@ -13739,5 +13739,26 @@
         "description": "Jaye has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-08-17 03:30:44"
+    },
+    {
+        "id": 163028399,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Malayn (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-08-17 13:50:05"
+    },
+    {
+        "id": 163028431,
+        "caption": "Player Death",
+        "description": "Numinous was slain by Freja (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-08-17 13:51:08"
+    },
+    {
+        "id": 163028460,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Freja (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-08-17 13:51:53"
     }
 ]
