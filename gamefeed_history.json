@@ -13851,5 +13851,12 @@
         "description": "Ayisdra was slain by Zagreus (Victim had 90% the might).",
         "type": "DEA",
         "date": "2025-08-18 07:30:19"
+    },
+    {
+        "id": 163035921,
+        "caption": "Player Death",
+        "description": "Aknarin has been lured into darkness by Ciardha, of Shackled Shadows.",
+        "type": "DEA",
+        "date": "2025-08-18 16:45:10"
     }
 ]
