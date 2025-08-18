@@ -13788,5 +13788,68 @@
         "description": "Ayisdra was slain by Zagreus (Victim had 90% the might).",
         "type": "DEA",
         "date": "2025-08-18 07:00:47"
+    },
+    {
+        "id": 163032964,
+        "caption": "Player Death",
+        "description": "Inagin was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-08-18 07:02:33"
+    },
+    {
+        "id": 163033000,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-08-18 07:04:12"
+    },
+    {
+        "id": 163033056,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Madungonga (Victim had 115% the might).",
+        "type": "DEA",
+        "date": "2025-08-18 07:06:36"
+    },
+    {
+        "id": 163033104,
+        "caption": "Player Death",
+        "description": "Inagin was slain by Madungonga (Victim had 115% the might).",
+        "type": "DEA",
+        "date": "2025-08-18 07:07:09"
+    },
+    {
+        "id": 163033138,
+        "caption": "Player Death",
+        "description": "Inagin was slain by Madungonga (Victim had 115% the might).",
+        "type": "DEA",
+        "date": "2025-08-18 07:10:54"
+    },
+    {
+        "id": 163033161,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Madungonga (Victim had 115% the might).",
+        "type": "DEA",
+        "date": "2025-08-18 07:11:41"
+    },
+    {
+        "id": 163033233,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-08-18 07:19:01"
+    },
+    {
+        "id": 163033282,
+        "caption": "Player Death",
+        "description": "Inagin was slain by Akyaevin (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-08-18 07:19:58"
+    },
+    {
+        "id": 163033316,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-08-18 07:30:19"
     }
 ]
