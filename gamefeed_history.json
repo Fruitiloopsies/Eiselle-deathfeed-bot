@@ -13858,5 +13858,12 @@
         "description": "Aknarin has been lured into darkness by Ciardha, of Shackled Shadows.",
         "type": "DEA",
         "date": "2025-08-18 16:45:10"
+    },
+    {
+        "id": 163037738,
+        "caption": "Player Death",
+        "description": "An eaf'Qorki has used his massive cranium to destroy Dedra.",
+        "type": "DEA",
+        "date": "2025-08-18 21:49:01"
     }
 ]
