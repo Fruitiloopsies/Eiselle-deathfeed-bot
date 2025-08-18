@@ -13767,5 +13767,26 @@
         "description": "Malayn was slain by misadventure.",
         "type": "DEA",
         "date": "2025-08-17 14:11:40"
+    },
+    {
+        "id": 163032783,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-08-18 06:51:16"
+    },
+    {
+        "id": 163032848,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-08-18 06:57:40"
+    },
+    {
+        "id": 163032913,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-08-18 07:00:47"
     }
 ]
