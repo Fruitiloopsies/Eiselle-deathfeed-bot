@@ -13865,5 +13865,12 @@
         "description": "An eaf'Qorki has used his massive cranium to destroy Dedra.",
         "type": "DEA",
         "date": "2025-08-18 21:49:01"
+    },
+    {
+        "id": 163040620,
+        "caption": "Player Death",
+        "description": "Iae has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-08-19 09:13:08"
     }
 ]
