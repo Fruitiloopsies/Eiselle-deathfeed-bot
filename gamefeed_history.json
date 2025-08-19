@@ -13872,5 +13872,19 @@
         "description": "Iae has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-08-19 09:13:08"
+    },
+    {
+        "id": 163041986,
+        "caption": "Player Death",
+        "description": "Fentihr wandered into the Iceburn Plains, never to walk out alive.",
+        "type": "DEA",
+        "date": "2025-08-19 15:04:47"
+    },
+    {
+        "id": 163041991,
+        "caption": "Player Death",
+        "description": "Fentihr wandered into the Iceburn Plains, never to walk out alive.",
+        "type": "DEA",
+        "date": "2025-08-19 15:05:14"
     }
 ]
