@@ -13907,5 +13907,12 @@
         "description": "Traeliorn wandered into the Iceburn Plains, never to walk out alive.",
         "type": "DEA",
         "date": "2025-08-21 03:41:00"
+    },
+    {
+        "id": 163051565,
+        "caption": "Player Death",
+        "description": "Xanthia has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2025-08-21 08:10:30"
     }
 ]
