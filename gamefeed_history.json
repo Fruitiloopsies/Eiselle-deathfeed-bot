@@ -13900,5 +13900,12 @@
         "description": "Kistan has been reduced to the mental equivalent of a drooling puddle of degenerate sludge by Zenobia, the Queen of Queens.",
         "type": "DEA",
         "date": "2025-08-20 22:46:15"
+    },
+    {
+        "id": 163051054,
+        "caption": "Player Death",
+        "description": "Traeliorn wandered into the Iceburn Plains, never to walk out alive.",
+        "type": "DEA",
+        "date": "2025-08-21 03:41:00"
     }
 ]
