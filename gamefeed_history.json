@@ -13935,5 +13935,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-08-22 05:15:05"
+    },
+    {
+        "id": 163058402,
+        "caption": "Player Death",
+        "description": "Xanthia was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-22 15:55:12"
     }
 ]
