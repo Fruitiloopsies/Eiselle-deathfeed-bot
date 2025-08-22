@@ -13928,5 +13928,12 @@
         "description": "Dedra has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-08-21 16:43:10"
+    },
+    {
+        "id": 163056115,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-08-22 05:15:05"
     }
 ]
