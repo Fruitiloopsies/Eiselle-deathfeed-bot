@@ -13942,5 +13942,12 @@
         "description": "Xanthia was slain by misadventure.",
         "type": "DEA",
         "date": "2025-08-22 15:55:12"
+    },
+    {
+        "id": 163059139,
+        "caption": "Player Death",
+        "description": "Numinous has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-08-22 18:56:25"
     }
 ]
