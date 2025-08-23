@@ -14012,5 +14012,12 @@
         "description": "Tuilinn was slain by misadventure.",
         "type": "DEA",
         "date": "2025-08-23 12:14:43"
+    },
+    {
+        "id": 163064658,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Freja (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-08-23 17:20:35"
     }
 ]
