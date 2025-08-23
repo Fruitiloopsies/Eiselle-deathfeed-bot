@@ -13991,5 +13991,26 @@
         "description": "Hronorn was slain by Freja (Victim had 75% the might).",
         "type": "DEA",
         "date": "2025-08-23 11:59:59"
+    },
+    {
+        "id": 163063186,
+        "caption": "Player Death",
+        "description": "Aknarin was slain by Freja (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-08-23 12:04:52"
+    },
+    {
+        "id": 163063224,
+        "caption": "Player Death",
+        "description": "Hronorn was slain by Freja (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-08-23 12:05:48"
+    },
+    {
+        "id": 163063310,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-23 12:14:43"
     }
 ]
