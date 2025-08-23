@@ -13949,5 +13949,12 @@
         "description": "Numinous has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-08-22 18:56:25"
+    },
+    {
+        "id": 163060767,
+        "caption": "Player Death",
+        "description": "Kataelina was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-23 00:43:18"
     }
 ]
