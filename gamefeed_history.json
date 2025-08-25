@@ -14117,5 +14117,12 @@
         "description": "Jaye has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-08-25 02:45:21"
+    },
+    {
+        "id": 163074304,
+        "caption": "Player Death",
+        "description": "Fentihr has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2025-08-25 06:24:56"
     }
 ]
