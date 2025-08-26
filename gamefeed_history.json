@@ -14145,5 +14145,12 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
         "type": "DEA",
         "date": "2025-08-26 07:05:11"
+    },
+    {
+        "id": 163083323,
+        "caption": "Player Death",
+        "description": "Kataelina has been slain by the might of a flying fish.",
+        "type": "DEA",
+        "date": "2025-08-26 21:05:40"
     }
 ]
