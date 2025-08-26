@@ -14131,5 +14131,19 @@
         "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
         "type": "DEA",
         "date": "2025-08-26 06:47:29"
+    },
+    {
+        "id": 163079701,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
+        "type": "DEA",
+        "date": "2025-08-26 06:59:21"
+    },
+    {
+        "id": 163079721,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
+        "type": "DEA",
+        "date": "2025-08-26 07:05:11"
     }
 ]
