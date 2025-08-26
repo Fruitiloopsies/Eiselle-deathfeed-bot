@@ -14124,5 +14124,12 @@
         "description": "Fentihr has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2025-08-25 06:24:56"
+    },
+    {
+        "id": 163079675,
+        "caption": "Player Death",
+        "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2025-08-26 06:47:29"
     }
 ]
