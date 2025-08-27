@@ -14194,5 +14194,19 @@
         "description": "Xiran was slain by Inagin (Victim had 75% the might).",
         "type": "DEA",
         "date": "2025-08-27 03:25:17"
+    },
+    {
+        "id": 163085154,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Inagin (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-08-27 03:30:16"
+    },
+    {
+        "id": 163085168,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Inagin (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-08-27 03:33:51"
     }
 ]
