@@ -14159,5 +14159,40 @@
         "description": "Legac has been disemboweled by Cthoglogg, their entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-08-27 02:27:41"
+    },
+    {
+        "id": 163084838,
+        "caption": "Player Death",
+        "description": "Xiran was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-27 02:47:33"
+    },
+    {
+        "id": 163084861,
+        "caption": "Player Death",
+        "description": "Xiran was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-27 02:50:15"
+    },
+    {
+        "id": 163084991,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Inagin (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-08-27 03:13:22"
+    },
+    {
+        "id": 163085009,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-08-27 03:19:33"
+    },
+    {
+        "id": 163085076,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Inagin (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-08-27 03:25:17"
     }
 ]
