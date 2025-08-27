@@ -14152,5 +14152,12 @@
         "description": "Kataelina has been slain by the might of a flying fish.",
         "type": "DEA",
         "date": "2025-08-26 21:05:40"
+    },
+    {
+        "id": 163084702,
+        "caption": "Player Death",
+        "description": "Legac has been disemboweled by Cthoglogg, their entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-08-27 02:27:41"
     }
 ]
