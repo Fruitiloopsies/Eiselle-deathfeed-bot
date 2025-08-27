@@ -14208,5 +14208,12 @@
         "description": "Xiran was slain by Inagin (Victim had 75% the might).",
         "type": "DEA",
         "date": "2025-08-27 03:33:51"
+    },
+    {
+        "id": 163087904,
+        "caption": "Player Death",
+        "description": "Zweeloh has been slain by the might of an enormous gorgog.",
+        "type": "DEA",
+        "date": "2025-08-27 16:34:53"
     }
 ]
