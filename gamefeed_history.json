@@ -14236,5 +14236,12 @@
         "description": "Consumed by his own nightmares, Zweeloh has screamed to death.",
         "type": "DEA",
         "date": "2025-08-28 02:58:37"
+    },
+    {
+        "id": 163090515,
+        "caption": "Player Death",
+        "description": "Zweeloh has been slain by the might of a fierce and enormous roc.",
+        "type": "DEA",
+        "date": "2025-08-28 03:36:48"
     }
 ]
