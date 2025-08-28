@@ -14222,5 +14222,12 @@
         "description": "Zweeloh has been slain by the might of a female krokani.",
         "type": "DEA",
         "date": "2025-08-27 19:02:50"
+    },
+    {
+        "id": 163090164,
+        "caption": "Player Death",
+        "description": "Zweeloh has been slain by the might of a krokani guard.",
+        "type": "DEA",
+        "date": "2025-08-28 02:08:52"
     }
 ]
