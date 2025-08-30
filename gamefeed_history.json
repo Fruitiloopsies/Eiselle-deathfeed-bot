@@ -14257,5 +14257,12 @@
         "description": "Numinous has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-08-30 10:52:48"
+    },
+    {
+        "id": 163102931,
+        "caption": "Player Death",
+        "description": "Iae has been swallowed whole by a malcontent door-spirit.",
+        "type": "DEA",
+        "date": "2025-08-30 15:19:37"
     }
 ]
