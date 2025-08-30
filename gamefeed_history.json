@@ -14250,5 +14250,12 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
         "type": "DEA",
         "date": "2025-08-28 03:55:28"
+    },
+    {
+        "id": 163101836,
+        "caption": "Player Death",
+        "description": "Numinous has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-08-30 10:52:48"
     }
 ]
