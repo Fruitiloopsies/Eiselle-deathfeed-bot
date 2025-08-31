@@ -14264,5 +14264,12 @@
         "description": "Iae has been swallowed whole by a malcontent door-spirit.",
         "type": "DEA",
         "date": "2025-08-30 15:19:37"
+    },
+    {
+        "id": 163104931,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-08-31 00:11:08"
     }
 ]
