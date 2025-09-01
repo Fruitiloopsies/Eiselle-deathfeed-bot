@@ -14306,5 +14306,12 @@
         "description": "Malayn was slain by misadventure.",
         "type": "DEA",
         "date": "2025-08-31 23:55:57"
+    },
+    {
+        "id": 163112235,
+        "caption": "Player Death",
+        "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-09-01 04:30:12"
     }
 ]
