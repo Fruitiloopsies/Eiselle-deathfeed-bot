@@ -14313,5 +14313,12 @@
         "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-09-01 04:30:12"
+    },
+    {
+        "id": 163116816,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Eriette, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-09-01 23:17:32"
     }
 ]
