@@ -14299,5 +14299,12 @@
         "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2025-08-31 04:27:57"
+    },
+    {
+        "id": 163111058,
+        "caption": "Player Death",
+        "description": "Malayn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-08-31 23:55:57"
     }
 ]
