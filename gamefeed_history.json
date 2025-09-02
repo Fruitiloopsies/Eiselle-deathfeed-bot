@@ -14320,5 +14320,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Eriette, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-09-01 23:17:32"
+    },
+    {
+        "id": 163117874,
+        "caption": "Player Death",
+        "description": "Alainna has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2025-09-02 03:29:50"
     }
 ]
