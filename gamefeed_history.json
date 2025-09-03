@@ -14341,5 +14341,12 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-09-03 02:57:52"
+    },
+    {
+        "id": 163123290,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-09-03 03:14:53"
     }
 ]
