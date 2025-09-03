@@ -14327,5 +14327,19 @@
         "description": "Alainna has been given the kiss of death by an emaciated virgin.",
         "type": "DEA",
         "date": "2025-09-02 03:29:50"
+    },
+    {
+        "id": 163123207,
+        "caption": "Player Death",
+        "description": "Alainna has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-09-03 02:38:29"
+    },
+    {
+        "id": 163123244,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-09-03 02:57:52"
     }
 ]
