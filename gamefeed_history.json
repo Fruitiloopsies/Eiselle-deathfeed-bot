@@ -14383,5 +14383,12 @@
         "description": "Ayisdra was slain by Malayn (Victim had 85% the might).",
         "type": "DEA",
         "date": "2025-09-03 23:41:36"
+    },
+    {
+        "id": 163137368,
+        "caption": "Player Death",
+        "description": "Exeryte has been reduced to the mental equivalent of a drooling puddle of degenerate sludge by Zenobia, the Queen of Queens.",
+        "type": "DEA",
+        "date": "2025-09-05 10:30:36"
     }
 ]
