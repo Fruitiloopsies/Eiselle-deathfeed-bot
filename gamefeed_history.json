@@ -14390,5 +14390,12 @@
         "description": "Exeryte has been reduced to the mental equivalent of a drooling puddle of degenerate sludge by Zenobia, the Queen of Queens.",
         "type": "DEA",
         "date": "2025-09-05 10:30:36"
+    },
+    {
+        "id": 163144273,
+        "caption": "Player Death",
+        "description": "Inagin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-09-06 12:48:00"
     }
 ]
