@@ -14404,5 +14404,12 @@
         "description": "Romaan was slain by Malayn (Victim had 80% the might).",
         "type": "DEA",
         "date": "2025-09-06 22:41:07"
+    },
+    {
+        "id": 163151092,
+        "caption": "Player Death",
+        "description": "A two-headed abhorrence has trampled all over Loretta.",
+        "type": "DEA",
+        "date": "2025-09-07 10:56:49"
     }
 ]
