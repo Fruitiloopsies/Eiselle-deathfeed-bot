@@ -14411,5 +14411,19 @@
         "description": "A two-headed abhorrence has trampled all over Loretta.",
         "type": "DEA",
         "date": "2025-09-07 10:56:49"
+    },
+    {
+        "id": 163153751,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-09-07 21:31:23"
+    },
+    {
+        "id": 163153801,
+        "caption": "Player Death",
+        "description": "Dedra was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-09-07 21:34:07"
     }
 ]
