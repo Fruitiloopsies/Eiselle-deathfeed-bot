@@ -14425,5 +14425,12 @@
         "description": "Dedra was slain by misadventure.",
         "type": "DEA",
         "date": "2025-09-07 21:34:07"
+    },
+    {
+        "id": 163156663,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-09-08 04:44:44"
     }
 ]
