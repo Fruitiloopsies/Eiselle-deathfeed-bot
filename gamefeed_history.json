@@ -14432,5 +14432,12 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-09-08 04:44:44"
+    },
+    {
+        "id": 163163485,
+        "caption": "Player Death",
+        "description": "Alainna has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2025-09-09 05:12:07"
     }
 ]
