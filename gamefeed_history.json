@@ -14446,5 +14446,12 @@
         "description": "Zynna's organs have been rendered into a messy pulp due to extreme decompression.",
         "type": "DEA",
         "date": "2025-09-10 12:55:59"
+    },
+    {
+        "id": 163172653,
+        "caption": "Player Death",
+        "description": "Fentihr became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2025-09-10 20:31:07"
     }
 ]
