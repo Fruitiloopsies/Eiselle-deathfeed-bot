@@ -14439,5 +14439,12 @@
         "description": "Alainna has been slain by the might of a two-headed eagle.",
         "type": "DEA",
         "date": "2025-09-09 05:12:07"
+    },
+    {
+        "id": 163171170,
+        "caption": "Player Death",
+        "description": "Zynna's organs have been rendered into a messy pulp due to extreme decompression.",
+        "type": "DEA",
+        "date": "2025-09-10 12:55:59"
     }
 ]
