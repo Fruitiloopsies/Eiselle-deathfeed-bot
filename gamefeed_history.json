@@ -14453,5 +14453,12 @@
         "description": "Fentihr became the target of a hulking three-horned bull's violent rage.",
         "type": "DEA",
         "date": "2025-09-10 20:31:07"
+    },
+    {
+        "id": 163174297,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-09-11 03:46:39"
     }
 ]
