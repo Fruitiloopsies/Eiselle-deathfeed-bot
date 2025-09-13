@@ -14467,5 +14467,12 @@
         "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
         "type": "DEA",
         "date": "2025-09-12 04:08:48"
+    },
+    {
+        "id": 163185608,
+        "caption": "Player Death",
+        "description": "Puriel was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-09-13 02:25:46"
     }
 ]
