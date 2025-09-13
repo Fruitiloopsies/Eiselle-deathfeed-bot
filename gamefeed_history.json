@@ -14474,5 +14474,19 @@
         "description": "Puriel was slain by misadventure.",
         "type": "DEA",
         "date": "2025-09-13 02:25:46"
+    },
+    {
+        "id": 163186932,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been reduced to the mental equivalent of a drooling puddle of degenerate sludge by Zenobia, the Queen of Queens.",
+        "type": "DEA",
+        "date": "2025-09-13 06:26:15"
+    },
+    {
+        "id": 163186938,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been reduced to the mental equivalent of a drooling puddle of degenerate sludge by Zenobia, the Queen of Queens.",
+        "type": "DEA",
+        "date": "2025-09-13 06:26:31"
     }
 ]
