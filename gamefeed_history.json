@@ -14488,5 +14488,12 @@
         "description": "Tzshalgoth has been reduced to the mental equivalent of a drooling puddle of degenerate sludge by Zenobia, the Queen of Queens.",
         "type": "DEA",
         "date": "2025-09-13 06:26:31"
+    },
+    {
+        "id": 163192752,
+        "caption": "Player Death",
+        "description": "Xanthia was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-09-14 04:52:23"
     }
 ]
