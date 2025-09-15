@@ -14516,5 +14516,19 @@
         "description": "Legac was slain by Shango (Victim had 85% the might).",
         "type": "DEA",
         "date": "2025-09-15 04:36:30"
+    },
+    {
+        "id": 163201648,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been reduced to the mental equivalent of a drooling puddle of degenerate sludge by Zenobia, the Queen of Queens.",
+        "type": "DEA",
+        "date": "2025-09-15 14:29:13"
+    },
+    {
+        "id": 163201657,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been reduced to the mental equivalent of a drooling puddle of degenerate sludge by Zenobia, the Queen of Queens.",
+        "type": "DEA",
+        "date": "2025-09-15 14:30:51"
     }
 ]
