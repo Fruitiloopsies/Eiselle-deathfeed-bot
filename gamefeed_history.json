@@ -14509,5 +14509,12 @@
         "description": "Hinic has been slain by the might of a two-headed eagle.",
         "type": "DEA",
         "date": "2025-09-15 01:19:41"
+    },
+    {
+        "id": 163198818,
+        "caption": "Player Death",
+        "description": "Legac was slain by Shango (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-09-15 04:36:30"
     }
 ]
