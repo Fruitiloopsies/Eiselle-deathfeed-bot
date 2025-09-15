@@ -14579,5 +14579,12 @@
         "description": "Body dissolving into sludge, Numinous has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-09-15 20:12:31"
+    },
+    {
+        "id": 163204063,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-09-15 20:31:05"
     }
 ]
