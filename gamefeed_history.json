@@ -14502,5 +14502,12 @@
         "description": "Legac was slain by misadventure.",
         "type": "DEA",
         "date": "2025-09-14 16:55:10"
+    },
+    {
+        "id": 163197771,
+        "caption": "Player Death",
+        "description": "Hinic has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2025-09-15 01:19:41"
     }
 ]
