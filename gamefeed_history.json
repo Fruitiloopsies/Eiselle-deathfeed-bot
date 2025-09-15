@@ -14537,5 +14537,19 @@
         "description": "Tzshalgoth has been reduced to the mental equivalent of a drooling puddle of degenerate sludge by Zenobia, the Queen of Queens.",
         "type": "DEA",
         "date": "2025-09-15 14:50:08"
+    },
+    {
+        "id": 163202769,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Jaye (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-09-15 17:04:02"
+    },
+    {
+        "id": 163202862,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Jaye (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-09-15 17:05:35"
     }
 ]
