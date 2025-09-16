@@ -14635,5 +14635,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-09-16 02:42:18"
+    },
+    {
+        "id": 163208968,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been overcome by the even-handed justice and ageless wisdom of Hive Queen Sethetmun.",
+        "type": "DEA",
+        "date": "2025-09-16 19:12:57"
     }
 ]
