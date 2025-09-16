@@ -14649,5 +14649,12 @@
         "description": "Tzshalgoth has been psychically and physically impaled by a kephera warder.",
         "type": "DEA",
         "date": "2025-09-16 19:53:01"
+    },
+    {
+        "id": 163209139,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
+        "type": "DEA",
+        "date": "2025-09-16 20:18:41"
     }
 ]
