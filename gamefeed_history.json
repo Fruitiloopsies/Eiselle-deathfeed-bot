@@ -14614,5 +14614,19 @@
         "description": "Jaye has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-09-15 20:42:14"
+    },
+    {
+        "id": 163205357,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Jaye (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-09-15 23:57:57"
+    },
+    {
+        "id": 163205502,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Jaye (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-09-16 00:26:51"
     }
 ]
