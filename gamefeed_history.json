@@ -14656,5 +14656,12 @@
         "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
         "type": "DEA",
         "date": "2025-09-16 20:18:41"
+    },
+    {
+        "id": 163210621,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Jaye (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-09-17 01:11:13"
     }
 ]
