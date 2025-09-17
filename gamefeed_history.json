@@ -14663,5 +14663,12 @@
         "description": "Tzshalgoth was slain by Jaye (Victim had 75% the might).",
         "type": "DEA",
         "date": "2025-09-17 01:11:13"
+    },
+    {
+        "id": 163216548,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-09-17 15:02:56"
     }
 ]
