@@ -14705,5 +14705,12 @@
         "description": "Tzshalgoth was slain by Jaye (Victim had 75% the might).",
         "type": "DEA",
         "date": "2025-09-18 00:24:36"
+    },
+    {
+        "id": 163220016,
+        "caption": "Player Death",
+        "description": "A two-headed abhorrence has trampled all over Alainna.",
+        "type": "DEA",
+        "date": "2025-09-18 03:57:01"
     }
 ]
