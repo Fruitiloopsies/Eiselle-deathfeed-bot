@@ -14719,5 +14719,33 @@
         "description": "Fentihr has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-09-18 16:40:42"
+    },
+    {
+        "id": 163222866,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-09-18 18:29:21"
+    },
+    {
+        "id": 163222878,
+        "caption": "Player Death",
+        "description": "Malayn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-09-18 18:31:56"
+    },
+    {
+        "id": 163222907,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-09-18 18:32:01"
+    },
+    {
+        "id": 163222948,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-09-18 18:33:40"
     }
 ]
