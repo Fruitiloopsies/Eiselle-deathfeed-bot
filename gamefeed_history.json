@@ -14691,5 +14691,19 @@
         "description": "Iae was slain by Tzshalgoth (Victim had 125% the might).",
         "type": "DEA",
         "date": "2025-09-17 23:40:29"
+    },
+    {
+        "id": 163219151,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Jaye (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-09-18 00:18:22"
+    },
+    {
+        "id": 163219160,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Jaye (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-09-18 00:24:36"
     }
 ]
