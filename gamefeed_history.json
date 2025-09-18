@@ -14712,5 +14712,12 @@
         "description": "A two-headed abhorrence has trampled all over Alainna.",
         "type": "DEA",
         "date": "2025-09-18 03:57:01"
+    },
+    {
+        "id": 163222273,
+        "caption": "Player Death",
+        "description": "Fentihr has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-09-18 16:40:42"
     }
 ]
