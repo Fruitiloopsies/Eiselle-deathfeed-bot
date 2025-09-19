@@ -14789,5 +14789,12 @@
         "description": "Malayn was slain by misadventure.",
         "type": "DEA",
         "date": "2025-09-19 16:30:44"
+    },
+    {
+        "id": 163227011,
+        "caption": "Player Death",
+        "description": "Numinous has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-09-19 17:21:41"
     }
 ]
