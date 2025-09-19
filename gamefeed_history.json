@@ -14747,5 +14747,12 @@
         "description": "Tzshalgoth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-09-18 18:33:40"
+    },
+    {
+        "id": 163224229,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been overcome by the even-handed justice and ageless wisdom of Hive Queen Sethetmun.",
+        "type": "DEA",
+        "date": "2025-09-19 01:10:47"
     }
 ]
