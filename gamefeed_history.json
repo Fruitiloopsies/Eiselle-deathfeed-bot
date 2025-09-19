@@ -14754,5 +14754,19 @@
         "description": "Tzshalgoth has been overcome by the even-handed justice and ageless wisdom of Hive Queen Sethetmun.",
         "type": "DEA",
         "date": "2025-09-19 01:10:47"
+    },
+    {
+        "id": 163225006,
+        "caption": "Player Death",
+        "description": "Alainna became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2025-09-19 04:32:08"
+    },
+    {
+        "id": 163225022,
+        "caption": "Player Death",
+        "description": "Alainna became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2025-09-19 04:34:46"
     }
 ]
