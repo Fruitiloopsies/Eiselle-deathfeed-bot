@@ -14803,5 +14803,33 @@
         "description": "Numinous has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-09-19 19:33:12"
+    },
+    {
+        "id": 163227722,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-09-19 19:42:06"
+    },
+    {
+        "id": 163227768,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Jaye has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-09-19 19:42:12"
+    },
+    {
+        "id": 163227813,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Numinous has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-09-19 19:42:31"
+    },
+    {
+        "id": 163227839,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-09-19 19:42:44"
     }
 ]
