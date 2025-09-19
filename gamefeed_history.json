@@ -14768,5 +14768,12 @@
         "description": "Alainna became the target of a hulking three-horned bull's violent rage.",
         "type": "DEA",
         "date": "2025-09-19 04:34:46"
+    },
+    {
+        "id": 163225780,
+        "caption": "Player Death",
+        "description": "Loretta has been slain by the might of a kephera warrior.",
+        "type": "DEA",
+        "date": "2025-09-19 11:27:05"
     }
 ]
