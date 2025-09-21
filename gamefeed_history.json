@@ -14845,5 +14845,12 @@
         "description": "Kistan's entrails have been torn out by a vicious frost fiend.",
         "type": "DEA",
         "date": "2025-09-21 07:59:50"
+    },
+    {
+        "id": 163237793,
+        "caption": "Player Death",
+        "description": "Meira has been slain by the might of a monstrous gravedigger.",
+        "type": "DEA",
+        "date": "2025-09-21 21:13:23"
     }
 ]
