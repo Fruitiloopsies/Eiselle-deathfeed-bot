@@ -14852,5 +14852,12 @@
         "description": "Meira has been slain by the might of a monstrous gravedigger.",
         "type": "DEA",
         "date": "2025-09-21 21:13:23"
+    },
+    {
+        "id": 163238054,
+        "caption": "Player Death",
+        "description": "Meira has been slain by the might of a monstrous gravedigger.",
+        "type": "DEA",
+        "date": "2025-09-21 22:06:36"
     }
 ]
