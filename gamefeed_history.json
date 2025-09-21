@@ -14838,5 +14838,12 @@
         "description": "Kistan has been reduced to the mental equivalent of a drooling puddle of degenerate sludge by Zenobia, the Queen of Queens.",
         "type": "DEA",
         "date": "2025-09-20 21:36:42"
+    },
+    {
+        "id": 163235462,
+        "caption": "Player Death",
+        "description": "Kistan's entrails have been torn out by a vicious frost fiend.",
+        "type": "DEA",
+        "date": "2025-09-21 07:59:50"
     }
 ]
