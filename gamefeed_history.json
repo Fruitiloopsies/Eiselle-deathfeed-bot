@@ -14866,5 +14866,19 @@
         "description": "Iae was slain by misadventure.",
         "type": "DEA",
         "date": "2025-09-22 07:20:03"
+    },
+    {
+        "id": 163241742,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Exeryte (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-09-22 14:28:56"
+    },
+    {
+        "id": 163241748,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Exeryte (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-09-22 14:29:59"
     }
 ]
