@@ -14880,5 +14880,12 @@
         "description": "Tzshalgoth was slain by Exeryte (Victim had 75% the might).",
         "type": "DEA",
         "date": "2025-09-22 14:29:59"
+    },
+    {
+        "id": 163243253,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been reduced to the mental equivalent of a drooling puddle of degenerate sludge by Zenobia, the Queen of Queens.",
+        "type": "DEA",
+        "date": "2025-09-22 19:57:13"
     }
 ]
