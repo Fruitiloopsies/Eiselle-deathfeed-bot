@@ -14894,5 +14894,12 @@
         "description": "Tzshalgoth was slain by Ayisdra (Victim had 75% the might).",
         "type": "DEA",
         "date": "2025-09-22 20:41:29"
+    },
+    {
+        "id": 163243499,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-09-22 21:06:46"
     }
 ]
