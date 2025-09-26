@@ -14929,5 +14929,26 @@
         "description": "Tzshalgoth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-09-24 18:38:00"
+    },
+    {
+        "id": 163259874,
+        "caption": "Player Death",
+        "description": "Iae was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-09-26 04:40:01"
+    },
+    {
+        "id": 163259890,
+        "caption": "Player Death",
+        "description": "Abraxin was slain by Ayisdra (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-09-26 04:40:14"
+    },
+    {
+        "id": 163259912,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Legac (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-09-26 04:40:27"
     }
 ]
