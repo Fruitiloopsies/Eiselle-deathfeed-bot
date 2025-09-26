@@ -14950,5 +14950,40 @@
         "description": "Tzshalgoth was slain by Legac (Victim had 85% the might).",
         "type": "DEA",
         "date": "2025-09-26 04:40:27"
+    },
+    {
+        "id": 163259921,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Legac (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-09-26 04:45:24"
+    },
+    {
+        "id": 163259926,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Shango (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-09-26 04:46:01"
+    },
+    {
+        "id": 163259969,
+        "caption": "Player Death",
+        "description": "Abraxin was slain by Legac (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2025-09-26 04:46:48"
+    },
+    {
+        "id": 163260021,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Abraxin (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-09-26 04:52:21"
+    },
+    {
+        "id": 163260065,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by Shango (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-09-26 04:53:29"
     }
 ]
