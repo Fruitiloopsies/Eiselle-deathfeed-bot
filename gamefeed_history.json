@@ -15041,5 +15041,12 @@
         "description": "Eiselle was slain by Freja (Victim had 90% the might).",
         "type": "DEA",
         "date": "2025-09-26 23:24:03"
+    },
+    {
+        "id": 163264788,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Jaye (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-09-27 00:02:40"
     }
 ]
