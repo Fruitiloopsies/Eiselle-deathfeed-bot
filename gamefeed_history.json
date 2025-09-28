@@ -15216,5 +15216,12 @@
         "description": "Malayn was slain by Jaye (Victim had 120% the might).",
         "type": "DEA",
         "date": "2025-09-28 01:46:59"
+    },
+    {
+        "id": 163274261,
+        "caption": "Player Death",
+        "description": "Romaan was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-09-28 14:37:10"
     }
 ]
