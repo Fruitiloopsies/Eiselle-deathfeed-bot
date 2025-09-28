@@ -15230,5 +15230,33 @@
         "description": "Malayn was slain by Jaye (Victim had 120% the might).",
         "type": "DEA",
         "date": "2025-09-28 21:52:21"
+    },
+    {
+        "id": 163276183,
+        "caption": "Player Death",
+        "description": "Shango was slain by Legac (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-09-28 21:53:27"
+    },
+    {
+        "id": 163276298,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Shango (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-09-28 21:58:51"
+    },
+    {
+        "id": 163276375,
+        "caption": "Player Death",
+        "description": "Shango was slain by Jaye (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-09-28 22:00:41"
+    },
+    {
+        "id": 163276422,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Jaye (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-09-28 22:01:06"
     }
 ]
