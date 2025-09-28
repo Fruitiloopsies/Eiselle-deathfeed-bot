@@ -15055,5 +15055,26 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
         "type": "DEA",
         "date": "2025-09-27 04:15:15"
+    },
+    {
+        "id": 163270240,
+        "caption": "Player Death",
+        "description": "Melrose was slain by Shango (Victim had 40% the might).",
+        "type": "DEA",
+        "date": "2025-09-28 00:13:58"
+    },
+    {
+        "id": 163270499,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-09-28 00:59:10"
+    },
+    {
+        "id": 163270549,
+        "caption": "Player Death",
+        "description": "Legac was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-09-28 01:02:11"
     }
 ]
