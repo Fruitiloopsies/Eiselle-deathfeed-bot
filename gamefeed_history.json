@@ -15272,5 +15272,26 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-09-29 05:36:55"
+    },
+    {
+        "id": 163280923,
+        "caption": "Player Death",
+        "description": "Tzshalgoth was slain by Exeryte (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-09-29 18:37:52"
+    },
+    {
+        "id": 163281071,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-09-29 18:47:50"
+    },
+    {
+        "id": 163281123,
+        "caption": "Player Death",
+        "description": "Huskii was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-09-29 18:51:57"
     }
 ]
