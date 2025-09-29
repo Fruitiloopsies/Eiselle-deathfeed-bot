@@ -15265,5 +15265,12 @@
         "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2025-09-29 04:44:01"
+    },
+    {
+        "id": 163278437,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-09-29 05:36:55"
     }
 ]
