@@ -15328,5 +15328,12 @@
         "description": "Tzshalgoth was slain by Exeryte (Victim had 75% the might).",
         "type": "DEA",
         "date": "2025-09-29 19:06:37"
+    },
+    {
+        "id": 163289027,
+        "caption": "Player Death",
+        "description": "Alainna became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2025-10-01 04:44:02"
     }
 ]
