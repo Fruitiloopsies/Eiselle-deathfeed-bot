@@ -15335,5 +15335,19 @@
         "description": "Alainna became the target of a hulking three-horned bull's violent rage.",
         "type": "DEA",
         "date": "2025-10-01 04:44:02"
+    },
+    {
+        "id": 163290777,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Inagin (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-10-01 12:41:35"
+    },
+    {
+        "id": 163290802,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Inagin (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-10-01 12:44:17"
     }
 ]
