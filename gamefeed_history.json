@@ -15489,5 +15489,12 @@
         "description": "Kistan was slain by Eiselle (Victim had 105% the might).",
         "type": "DEA",
         "date": "2025-10-03 21:55:40"
+    },
+    {
+        "id": 163304095,
+        "caption": "Player Death",
+        "description": "Freja was slain by Eiselle (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-10-03 22:02:13"
     }
 ]
