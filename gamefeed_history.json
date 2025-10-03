@@ -15475,5 +15475,19 @@
         "description": "Alainna has been trampled and crushed by a stainless steel goat.",
         "type": "DEA",
         "date": "2025-10-02 06:24:34"
+    },
+    {
+        "id": 163304036,
+        "caption": "Player Death",
+        "description": "Freja was slain by Legac (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-10-03 21:54:55"
+    },
+    {
+        "id": 163304070,
+        "caption": "Player Death",
+        "description": "Kistan was slain by Eiselle (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-10-03 21:55:40"
     }
 ]
