@@ -15503,5 +15503,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-10-04 04:09:39"
+    },
+    {
+        "id": 163306439,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-10-04 05:11:00"
     }
 ]
