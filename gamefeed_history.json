@@ -15510,5 +15510,19 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-10-04 05:11:00"
+    },
+    {
+        "id": 163318493,
+        "caption": "Player Death",
+        "description": "Pyawr has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-10-06 11:05:51"
+    },
+    {
+        "id": 163318535,
+        "caption": "Player Death",
+        "description": "Pyawr has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-10-06 11:09:31"
     }
 ]
