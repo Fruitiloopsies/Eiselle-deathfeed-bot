@@ -15552,5 +15552,12 @@
         "description": "Qoivhae was slain by misadventure.",
         "type": "DEA",
         "date": "2025-10-07 05:36:34"
+    },
+    {
+        "id": 163326352,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-10-07 18:15:09"
     }
 ]
