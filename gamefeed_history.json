@@ -15545,5 +15545,12 @@
         "description": "A two-headed abhorrence has trampled all over Laina.",
         "type": "DEA",
         "date": "2025-10-07 04:17:42"
+    },
+    {
+        "id": 163323497,
+        "caption": "Player Death",
+        "description": "Qoivhae was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-10-07 05:36:34"
     }
 ]
