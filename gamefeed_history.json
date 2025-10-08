@@ -15559,5 +15559,12 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-10-07 18:15:09"
+    },
+    {
+        "id": 163329847,
+        "caption": "Player Death",
+        "description": "Alainna has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2025-10-08 05:05:13"
     }
 ]
