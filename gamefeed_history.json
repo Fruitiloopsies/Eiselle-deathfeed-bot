@@ -15594,5 +15594,26 @@
         "description": "Malayn was slain by Ayisdra (Victim had 110% the might).",
         "type": "DEA",
         "date": "2025-10-10 23:42:50"
+    },
+    {
+        "id": 163344884,
+        "caption": "Player Death",
+        "description": "Freja was slain by Ayisdra (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-10-10 23:46:35"
+    },
+    {
+        "id": 163344897,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Jaye (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-10-10 23:47:00"
+    },
+    {
+        "id": 163344943,
+        "caption": "Player Death",
+        "description": "Shango was slain by Jaye (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-10-10 23:47:48"
     }
 ]
