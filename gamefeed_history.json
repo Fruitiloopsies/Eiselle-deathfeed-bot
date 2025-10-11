@@ -15615,5 +15615,12 @@
         "description": "Shango was slain by Jaye (Victim had 120% the might).",
         "type": "DEA",
         "date": "2025-10-10 23:47:48"
+    },
+    {
+        "id": 163346539,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Shango (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-10-11 06:32:40"
     }
 ]
