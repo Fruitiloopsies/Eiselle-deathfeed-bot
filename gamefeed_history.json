@@ -15629,5 +15629,26 @@
         "description": "Shango was slain by Ayisdra (Victim had 105% the might).",
         "type": "DEA",
         "date": "2025-10-11 06:43:00"
+    },
+    {
+        "id": 163346690,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-10-11 06:53:05"
+    },
+    {
+        "id": 163346735,
+        "caption": "Player Death",
+        "description": "Shango was slain by Legac (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-10-11 06:58:13"
+    },
+    {
+        "id": 163346800,
+        "caption": "Player Death",
+        "description": "Shango was slain by Ayisdra (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-10-11 07:05:18"
     }
 ]
