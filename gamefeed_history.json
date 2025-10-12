@@ -15671,5 +15671,12 @@
         "description": "Eiselle was slain by Zagreus (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-10-12 01:55:32"
+    },
+    {
+        "id": 163352029,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-10-12 04:19:28"
     }
 ]
