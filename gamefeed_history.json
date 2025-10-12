@@ -15678,5 +15678,12 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-10-12 04:19:28"
+    },
+    {
+        "id": 163352053,
+        "caption": "Player Death",
+        "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2025-10-12 04:31:23"
     }
 ]
