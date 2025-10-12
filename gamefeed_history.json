@@ -15685,5 +15685,19 @@
         "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
         "type": "DEA",
         "date": "2025-10-12 04:31:23"
+    },
+    {
+        "id": 163352802,
+        "caption": "Player Death",
+        "description": "Fentihr was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-10-12 09:40:09"
+    },
+    {
+        "id": 163352807,
+        "caption": "Player Death",
+        "description": "Huskii was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-10-12 09:40:09"
     }
 ]
