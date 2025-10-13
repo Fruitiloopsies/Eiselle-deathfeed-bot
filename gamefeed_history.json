@@ -15699,5 +15699,12 @@
         "description": "Huskii was slain by misadventure.",
         "type": "DEA",
         "date": "2025-10-12 09:40:09"
+    },
+    {
+        "id": 163357662,
+        "caption": "Player Death",
+        "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-10-13 04:33:09"
     }
 ]
