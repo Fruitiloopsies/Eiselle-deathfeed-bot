@@ -15713,5 +15713,12 @@
         "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
         "type": "DEA",
         "date": "2025-10-13 04:47:32"
+    },
+    {
+        "id": 163362730,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-10-13 23:07:32"
     }
 ]
