@@ -15720,5 +15720,12 @@
         "description": "Shango was slain by misadventure.",
         "type": "DEA",
         "date": "2025-10-13 23:07:32"
+    },
+    {
+        "id": 163363404,
+        "caption": "Player Death",
+        "description": "Zoelin has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-10-14 01:10:23"
     }
 ]
