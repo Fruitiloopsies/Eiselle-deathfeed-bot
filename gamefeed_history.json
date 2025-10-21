@@ -15762,5 +15762,12 @@
         "description": "Legac has been disemboweled by Cthoglogg, their entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-10-20 00:31:31"
+    },
+    {
+        "id": 163395976,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-10-21 06:10:36"
     }
 ]
