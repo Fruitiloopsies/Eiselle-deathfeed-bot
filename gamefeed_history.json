@@ -15769,5 +15769,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-10-21 06:10:36"
+    },
+    {
+        "id": 163396853,
+        "caption": "Player Death",
+        "description": "Dedra has been torn to shreds by the fangs of a black fiend wolf.",
+        "type": "DEA",
+        "date": "2025-10-21 12:44:15"
     }
 ]
