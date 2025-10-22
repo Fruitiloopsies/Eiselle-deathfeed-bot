@@ -15783,5 +15783,19 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-10-22 04:55:21"
+    },
+    {
+        "id": 163402102,
+        "caption": "Player Death",
+        "description": "Freja was slain by Exeryte (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-10-22 13:15:18"
+    },
+    {
+        "id": 163402116,
+        "caption": "Player Death",
+        "description": "Shango was slain by Exeryte (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-10-22 13:15:55"
     }
 ]
