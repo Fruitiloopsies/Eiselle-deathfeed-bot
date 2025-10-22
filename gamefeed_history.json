@@ -15776,5 +15776,12 @@
         "description": "Dedra has been torn to shreds by the fangs of a black fiend wolf.",
         "type": "DEA",
         "date": "2025-10-21 12:44:15"
+    },
+    {
+        "id": 163400964,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-10-22 04:55:21"
     }
 ]
