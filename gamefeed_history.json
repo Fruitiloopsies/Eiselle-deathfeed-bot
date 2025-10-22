@@ -15832,5 +15832,19 @@
         "description": "A ghostly battlecharger has brought war to Jaye, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2025-10-22 17:52:17"
+    },
+    {
+        "id": 163404850,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-10-22 21:40:12"
+    },
+    {
+        "id": 163404894,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-10-22 21:40:17"
     }
 ]
