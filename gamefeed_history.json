@@ -15881,5 +15881,12 @@
         "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-10-23 16:58:04"
+    },
+    {
+        "id": 163408767,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-10-23 17:28:44"
     }
 ]
