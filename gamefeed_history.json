@@ -15895,5 +15895,12 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
         "type": "DEA",
         "date": "2025-10-25 04:46:28"
+    },
+    {
+        "id": 163418259,
+        "caption": "Player Death",
+        "description": "Amelie was slain by Amelie (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-10-25 18:47:28"
     }
 ]
