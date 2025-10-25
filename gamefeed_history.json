@@ -15888,5 +15888,12 @@
         "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-10-23 17:28:44"
+    },
+    {
+        "id": 163415717,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
+        "type": "DEA",
+        "date": "2025-10-25 04:46:28"
     }
 ]
