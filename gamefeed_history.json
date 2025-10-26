@@ -15909,5 +15909,12 @@
         "description": "Ayisdra was slain by Malayn (Victim had 90% the might).",
         "type": "DEA",
         "date": "2025-10-26 00:54:22"
+    },
+    {
+        "id": 163419930,
+        "caption": "Player Death",
+        "description": "Alainna has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2025-10-26 05:20:06"
     }
 ]
