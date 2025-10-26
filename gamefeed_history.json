@@ -15916,5 +15916,12 @@
         "description": "Alainna has been given the kiss of death by an emaciated virgin.",
         "type": "DEA",
         "date": "2025-10-26 05:20:06"
+    },
+    {
+        "id": 163420770,
+        "caption": "Player Death",
+        "description": "Gramaun has been swallowed whole by a malcontent door-spirit.",
+        "type": "DEA",
+        "date": "2025-10-26 12:36:09"
     }
 ]
