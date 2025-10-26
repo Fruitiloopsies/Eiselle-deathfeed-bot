@@ -15944,5 +15944,54 @@
         "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-10-26 19:48:09"
+    },
+    {
+        "id": 163423193,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Ferelith has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-10-26 23:33:42"
+    },
+    {
+        "id": 163423227,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-10-26 23:34:05"
+    },
+    {
+        "id": 163423264,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-10-26 23:35:13"
+    },
+    {
+        "id": 163423317,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-10-26 23:35:14"
+    },
+    {
+        "id": 163423323,
+        "caption": "Player Death",
+        "description": "Ferelith has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-10-26 23:35:26"
+    },
+    {
+        "id": 163423357,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-10-26 23:35:44"
+    },
+    {
+        "id": 163423404,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-10-26 23:36:54"
     }
 ]
