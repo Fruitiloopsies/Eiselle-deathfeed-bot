@@ -15902,5 +15902,12 @@
         "description": "Amelie was slain by Amelie (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-10-25 18:47:28"
+    },
+    {
+        "id": 163419199,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-10-26 00:54:22"
     }
 ]
