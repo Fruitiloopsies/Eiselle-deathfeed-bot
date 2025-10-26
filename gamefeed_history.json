@@ -15937,5 +15937,12 @@
         "description": "Marked for death by a clangoru artificer, Ayisdra has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-10-26 19:47:30"
+    },
+    {
+        "id": 163422389,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-10-26 19:48:09"
     }
 ]
