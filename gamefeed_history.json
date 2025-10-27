@@ -15993,5 +15993,54 @@
         "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-10-26 23:36:54"
+    },
+    {
+        "id": 163423415,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-10-26 23:38:41"
+    },
+    {
+        "id": 163423420,
+        "caption": "Player Death",
+        "description": "Ferelith has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-10-26 23:38:53"
+    },
+    {
+        "id": 163423454,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-10-26 23:38:53"
+    },
+    {
+        "id": 163423853,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-10-27 00:27:55"
+    },
+    {
+        "id": 163423876,
+        "caption": "Player Death",
+        "description": "Legac was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-10-27 00:29:04"
+    },
+    {
+        "id": 163423888,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Shango (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-10-27 00:29:52"
+    },
+    {
+        "id": 163423942,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by Shango (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-10-27 00:30:54"
     }
 ]
