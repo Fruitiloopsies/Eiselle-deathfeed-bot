@@ -16042,5 +16042,12 @@
         "description": "Pyawr was slain by Shango (Victim had 80% the might).",
         "type": "DEA",
         "date": "2025-10-27 00:30:54"
+    },
+    {
+        "id": 163428139,
+        "caption": "Player Death",
+        "description": "Freja was slain by Legac (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-10-27 18:58:29"
     }
 ]
