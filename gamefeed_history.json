@@ -16063,5 +16063,19 @@
         "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-10-28 16:40:46"
+    },
+    {
+        "id": 163432043,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-10-28 18:29:38"
+    },
+    {
+        "id": 163432056,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-10-28 18:29:41"
     }
 ]
