@@ -16049,5 +16049,12 @@
         "description": "Freja was slain by Legac (Victim had 120% the might).",
         "type": "DEA",
         "date": "2025-10-27 18:58:29"
+    },
+    {
+        "id": 163431409,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-10-28 15:27:39"
     }
 ]
