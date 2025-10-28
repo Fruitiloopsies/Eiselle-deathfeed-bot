@@ -16077,5 +16077,26 @@
         "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-10-28 18:29:41"
+    },
+    {
+        "id": 163432320,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-10-28 19:13:32"
+    },
+    {
+        "id": 163432353,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Malayn (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-10-28 19:14:40"
+    },
+    {
+        "id": 163432382,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Malayn (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2025-10-28 19:15:56"
     }
 ]
