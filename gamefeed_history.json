@@ -16098,5 +16098,19 @@
         "description": "Eiselle was slain by Malayn (Victim had 95% the might).",
         "type": "DEA",
         "date": "2025-10-28 19:15:56"
+    },
+    {
+        "id": 163434825,
+        "caption": "Player Death",
+        "description": "Karrack has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-10-29 05:22:50"
+    },
+    {
+        "id": 163434829,
+        "caption": "Player Death",
+        "description": "Karrack has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-10-29 05:22:52"
     }
 ]
