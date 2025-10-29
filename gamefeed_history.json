@@ -16112,5 +16112,12 @@
         "description": "Karrack has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-10-29 05:22:52"
+    },
+    {
+        "id": 163434862,
+        "caption": "Player Death",
+        "description": "Karrack has been slain by the might of an illithoid reaper.",
+        "type": "DEA",
+        "date": "2025-10-29 05:44:07"
     }
 ]
