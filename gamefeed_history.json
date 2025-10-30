@@ -16133,5 +16133,26 @@
         "description": "Karrack has been culled and dragged off into the darkness of the Illithoid Prison.",
         "type": "DEA",
         "date": "2025-10-29 06:52:03"
+    },
+    {
+        "id": 163441335,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-10-30 16:57:49"
+    },
+    {
+        "id": 163441400,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-10-30 16:59:19"
+    },
+    {
+        "id": 163441414,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-10-30 16:59:30"
     }
 ]
