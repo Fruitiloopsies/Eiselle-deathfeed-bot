@@ -16161,5 +16161,19 @@
         "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-10-30 17:00:05"
+    },
+    {
+        "id": 163441967,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Ferelith has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-10-30 19:23:52"
+    },
+    {
+        "id": 163442001,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-10-30 19:23:58"
     }
 ]
