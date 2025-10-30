@@ -16154,5 +16154,12 @@
         "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-10-30 16:59:30"
+    },
+    {
+        "id": 163441467,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-10-30 17:00:05"
     }
 ]
