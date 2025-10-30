@@ -16175,5 +16175,19 @@
         "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-10-30 19:23:58"
+    },
+    {
+        "id": 163442085,
+        "caption": "Player Death",
+        "description": "Ferelith has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-10-30 19:39:22"
+    },
+    {
+        "id": 163442119,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-10-30 19:39:41"
     }
 ]
