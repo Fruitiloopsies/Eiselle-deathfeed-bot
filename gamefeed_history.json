@@ -16189,5 +16189,33 @@
         "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2025-10-30 19:39:41"
+    },
+    {
+        "id": 163442183,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-10-30 19:47:08"
+    },
+    {
+        "id": 163442198,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-10-30 19:47:22"
+    },
+    {
+        "id": 163442296,
+        "caption": "Player Death",
+        "description": "Ferelith has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-10-30 19:49:23"
+    },
+    {
+        "id": 163442330,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-10-30 19:49:29"
     }
 ]
