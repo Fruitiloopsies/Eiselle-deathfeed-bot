@@ -16259,5 +16259,12 @@
         "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
         "type": "DEA",
         "date": "2025-10-31 20:58:16"
+    },
+    {
+        "id": 163447223,
+        "caption": "Player Death",
+        "description": "Fentihr has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-10-31 22:11:39"
     }
 ]
