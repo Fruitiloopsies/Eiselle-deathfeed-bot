@@ -16217,5 +16217,19 @@
         "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-10-30 19:49:29"
+    },
+    {
+        "id": 163443442,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Ayisdra, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-10-30 23:58:04"
+    },
+    {
+        "id": 163443486,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-10-30 23:58:38"
     }
 ]
