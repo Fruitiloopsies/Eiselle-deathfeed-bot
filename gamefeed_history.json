@@ -16231,5 +16231,12 @@
         "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-10-30 23:58:38"
+    },
+    {
+        "id": 163446893,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-10-31 20:21:19"
     }
 ]
