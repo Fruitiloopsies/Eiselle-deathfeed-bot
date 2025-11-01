@@ -16266,5 +16266,12 @@
         "description": "Fentihr has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-10-31 22:11:39"
+    },
+    {
+        "id": 163449512,
+        "caption": "Player Death",
+        "description": "Fentihr has been cored by Chatt Duncan, the Angry Orchardist.",
+        "type": "DEA",
+        "date": "2025-11-01 08:29:55"
     }
 ]
