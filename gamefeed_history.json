@@ -16273,5 +16273,19 @@
         "description": "Fentihr has been cored by Chatt Duncan, the Angry Orchardist.",
         "type": "DEA",
         "date": "2025-11-01 08:29:55"
+    },
+    {
+        "id": 163451255,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Jaye has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-11-01 18:22:34"
+    },
+    {
+        "id": 163451300,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-11-01 18:22:41"
     }
 ]
