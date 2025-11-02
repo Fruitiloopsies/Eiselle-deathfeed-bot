@@ -16315,5 +16315,19 @@
         "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-11-02 00:53:39"
+    },
+    {
+        "id": 163453909,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Ayisdra has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-11-02 06:36:47"
+    },
+    {
+        "id": 163453953,
+        "caption": "Player Death",
+        "description": "Jaye has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-11-02 06:36:50"
     }
 ]
