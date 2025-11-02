@@ -16287,5 +16287,33 @@
         "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-11-01 18:22:41"
+    },
+    {
+        "id": 163452786,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-11-02 00:50:53"
+    },
+    {
+        "id": 163452804,
+        "caption": "Player Death",
+        "description": "Jaye has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-11-02 00:52:07"
+    },
+    {
+        "id": 163452850,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-11-02 00:53:31"
+    },
+    {
+        "id": 163452867,
+        "caption": "Player Death",
+        "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-11-02 00:53:39"
     }
 ]
