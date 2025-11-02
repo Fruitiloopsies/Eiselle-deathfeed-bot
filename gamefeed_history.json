@@ -16329,5 +16329,12 @@
         "description": "Jaye has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-11-02 06:36:50"
+    },
+    {
+        "id": 163457038,
+        "caption": "Player Death",
+        "description": "Laina has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-11-02 22:25:24"
     }
 ]
