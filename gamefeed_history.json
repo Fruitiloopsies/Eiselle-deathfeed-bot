@@ -16378,5 +16378,19 @@
         "description": "Ayisdra was slain by Malayn (Victim had 90% the might).",
         "type": "DEA",
         "date": "2025-11-03 23:31:51"
+    },
+    {
+        "id": 163462086,
+        "caption": "Player Death",
+        "description": "Legac was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-11-03 23:39:19"
+    },
+    {
+        "id": 163462103,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Shango (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-11-03 23:39:57"
     }
 ]
