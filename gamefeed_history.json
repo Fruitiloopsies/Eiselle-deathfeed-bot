@@ -16343,5 +16343,19 @@
         "description": "Alainna has been trampled and crushed by a stainless steel goat.",
         "type": "DEA",
         "date": "2025-11-02 22:38:47"
+    },
+    {
+        "id": 163458137,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-11-03 02:37:01"
+    },
+    {
+        "id": 163458180,
+        "caption": "Player Death",
+        "description": "Zoelin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-11-03 02:37:01"
     }
 ]
