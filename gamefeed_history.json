@@ -16357,5 +16357,12 @@
         "description": "Zoelin was slain by misadventure.",
         "type": "DEA",
         "date": "2025-11-03 02:37:01"
+    },
+    {
+        "id": 163461761,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Ayisdra has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-11-03 22:50:17"
     }
 ]
