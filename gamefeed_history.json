@@ -16392,5 +16392,19 @@
         "description": "Ayisdra was slain by Shango (Victim had 90% the might).",
         "type": "DEA",
         "date": "2025-11-03 23:39:57"
+    },
+    {
+        "id": 163468023,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-11-05 04:14:36"
+    },
+    {
+        "id": 163468041,
+        "caption": "Player Death",
+        "description": "Jaye has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-11-05 04:14:59"
     }
 ]
