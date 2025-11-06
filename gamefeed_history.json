@@ -16441,5 +16441,12 @@
         "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
         "type": "DEA",
         "date": "2025-11-06 05:58:00"
+    },
+    {
+        "id": 163473855,
+        "caption": "Player Death",
+        "description": "A two-headed abhorrence has trampled all over Alainna.",
+        "type": "DEA",
+        "date": "2025-11-06 09:52:39"
     }
 ]
