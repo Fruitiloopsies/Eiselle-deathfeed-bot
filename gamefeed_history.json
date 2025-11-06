@@ -16427,5 +16427,19 @@
         "description": "Marked for death by a clangoru artificer, Jaye has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-11-06 05:23:18"
+    },
+    {
+        "id": 163473011,
+        "caption": "Player Death",
+        "description": "Jaye has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-11-06 05:56:30"
+    },
+    {
+        "id": 163473056,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-11-06 05:58:00"
     }
 ]
