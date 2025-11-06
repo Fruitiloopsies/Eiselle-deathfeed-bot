@@ -16413,5 +16413,19 @@
         "description": "Exeryte has been cored by Chatt Duncan, the Angry Orchardist.",
         "type": "DEA",
         "date": "2025-11-05 16:57:26"
+    },
+    {
+        "id": 163472910,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-11-06 05:23:06"
+    },
+    {
+        "id": 163472927,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Jaye has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-11-06 05:23:18"
     }
 ]
