@@ -16448,5 +16448,19 @@
         "description": "A two-headed abhorrence has trampled all over Alainna.",
         "type": "DEA",
         "date": "2025-11-06 09:52:39"
+    },
+    {
+        "id": 163475786,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-11-06 19:46:39"
+    },
+    {
+        "id": 163475839,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-11-06 19:47:12"
     }
 ]
