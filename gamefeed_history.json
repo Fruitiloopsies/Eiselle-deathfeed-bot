@@ -16483,5 +16483,19 @@
         "description": "Legac has been disemboweled by Cthoglogg, their entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-11-09 04:36:37"
+    },
+    {
+        "id": 163489971,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-11-09 19:50:35"
+    },
+    {
+        "id": 163489988,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-11-09 19:50:57"
     }
 ]
