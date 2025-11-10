@@ -16511,5 +16511,12 @@
         "description": "Duxs was slain by misadventure.",
         "type": "DEA",
         "date": "2025-11-10 04:51:48"
+    },
+    {
+        "id": 163492685,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-11-10 06:31:47"
     }
 ]
