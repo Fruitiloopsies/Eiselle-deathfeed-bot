@@ -16504,5 +16504,12 @@
         "description": "Ayisdra was slain by Malayn (Victim had 85% the might).",
         "type": "DEA",
         "date": "2025-11-09 23:45:10"
+    },
+    {
+        "id": 163492327,
+        "caption": "Player Death",
+        "description": "Duxs was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-11-10 04:51:48"
     }
 ]
