@@ -16518,5 +16518,12 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-11-10 06:31:47"
+    },
+    {
+        "id": 163495723,
+        "caption": "Player Death",
+        "description": "A two-headed abhorrence has trampled all over Laina.",
+        "type": "DEA",
+        "date": "2025-11-10 22:19:13"
     }
 ]
