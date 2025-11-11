@@ -16525,5 +16525,12 @@
         "description": "A two-headed abhorrence has trampled all over Laina.",
         "type": "DEA",
         "date": "2025-11-10 22:19:13"
+    },
+    {
+        "id": 163499192,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-11-11 19:12:51"
     }
 ]
