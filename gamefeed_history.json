@@ -16532,5 +16532,12 @@
         "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-11-11 19:12:51"
+    },
+    {
+        "id": 163505266,
+        "caption": "Player Death",
+        "description": "Farlaris has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-11-13 05:29:29"
     }
 ]
