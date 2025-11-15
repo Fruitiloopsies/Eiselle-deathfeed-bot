@@ -16553,5 +16553,54 @@
         "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-11-15 03:35:31"
+    },
+    {
+        "id": 163514765,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Huskii has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-11-15 04:07:01"
+    },
+    {
+        "id": 163514785,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-11-15 04:10:20"
+    },
+    {
+        "id": 163514822,
+        "caption": "Player Death",
+        "description": "Alainna has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-11-15 04:11:12"
+    },
+    {
+        "id": 163514832,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-11-15 04:11:27"
+    },
+    {
+        "id": 163514849,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-11-15 04:12:23"
+    },
+    {
+        "id": 163514894,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-11-15 04:12:55"
+    },
+    {
+        "id": 163514909,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Malayn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-11-15 04:13:22"
     }
 ]
