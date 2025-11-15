@@ -16546,5 +16546,12 @@
         "description": "Alainna has been trampled and crushed by a stainless steel goat.",
         "type": "DEA",
         "date": "2025-11-14 05:47:18"
+    },
+    {
+        "id": 163514616,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-11-15 03:35:31"
     }
 ]
