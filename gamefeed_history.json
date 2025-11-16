@@ -16602,5 +16602,12 @@
         "description": "Body dissolving into sludge, Malayn has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-11-15 04:13:22"
+    },
+    {
+        "id": 163519623,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-11-16 06:38:59"
     }
 ]
