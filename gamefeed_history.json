@@ -16609,5 +16609,12 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-11-16 06:38:59"
+    },
+    {
+        "id": 163524365,
+        "caption": "Player Death",
+        "description": "Exeryte has gruesomely expired, lungs liquefied from the proximity of a gaseous cloier.",
+        "type": "DEA",
+        "date": "2025-11-17 12:54:43"
     }
 ]
