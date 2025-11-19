@@ -16616,5 +16616,12 @@
         "description": "Exeryte has gruesomely expired, lungs liquefied from the proximity of a gaseous cloier.",
         "type": "DEA",
         "date": "2025-11-17 12:54:43"
+    },
+    {
+        "id": 163532345,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-11-19 03:57:18"
     }
 ]
