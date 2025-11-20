@@ -16630,5 +16630,26 @@
         "description": "Zoelin was slain by misadventure.",
         "type": "DEA",
         "date": "2025-11-19 05:30:44"
+    },
+    {
+        "id": 163537321,
+        "caption": "Player Death",
+        "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2025-11-20 03:21:11"
+    },
+    {
+        "id": 163537391,
+        "caption": "Player Death",
+        "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2025-11-20 03:34:00"
+    },
+    {
+        "id": 163537479,
+        "caption": "Player Death",
+        "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-11-20 03:43:35"
     }
 ]
