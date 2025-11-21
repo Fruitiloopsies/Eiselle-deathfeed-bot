@@ -16651,5 +16651,12 @@
         "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-11-20 03:43:35"
+    },
+    {
+        "id": 163542354,
+        "caption": "Player Death",
+        "description": "Karrack was slain by Karrack (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-11-21 04:24:52"
     }
 ]
