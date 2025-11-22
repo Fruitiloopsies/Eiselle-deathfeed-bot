@@ -16658,5 +16658,12 @@
         "description": "Karrack was slain by Karrack (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-11-21 04:24:52"
+    },
+    {
+        "id": 163548562,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Naralis, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-11-22 12:05:58"
     }
 ]
