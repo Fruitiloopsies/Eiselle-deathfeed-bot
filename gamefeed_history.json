@@ -16700,5 +16700,12 @@
         "description": "Eiselle was slain by Malayn (Victim had 90% the might).",
         "type": "DEA",
         "date": "2025-11-23 00:42:48"
+    },
+    {
+        "id": 163551889,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Shango (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-11-23 01:23:35"
     }
 ]
