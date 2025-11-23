@@ -16707,5 +16707,12 @@
         "description": "Ayisdra was slain by Shango (Victim had 90% the might).",
         "type": "DEA",
         "date": "2025-11-23 01:23:35"
+    },
+    {
+        "id": 163553137,
+        "caption": "Player Death",
+        "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-11-23 06:27:34"
     }
 ]
