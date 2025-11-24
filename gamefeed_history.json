@@ -16749,5 +16749,19 @@
         "description": "Edwyin has been assassinated on orders from the Castellan of Djarrakh.",
         "type": "DEA",
         "date": "2025-11-24 14:42:17"
+    },
+    {
+        "id": 163560772,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-11-24 18:36:50"
+    },
+    {
+        "id": 163560817,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-11-24 18:36:54"
     }
 ]
