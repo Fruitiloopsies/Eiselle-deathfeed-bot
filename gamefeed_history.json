@@ -16721,5 +16721,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-11-24 03:14:43"
+    },
+    {
+        "id": 163558298,
+        "caption": "Player Death",
+        "description": "Alainna has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2025-11-24 04:08:51"
     }
 ]
