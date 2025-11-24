@@ -16763,5 +16763,19 @@
         "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-11-24 18:36:54"
+    },
+    {
+        "id": 163561615,
+        "caption": "Player Death",
+        "description": "Legac has been disemboweled by Cthoglogg, their entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-11-24 20:33:56"
+    },
+    {
+        "id": 163561653,
+        "caption": "Player Death",
+        "description": "Edwyin has been slain by the might of a krokani guard.",
+        "type": "DEA",
+        "date": "2025-11-24 20:39:55"
     }
 ]
