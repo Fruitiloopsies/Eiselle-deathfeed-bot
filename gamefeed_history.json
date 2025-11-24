@@ -16728,5 +16728,12 @@
         "description": "Alainna has been slain by the might of a two-headed eagle.",
         "type": "DEA",
         "date": "2025-11-24 04:08:51"
+    },
+    {
+        "id": 163559304,
+        "caption": "Player Death",
+        "description": "Edwyin has been slain by the might of a fearsome orc warrior.",
+        "type": "DEA",
+        "date": "2025-11-24 09:30:56"
     }
 ]
