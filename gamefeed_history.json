@@ -16742,5 +16742,12 @@
         "description": "Edwyin has been assassinated on orders from the Castellan of Djarrakh.",
         "type": "DEA",
         "date": "2025-11-24 14:29:58"
+    },
+    {
+        "id": 163560064,
+        "caption": "Player Death",
+        "description": "Edwyin has been assassinated on orders from the Castellan of Djarrakh.",
+        "type": "DEA",
+        "date": "2025-11-24 14:42:17"
     }
 ]
