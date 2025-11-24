@@ -16714,5 +16714,12 @@
         "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-11-23 06:27:34"
+    },
+    {
+        "id": 163558071,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-11-24 03:14:43"
     }
 ]
