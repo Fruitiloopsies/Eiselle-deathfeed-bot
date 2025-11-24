@@ -16777,5 +16777,12 @@
         "description": "Edwyin has been slain by the might of a krokani guard.",
         "type": "DEA",
         "date": "2025-11-24 20:39:55"
+    },
+    {
+        "id": 163562147,
+        "caption": "Player Death",
+        "description": "Numinous has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-11-24 22:20:57"
     }
 ]
