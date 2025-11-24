@@ -16735,5 +16735,12 @@
         "description": "Edwyin has been slain by the might of a fearsome orc warrior.",
         "type": "DEA",
         "date": "2025-11-24 09:30:56"
+    },
+    {
+        "id": 163560018,
+        "caption": "Player Death",
+        "description": "Edwyin has been assassinated on orders from the Castellan of Djarrakh.",
+        "type": "DEA",
+        "date": "2025-11-24 14:29:58"
     }
 ]
