@@ -16805,5 +16805,12 @@
         "description": "Edwyin has been slain by the might of Lord Necco.",
         "type": "DEA",
         "date": "2025-11-25 11:54:36"
+    },
+    {
+        "id": 163564673,
+        "caption": "Player Death",
+        "description": "Edwyin has been slain by the might of the Liquorice Queen.",
+        "type": "DEA",
+        "date": "2025-11-25 12:06:49"
     }
 ]
