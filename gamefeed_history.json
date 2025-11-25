@@ -16798,5 +16798,12 @@
         "description": "Edwyin has been slain by the might of a peep soldier.",
         "type": "DEA",
         "date": "2025-11-25 11:43:57"
+    },
+    {
+        "id": 163564645,
+        "caption": "Player Death",
+        "description": "Edwyin has been slain by the might of Lord Necco.",
+        "type": "DEA",
+        "date": "2025-11-25 11:54:36"
     }
 ]
