@@ -16791,5 +16791,12 @@
         "description": "Azurai was slain by misadventure.",
         "type": "DEA",
         "date": "2025-11-25 07:38:31"
+    },
+    {
+        "id": 163564635,
+        "caption": "Player Death",
+        "description": "Edwyin has been slain by the might of a peep soldier.",
+        "type": "DEA",
+        "date": "2025-11-25 11:43:57"
     }
 ]
