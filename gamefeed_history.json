@@ -16784,5 +16784,12 @@
         "description": "Numinous has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-11-24 22:20:57"
+    },
+    {
+        "id": 163563993,
+        "caption": "Player Death",
+        "description": "Azurai was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-11-25 07:38:31"
     }
 ]
