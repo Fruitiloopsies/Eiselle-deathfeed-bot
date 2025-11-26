@@ -16826,5 +16826,12 @@
         "description": "A fearsome mountain lion turns Edwyin into shredded ribbons of flesh pasta.",
         "type": "DEA",
         "date": "2025-11-26 12:40:35"
+    },
+    {
+        "id": 163571278,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Fentihr.",
+        "type": "DEA",
+        "date": "2025-11-26 15:09:53"
     }
 ]
