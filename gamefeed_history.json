@@ -16833,5 +16833,19 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Fentihr.",
         "type": "DEA",
         "date": "2025-11-26 15:09:53"
+    },
+    {
+        "id": 163571529,
+        "caption": "Player Death",
+        "description": "Edwyin has been slain by the might of a shadow manta.",
+        "type": "DEA",
+        "date": "2025-11-26 16:17:43"
+    },
+    {
+        "id": 163571646,
+        "caption": "Player Death",
+        "description": "Edwyin has been slain by the might of an illithoid reaper.",
+        "type": "DEA",
+        "date": "2025-11-26 16:26:19"
     }
 ]
