@@ -16812,5 +16812,12 @@
         "description": "Edwyin has been slain by the might of the Liquorice Queen.",
         "type": "DEA",
         "date": "2025-11-25 12:06:49"
+    },
+    {
+        "id": 163569360,
+        "caption": "Player Death",
+        "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-11-26 04:13:41"
     }
 ]
