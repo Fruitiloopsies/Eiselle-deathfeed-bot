@@ -16924,5 +16924,12 @@
         "description": "Jaye was slain by Shango (Victim had 80% the might).",
         "type": "DEA",
         "date": "2025-11-27 01:05:12"
+    },
+    {
+        "id": 163576784,
+        "caption": "Player Death",
+        "description": "Ashonfel has been smothered in the Web of Despair by Baalphegar, the Prince of the Dark Fates.",
+        "type": "DEA",
+        "date": "2025-11-27 05:20:46"
     }
 ]
