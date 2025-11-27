@@ -16854,5 +16854,75 @@
         "description": "Enumbra has been slain by the might of a giant black widow.",
         "type": "DEA",
         "date": "2025-11-26 19:34:58"
+    },
+    {
+        "id": 163574506,
+        "caption": "Player Death",
+        "description": "Freja was slain by Tuilinn (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-11-27 00:51:29"
+    },
+    {
+        "id": 163574555,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-11-27 00:53:08"
+    },
+    {
+        "id": 163574588,
+        "caption": "Player Death",
+        "description": "Freja was slain by Legac (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-11-27 00:53:10"
+    },
+    {
+        "id": 163574608,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Malayn (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2025-11-27 00:53:47"
+    },
+    {
+        "id": 163574690,
+        "caption": "Player Death",
+        "description": "Legac was slain by Freja (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-11-27 00:54:50"
+    },
+    {
+        "id": 163574709,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-11-27 00:55:24"
+    },
+    {
+        "id": 163574763,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Shango (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-11-27 00:56:16"
+    },
+    {
+        "id": 163574830,
+        "caption": "Player Death",
+        "description": "Legac was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-11-27 01:03:29"
+    },
+    {
+        "id": 163574998,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-11-27 01:05:09"
+    },
+    {
+        "id": 163575053,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Shango (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-11-27 01:05:12"
     }
 ]
