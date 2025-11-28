@@ -16938,5 +16938,19 @@
         "description": "Alainna was slain by misadventure.",
         "type": "DEA",
         "date": "2025-11-28 06:25:07"
+    },
+    {
+        "id": 163581933,
+        "caption": "Player Death",
+        "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-11-28 06:36:21"
+    },
+    {
+        "id": 163581945,
+        "caption": "Player Death",
+        "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-11-28 06:40:02"
     }
 ]
