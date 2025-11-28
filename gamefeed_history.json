@@ -16931,5 +16931,12 @@
         "description": "Ashonfel has been smothered in the Web of Despair by Baalphegar, the Prince of the Dark Fates.",
         "type": "DEA",
         "date": "2025-11-27 05:20:46"
+    },
+    {
+        "id": 163581896,
+        "caption": "Player Death",
+        "description": "Alainna was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-11-28 06:25:07"
     }
 ]
