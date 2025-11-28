@@ -16952,5 +16952,12 @@
         "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-11-28 06:40:02"
+    },
+    {
+        "id": 163582267,
+        "caption": "Player Death",
+        "description": "Azurai has been slain by the might of a hard-shelled, many-legged cave-fisher.",
+        "type": "DEA",
+        "date": "2025-11-28 08:44:02"
     }
 ]
