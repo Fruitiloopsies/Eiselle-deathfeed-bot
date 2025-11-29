@@ -16959,5 +16959,12 @@
         "description": "Azurai has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2025-11-28 08:44:02"
+    },
+    {
+        "id": 163587922,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Karrack, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-11-29 09:25:13"
     }
 ]
