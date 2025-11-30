@@ -16966,5 +16966,26 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Karrack, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-11-29 09:25:13"
+    },
+    {
+        "id": 163595078,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-11-30 22:27:38"
+    },
+    {
+        "id": 163595137,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-11-30 22:29:06"
+    },
+    {
+        "id": 163595184,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-11-30 22:29:51"
     }
 ]
