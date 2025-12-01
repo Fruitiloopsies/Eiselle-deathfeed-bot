@@ -17008,5 +17008,12 @@
         "description": "Exeryte was slain by misadventure.",
         "type": "DEA",
         "date": "2025-12-01 17:07:36"
+    },
+    {
+        "id": 163600254,
+        "caption": "Player Death",
+        "description": "Zynna was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-12-01 20:15:55"
     }
 ]
