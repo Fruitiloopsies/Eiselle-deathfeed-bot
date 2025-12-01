@@ -17015,5 +17015,12 @@
         "description": "Zynna was slain by misadventure.",
         "type": "DEA",
         "date": "2025-12-01 20:15:55"
+    },
+    {
+        "id": 163600513,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Gilda has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-01 21:08:22"
     }
 ]
