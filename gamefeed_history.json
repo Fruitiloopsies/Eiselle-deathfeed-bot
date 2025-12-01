@@ -17050,5 +17050,19 @@
         "description": "Body dissolving into sludge, Numinous has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-12-01 22:13:46"
+    },
+    {
+        "id": 163601141,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-01 22:20:08"
+    },
+    {
+        "id": 163601198,
+        "caption": "Player Death",
+        "description": "Numinous has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-01 22:37:02"
     }
 ]
