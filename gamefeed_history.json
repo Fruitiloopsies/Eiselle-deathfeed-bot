@@ -17211,5 +17211,12 @@
         "description": "Puriel has been slain by the might of an ur'Guard Grand Marshal.",
         "type": "DEA",
         "date": "2025-12-02 13:57:51"
+    },
+    {
+        "id": 163606397,
+        "caption": "Player Death",
+        "description": "Seraphine has been slain by the might of a thorn beast.",
+        "type": "DEA",
+        "date": "2025-12-02 15:10:19"
     }
 ]
