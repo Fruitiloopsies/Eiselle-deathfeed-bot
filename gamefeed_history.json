@@ -17204,5 +17204,12 @@
         "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-12-02 04:58:43"
+    },
+    {
+        "id": 163606091,
+        "caption": "Player Death",
+        "description": "Puriel has been slain by the might of an ur'Guard Grand Marshal.",
+        "type": "DEA",
+        "date": "2025-12-02 13:57:51"
     }
 ]
