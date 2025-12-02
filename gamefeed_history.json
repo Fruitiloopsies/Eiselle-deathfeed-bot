@@ -17113,5 +17113,75 @@
         "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-12-02 01:53:30"
+    },
+    {
+        "id": 163603246,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-02 02:10:21"
+    },
+    {
+        "id": 163603294,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-02 02:11:50"
+    },
+    {
+        "id": 163603309,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-02 02:12:47"
+    },
+    {
+        "id": 163603338,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-02 02:13:28"
+    },
+    {
+        "id": 163603367,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Shango has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-02 02:14:18"
+    },
+    {
+        "id": 163603411,
+        "caption": "Player Death",
+        "description": "Zagreus has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-02 02:14:39"
+    },
+    {
+        "id": 163603450,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-02 02:15:27"
+    },
+    {
+        "id": 163603480,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-02 02:18:02"
+    },
+    {
+        "id": 163603494,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Shango has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-02 02:18:07"
+    },
+    {
+        "id": 163603540,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-02 02:19:33"
     }
 ]
