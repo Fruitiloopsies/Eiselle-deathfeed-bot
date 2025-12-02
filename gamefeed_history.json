@@ -17099,5 +17099,19 @@
         "description": "Marked for death by a clangoru artificer, Numinous has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-12-01 22:40:18"
+    },
+    {
+        "id": 163603097,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Malayn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-02 01:37:08"
+    },
+    {
+        "id": 163603158,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-02 01:53:30"
     }
 ]
