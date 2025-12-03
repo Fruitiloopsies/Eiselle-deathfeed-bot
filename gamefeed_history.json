@@ -17316,5 +17316,12 @@
         "description": "A ghostly battlecharger has brought war to Freja, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2025-12-03 05:01:35"
+    },
+    {
+        "id": 163612219,
+        "caption": "Player Death",
+        "description": "A fearsome mountain lion turns Roya into shredded ribbons of flesh pasta.",
+        "type": "DEA",
+        "date": "2025-12-03 15:01:45"
     }
 ]
