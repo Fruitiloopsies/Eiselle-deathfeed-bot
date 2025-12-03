@@ -17323,5 +17323,54 @@
         "description": "A fearsome mountain lion turns Roya into shredded ribbons of flesh pasta.",
         "type": "DEA",
         "date": "2025-12-03 15:01:45"
+    },
+    {
+        "id": 163614524,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-03 23:05:02"
+    },
+    {
+        "id": 163614573,
+        "caption": "Player Death",
+        "description": "Legac was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-12-03 23:05:02"
+    },
+    {
+        "id": 163614588,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-03 23:06:30"
+    },
+    {
+        "id": 163614621,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-03 23:07:01"
+    },
+    {
+        "id": 163614652,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-03 23:13:33"
+    },
+    {
+        "id": 163614685,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-03 23:14:52"
+    },
+    {
+        "id": 163614699,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-03 23:15:23"
     }
 ]
