@@ -17281,5 +17281,12 @@
         "description": "Body dissolving into sludge, Shango has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-12-03 03:36:55"
+    },
+    {
+        "id": 163610310,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-12-03 04:20:28"
     }
 ]
