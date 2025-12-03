@@ -17302,5 +17302,19 @@
         "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-12-03 04:59:54"
+    },
+    {
+        "id": 163610579,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-03 05:01:12"
+    },
+    {
+        "id": 163610608,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Freja, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-03 05:01:35"
     }
 ]
