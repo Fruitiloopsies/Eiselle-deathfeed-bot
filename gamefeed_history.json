@@ -17393,5 +17393,12 @@
         "description": "Arbane has been slain by the might of an illithoid reaper.",
         "type": "DEA",
         "date": "2025-12-04 11:49:58"
+    },
+    {
+        "id": 163619297,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-04 18:19:50"
     }
 ]
