@@ -17372,5 +17372,12 @@
         "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-12-03 23:15:23"
+    },
+    {
+        "id": 163615624,
+        "caption": "Player Death",
+        "description": "Now riddled with holes from multiple tiny bites, Roya has fallen to a woolly mountain bat.",
+        "type": "DEA",
+        "date": "2025-12-04 01:35:00"
     }
 ]
