@@ -17610,5 +17610,19 @@
         "description": "Millien was slain by misadventure.",
         "type": "DEA",
         "date": "2025-12-06 06:02:43"
+    },
+    {
+        "id": 163632458,
+        "caption": "Player Death",
+        "description": "Bruski has been slain by the might of a delicious gingerbread man.",
+        "type": "DEA",
+        "date": "2025-12-06 18:54:12"
+    },
+    {
+        "id": 163632461,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-06 18:58:56"
     }
 ]
