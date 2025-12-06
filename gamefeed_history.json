@@ -17463,5 +17463,40 @@
         "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-12-05 23:42:12"
+    },
+    {
+        "id": 163627767,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Zoelin has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-06 00:34:25"
+    },
+    {
+        "id": 163627921,
+        "caption": "Player Death",
+        "description": "Jemna has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-06 01:11:40"
+    },
+    {
+        "id": 163628156,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-06 01:37:17"
+    },
+    {
+        "id": 163628250,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Malayn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-06 01:38:40"
+    },
+    {
+        "id": 163628279,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-06 01:38:44"
     }
 ]
