@@ -17498,5 +17498,61 @@
         "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-12-06 01:38:44"
+    },
+    {
+        "id": 163628296,
+        "caption": "Player Death",
+        "description": "Jemna has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-06 01:40:37"
+    },
+    {
+        "id": 163628343,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Jemna has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-06 01:50:42"
+    },
+    {
+        "id": 163628427,
+        "caption": "Player Death",
+        "description": "Jemna has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-06 02:02:41"
+    },
+    {
+        "id": 163628447,
+        "caption": "Player Death",
+        "description": "Zoelin has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-06 02:02:41"
+    },
+    {
+        "id": 163628480,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-06 02:10:36"
+    },
+    {
+        "id": 163628572,
+        "caption": "Player Death",
+        "description": "Jemna's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2025-12-06 02:27:06"
+    },
+    {
+        "id": 163628593,
+        "caption": "Player Death",
+        "description": "Roya's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2025-12-06 02:27:06"
+    },
+    {
+        "id": 163628714,
+        "caption": "Player Death",
+        "description": "Karrack was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-12-06 02:57:13"
     }
 ]
