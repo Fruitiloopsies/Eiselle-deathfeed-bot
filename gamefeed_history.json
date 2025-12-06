@@ -17624,5 +17624,26 @@
         "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-12-06 18:58:56"
+    },
+    {
+        "id": 163632658,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-06 20:20:27"
+    },
+    {
+        "id": 163632681,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Faragan has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-06 20:21:07"
+    },
+    {
+        "id": 163632712,
+        "caption": "Player Death",
+        "description": "Qoivhae has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-06 20:21:42"
     }
 ]
