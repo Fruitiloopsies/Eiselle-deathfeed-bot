@@ -17554,5 +17554,12 @@
         "description": "Karrack was slain by misadventure.",
         "type": "DEA",
         "date": "2025-12-06 02:57:13"
+    },
+    {
+        "id": 163629177,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-06 04:29:05"
     }
 ]
