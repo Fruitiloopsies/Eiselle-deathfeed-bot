@@ -18121,5 +18121,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Qoivhae, petrifying him for eternity.",
         "type": "DEA",
         "date": "2025-12-07 11:01:44"
+    },
+    {
+        "id": 163639704,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-12-07 11:53:35"
     }
 ]
