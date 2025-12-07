@@ -18093,5 +18093,26 @@
         "description": "Marked for death by a clangoru artificer, Yinuish has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-12-07 04:48:30"
+    },
+    {
+        "id": 163637994,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-12-07 05:09:00"
+    },
+    {
+        "id": 163638040,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Gramaun, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-12-07 05:09:02"
+    },
+    {
+        "id": 163638047,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jemna, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-12-07 05:09:09"
     }
 ]
