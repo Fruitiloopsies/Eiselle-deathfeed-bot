@@ -18135,5 +18135,12 @@
         "description": "Roya has been slain by the might of an illithoid ravager.",
         "type": "DEA",
         "date": "2025-12-07 15:09:21"
+    },
+    {
+        "id": 163641382,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-07 20:24:35"
     }
 ]
