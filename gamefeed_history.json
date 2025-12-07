@@ -18191,5 +18191,12 @@
         "description": "Bruski has been slain by the might of Ladyfinger.",
         "type": "DEA",
         "date": "2025-12-07 20:53:35"
+    },
+    {
+        "id": 163642208,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-07 22:58:18"
     }
 ]
