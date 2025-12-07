@@ -18198,5 +18198,26 @@
         "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-12-07 22:58:18"
+    },
+    {
+        "id": 163642427,
+        "caption": "Player Death",
+        "description": "Aidune has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-07 23:43:38"
+    },
+    {
+        "id": 163642448,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-07 23:44:01"
+    },
+    {
+        "id": 163642470,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Jaye has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-07 23:44:01"
     }
 ]
