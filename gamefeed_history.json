@@ -17666,5 +17666,180 @@
         "description": "Eiselle was slain by Freja (Victim had 90% the might).",
         "type": "DEA",
         "date": "2025-12-06 21:43:40"
+    },
+    {
+        "id": 163634133,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Malayn (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:14:01"
+    },
+    {
+        "id": 163634162,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Shango (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:14:09"
+    },
+    {
+        "id": 163634214,
+        "caption": "Player Death",
+        "description": "Freja was slain by Aknarin (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:24:11"
+    },
+    {
+        "id": 163634231,
+        "caption": "Player Death",
+        "description": "Ruiku was slain by Jaye (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:24:54"
+    },
+    {
+        "id": 163634256,
+        "caption": "Player Death",
+        "description": "Aidune was slain by Zagreus (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:25:47"
+    },
+    {
+        "id": 163634287,
+        "caption": "Player Death",
+        "description": "Jemna was slain by Zagreus (Victim had 65% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:33:55"
+    },
+    {
+        "id": 163634361,
+        "caption": "Player Death",
+        "description": "Karrack was slain by Shango (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:35:33"
+    },
+    {
+        "id": 163634367,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Jaye (Victim had 125% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:35:33"
+    },
+    {
+        "id": 163634488,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Ruiku (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:36:39"
+    },
+    {
+        "id": 163634520,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Shango (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:39:38"
+    },
+    {
+        "id": 163634564,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Zagreus (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:40:20"
+    },
+    {
+        "id": 163634645,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Ruiku (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:41:56"
+    },
+    {
+        "id": 163634695,
+        "caption": "Player Death",
+        "description": "Aknarin was slain by Zagreus (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:42:40"
+    },
+    {
+        "id": 163634817,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Zagreus (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:49:14"
+    },
+    {
+        "id": 163634866,
+        "caption": "Player Death",
+        "description": "Freja was slain by Jemna (Victim had 155% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:49:24"
+    },
+    {
+        "id": 163634882,
+        "caption": "Player Death",
+        "description": "Legac was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:49:48"
+    },
+    {
+        "id": 163634932,
+        "caption": "Player Death",
+        "description": "Jemna was slain by Zagreus (Victim had 65% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:50:50"
+    },
+    {
+        "id": 163634960,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Zagreus (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:51:11"
+    },
+    {
+        "id": 163635010,
+        "caption": "Player Death",
+        "description": "Karrack was slain by Zagreus (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:51:25"
+    },
+    {
+        "id": 163635017,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:51:57"
+    },
+    {
+        "id": 163635163,
+        "caption": "Player Death",
+        "description": "Aknarin was slain by Zagreus (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:52:37"
+    },
+    {
+        "id": 163635202,
+        "caption": "Player Death",
+        "description": "Legac was slain by Malayn (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:54:54"
+    },
+    {
+        "id": 163635225,
+        "caption": "Player Death",
+        "description": "Jaye was slain by Zagreus (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:55:40"
+    },
+    {
+        "id": 163635326,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Malayn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:56:57"
+    },
+    {
+        "id": 163635378,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-12-07 00:57:39"
     }
 ]
