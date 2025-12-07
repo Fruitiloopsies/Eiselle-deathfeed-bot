@@ -18128,5 +18128,12 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2025-12-07 11:53:35"
+    },
+    {
+        "id": 163640247,
+        "caption": "Player Death",
+        "description": "Roya has been slain by the might of an illithoid ravager.",
+        "type": "DEA",
+        "date": "2025-12-07 15:09:21"
     }
 ]
