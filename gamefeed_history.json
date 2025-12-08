@@ -18219,5 +18219,40 @@
         "description": "Body dissolving into sludge, Jaye has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-12-07 23:44:01"
+    },
+    {
+        "id": 163642591,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Roya.",
+        "type": "DEA",
+        "date": "2025-12-07 23:54:49"
+    },
+    {
+        "id": 163642749,
+        "caption": "Player Death",
+        "description": "Naralis has been slain by the might of Flintbeard, the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-08 00:16:25"
+    },
+    {
+        "id": 163642754,
+        "caption": "Player Death",
+        "description": "Roya has been slain by the might of Flintbeard, the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-08 00:16:25"
+    },
+    {
+        "id": 163642767,
+        "caption": "Player Death",
+        "description": "Tuilinn has been slain by the might of Flintbeard, the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-08 00:18:42"
+    },
+    {
+        "id": 163642805,
+        "caption": "Player Death",
+        "description": "Roya has been slain by the might of Flintbeard, the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-08 00:19:42"
     }
 ]
