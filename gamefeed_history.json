@@ -18303,5 +18303,12 @@
         "description": "Bruski has been slain by the might of a delicious gingerbread man.",
         "type": "DEA",
         "date": "2025-12-08 15:18:24"
+    },
+    {
+        "id": 163647043,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Legac (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2025-12-08 16:38:09"
     }
 ]
