@@ -18310,5 +18310,19 @@
         "description": "Huskii was slain by Legac (Victim had 120% the might).",
         "type": "DEA",
         "date": "2025-12-08 16:38:09"
+    },
+    {
+        "id": 163647517,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-08 18:16:09"
+    },
+    {
+        "id": 163647563,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-08 18:16:13"
     }
 ]
