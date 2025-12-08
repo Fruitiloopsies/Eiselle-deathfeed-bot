@@ -18254,5 +18254,19 @@
         "description": "Roya has been slain by the might of Flintbeard, the Malignant.",
         "type": "DEA",
         "date": "2025-12-08 00:19:42"
+    },
+    {
+        "id": 163644256,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-12-08 04:30:03"
+    },
+    {
+        "id": 163644268,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-12-08 04:34:42"
     }
 ]
