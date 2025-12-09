@@ -18345,5 +18345,12 @@
         "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-12-08 19:53:49"
+    },
+    {
+        "id": 163650049,
+        "caption": "Player Death",
+        "description": "Gramaun has been slain by the might of a Golden Champion.",
+        "type": "DEA",
+        "date": "2025-12-09 01:00:43"
     }
 ]
