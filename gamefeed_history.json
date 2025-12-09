@@ -18373,5 +18373,12 @@
         "description": "Qoivhae was slain by misadventure.",
         "type": "DEA",
         "date": "2025-12-09 14:21:46"
+    },
+    {
+        "id": 163653960,
+        "caption": "Player Death",
+        "description": "Jemna has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2025-12-09 14:46:36"
     }
 ]
