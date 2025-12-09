@@ -18359,5 +18359,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-12-09 04:40:20"
+    },
+    {
+        "id": 163652367,
+        "caption": "Player Death",
+        "description": "Jemna has succumbed to the chill presence of a floating ice skull.",
+        "type": "DEA",
+        "date": "2025-12-09 07:31:56"
     }
 ]
