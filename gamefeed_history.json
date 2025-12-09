@@ -18380,5 +18380,19 @@
         "description": "Jemna has been culled and dragged off into the darkness of the Illithoid Prison.",
         "type": "DEA",
         "date": "2025-12-09 14:46:36"
+    },
+    {
+        "id": 163654086,
+        "caption": "Player Death",
+        "description": "Jemna has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-12-09 15:15:13"
+    },
+    {
+        "id": 163654166,
+        "caption": "Player Death",
+        "description": "Jemna has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-12-09 15:21:34"
     }
 ]
