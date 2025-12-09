@@ -18352,5 +18352,12 @@
         "description": "Gramaun has been slain by the might of a Golden Champion.",
         "type": "DEA",
         "date": "2025-12-09 01:00:43"
+    },
+    {
+        "id": 163651605,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-12-09 04:40:20"
     }
 ]
