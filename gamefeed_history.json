@@ -18457,5 +18457,12 @@
         "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-12-10 04:47:56"
+    },
+    {
+        "id": 163659222,
+        "caption": "Player Death",
+        "description": "Argilent has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-12-10 07:16:07"
     }
 ]
