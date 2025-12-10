@@ -18492,5 +18492,12 @@
         "description": "Tylwyth has been slain by the might of a two-headed hamster of chaos.",
         "type": "DEA",
         "date": "2025-12-10 10:08:33"
+    },
+    {
+        "id": 163660953,
+        "caption": "Player Death",
+        "description": "Jemna wandered into the Iceburn Plains, never to walk out alive.",
+        "type": "DEA",
+        "date": "2025-12-10 15:49:05"
     }
 ]
