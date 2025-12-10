@@ -18415,5 +18415,12 @@
         "description": "Tylwyth was slain by Tylwyth (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-12-09 19:51:55"
+    },
+    {
+        "id": 163657048,
+        "caption": "Player Death",
+        "description": "Eriette has been slain by the might of Flintbeard, the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-10 01:05:09"
     }
 ]
