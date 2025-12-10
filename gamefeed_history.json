@@ -18520,5 +18520,33 @@
         "description": "A ghostly battlecharger has brought war to Jemna, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2025-12-10 19:32:06"
+    },
+    {
+        "id": 163662289,
+        "caption": "Player Death",
+        "description": "Jemna has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-10 19:49:18"
+    },
+    {
+        "id": 163662309,
+        "caption": "Player Death",
+        "description": "Ollie has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-10 19:50:14"
+    },
+    {
+        "id": 163662333,
+        "caption": "Player Death",
+        "description": "Jemna has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-10 19:54:14"
+    },
+    {
+        "id": 163662354,
+        "caption": "Player Death",
+        "description": "Ollie has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-10 19:54:37"
     }
 ]
