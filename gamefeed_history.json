@@ -18506,5 +18506,12 @@
         "description": "Jemna has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-12-10 17:13:01"
+    },
+    {
+        "id": 163661535,
+        "caption": "Player Death",
+        "description": "Jemna has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-10 17:39:35"
     }
 ]
