@@ -18779,5 +18779,12 @@
         "description": "Roya has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-12-11 12:41:51"
+    },
+    {
+        "id": 163668865,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Roya.",
+        "type": "DEA",
+        "date": "2025-12-11 15:16:00"
     }
 ]
