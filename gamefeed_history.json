@@ -18653,5 +18653,110 @@
         "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-12-10 20:05:15"
+    },
+    {
+        "id": 163665317,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Ayisdra has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-11 02:03:12"
+    },
+    {
+        "id": 163665365,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-11 02:04:44"
+    },
+    {
+        "id": 163665386,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Qoivhae, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-11 02:06:00"
+    },
+    {
+        "id": 163665416,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-11 02:07:07"
+    },
+    {
+        "id": 163665435,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-11 02:08:32"
+    },
+    {
+        "id": 163665454,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-11 02:11:02"
+    },
+    {
+        "id": 163665503,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-11 02:12:39"
+    },
+    {
+        "id": 163665520,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Ayisdra has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-11 02:13:00"
+    },
+    {
+        "id": 163665567,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-11 02:13:11"
+    },
+    {
+        "id": 163665746,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Malayn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-11 02:29:30"
+    },
+    {
+        "id": 163665838,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Freja has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-11 02:51:12"
+    },
+    {
+        "id": 163665863,
+        "caption": "Player Death",
+        "description": "Zagreus has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-11 02:52:36"
+    },
+    {
+        "id": 163665894,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Freja has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-11 02:53:48"
+    },
+    {
+        "id": 163665909,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Malayn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-11 02:54:02"
+    },
+    {
+        "id": 163665941,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-11 02:54:15"
     }
 ]
