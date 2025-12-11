@@ -18765,5 +18765,19 @@
         "description": "Aidune has been culled and dragged off into the darkness of the Illithoid Prison.",
         "type": "DEA",
         "date": "2025-12-11 05:07:08"
+    },
+    {
+        "id": 163668194,
+        "caption": "Player Death",
+        "description": "Aidune has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-12-11 12:41:47"
+    },
+    {
+        "id": 163668215,
+        "caption": "Player Death",
+        "description": "Roya has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-12-11 12:41:51"
     }
 ]
