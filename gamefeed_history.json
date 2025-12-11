@@ -18758,5 +18758,12 @@
         "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-12-11 02:54:15"
+    },
+    {
+        "id": 163666742,
+        "caption": "Player Death",
+        "description": "Aidune has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2025-12-11 05:07:08"
     }
 ]
