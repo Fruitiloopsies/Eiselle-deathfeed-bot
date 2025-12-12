@@ -18821,5 +18821,19 @@
         "description": "Zoelin was slain by Shango (Victim had 105% the might).",
         "type": "DEA",
         "date": "2025-12-12 07:45:49"
+    },
+    {
+        "id": 163673591,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by Shango (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-12-12 08:04:25"
+    },
+    {
+        "id": 163673644,
+        "caption": "Player Death",
+        "description": "Zoelin was slain by Shango (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-12-12 08:05:07"
     }
 ]
