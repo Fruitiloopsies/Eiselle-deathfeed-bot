@@ -18786,5 +18786,19 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Roya.",
         "type": "DEA",
         "date": "2025-12-11 15:16:00"
+    },
+    {
+        "id": 163673298,
+        "caption": "Player Death",
+        "description": "Tylwyth has been slain by the might of a two-headed hamster of chaos.",
+        "type": "DEA",
+        "date": "2025-12-12 07:02:44"
+    },
+    {
+        "id": 163673344,
+        "caption": "Player Death",
+        "description": "Tylwyth has been slain by the might of a two-headed hamster of chaos.",
+        "type": "DEA",
+        "date": "2025-12-12 07:09:50"
     }
 ]
