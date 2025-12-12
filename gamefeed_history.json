@@ -18807,5 +18807,19 @@
         "description": "Tylwyth has been slain by the might of a two-headed hamster of chaos.",
         "type": "DEA",
         "date": "2025-12-12 07:20:39"
+    },
+    {
+        "id": 163673494,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by Shango (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-12-12 07:44:38"
+    },
+    {
+        "id": 163673539,
+        "caption": "Player Death",
+        "description": "Zoelin was slain by Shango (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-12-12 07:45:49"
     }
 ]
