@@ -18863,5 +18863,12 @@
         "description": "Atuniel has been slain by the might of Flintbeard, the Malignant.",
         "type": "DEA",
         "date": "2025-12-13 19:19:03"
+    },
+    {
+        "id": 163683347,
+        "caption": "Player Death",
+        "description": "Bruski has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-12-13 21:38:13"
     }
 ]
