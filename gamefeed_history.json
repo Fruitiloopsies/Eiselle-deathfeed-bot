@@ -18849,5 +18849,19 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Iae, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-12-13 01:11:48"
+    },
+    {
+        "id": 163682627,
+        "caption": "Player Death",
+        "description": "Atuniel has been slain by the might of Flintbeard, the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-13 19:17:27"
+    },
+    {
+        "id": 163682636,
+        "caption": "Player Death",
+        "description": "Atuniel has been slain by the might of Flintbeard, the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-13 19:19:03"
     }
 ]
