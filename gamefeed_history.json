@@ -18870,5 +18870,26 @@
         "description": "Bruski has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-12-13 21:38:13"
+    },
+    {
+        "id": 163686199,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Zoelin, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-14 04:05:54"
+    },
+    {
+        "id": 163686214,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Jaye, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-14 04:05:54"
+    },
+    {
+        "id": 163686278,
+        "caption": "Player Death",
+        "description": "Aidune has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-14 04:08:02"
     }
 ]
