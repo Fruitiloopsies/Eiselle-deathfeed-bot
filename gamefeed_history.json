@@ -18905,5 +18905,19 @@
         "description": "Bruski has been slain by the might of a delicious gingerbread man.",
         "type": "DEA",
         "date": "2025-12-14 20:08:43"
+    },
+    {
+        "id": 163693373,
+        "caption": "Player Death",
+        "description": "Akuno has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2025-12-15 04:24:37"
+    },
+    {
+        "id": 163693391,
+        "caption": "Player Death",
+        "description": "Zoelin has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2025-12-15 04:25:31"
     }
 ]
