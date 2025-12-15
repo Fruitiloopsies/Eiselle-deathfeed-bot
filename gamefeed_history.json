@@ -18919,5 +18919,12 @@
         "description": "Zoelin has been slain by the might of a two-headed eagle.",
         "type": "DEA",
         "date": "2025-12-15 04:25:31"
+    },
+    {
+        "id": 163693522,
+        "caption": "Player Death",
+        "description": "Akuno has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-12-15 05:01:16"
     }
 ]
