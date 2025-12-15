@@ -18933,5 +18933,12 @@
         "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-12-15 18:08:30"
+    },
+    {
+        "id": 163697614,
+        "caption": "Player Death",
+        "description": "Kistan has frozen into fatal catatonia, victim to a monstrous ice devil.",
+        "type": "DEA",
+        "date": "2025-12-15 21:53:41"
     }
 ]
