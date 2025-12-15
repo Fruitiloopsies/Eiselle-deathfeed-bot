@@ -18926,5 +18926,12 @@
         "description": "Akuno has been trampled and crushed by a stainless steel goat.",
         "type": "DEA",
         "date": "2025-12-15 05:01:16"
+    },
+    {
+        "id": 163696278,
+        "caption": "Player Death",
+        "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-12-15 18:08:30"
     }
 ]
