@@ -18940,5 +18940,12 @@
         "description": "Kistan has frozen into fatal catatonia, victim to a monstrous ice devil.",
         "type": "DEA",
         "date": "2025-12-15 21:53:41"
+    },
+    {
+        "id": 163698495,
+        "caption": "Player Death",
+        "description": "Eriette has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2025-12-16 00:23:59"
     }
 ]
