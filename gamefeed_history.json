@@ -18961,5 +18961,61 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
         "type": "DEA",
         "date": "2025-12-16 03:59:49"
+    },
+    {
+        "id": 163700115,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jemna, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-12-16 04:57:48"
+    },
+    {
+        "id": 163700135,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Roya, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-12-16 04:57:54"
+    },
+    {
+        "id": 163700148,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Qoivhae, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2025-12-16 04:57:55"
+    },
+    {
+        "id": 163700178,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-12-16 04:57:55"
+    },
+    {
+        "id": 163700224,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Roya, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-12-16 04:58:03"
+    },
+    {
+        "id": 163700237,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Yinuish, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-12-16 04:58:14"
+    },
+    {
+        "id": 163700298,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-12-16 04:58:43"
+    },
+    {
+        "id": 163700347,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-12-16 05:01:51"
     }
 ]
