@@ -18947,5 +18947,19 @@
         "description": "Eriette has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2025-12-16 00:23:59"
+    },
+    {
+        "id": 163699789,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jemna, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-12-16 03:59:42"
+    },
+    {
+        "id": 163699809,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2025-12-16 03:59:49"
     }
 ]
