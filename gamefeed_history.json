@@ -19017,5 +19017,12 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-12-16 05:01:51"
+    },
+    {
+        "id": 163704998,
+        "caption": "Player Death",
+        "description": "Jemna has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2025-12-16 23:34:58"
     }
 ]
