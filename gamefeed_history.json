@@ -19038,5 +19038,40 @@
         "description": "Bruski has been slain by the might of an illithoid reaper.",
         "type": "DEA",
         "date": "2025-12-17 21:25:27"
+    },
+    {
+        "id": 163712216,
+        "caption": "Player Death",
+        "description": "Jemna was slain by Shango (Victim had 65% the might).",
+        "type": "DEA",
+        "date": "2025-12-17 23:51:32"
+    },
+    {
+        "id": 163712238,
+        "caption": "Player Death",
+        "description": "Zoelin was slain by Shango (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-12-17 23:52:30"
+    },
+    {
+        "id": 163712255,
+        "caption": "Player Death",
+        "description": "Ferelith was slain by Shango (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-12-17 23:53:23"
+    },
+    {
+        "id": 163712294,
+        "caption": "Player Death",
+        "description": "Ferelith was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2025-12-17 23:53:23"
+    },
+    {
+        "id": 163712334,
+        "caption": "Player Death",
+        "description": "Zoelin was slain by Shango (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2025-12-17 23:53:42"
     }
 ]
