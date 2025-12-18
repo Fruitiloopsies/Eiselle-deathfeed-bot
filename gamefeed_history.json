@@ -19094,5 +19094,61 @@
         "description": "Jaye has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-12-18 04:18:49"
+    },
+    {
+        "id": 163713951,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Zoelin has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-18 04:19:09"
+    },
+    {
+        "id": 163713967,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-18 04:19:46"
+    },
+    {
+        "id": 163713981,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Zoelin has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-18 04:20:28"
+    },
+    {
+        "id": 163714002,
+        "caption": "Player Death",
+        "description": "Ayisdra has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-18 04:22:53"
+    },
+    {
+        "id": 163714052,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-18 04:23:53"
+    },
+    {
+        "id": 163714060,
+        "caption": "Player Death",
+        "description": "Silvanos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-18 04:24:45"
+    },
+    {
+        "id": 163714073,
+        "caption": "Player Death",
+        "description": "Silvanos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-18 04:24:58"
+    },
+    {
+        "id": 163714094,
+        "caption": "Player Death",
+        "description": "Yinuish has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-18 04:26:05"
     }
 ]
