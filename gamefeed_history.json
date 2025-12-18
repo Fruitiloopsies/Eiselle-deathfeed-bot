@@ -19073,5 +19073,26 @@
         "description": "Zoelin was slain by Shango (Victim had 105% the might).",
         "type": "DEA",
         "date": "2025-12-17 23:53:42"
+    },
+    {
+        "id": 163713704,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-12-18 03:44:45"
+    },
+    {
+        "id": 163713893,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-18 04:17:08"
+    },
+    {
+        "id": 163713905,
+        "caption": "Player Death",
+        "description": "Jaye has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-18 04:18:49"
     }
 ]
