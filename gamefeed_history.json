@@ -19192,5 +19192,96 @@
         "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2025-12-19 03:45:43"
+    },
+    {
+        "id": 163721721,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Malayn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-19 04:05:33"
+    },
+    {
+        "id": 163721751,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-19 04:06:13"
+    },
+    {
+        "id": 163721794,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Malayn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-19 04:06:21"
+    },
+    {
+        "id": 163721828,
+        "caption": "Player Death",
+        "description": "Karrack was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-12-19 04:07:33"
+    },
+    {
+        "id": 163721865,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Zoelin has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-19 04:13:45"
+    },
+    {
+        "id": 163721899,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-19 04:14:45"
+    },
+    {
+        "id": 163721923,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-19 04:17:10"
+    },
+    {
+        "id": 163721938,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Jaye, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-19 04:18:15"
+    },
+    {
+        "id": 163721987,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-19 04:19:08"
+    },
+    {
+        "id": 163722016,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Jaye has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-19 04:24:06"
+    },
+    {
+        "id": 163722062,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-19 04:24:08"
+    },
+    {
+        "id": 163722070,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Zoelin has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-19 04:24:26"
+    },
+    {
+        "id": 163722088,
+        "caption": "Player Death",
+        "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-19 04:25:10"
     }
 ]
