@@ -19290,5 +19290,33 @@
         "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-12-19 04:55:23"
+    },
+    {
+        "id": 163722518,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-19 05:07:35"
+    },
+    {
+        "id": 163722576,
+        "caption": "Player Death",
+        "description": "Karrack was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-12-19 05:10:58"
+    },
+    {
+        "id": 163722606,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-19 05:15:00"
+    },
+    {
+        "id": 163722714,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-19 05:31:40"
     }
 ]
