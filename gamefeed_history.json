@@ -19318,5 +19318,40 @@
         "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-12-19 05:31:40"
+    },
+    {
+        "id": 163722729,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-19 05:38:01"
+    },
+    {
+        "id": 163722776,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Jaye has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-19 05:39:19"
+    },
+    {
+        "id": 163722822,
+        "caption": "Player Death",
+        "description": "Silvanos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-19 05:41:19"
+    },
+    {
+        "id": 163722833,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-19 05:42:25"
+    },
+    {
+        "id": 163722841,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Ayisdra, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-19 05:42:50"
     }
 ]
