@@ -19486,5 +19486,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-12-20 05:23:41"
+    },
+    {
+        "id": 163730341,
+        "caption": "Player Death",
+        "description": "Razik has been slain by the might of Flintbeard, the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-20 07:33:59"
     }
 ]
