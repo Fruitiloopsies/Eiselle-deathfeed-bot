@@ -19493,5 +19493,26 @@
         "description": "Razik has been slain by the might of Flintbeard, the Malignant.",
         "type": "DEA",
         "date": "2025-12-20 07:33:59"
+    },
+    {
+        "id": 163733420,
+        "caption": "Player Death",
+        "description": "Roya has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-20 19:13:46"
+    },
+    {
+        "id": 163733432,
+        "caption": "Player Death",
+        "description": "Jaye has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-20 19:13:46"
+    },
+    {
+        "id": 163733481,
+        "caption": "Player Death",
+        "description": "Numinous has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-20 19:14:45"
     }
 ]
