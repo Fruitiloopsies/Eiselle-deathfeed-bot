@@ -19780,5 +19780,12 @@
         "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-12-22 04:31:42"
+    },
+    {
+        "id": 163749641,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Zagreus (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2025-12-22 20:35:49"
     }
 ]
