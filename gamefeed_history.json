@@ -19633,5 +19633,19 @@
         "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-12-22 00:55:08"
+    },
+    {
+        "id": 163743947,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Freja has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-22 02:16:36"
+    },
+    {
+        "id": 163744325,
+        "caption": "Player Death",
+        "description": "Jaye has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-12-22 02:58:11"
     }
 ]
