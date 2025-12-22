@@ -19626,5 +19626,12 @@
         "description": "Roya was slain by Zagreus (Victim had 60% the might).",
         "type": "DEA",
         "date": "2025-12-21 22:29:08"
+    },
+    {
+        "id": 163743568,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-22 00:55:08"
     }
 ]
