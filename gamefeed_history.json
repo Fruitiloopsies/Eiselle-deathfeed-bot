@@ -19787,5 +19787,61 @@
         "description": "Tuilinn was slain by Zagreus (Victim had 85% the might).",
         "type": "DEA",
         "date": "2025-12-22 20:35:49"
+    },
+    {
+        "id": 163751376,
+        "caption": "Player Death",
+        "description": "Aidune has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-23 01:45:45"
+    },
+    {
+        "id": 163751400,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-23 01:48:10"
+    },
+    {
+        "id": 163751410,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-23 01:49:01"
+    },
+    {
+        "id": 163751419,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Aidune has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-23 01:50:07"
+    },
+    {
+        "id": 163751448,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-23 01:53:48"
+    },
+    {
+        "id": 163751458,
+        "caption": "Player Death",
+        "description": "Aidune has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-23 01:54:10"
+    },
+    {
+        "id": 163751483,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-12-23 01:54:25"
+    },
+    {
+        "id": 163751533,
+        "caption": "Player Death",
+        "description": "Aidune has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-23 01:55:31"
     }
 ]
