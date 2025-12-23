@@ -20025,5 +20025,12 @@
         "description": "Melrose has been slain by the might of Flintbeard, the Malignant.",
         "type": "DEA",
         "date": "2025-12-23 06:36:19"
+    },
+    {
+        "id": 163760310,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-12-23 21:58:06"
     }
 ]
