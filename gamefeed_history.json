@@ -20004,5 +20004,26 @@
         "description": "Marked for death by a clangoru artificer, Zagreus has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-12-23 04:18:44"
+    },
+    {
+        "id": 163754785,
+        "caption": "Player Death",
+        "description": "Melrose has been slain by the might of Flintbeard, the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-23 06:24:27"
+    },
+    {
+        "id": 163754830,
+        "caption": "Player Death",
+        "description": "Melrose has been slain by the might of Flintbeard, the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-23 06:29:02"
+    },
+    {
+        "id": 163754894,
+        "caption": "Player Death",
+        "description": "Melrose has been slain by the might of Flintbeard, the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-23 06:36:19"
     }
 ]
