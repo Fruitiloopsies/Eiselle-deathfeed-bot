@@ -20263,5 +20263,26 @@
         "description": "A ghostly battlecharger has brought war to Ayisdra, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2025-12-24 04:41:55"
+    },
+    {
+        "id": 163764039,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-24 05:17:36"
+    },
+    {
+        "id": 163764083,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Malayn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-24 05:17:44"
+    },
+    {
+        "id": 163764112,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-24 05:17:50"
     }
 ]
