@@ -20032,5 +20032,180 @@
         "description": "Tuilinn was slain by misadventure.",
         "type": "DEA",
         "date": "2025-12-23 21:58:06"
+    },
+    {
+        "id": 163761520,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-24 01:37:28"
+    },
+    {
+        "id": 163761691,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-24 01:43:17"
+    },
+    {
+        "id": 163761754,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Freja has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-24 01:52:34"
+    },
+    {
+        "id": 163761779,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Huskii has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-24 01:54:44"
+    },
+    {
+        "id": 163761801,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Huskii has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-24 01:58:08"
+    },
+    {
+        "id": 163761933,
+        "caption": "Player Death",
+        "description": "Huskii has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-24 02:13:52"
+    },
+    {
+        "id": 163762084,
+        "caption": "Player Death",
+        "description": "Huskii has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-24 02:31:27"
+    },
+    {
+        "id": 163762107,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Huskii, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-24 02:32:18"
+    },
+    {
+        "id": 163762134,
+        "caption": "Player Death",
+        "description": "Huskii has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-24 02:32:53"
+    },
+    {
+        "id": 163762160,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-24 02:33:09"
+    },
+    {
+        "id": 163762194,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Shango has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-24 02:33:45"
+    },
+    {
+        "id": 163762258,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Huskii has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-24 02:36:05"
+    },
+    {
+        "id": 163762284,
+        "caption": "Player Death",
+        "description": "Huskii has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-24 02:37:35"
+    },
+    {
+        "id": 163762304,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-24 02:37:42"
+    },
+    {
+        "id": 163762319,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-24 02:37:58"
+    },
+    {
+        "id": 163762362,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Freja has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-24 02:38:12"
+    },
+    {
+        "id": 163762379,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-24 02:39:42"
+    },
+    {
+        "id": 163762427,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Huskii has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-24 02:40:06"
+    },
+    {
+        "id": 163762447,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-24 02:40:10"
+    },
+    {
+        "id": 163762463,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-24 02:40:42"
+    },
+    {
+        "id": 163762521,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Zagreus has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-24 02:40:55"
+    },
+    {
+        "id": 163762546,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Huskii, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-24 02:40:56"
+    },
+    {
+        "id": 163762566,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-24 02:41:20"
+    },
+    {
+        "id": 163762595,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Zagreus has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-24 02:41:26"
+    },
+    {
+        "id": 163762663,
+        "caption": "Player Death",
+        "description": "Freja was slain by Malayn (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-12-24 02:47:35"
     }
 ]
