@@ -20207,5 +20207,61 @@
         "description": "Freja was slain by Malayn (Victim had 100% the might).",
         "type": "DEA",
         "date": "2025-12-24 02:47:35"
+    },
+    {
+        "id": 163763504,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Roya has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-24 04:32:48"
+    },
+    {
+        "id": 163763526,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Silvanos has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-24 04:35:11"
+    },
+    {
+        "id": 163763537,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Jaye has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-24 04:35:13"
+    },
+    {
+        "id": 163763613,
+        "caption": "Player Death",
+        "description": "Zoelin has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-24 04:36:27"
+    },
+    {
+        "id": 163763629,
+        "caption": "Player Death",
+        "description": "Silvanos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-24 04:38:34"
+    },
+    {
+        "id": 163763640,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Qoivhae, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-24 04:39:23"
+    },
+    {
+        "id": 163763671,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Silvanos has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-24 04:41:34"
+    },
+    {
+        "id": 163763682,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Ayisdra, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-24 04:41:55"
     }
 ]
