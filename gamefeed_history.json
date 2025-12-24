@@ -20284,5 +20284,19 @@
         "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-12-24 05:17:50"
+    },
+    {
+        "id": 163764586,
+        "caption": "Player Death",
+        "description": "Alainna has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-12-24 06:27:24"
+    },
+    {
+        "id": 163764741,
+        "caption": "Player Death",
+        "description": "Alainna has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2025-12-24 06:35:59"
     }
 ]
