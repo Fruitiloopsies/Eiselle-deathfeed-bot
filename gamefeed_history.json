@@ -20312,5 +20312,19 @@
         "description": "Freja was slain by Exeryte (Victim had 110% the might).",
         "type": "DEA",
         "date": "2025-12-24 16:43:02"
+    },
+    {
+        "id": 163767253,
+        "caption": "Player Death",
+        "description": "Freja was slain by Exeryte (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2025-12-24 16:47:05"
+    },
+    {
+        "id": 163767268,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Ollie (Victim had 130% the might).",
+        "type": "DEA",
+        "date": "2025-12-24 16:48:03"
     }
 ]
