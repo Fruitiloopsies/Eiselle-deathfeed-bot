@@ -20326,5 +20326,12 @@
         "description": "Malayn was slain by Ollie (Victim had 130% the might).",
         "type": "DEA",
         "date": "2025-12-24 16:48:03"
+    },
+    {
+        "id": 163770637,
+        "caption": "Player Death",
+        "description": "Argilent has been unravelled and devoured by the malevolent consciousness of Pandaemonium.",
+        "type": "DEA",
+        "date": "2025-12-25 03:02:49"
     }
 ]
