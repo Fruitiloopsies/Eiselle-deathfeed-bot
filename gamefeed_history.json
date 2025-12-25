@@ -20333,5 +20333,12 @@
         "description": "Argilent has been unravelled and devoured by the malevolent consciousness of Pandaemonium.",
         "type": "DEA",
         "date": "2025-12-25 03:02:49"
+    },
+    {
+        "id": 163771468,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-25 05:21:21"
     }
 ]
