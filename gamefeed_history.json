@@ -20354,5 +20354,12 @@
         "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-12-25 06:20:42"
+    },
+    {
+        "id": 163771918,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-25 06:21:34"
     }
 ]
