@@ -20382,5 +20382,96 @@
         "description": "Body dissolving into sludge, Jemna has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-12-26 02:55:44"
+    },
+    {
+        "id": 163778231,
+        "caption": "Player Death",
+        "description": "Jemna has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-26 03:18:03"
+    },
+    {
+        "id": 163778325,
+        "caption": "Player Death",
+        "description": "Jemna has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-26 03:31:29"
+    },
+    {
+        "id": 163778396,
+        "caption": "Player Death",
+        "description": "Jemna has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-26 03:37:25"
+    },
+    {
+        "id": 163778436,
+        "caption": "Player Death",
+        "description": "Jemna has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-26 03:40:45"
+    },
+    {
+        "id": 163778479,
+        "caption": "Player Death",
+        "description": "Jemna has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-26 03:44:16"
+    },
+    {
+        "id": 163778500,
+        "caption": "Player Death",
+        "description": "Ferelith has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-26 03:45:36"
+    },
+    {
+        "id": 163778540,
+        "caption": "Player Death",
+        "description": "Ferelith has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-26 03:46:28"
+    },
+    {
+        "id": 163778579,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-26 03:46:30"
+    },
+    {
+        "id": 163778675,
+        "caption": "Player Death",
+        "description": "Jemna has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-26 03:47:27"
+    },
+    {
+        "id": 163778695,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Ayisdra, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-26 03:47:32"
+    },
+    {
+        "id": 163778740,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Ferelith has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-26 03:48:36"
+    },
+    {
+        "id": 163778779,
+        "caption": "Player Death",
+        "description": "Jemna has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-26 03:48:54"
+    },
+    {
+        "id": 163778799,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-26 03:49:09"
     }
 ]
