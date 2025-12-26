@@ -20368,5 +20368,19 @@
         "description": "Jemna has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-12-26 01:33:48"
+    },
+    {
+        "id": 163777971,
+        "caption": "Player Death",
+        "description": "Jemna has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-26 02:38:56"
+    },
+    {
+        "id": 163778047,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Jemna has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-26 02:55:44"
     }
 ]
