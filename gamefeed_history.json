@@ -20550,5 +20550,40 @@
         "description": "Faragan has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-12-26 21:57:55"
+    },
+    {
+        "id": 163785856,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-27 03:32:21"
+    },
+    {
+        "id": 163785867,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-27 03:34:20"
+    },
+    {
+        "id": 163785928,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Cienoa has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-27 03:49:20"
+    },
+    {
+        "id": 163785937,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Wrynn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-27 03:49:24"
+    },
+    {
+        "id": 163785968,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-27 03:49:55"
     }
 ]
