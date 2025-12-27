@@ -20711,5 +20711,12 @@
         "description": "Krall has had the joy of Solstice wrenched away, stolen by Flintbeard the Malignant.",
         "type": "DEA",
         "date": "2025-12-27 09:13:42"
+    },
+    {
+        "id": 163789051,
+        "caption": "Player Death",
+        "description": "Argilent has been unravelled and devoured by the malevolent consciousness of Pandaemonium.",
+        "type": "DEA",
+        "date": "2025-12-27 15:29:11"
     }
 ]
