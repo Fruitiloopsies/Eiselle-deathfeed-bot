@@ -20662,5 +20662,26 @@
         "description": "Karrack was slain by misadventure.",
         "type": "DEA",
         "date": "2025-12-27 04:15:07"
+    },
+    {
+        "id": 163786644,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-27 04:48:30"
+    },
+    {
+        "id": 163786662,
+        "caption": "Player Death",
+        "description": "Sondayga has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-27 04:49:36"
+    },
+    {
+        "id": 163786718,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-27 04:49:49"
     }
 ]
