@@ -20683,5 +20683,33 @@
         "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-12-27 04:49:49"
+    },
+    {
+        "id": 163787935,
+        "caption": "Player Death",
+        "description": "Krall has had the joy of Solstice wrenched away, stolen by Flintbeard the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-27 09:04:43"
+    },
+    {
+        "id": 163787939,
+        "caption": "Player Death",
+        "description": "Krall has had the joy of Solstice wrenched away, stolen by Flintbeard the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-27 09:08:39"
+    },
+    {
+        "id": 163787960,
+        "caption": "Player Death",
+        "description": "Krall has had the joy of Solstice wrenched away, stolen by Flintbeard the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-27 09:11:10"
+    },
+    {
+        "id": 163787962,
+        "caption": "Player Death",
+        "description": "Krall has had the joy of Solstice wrenched away, stolen by Flintbeard the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-27 09:13:42"
     }
 ]
