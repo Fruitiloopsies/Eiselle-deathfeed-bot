@@ -20585,5 +20585,82 @@
         "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2025-12-27 03:49:55"
+    },
+    {
+        "id": 163786076,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-27 04:05:23"
+    },
+    {
+        "id": 163786088,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-27 04:09:26"
+    },
+    {
+        "id": 163786098,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-27 04:12:51"
+    },
+    {
+        "id": 163786106,
+        "caption": "Player Death",
+        "description": "Yinuish was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-12-27 04:13:06"
+    },
+    {
+        "id": 163786166,
+        "caption": "Player Death",
+        "description": "Jaye has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-27 04:13:09"
+    },
+    {
+        "id": 163786212,
+        "caption": "Player Death",
+        "description": "Cienoa has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-27 04:13:13"
+    },
+    {
+        "id": 163786223,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-27 04:13:30"
+    },
+    {
+        "id": 163786247,
+        "caption": "Player Death",
+        "description": "Wrynn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-27 04:13:52"
+    },
+    {
+        "id": 163786278,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-27 04:14:21"
+    },
+    {
+        "id": 163786305,
+        "caption": "Player Death",
+        "description": "Jaye has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-27 04:14:52"
+    },
+    {
+        "id": 163786351,
+        "caption": "Player Death",
+        "description": "Karrack was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-12-27 04:15:07"
     }
 ]
