@@ -20844,5 +20844,12 @@
         "description": "A ghostly battlecharger has brought war to Malayn, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2025-12-27 23:44:59"
+    },
+    {
+        "id": 163792091,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Freja, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-27 23:48:00"
     }
 ]
