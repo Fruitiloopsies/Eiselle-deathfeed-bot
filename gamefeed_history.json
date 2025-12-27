@@ -20774,5 +20774,75 @@
         "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-12-27 22:21:32"
+    },
+    {
+        "id": 163791883,
+        "caption": "Player Death",
+        "description": "Sondayga has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-27 23:38:56"
+    },
+    {
+        "id": 163791907,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Freja, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-27 23:38:57"
+    },
+    {
+        "id": 163791923,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-27 23:40:38"
+    },
+    {
+        "id": 163791939,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-27 23:41:01"
+    },
+    {
+        "id": 163791955,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Freja has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-27 23:41:28"
+    },
+    {
+        "id": 163791971,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-27 23:42:07"
+    },
+    {
+        "id": 163791988,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-27 23:42:58"
+    },
+    {
+        "id": 163792005,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Freja has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-27 23:43:40"
+    },
+    {
+        "id": 163792031,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-27 23:43:56"
+    },
+    {
+        "id": 163792060,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Malayn, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-27 23:44:59"
     }
 ]
