@@ -20718,5 +20718,12 @@
         "description": "Argilent has been unravelled and devoured by the malevolent consciousness of Pandaemonium.",
         "type": "DEA",
         "date": "2025-12-27 15:29:11"
+    },
+    {
+        "id": 163789642,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Sondayga has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-27 16:55:19"
     }
 ]
