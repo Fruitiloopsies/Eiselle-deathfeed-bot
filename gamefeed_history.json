@@ -20725,5 +20725,54 @@
         "description": "Marked for death by a clangoru artificer, Sondayga has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-12-27 16:55:19"
+    },
+    {
+        "id": 163791109,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Zagreus has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-27 22:03:30"
+    },
+    {
+        "id": 163791226,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Jemna, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-27 22:14:03"
+    },
+    {
+        "id": 163791275,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Jaye has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-27 22:16:08"
+    },
+    {
+        "id": 163791321,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-27 22:17:17"
+    },
+    {
+        "id": 163791355,
+        "caption": "Player Death",
+        "description": "Jemna has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-27 22:18:52"
+    },
+    {
+        "id": 163791376,
+        "caption": "Player Death",
+        "description": "Jaye has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-27 22:19:32"
+    },
+    {
+        "id": 163791431,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-27 22:21:32"
     }
 ]
