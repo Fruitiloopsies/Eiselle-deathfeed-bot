@@ -21026,5 +21026,33 @@
         "description": "Body dissolving into sludge, Qoivhae has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2025-12-28 02:31:56"
+    },
+    {
+        "id": 163793874,
+        "caption": "Player Death",
+        "description": "Aknarin has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-28 02:33:15"
+    },
+    {
+        "id": 163793914,
+        "caption": "Player Death",
+        "description": "Ferelith has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-28 02:33:39"
+    },
+    {
+        "id": 163793955,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-28 02:33:59"
+    },
+    {
+        "id": 163794085,
+        "caption": "Player Death",
+        "description": "Jemna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-12-28 02:48:43"
     }
 ]
