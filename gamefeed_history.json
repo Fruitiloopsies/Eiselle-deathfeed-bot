@@ -21075,5 +21075,54 @@
         "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-12-28 04:49:07"
+    },
+    {
+        "id": 163794998,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Sondayga has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-28 05:21:13"
+    },
+    {
+        "id": 163795120,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-28 05:33:34"
+    },
+    {
+        "id": 163795156,
+        "caption": "Player Death",
+        "description": "Sondayga has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-28 05:33:59"
+    },
+    {
+        "id": 163795180,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-28 05:34:07"
+    },
+    {
+        "id": 163795209,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-28 05:34:21"
+    },
+    {
+        "id": 163795254,
+        "caption": "Player Death",
+        "description": "Zagreus has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-28 05:34:33"
+    },
+    {
+        "id": 163795279,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-28 05:34:40"
     }
 ]
