@@ -20851,5 +20851,180 @@
         "description": "A ghostly battlecharger has brought war to Freja, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2025-12-27 23:48:00"
+    },
+    {
+        "id": 163792998,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Qoivhae has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-28 02:20:04"
+    },
+    {
+        "id": 163793028,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-28 02:20:08"
+    },
+    {
+        "id": 163793045,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-28 02:21:26"
+    },
+    {
+        "id": 163793080,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Aknarin has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-28 02:21:44"
+    },
+    {
+        "id": 163793120,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Ferelith has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-28 02:22:14"
+    },
+    {
+        "id": 163793161,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Zoelin has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-28 02:22:26"
+    },
+    {
+        "id": 163793176,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Aknarin has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-28 02:23:20"
+    },
+    {
+        "id": 163793216,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Ferelith has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-28 02:23:39"
+    },
+    {
+        "id": 163793257,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Aknarin has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-28 02:25:06"
+    },
+    {
+        "id": 163793297,
+        "caption": "Player Death",
+        "description": "Ferelith has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-28 02:25:12"
+    },
+    {
+        "id": 163793354,
+        "caption": "Player Death",
+        "description": "Aknarin has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-28 02:26:00"
+    },
+    {
+        "id": 163793394,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-28 02:26:21"
+    },
+    {
+        "id": 163793429,
+        "caption": "Player Death",
+        "description": "Qoivhae has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-28 02:26:34"
+    },
+    {
+        "id": 163793459,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-28 02:26:46"
+    },
+    {
+        "id": 163793476,
+        "caption": "Player Death",
+        "description": "Aknarin has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-28 02:27:41"
+    },
+    {
+        "id": 163793516,
+        "caption": "Player Death",
+        "description": "Xenthos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-28 02:28:08"
+    },
+    {
+        "id": 163793579,
+        "caption": "Player Death",
+        "description": "Ferelith has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2025-12-28 02:28:39"
+    },
+    {
+        "id": 163793620,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-28 02:29:13"
+    },
+    {
+        "id": 163793655,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Qoivhae, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-28 02:29:26"
+    },
+    {
+        "id": 163793685,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aknarin, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-28 02:29:31"
+    },
+    {
+        "id": 163793725,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-28 02:29:56"
+    },
+    {
+        "id": 163793742,
+        "caption": "Player Death",
+        "description": "Ferelith has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-28 02:30:43"
+    },
+    {
+        "id": 163793783,
+        "caption": "Player Death",
+        "description": "Zoelin has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-28 02:31:09"
+    },
+    {
+        "id": 163793798,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aknarin, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2025-12-28 02:31:48"
+    },
+    {
+        "id": 163793838,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Qoivhae has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2025-12-28 02:31:56"
     }
 ]
