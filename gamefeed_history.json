@@ -21054,5 +21054,26 @@
         "description": "Jemna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2025-12-28 02:48:43"
+    },
+    {
+        "id": 163794594,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Malayn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-28 04:09:24"
+    },
+    {
+        "id": 163794798,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-28 04:48:49"
+    },
+    {
+        "id": 163794842,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-28 04:49:07"
     }
 ]
