@@ -21145,5 +21145,26 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2025-12-29 06:36:48"
+    },
+    {
+        "id": 163804831,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-12-29 16:35:31"
+    },
+    {
+        "id": 163804865,
+        "caption": "Player Death",
+        "description": "Gilda was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-12-29 16:35:31"
+    },
+    {
+        "id": 163804875,
+        "caption": "Player Death",
+        "description": "Naralis was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-12-29 16:35:31"
     }
 ]
