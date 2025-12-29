@@ -21166,5 +21166,12 @@
         "description": "Naralis was slain by misadventure.",
         "type": "DEA",
         "date": "2025-12-29 16:35:31"
+    },
+    {
+        "id": 163806631,
+        "caption": "Player Death",
+        "description": "Heckscher has been slain by the might of a fierce and enormous roc.",
+        "type": "DEA",
+        "date": "2025-12-29 22:58:06"
     }
 ]
