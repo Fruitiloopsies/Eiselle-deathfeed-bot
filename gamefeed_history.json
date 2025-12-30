@@ -21173,5 +21173,26 @@
         "description": "Heckscher has been slain by the might of a fierce and enormous roc.",
         "type": "DEA",
         "date": "2025-12-29 22:58:06"
+    },
+    {
+        "id": 163807992,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2025-12-30 02:48:36"
+    },
+    {
+        "id": 163808369,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-30 03:30:27"
+    },
+    {
+        "id": 163808413,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-30 03:31:06"
     }
 ]
