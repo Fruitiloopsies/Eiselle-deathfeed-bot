@@ -21194,5 +21194,12 @@
         "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-12-30 03:31:06"
+    },
+    {
+        "id": 163808682,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2025-12-30 04:24:24"
     }
 ]
