@@ -21250,5 +21250,12 @@
         "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2025-12-30 04:48:45"
+    },
+    {
+        "id": 163811126,
+        "caption": "Player Death",
+        "description": "Aknarin has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-12-30 10:07:13"
     }
 ]
