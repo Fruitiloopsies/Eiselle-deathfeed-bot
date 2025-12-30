@@ -21257,5 +21257,19 @@
         "description": "Aknarin has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-12-30 10:07:13"
+    },
+    {
+        "id": 163811367,
+        "caption": "Player Death",
+        "description": "Skaza has had the joy of Solstice wrenched away, stolen by Flintbeard the Malignant.",
+        "type": "DEA",
+        "date": "2025-12-30 11:42:38"
+    },
+    {
+        "id": 163811371,
+        "caption": "Player Death",
+        "description": "Skaza was slain by misadventure.",
+        "type": "DEA",
+        "date": "2025-12-30 11:44:31"
     }
 ]
