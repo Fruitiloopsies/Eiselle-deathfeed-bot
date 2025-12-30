@@ -21271,5 +21271,12 @@
         "description": "Skaza was slain by misadventure.",
         "type": "DEA",
         "date": "2025-12-30 11:44:31"
+    },
+    {
+        "id": 163812304,
+        "caption": "Player Death",
+        "description": "Rogziel was slain by Rogziel (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2025-12-30 15:23:22"
     }
 ]
