@@ -21544,5 +21544,19 @@
         "description": "A ghostly battlecharger has brought war to Freja, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2025-12-31 03:59:01"
+    },
+    {
+        "id": 163816994,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2025-12-31 04:12:02"
+    },
+    {
+        "id": 163817032,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2025-12-31 04:17:40"
     }
 ]
