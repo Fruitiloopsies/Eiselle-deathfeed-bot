@@ -21684,5 +21684,12 @@
         "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2025-12-31 06:52:06"
+    },
+    {
+        "id": 163818940,
+        "caption": "Player Death",
+        "description": "Reminding the uncultured Shmingus of noble propriety, Nevak d'Sifal has won this battle of fisticuffs.",
+        "type": "DEA",
+        "date": "2025-12-31 09:48:35"
     }
 ]
