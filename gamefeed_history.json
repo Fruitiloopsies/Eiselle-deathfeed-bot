@@ -21691,5 +21691,12 @@
         "description": "Reminding the uncultured Shmingus of noble propriety, Nevak d'Sifal has won this battle of fisticuffs.",
         "type": "DEA",
         "date": "2025-12-31 09:48:35"
+    },
+    {
+        "id": 163819041,
+        "caption": "Player Death",
+        "description": "Atuniel was slain by Inagin (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2025-12-31 10:27:24"
     }
 ]
