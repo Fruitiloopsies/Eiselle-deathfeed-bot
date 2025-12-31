@@ -21705,5 +21705,12 @@
         "description": "Roya has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2025-12-31 13:08:42"
+    },
+    {
+        "id": 163820571,
+        "caption": "Player Death",
+        "description": "Roya's entrails have been torn out by a vicious frost fiend.",
+        "type": "DEA",
+        "date": "2025-12-31 17:20:36"
     }
 ]
