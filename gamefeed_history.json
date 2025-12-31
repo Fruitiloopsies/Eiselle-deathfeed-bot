@@ -21698,5 +21698,12 @@
         "description": "Atuniel was slain by Inagin (Victim had 95% the might).",
         "type": "DEA",
         "date": "2025-12-31 10:27:24"
+    },
+    {
+        "id": 163819599,
+        "caption": "Player Death",
+        "description": "Roya has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2025-12-31 13:08:42"
     }
 ]
