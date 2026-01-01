@@ -21859,5 +21859,19 @@
         "description": "Shmingus was slain by misadventure.",
         "type": "DEA",
         "date": "2026-01-01 07:35:39"
+    },
+    {
+        "id": 163825389,
+        "caption": "Player Death",
+        "description": "Shmingus was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-01 08:04:57"
+    },
+    {
+        "id": 163825573,
+        "caption": "Player Death",
+        "description": "Shmingus has been slain by the might of a majestic moose.",
+        "type": "DEA",
+        "date": "2026-01-01 08:35:42"
     }
 ]
