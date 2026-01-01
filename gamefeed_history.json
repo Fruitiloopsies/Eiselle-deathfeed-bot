@@ -21852,5 +21852,12 @@
         "description": "Huskii has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-01-01 05:37:15"
+    },
+    {
+        "id": 163825239,
+        "caption": "Player Death",
+        "description": "Shmingus was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-01 07:35:39"
     }
 ]
