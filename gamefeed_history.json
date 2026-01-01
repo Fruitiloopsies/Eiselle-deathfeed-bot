@@ -21887,5 +21887,12 @@
         "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-01-01 20:43:33"
+    },
+    {
+        "id": 163831187,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Zagreus (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2026-01-01 22:34:57"
     }
 ]
