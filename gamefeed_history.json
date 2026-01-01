@@ -21894,5 +21894,12 @@
         "description": "Tuilinn was slain by Zagreus (Victim had 80% the might).",
         "type": "DEA",
         "date": "2026-01-01 22:34:57"
+    },
+    {
+        "id": 163831553,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-01 23:01:25"
     }
 ]
