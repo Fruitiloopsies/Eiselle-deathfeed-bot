@@ -21880,5 +21880,12 @@
         "description": "Shmingus has been slain by the might of a majestic moose.",
         "type": "DEA",
         "date": "2026-01-01 08:50:35"
+    },
+    {
+        "id": 163830258,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-01 20:43:33"
     }
 ]
