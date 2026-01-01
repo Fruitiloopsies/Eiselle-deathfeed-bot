@@ -21754,5 +21754,54 @@
         "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-01-01 01:27:39"
+    },
+    {
+        "id": 163823446,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Yinuish has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-01 03:32:24"
+    },
+    {
+        "id": 163823506,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-01 03:33:14"
+    },
+    {
+        "id": 163823590,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Yinuish, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-01-01 03:37:38"
+    },
+    {
+        "id": 163823650,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-01-01 03:37:45"
+    },
+    {
+        "id": 163823666,
+        "caption": "Player Death",
+        "description": "Silvanos was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-01 03:39:00"
+    },
+    {
+        "id": 163823677,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-01 03:39:10"
+    },
+    {
+        "id": 163823687,
+        "caption": "Player Death",
+        "description": "Qoivhae has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-01 03:39:30"
     }
 ]
