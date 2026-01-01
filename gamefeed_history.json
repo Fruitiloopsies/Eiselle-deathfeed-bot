@@ -21712,5 +21712,47 @@
         "description": "Roya's entrails have been torn out by a vicious frost fiend.",
         "type": "DEA",
         "date": "2025-12-31 17:20:36"
+    },
+    {
+        "id": 163822805,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-01 01:16:11"
+    },
+    {
+        "id": 163822828,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Huskii, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-01-01 01:25:50"
+    },
+    {
+        "id": 163822850,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-01 01:25:58"
+    },
+    {
+        "id": 163822880,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-01 01:26:51"
+    },
+    {
+        "id": 163822920,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-01 01:27:27"
+    },
+    {
+        "id": 163822950,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-01 01:27:39"
     }
 ]
