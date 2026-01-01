@@ -21873,5 +21873,12 @@
         "description": "Shmingus has been slain by the might of a majestic moose.",
         "type": "DEA",
         "date": "2026-01-01 08:35:42"
+    },
+    {
+        "id": 163825658,
+        "caption": "Player Death",
+        "description": "Shmingus has been slain by the might of a majestic moose.",
+        "type": "DEA",
+        "date": "2026-01-01 08:50:35"
     }
 ]
