@@ -21901,5 +21901,26 @@
         "description": "Shango was slain by misadventure.",
         "type": "DEA",
         "date": "2026-01-01 23:01:25"
+    },
+    {
+        "id": 163834087,
+        "caption": "Player Death",
+        "description": "Alainna has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2026-01-02 05:28:22"
+    },
+    {
+        "id": 163834169,
+        "caption": "Player Death",
+        "description": "Alainna has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2026-01-02 05:36:27"
+    },
+    {
+        "id": 163834207,
+        "caption": "Player Death",
+        "description": "Shmingus has been found guilty of trespassing by a sombre viscanti butler.",
+        "type": "DEA",
+        "date": "2026-01-02 05:43:04"
     }
 ]
