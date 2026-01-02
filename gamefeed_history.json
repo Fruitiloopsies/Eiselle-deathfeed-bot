@@ -21929,5 +21929,12 @@
         "description": "Shmingus has been slain by the might of a monstrous gravedigger.",
         "type": "DEA",
         "date": "2026-01-02 08:00:01"
+    },
+    {
+        "id": 163834925,
+        "caption": "Player Death",
+        "description": "Shmingus has been slain by the might of a monstrous gravedigger.",
+        "type": "DEA",
+        "date": "2026-01-02 08:29:31"
     }
 ]
