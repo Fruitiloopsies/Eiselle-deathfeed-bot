@@ -21950,5 +21950,12 @@
         "description": "Argilent was slain by Argilent (Victim had 100% the might).",
         "type": "DEA",
         "date": "2026-01-02 14:44:49"
+    },
+    {
+        "id": 163838650,
+        "caption": "Player Death",
+        "description": "Shmortimer has been slain by the might of a white husky.",
+        "type": "DEA",
+        "date": "2026-01-02 22:37:08"
     }
 ]
