@@ -21936,5 +21936,12 @@
         "description": "Shmingus has been slain by the might of a monstrous gravedigger.",
         "type": "DEA",
         "date": "2026-01-02 08:29:31"
+    },
+    {
+        "id": 163835420,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-02 11:12:19"
     }
 ]
