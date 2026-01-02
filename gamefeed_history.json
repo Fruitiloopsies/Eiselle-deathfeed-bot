@@ -21922,5 +21922,12 @@
         "description": "Shmingus has been found guilty of trespassing by a sombre viscanti butler.",
         "type": "DEA",
         "date": "2026-01-02 05:43:04"
+    },
+    {
+        "id": 163834856,
+        "caption": "Player Death",
+        "description": "Shmingus has been slain by the might of a monstrous gravedigger.",
+        "type": "DEA",
+        "date": "2026-01-02 08:00:01"
     }
 ]
