@@ -21943,5 +21943,12 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2026-01-02 11:12:19"
+    },
+    {
+        "id": 163836189,
+        "caption": "Player Death",
+        "description": "Argilent was slain by Argilent (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-01-02 14:44:49"
     }
 ]
