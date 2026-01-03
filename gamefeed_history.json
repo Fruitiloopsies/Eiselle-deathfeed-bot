@@ -22055,5 +22055,54 @@
         "description": "Huskii was slain by Huskii (Victim had 100% the might).",
         "type": "DEA",
         "date": "2026-01-03 17:13:39"
+    },
+    {
+        "id": 163843716,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Legac (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2026-01-03 17:15:53"
+    },
+    {
+        "id": 163843795,
+        "caption": "Player Death",
+        "description": "Heckscher has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2026-01-03 17:18:39"
+    },
+    {
+        "id": 163843836,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Huskii (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-01-03 17:20:37"
+    },
+    {
+        "id": 163843861,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Huskii (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-01-03 17:25:14"
+    },
+    {
+        "id": 163843898,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Legac (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2026-01-03 17:27:27"
+    },
+    {
+        "id": 163843932,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Inagin (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2026-01-03 17:29:01"
+    },
+    {
+        "id": 163843957,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Inagin (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2026-01-03 17:30:36"
     }
 ]
