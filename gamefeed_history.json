@@ -22104,5 +22104,33 @@
         "description": "Huskii was slain by Inagin (Victim had 105% the might).",
         "type": "DEA",
         "date": "2026-01-03 17:30:36"
+    },
+    {
+        "id": 163843985,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Inagin (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2026-01-03 17:35:20"
+    },
+    {
+        "id": 163844024,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Inagin (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2026-01-03 17:37:33"
+    },
+    {
+        "id": 163844075,
+        "caption": "Player Death",
+        "description": "Inagin was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-01-03 17:40:57"
+    },
+    {
+        "id": 163844103,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-03 17:45:07"
     }
 ]
