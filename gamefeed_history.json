@@ -22132,5 +22132,19 @@
         "description": "Tuilinn was slain by misadventure.",
         "type": "DEA",
         "date": "2026-01-03 17:45:07"
+    },
+    {
+        "id": 163844316,
+        "caption": "Player Death",
+        "description": "Roya has been slain by the might of Korath Chokuul, Commandant of the Catacombs.",
+        "type": "DEA",
+        "date": "2026-01-03 18:09:30"
+    },
+    {
+        "id": 163844445,
+        "caption": "Player Death",
+        "description": "Roya has frozen to death under the piercing gaze of a freezing eyebane.",
+        "type": "DEA",
+        "date": "2026-01-03 18:22:51"
     }
 ]
