@@ -22146,5 +22146,12 @@
         "description": "Roya has frozen to death under the piercing gaze of a freezing eyebane.",
         "type": "DEA",
         "date": "2026-01-03 18:22:51"
+    },
+    {
+        "id": 163845447,
+        "caption": "Player Death",
+        "description": "Shmingus has been slain by the might of a red husky.",
+        "type": "DEA",
+        "date": "2026-01-03 21:21:40"
     }
 ]
