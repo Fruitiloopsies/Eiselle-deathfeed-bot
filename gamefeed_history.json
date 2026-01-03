@@ -22027,5 +22027,12 @@
         "description": "Ferelith has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-01-03 06:00:31"
+    },
+    {
+        "id": 163842986,
+        "caption": "Player Death",
+        "description": "Aidune has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-01-03 14:30:15"
     }
 ]
