@@ -22034,5 +22034,26 @@
         "description": "Aidune has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-01-03 14:30:15"
+    },
+    {
+        "id": 163843638,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Huskii (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-01-03 17:11:43"
+    },
+    {
+        "id": 163843660,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Huskii (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-01-03 17:12:54"
+    },
+    {
+        "id": 163843683,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Huskii (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-01-03 17:13:39"
     }
 ]
