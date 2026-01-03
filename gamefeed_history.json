@@ -21978,5 +21978,12 @@
         "description": "Zoelin was slain by Freja (Victim had 95% the might).",
         "type": "DEA",
         "date": "2026-01-02 23:33:27"
+    },
+    {
+        "id": 163840779,
+        "caption": "Player Death",
+        "description": "Alainna became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2026-01-03 05:05:06"
     }
 ]
