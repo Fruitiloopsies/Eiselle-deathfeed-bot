@@ -22153,5 +22153,75 @@
         "description": "Shmingus has been slain by the might of a red husky.",
         "type": "DEA",
         "date": "2026-01-03 21:21:40"
+    },
+    {
+        "id": 163845954,
+        "caption": "Player Death",
+        "description": "Jaye has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-03 22:20:07"
+    },
+    {
+        "id": 163846000,
+        "caption": "Player Death",
+        "description": "Roya has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-03 22:20:08"
+    },
+    {
+        "id": 163846014,
+        "caption": "Player Death",
+        "description": "Cienoa has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-03 22:20:08"
+    },
+    {
+        "id": 163846023,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-03 22:20:26"
+    },
+    {
+        "id": 163846057,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-03 22:20:59"
+    },
+    {
+        "id": 163846087,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-03 22:21:18"
+    },
+    {
+        "id": 163846106,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Roya, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-01-03 22:21:36"
+    },
+    {
+        "id": 163846120,
+        "caption": "Player Death",
+        "description": "Cienoa has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-03 22:21:46"
+    },
+    {
+        "id": 163846129,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-03 22:22:16"
+    },
+    {
+        "id": 163846156,
+        "caption": "Player Death",
+        "description": "Roya was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-03 22:22:35"
     }
 ]
