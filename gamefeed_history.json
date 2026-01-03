@@ -21985,5 +21985,12 @@
         "description": "Alainna became the target of a hulking three-horned bull's violent rage.",
         "type": "DEA",
         "date": "2026-01-03 05:05:06"
+    },
+    {
+        "id": 163840963,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-01-03 05:36:15"
     }
 ]
