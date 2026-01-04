@@ -22237,5 +22237,19 @@
         "description": "Marked for death by a clangoru artificer, Huskii has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-01-04 03:13:26"
+    },
+    {
+        "id": 163848150,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Sondayga has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-04 03:57:49"
+    },
+    {
+        "id": 163848175,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Huskii has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-04 03:58:05"
     }
 ]
