@@ -22251,5 +22251,12 @@
         "description": "Marked for death by a clangoru artificer, Huskii has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-01-04 03:58:05"
+    },
+    {
+        "id": 163849426,
+        "caption": "Player Death",
+        "description": "Shmingus has been devoured by an ironjaw crocodile.",
+        "type": "DEA",
+        "date": "2026-01-04 06:40:28"
     }
 ]
