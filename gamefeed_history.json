@@ -22258,5 +22258,12 @@
         "description": "Shmingus has been devoured by an ironjaw crocodile.",
         "type": "DEA",
         "date": "2026-01-04 06:40:28"
+    },
+    {
+        "id": 163851601,
+        "caption": "Player Death",
+        "description": "Heckscher was slain by Heckscher (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-01-04 16:49:45"
     }
 ]
