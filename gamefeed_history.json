@@ -22223,5 +22223,19 @@
         "description": "Roya was slain by misadventure.",
         "type": "DEA",
         "date": "2026-01-03 22:22:35"
+    },
+    {
+        "id": 163847822,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Sondayga has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-04 03:13:19"
+    },
+    {
+        "id": 163847847,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Huskii has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-04 03:13:26"
     }
 ]
