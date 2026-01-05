@@ -22377,5 +22377,26 @@
         "description": "Ferelith has been grappled, crushed, and consumed by Uskashyth, the Great Worm.",
         "type": "DEA",
         "date": "2026-01-05 17:06:16"
+    },
+    {
+        "id": 163860402,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Roya has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-05 19:20:03"
+    },
+    {
+        "id": 163860438,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-01-05 19:26:41"
+    },
+    {
+        "id": 163860459,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-05 19:27:06"
     }
 ]
