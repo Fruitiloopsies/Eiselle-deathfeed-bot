@@ -22272,5 +22272,82 @@
         "description": "Asyel was slain by misadventure.",
         "type": "DEA",
         "date": "2026-01-05 01:35:18"
+    },
+    {
+        "id": 163856291,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Roya, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-01-05 03:58:26"
+    },
+    {
+        "id": 163856315,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Hinic, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-01-05 04:01:52"
+    },
+    {
+        "id": 163856323,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Roya, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-01-05 04:01:52"
+    },
+    {
+        "id": 163856339,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-01-05 04:01:57"
+    },
+    {
+        "id": 163856385,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Ferelith, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-01-05 04:02:02"
+    },
+    {
+        "id": 163856428,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Lorn, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-01-05 04:02:05"
+    },
+    {
+        "id": 163856431,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Cienoa, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-01-05 04:02:08"
+    },
+    {
+        "id": 163856440,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Argilent, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-01-05 04:02:09"
+    },
+    {
+        "id": 163856444,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Lorn, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-01-05 04:02:11"
+    },
+    {
+        "id": 163856448,
+        "caption": "Player Death",
+        "description": "Legac was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-05 04:02:29"
+    },
+    {
+        "id": 163856476,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-01-05 04:04:20"
     }
 ]
