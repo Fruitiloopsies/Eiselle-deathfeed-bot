@@ -22356,5 +22356,26 @@
         "description": "Argilent has been slain by the might of an illithoid reaver.",
         "type": "DEA",
         "date": "2026-01-05 13:41:25"
+    },
+    {
+        "id": 163859706,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Roya has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-05 16:51:06"
+    },
+    {
+        "id": 163859719,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-05 16:51:13"
+    },
+    {
+        "id": 163859783,
+        "caption": "Player Death",
+        "description": "Ferelith has been grappled, crushed, and consumed by Uskashyth, the Great Worm.",
+        "type": "DEA",
+        "date": "2026-01-05 17:06:16"
     }
 ]
