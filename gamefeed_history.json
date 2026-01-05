@@ -22265,5 +22265,12 @@
         "description": "Heckscher was slain by Heckscher (Victim had 100% the might).",
         "type": "DEA",
         "date": "2026-01-04 16:49:45"
+    },
+    {
+        "id": 163855250,
+        "caption": "Player Death",
+        "description": "Asyel was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-05 01:35:18"
     }
 ]
