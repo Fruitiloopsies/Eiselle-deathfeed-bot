@@ -22461,5 +22461,54 @@
         "description": "A ghostly battlecharger has brought war to Jaye, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2026-01-06 03:59:08"
+    },
+    {
+        "id": 163863682,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-06 05:13:13"
+    },
+    {
+        "id": 163863727,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-06 05:13:47"
+    },
+    {
+        "id": 163863776,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-06 05:14:29"
+    },
+    {
+        "id": 163863805,
+        "caption": "Player Death",
+        "description": "Sondayga has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-06 05:16:15"
+    },
+    {
+        "id": 163863831,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Freja, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-01-06 05:16:57"
+    },
+    {
+        "id": 163863847,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-06 05:17:07"
+    },
+    {
+        "id": 163863891,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-06 05:17:30"
     }
 ]
