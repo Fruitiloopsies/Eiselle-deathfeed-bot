@@ -22398,5 +22398,40 @@
         "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-01-05 19:27:06"
+    },
+    {
+        "id": 163863240,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Malayn, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-01-06 03:27:45"
+    },
+    {
+        "id": 163863272,
+        "caption": "Player Death",
+        "description": "Otem has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-06 03:29:51"
+    },
+    {
+        "id": 163863280,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-06 03:34:21"
+    },
+    {
+        "id": 163863285,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-06 03:35:09"
+    },
+    {
+        "id": 163863295,
+        "caption": "Player Death",
+        "description": "Jaye has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-06 03:35:18"
     }
 ]
