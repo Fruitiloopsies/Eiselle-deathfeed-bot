@@ -22517,5 +22517,33 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2026-01-06 05:51:23"
+    },
+    {
+        "id": 163866916,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-06 18:06:13"
+    },
+    {
+        "id": 163867042,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-06 18:32:00"
+    },
+    {
+        "id": 163867093,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-06 18:32:18"
+    },
+    {
+        "id": 163867116,
+        "caption": "Player Death",
+        "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-06 18:33:02"
     }
 ]
