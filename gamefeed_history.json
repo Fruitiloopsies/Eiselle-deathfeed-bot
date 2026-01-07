@@ -22580,5 +22580,26 @@
         "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2026-01-07 03:40:49"
+    },
+    {
+        "id": 163870365,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Jaye, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-01-07 04:20:13"
+    },
+    {
+        "id": 163870411,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Otem, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-01-07 04:20:14"
+    },
+    {
+        "id": 163870419,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-01-07 04:21:11"
     }
 ]
