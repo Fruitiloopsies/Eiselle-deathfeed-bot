@@ -22566,5 +22566,19 @@
         "description": "Otem has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-01-07 02:50:24"
+    },
+    {
+        "id": 163870200,
+        "caption": "Player Death",
+        "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2026-01-07 03:38:12"
+    },
+    {
+        "id": 163870212,
+        "caption": "Player Death",
+        "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2026-01-07 03:40:49"
     }
 ]
