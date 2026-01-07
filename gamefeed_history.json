@@ -22636,5 +22636,12 @@
         "description": "Marked for death by a clangoru artificer, Huskii has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-01-07 05:36:07"
+    },
+    {
+        "id": 163870984,
+        "caption": "Player Death",
+        "description": "Shmortimer has been slain by the might of a monstrous gravedigger.",
+        "type": "DEA",
+        "date": "2026-01-07 06:19:02"
     }
 ]
