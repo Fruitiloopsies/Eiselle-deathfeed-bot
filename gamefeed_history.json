@@ -22559,5 +22559,12 @@
         "description": "Otem has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-01-07 00:46:04"
+    },
+    {
+        "id": 163870041,
+        "caption": "Player Death",
+        "description": "Otem has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-01-07 02:50:24"
     }
 ]
