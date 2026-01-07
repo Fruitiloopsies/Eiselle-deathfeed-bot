@@ -22643,5 +22643,19 @@
         "description": "Shmortimer has been slain by the might of a monstrous gravedigger.",
         "type": "DEA",
         "date": "2026-01-07 06:19:02"
+    },
+    {
+        "id": 163873893,
+        "caption": "Player Death",
+        "description": "Shanoa was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-07 18:58:00"
+    },
+    {
+        "id": 163873894,
+        "caption": "Player Death",
+        "description": "Xanthia was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-07 18:58:00"
     }
 ]
