@@ -22601,5 +22601,40 @@
         "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-01-07 04:21:11"
+    },
+    {
+        "id": 163870631,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Sondayga, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-01-07 05:31:49"
+    },
+    {
+        "id": 163870659,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-07 05:34:05"
+    },
+    {
+        "id": 163870688,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-07 05:34:29"
+    },
+    {
+        "id": 163870733,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-07 05:35:42"
+    },
+    {
+        "id": 163870762,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Huskii has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-07 05:36:07"
     }
 ]
