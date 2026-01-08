@@ -22762,5 +22762,26 @@
         "description": "Body dissolving into sludge, Malayn has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-01-08 03:54:44"
+    },
+    {
+        "id": 163876903,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-08 04:24:51"
+    },
+    {
+        "id": 163876948,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-08 04:26:39"
+    },
+    {
+        "id": 163877084,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-08 04:45:30"
     }
 ]
