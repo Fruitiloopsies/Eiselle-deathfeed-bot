@@ -22657,5 +22657,19 @@
         "description": "Xanthia was slain by misadventure.",
         "type": "DEA",
         "date": "2026-01-07 18:58:00"
+    },
+    {
+        "id": 163875903,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Shango has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-01-08 02:30:37"
+    },
+    {
+        "id": 163876098,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-08 03:02:25"
     }
 ]
