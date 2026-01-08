@@ -22881,5 +22881,33 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
         "type": "DEA",
         "date": "2026-01-08 05:57:50"
+    },
+    {
+        "id": 163880845,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-08 18:37:40"
+    },
+    {
+        "id": 163880874,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Roya has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-08 18:38:36"
+    },
+    {
+        "id": 163880887,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-08 18:39:39"
+    },
+    {
+        "id": 163881103,
+        "caption": "Player Death",
+        "description": "Tuilinn has succumbed to the chill presence of a floating ice skull.",
+        "type": "DEA",
+        "date": "2026-01-08 18:51:08"
     }
 ]
