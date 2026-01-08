@@ -22860,5 +22860,19 @@
         "description": "Zagreus has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-01-08 04:59:01"
+    },
+    {
+        "id": 163877799,
+        "caption": "Player Death",
+        "description": "Melrose was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-08 05:57:43"
+    },
+    {
+        "id": 163877845,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Lorn, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-01-08 05:57:47"
     }
 ]
