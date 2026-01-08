@@ -22671,5 +22671,96 @@
         "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-01-08 03:02:25"
+    },
+    {
+        "id": 163876231,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-01-08 03:23:34"
+    },
+    {
+        "id": 163876256,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-08 03:23:35"
+    },
+    {
+        "id": 163876268,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-08 03:25:30"
+    },
+    {
+        "id": 163876290,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-08 03:26:02"
+    },
+    {
+        "id": 163876335,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-08 03:27:23"
+    },
+    {
+        "id": 163876356,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-08 03:28:12"
+    },
+    {
+        "id": 163876367,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-08 03:28:40"
+    },
+    {
+        "id": 163876391,
+        "caption": "Player Death",
+        "description": "Ayisdra has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-08 03:28:49"
+    },
+    {
+        "id": 163876440,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-08 03:29:55"
+    },
+    {
+        "id": 163876632,
+        "caption": "Player Death",
+        "description": "Alainna has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2026-01-08 03:42:33"
+    },
+    {
+        "id": 163876713,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
+        "type": "DEA",
+        "date": "2026-01-08 03:47:53"
+    },
+    {
+        "id": 163876726,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
+        "type": "DEA",
+        "date": "2026-01-08 03:50:04"
+    },
+    {
+        "id": 163876763,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Malayn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-01-08 03:54:44"
     }
 ]
