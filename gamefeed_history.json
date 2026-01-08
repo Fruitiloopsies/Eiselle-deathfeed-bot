@@ -22783,5 +22783,82 @@
         "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-01-08 04:45:30"
+    },
+    {
+        "id": 163877118,
+        "caption": "Player Death",
+        "description": "Zagreus has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-08 04:51:59"
+    },
+    {
+        "id": 163877152,
+        "caption": "Player Death",
+        "description": "Huskii has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-08 04:52:57"
+    },
+    {
+        "id": 163877174,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-08 04:53:01"
+    },
+    {
+        "id": 163877218,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-08 04:53:08"
+    },
+    {
+        "id": 163877254,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-08 04:56:27"
+    },
+    {
+        "id": 163877284,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Malayn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-01-08 04:58:03"
+    },
+    {
+        "id": 163877313,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-08 04:58:06"
+    },
+    {
+        "id": 163877358,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-08 04:58:09"
+    },
+    {
+        "id": 163877374,
+        "caption": "Player Death",
+        "description": "Huskii has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-08 04:58:26"
+    },
+    {
+        "id": 163877396,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Malayn, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-01-08 04:58:36"
+    },
+    {
+        "id": 163877425,
+        "caption": "Player Death",
+        "description": "Zagreus has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-08 04:59:01"
     }
 ]
