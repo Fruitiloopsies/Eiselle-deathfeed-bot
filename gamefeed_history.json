@@ -22951,5 +22951,12 @@
         "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-01-09 03:54:08"
+    },
+    {
+        "id": 163885669,
+        "caption": "Player Death",
+        "description": "Argilent has been unravelled and devoured by the malevolent consciousness of Pandaemonium.",
+        "type": "DEA",
+        "date": "2026-01-09 08:34:28"
     }
 ]
