@@ -22909,5 +22909,47 @@
         "description": "Tuilinn has succumbed to the chill presence of a floating ice skull.",
         "type": "DEA",
         "date": "2026-01-08 18:51:08"
+    },
+    {
+        "id": 163884271,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-09 03:51:58"
+    },
+    {
+        "id": 163884289,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-09 03:52:16"
+    },
+    {
+        "id": 163884334,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-09 03:52:40"
+    },
+    {
+        "id": 163884359,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-09 03:53:17"
+    },
+    {
+        "id": 163884376,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-09 03:54:08"
+    },
+    {
+        "id": 163884392,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-09 03:54:08"
     }
 ]
