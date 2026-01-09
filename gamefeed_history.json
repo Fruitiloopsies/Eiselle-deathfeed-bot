@@ -22958,5 +22958,12 @@
         "description": "Argilent has been unravelled and devoured by the malevolent consciousness of Pandaemonium.",
         "type": "DEA",
         "date": "2026-01-09 08:34:28"
+    },
+    {
+        "id": 163888812,
+        "caption": "Player Death",
+        "description": "Shmingus has been slain by the might of a slimy, amphibious adorath.",
+        "type": "DEA",
+        "date": "2026-01-09 23:05:56"
     }
 ]
