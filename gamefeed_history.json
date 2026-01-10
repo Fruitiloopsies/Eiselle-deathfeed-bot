@@ -22972,5 +22972,12 @@
         "description": "Suavium was slain by misadventure.",
         "type": "DEA",
         "date": "2026-01-10 02:38:45"
+    },
+    {
+        "id": 163891525,
+        "caption": "Player Death",
+        "description": "Shanoa has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2026-01-10 06:55:33"
     }
 ]
