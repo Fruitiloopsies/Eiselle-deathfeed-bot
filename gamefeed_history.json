@@ -22979,5 +22979,12 @@
         "description": "Shanoa has been given the kiss of death by an emaciated virgin.",
         "type": "DEA",
         "date": "2026-01-10 06:55:33"
+    },
+    {
+        "id": 163892765,
+        "caption": "Player Death",
+        "description": "Otem has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-01-10 14:02:34"
     }
 ]
