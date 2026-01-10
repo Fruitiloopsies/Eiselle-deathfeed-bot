@@ -22965,5 +22965,12 @@
         "description": "Shmingus has been slain by the might of a slimy, amphibious adorath.",
         "type": "DEA",
         "date": "2026-01-09 23:05:56"
+    },
+    {
+        "id": 163889868,
+        "caption": "Player Death",
+        "description": "Suavium was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-10 02:38:45"
     }
 ]
