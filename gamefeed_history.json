@@ -22986,5 +22986,12 @@
         "description": "Otem has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-01-10 14:02:34"
+    },
+    {
+        "id": 163895355,
+        "caption": "Player Death",
+        "description": "Zoelin was slain by Shango (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2026-01-10 22:25:18"
     }
 ]
