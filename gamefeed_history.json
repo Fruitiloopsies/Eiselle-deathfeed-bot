@@ -23000,5 +23000,26 @@
         "description": "Iae has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2026-01-11 00:58:50"
+    },
+    {
+        "id": 163898000,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Valensa, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-01-11 06:55:46"
+    },
+    {
+        "id": 163898004,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Shanoa, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-01-11 06:55:47"
+    },
+    {
+        "id": 163898009,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Xanthia, petrifying them for eternity.",
+        "type": "DEA",
+        "date": "2026-01-11 06:55:55"
     }
 ]
