@@ -23147,5 +23147,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Lorn, petrifying him for eternity.",
         "type": "DEA",
         "date": "2026-01-11 09:18:17"
+    },
+    {
+        "id": 163901948,
+        "caption": "Player Death",
+        "description": "Xanthia was slain by Freja (Victim had 35% the might).",
+        "type": "DEA",
+        "date": "2026-01-11 23:17:26"
     }
 ]
