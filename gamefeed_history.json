@@ -23021,5 +23021,40 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Xanthia, petrifying them for eternity.",
         "type": "DEA",
         "date": "2026-01-11 06:55:55"
+    },
+    {
+        "id": 163898066,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Valensa, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-01-11 07:02:48"
+    },
+    {
+        "id": 163898192,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Shanoa, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-01-11 07:17:22"
+    },
+    {
+        "id": 163898197,
+        "caption": "Player Death",
+        "description": "Xanthia was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-11 07:17:25"
+    },
+    {
+        "id": 163898205,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Valensa, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-01-11 07:17:26"
+    },
+    {
+        "id": 163898210,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Melrose, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-01-11 07:17:29"
     }
 ]
