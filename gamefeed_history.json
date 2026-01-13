@@ -23154,5 +23154,12 @@
         "description": "Xanthia was slain by Freja (Victim had 35% the might).",
         "type": "DEA",
         "date": "2026-01-11 23:17:26"
+    },
+    {
+        "id": 163908453,
+        "caption": "Player Death",
+        "description": "Zoelin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-13 01:14:34"
     }
 ]
