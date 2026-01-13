@@ -23168,5 +23168,19 @@
         "description": "Argilent has been slain by the might of Korath Chokuul, Commandant of the Catacombs.",
         "type": "DEA",
         "date": "2026-01-13 03:06:22"
+    },
+    {
+        "id": 163909933,
+        "caption": "Player Death",
+        "description": "Karrack has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-01-13 05:32:33"
+    },
+    {
+        "id": 163909944,
+        "caption": "Player Death",
+        "description": "Otem has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-01-13 05:33:07"
     }
 ]
