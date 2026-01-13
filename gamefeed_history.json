@@ -23161,5 +23161,12 @@
         "description": "Zoelin was slain by misadventure.",
         "type": "DEA",
         "date": "2026-01-13 01:14:34"
+    },
+    {
+        "id": 163909109,
+        "caption": "Player Death",
+        "description": "Argilent has been slain by the might of Korath Chokuul, Commandant of the Catacombs.",
+        "type": "DEA",
+        "date": "2026-01-13 03:06:22"
     }
 ]
