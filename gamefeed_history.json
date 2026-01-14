@@ -23196,5 +23196,12 @@
         "description": "Roya has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-01-13 18:45:14"
+    },
+    {
+        "id": 163915723,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-01-14 04:51:26"
     }
 ]
