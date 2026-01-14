@@ -23217,5 +23217,33 @@
         "description": "Alainna has become the delicious main course for a ravenous fesix.",
         "type": "DEA",
         "date": "2026-01-14 05:10:03"
+    },
+    {
+        "id": 163915909,
+        "caption": "Player Death",
+        "description": "Karrack was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-14 05:31:35"
+    },
+    {
+        "id": 163915920,
+        "caption": "Player Death",
+        "description": "Otem was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-14 05:31:35"
+    },
+    {
+        "id": 163915928,
+        "caption": "Player Death",
+        "description": "Lorn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-14 05:31:35"
+    },
+    {
+        "id": 163915935,
+        "caption": "Player Death",
+        "description": "Jaye was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-14 05:31:35"
     }
 ]
