@@ -23203,5 +23203,19 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-01-14 04:51:26"
+    },
+    {
+        "id": 163915801,
+        "caption": "Player Death",
+        "description": "Alainna has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2026-01-14 05:05:54"
+    },
+    {
+        "id": 163915827,
+        "caption": "Player Death",
+        "description": "Alainna has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2026-01-14 05:10:03"
     }
 ]
