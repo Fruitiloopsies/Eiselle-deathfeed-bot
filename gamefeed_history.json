@@ -23266,5 +23266,12 @@
         "description": "Argilent has been slain by the might of Korath Chokuul, Commandant of the Catacombs.",
         "type": "DEA",
         "date": "2026-01-15 03:48:26"
+    },
+    {
+        "id": 163922137,
+        "caption": "Player Death",
+        "description": "Argilent has been slain by the might of Korath Chokuul, Commandant of the Catacombs.",
+        "type": "DEA",
+        "date": "2026-01-15 04:09:39"
     }
 ]
