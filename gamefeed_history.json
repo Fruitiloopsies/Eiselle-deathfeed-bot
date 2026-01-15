@@ -23252,5 +23252,19 @@
         "description": "Fayli has been slain by the might of a hard-shelled, many-legged cave-fisher.",
         "type": "DEA",
         "date": "2026-01-15 02:00:23"
+    },
+    {
+        "id": 163921551,
+        "caption": "Player Death",
+        "description": "Alainna has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2026-01-15 02:44:18"
+    },
+    {
+        "id": 163921973,
+        "caption": "Player Death",
+        "description": "Argilent has been slain by the might of Korath Chokuul, Commandant of the Catacombs.",
+        "type": "DEA",
+        "date": "2026-01-15 03:48:26"
     }
 ]
