@@ -23280,5 +23280,12 @@
         "description": "Lorn has been dragged to an early grave by a spectral garwight.",
         "type": "DEA",
         "date": "2026-01-15 07:28:05"
+    },
+    {
+        "id": 163934822,
+        "caption": "Player Death",
+        "description": "Alainna has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2026-01-17 04:49:33"
     }
 ]
