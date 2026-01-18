@@ -23469,5 +23469,12 @@
         "description": "Marked for death by a clangoru artificer, Ferelith has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-01-17 05:35:05"
+    },
+    {
+        "id": 163945295,
+        "caption": "Player Death",
+        "description": "Argilent has been slain by the might of Korath Chokuul, Commandant of the Catacombs.",
+        "type": "DEA",
+        "date": "2026-01-18 12:51:21"
     }
 ]
