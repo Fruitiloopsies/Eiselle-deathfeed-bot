@@ -23483,5 +23483,12 @@
         "description": "Eiselle has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-01-19 00:21:32"
+    },
+    {
+        "id": 163951742,
+        "caption": "Player Death",
+        "description": "Roya has succumbed to the chill presence of a floating ice skull.",
+        "type": "DEA",
+        "date": "2026-01-19 13:27:08"
     }
 ]
