@@ -23476,5 +23476,12 @@
         "description": "Argilent has been slain by the might of Korath Chokuul, Commandant of the Catacombs.",
         "type": "DEA",
         "date": "2026-01-18 12:51:21"
+    },
+    {
+        "id": 163947894,
+        "caption": "Player Death",
+        "description": "Eiselle has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-01-19 00:21:32"
     }
 ]
