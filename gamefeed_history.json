@@ -23553,5 +23553,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Yinuish, petrifying her for eternity.",
         "type": "DEA",
         "date": "2026-01-20 07:48:44"
+    },
+    {
+        "id": 163957958,
+        "caption": "Player Death",
+        "description": "Witte was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-20 08:02:01"
     }
 ]
