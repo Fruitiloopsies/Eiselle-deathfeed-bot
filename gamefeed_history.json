@@ -23490,5 +23490,33 @@
         "description": "Roya has succumbed to the chill presence of a floating ice skull.",
         "type": "DEA",
         "date": "2026-01-19 13:27:08"
+    },
+    {
+        "id": 163957239,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Jaye, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-01-20 05:33:35"
+    },
+    {
+        "id": 163957285,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Lorn, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-01-20 05:33:36"
+    },
+    {
+        "id": 163957293,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Otem, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-01-20 05:33:40"
+    },
+    {
+        "id": 163957301,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Karrack, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-01-20 05:34:06"
     }
 ]
