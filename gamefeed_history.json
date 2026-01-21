@@ -23574,5 +23574,19 @@
         "description": "Roya has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-01-21 10:59:21"
+    },
+    {
+        "id": 163966934,
+        "caption": "Player Death",
+        "description": "Roya has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-21 18:26:59"
+    },
+    {
+        "id": 163966984,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Roya has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-21 18:37:50"
     }
 ]
