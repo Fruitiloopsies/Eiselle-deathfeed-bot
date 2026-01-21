@@ -23567,5 +23567,12 @@
         "description": "Shango has been slain by the might of a Daughter of Shadow.",
         "type": "DEA",
         "date": "2026-01-20 23:31:40"
+    },
+    {
+        "id": 163965356,
+        "caption": "Player Death",
+        "description": "Roya has been disemboweled by Cthoglogg, her entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-01-21 10:59:21"
     }
 ]
