@@ -23630,5 +23630,40 @@
         "description": "Jemna has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-01-22 00:45:18"
+    },
+    {
+        "id": 163969763,
+        "caption": "Player Death",
+        "description": "Jaye has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-22 02:25:25"
+    },
+    {
+        "id": 163969809,
+        "caption": "Player Death",
+        "description": "Otem has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-22 02:25:25"
+    },
+    {
+        "id": 163970049,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-22 03:17:18"
+    },
+    {
+        "id": 163970067,
+        "caption": "Player Death",
+        "description": "Jaye has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-22 03:20:22"
+    },
+    {
+        "id": 163970138,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-22 03:24:35"
     }
 ]
