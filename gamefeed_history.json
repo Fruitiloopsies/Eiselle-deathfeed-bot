@@ -23665,5 +23665,47 @@
         "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-01-22 03:24:35"
+    },
+    {
+        "id": 163970150,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Jaye has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-01-22 03:27:43"
+    },
+    {
+        "id": 163970203,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-22 03:29:22"
+    },
+    {
+        "id": 163970215,
+        "caption": "Player Death",
+        "description": "Jaye has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-22 03:30:16"
+    },
+    {
+        "id": 163970261,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-22 03:31:16"
+    },
+    {
+        "id": 163970575,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-22 04:13:06"
+    },
+    {
+        "id": 163970689,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-01-22 04:33:33"
     }
 ]
