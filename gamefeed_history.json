@@ -23623,5 +23623,12 @@
         "description": "Roya has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-01-21 20:26:07"
+    },
+    {
+        "id": 163969219,
+        "caption": "Player Death",
+        "description": "Jemna has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-22 00:45:18"
     }
 ]
