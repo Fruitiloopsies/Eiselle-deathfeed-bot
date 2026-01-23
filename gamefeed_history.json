@@ -23714,5 +23714,40 @@
         "description": "Karrack was slain by Malayn (Victim had 100% the might).",
         "type": "DEA",
         "date": "2026-01-23 05:07:57"
+    },
+    {
+        "id": 163981048,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Jaye (Victim had 120% the might).",
+        "type": "DEA",
+        "date": "2026-01-23 05:23:23"
+    },
+    {
+        "id": 163981077,
+        "caption": "Player Death",
+        "description": "Shango was slain by Jaye (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2026-01-23 05:24:19"
+    },
+    {
+        "id": 163981123,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Malayn (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-01-23 05:25:01"
+    },
+    {
+        "id": 163981152,
+        "caption": "Player Death",
+        "description": "Lianchi was slain by Legac (Victim had 25% the might).",
+        "type": "DEA",
+        "date": "2026-01-23 05:25:30"
+    },
+    {
+        "id": 163981165,
+        "caption": "Player Death",
+        "description": "Karrack was slain by Malayn (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2026-01-23 05:34:07"
     }
 ]
