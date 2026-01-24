@@ -23777,5 +23777,12 @@
         "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-01-24 03:45:31"
+    },
+    {
+        "id": 163988380,
+        "caption": "Player Death",
+        "description": "Farlaris was slain by Farlaris (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-01-24 10:40:29"
     }
 ]
