@@ -23749,5 +23749,12 @@
         "description": "Karrack was slain by Malayn (Victim had 110% the might).",
         "type": "DEA",
         "date": "2026-01-23 05:34:07"
+    },
+    {
+        "id": 163986121,
+        "caption": "Player Death",
+        "description": "Roya has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-24 01:42:03"
     }
 ]
