@@ -23784,5 +23784,12 @@
         "description": "Farlaris was slain by Farlaris (Victim had 100% the might).",
         "type": "DEA",
         "date": "2026-01-24 10:40:29"
+    },
+    {
+        "id": 163990056,
+        "caption": "Player Death",
+        "description": "Otem has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-01-24 18:17:25"
     }
 ]
