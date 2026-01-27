@@ -23791,5 +23791,26 @@
         "description": "Otem has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-01-24 18:17:25"
+    },
+    {
+        "id": 164008473,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-27 20:15:46"
+    },
+    {
+        "id": 164008522,
+        "caption": "Player Death",
+        "description": "Legac was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-27 20:15:46"
+    },
+    {
+        "id": 164008550,
+        "caption": "Player Death",
+        "description": "Legac was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-01-27 20:27:18"
     }
 ]
