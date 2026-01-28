@@ -23819,5 +23819,12 @@
         "description": "Lianchi was slain by misadventure.",
         "type": "DEA",
         "date": "2026-01-28 02:22:34"
+    },
+    {
+        "id": 164011044,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
+        "type": "DEA",
+        "date": "2026-01-28 05:31:36"
     }
 ]
