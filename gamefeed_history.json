@@ -23861,5 +23861,33 @@
         "description": "Legac was slain by misadventure.",
         "type": "DEA",
         "date": "2026-01-28 22:48:10"
+    },
+    {
+        "id": 164014356,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-28 22:50:26"
+    },
+    {
+        "id": 164014387,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-01-28 22:52:10"
+    },
+    {
+        "id": 164014487,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-28 22:58:39"
+    },
+    {
+        "id": 164014540,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-28 22:59:12"
     }
 ]
