@@ -23812,5 +23812,12 @@
         "description": "Legac was slain by Zagreus (Victim had 90% the might).",
         "type": "DEA",
         "date": "2026-01-27 20:27:18"
+    },
+    {
+        "id": 164010286,
+        "caption": "Player Death",
+        "description": "Lianchi was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-28 02:22:34"
     }
 ]
