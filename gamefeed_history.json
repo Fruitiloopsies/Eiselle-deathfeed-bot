@@ -23826,5 +23826,40 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
         "type": "DEA",
         "date": "2026-01-28 05:31:36"
+    },
+    {
+        "id": 164014209,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-28 22:46:12"
+    },
+    {
+        "id": 164014235,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-28 22:46:50"
+    },
+    {
+        "id": 164014255,
+        "caption": "Player Death",
+        "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-28 22:47:28"
+    },
+    {
+        "id": 164014305,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-01-28 22:47:54"
+    },
+    {
+        "id": 164014330,
+        "caption": "Player Death",
+        "description": "Legac was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-28 22:48:10"
     }
 ]
