@@ -23889,5 +23889,12 @@
         "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-01-28 22:59:12"
+    },
+    {
+        "id": 164015617,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-01-29 02:16:55"
     }
 ]
