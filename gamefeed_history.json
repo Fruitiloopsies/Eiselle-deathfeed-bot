@@ -23896,5 +23896,12 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2026-01-29 02:16:55"
+    },
+    {
+        "id": 164020420,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Zagreus (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2026-01-30 00:29:53"
     }
 ]
