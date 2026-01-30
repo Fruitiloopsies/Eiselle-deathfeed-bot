@@ -24015,5 +24015,12 @@
         "description": "Huskii has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-01-30 04:49:02"
+    },
+    {
+        "id": 164022899,
+        "caption": "Player Death",
+        "description": "A two-headed abhorrence has trampled all over Zoelin.",
+        "type": "DEA",
+        "date": "2026-01-30 08:57:25"
     }
 ]
