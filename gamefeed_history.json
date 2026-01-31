@@ -24043,5 +24043,40 @@
         "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-01-31 01:05:59"
+    },
+    {
+        "id": 164026698,
+        "caption": "Player Death",
+        "description": "Lorn has been torn up and consumed by a giant flesh maggot.",
+        "type": "DEA",
+        "date": "2026-01-31 01:49:37"
+    },
+    {
+        "id": 164026837,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-01-31 02:37:38"
+    },
+    {
+        "id": 164026856,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-31 02:40:41"
+    },
+    {
+        "id": 164026890,
+        "caption": "Player Death",
+        "description": "Zagreus has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-01-31 02:41:15"
+    },
+    {
+        "id": 164026915,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-01-31 02:41:35"
     }
 ]
