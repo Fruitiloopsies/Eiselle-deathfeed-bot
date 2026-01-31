@@ -24085,5 +24085,12 @@
         "description": "Lorn has been torn up and consumed by a giant flesh maggot.",
         "type": "DEA",
         "date": "2026-01-31 07:12:14"
+    },
+    {
+        "id": 164028388,
+        "caption": "Player Death",
+        "description": "Lorn has been torn up and consumed by a giant flesh maggot.",
+        "type": "DEA",
+        "date": "2026-01-31 07:46:05"
     }
 ]
