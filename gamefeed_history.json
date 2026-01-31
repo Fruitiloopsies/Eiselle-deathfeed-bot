@@ -24078,5 +24078,12 @@
         "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-01-31 02:41:35"
+    },
+    {
+        "id": 164028306,
+        "caption": "Player Death",
+        "description": "Lorn has been torn up and consumed by a giant flesh maggot.",
+        "type": "DEA",
+        "date": "2026-01-31 07:12:14"
     }
 ]
