@@ -24106,5 +24106,26 @@
         "description": "Lorn has been torn up and consumed by a giant flesh maggot.",
         "type": "DEA",
         "date": "2026-01-31 22:59:14"
+    },
+    {
+        "id": 164032590,
+        "caption": "Player Death",
+        "description": "Freja was slain by Ayisdra (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2026-02-01 00:34:48"
+    },
+    {
+        "id": 164032711,
+        "caption": "Player Death",
+        "description": "Legac was slain by Malayn (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2026-02-01 00:47:16"
+    },
+    {
+        "id": 164032732,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Zagreus (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-02-01 00:47:36"
     }
 ]
