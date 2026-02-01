@@ -24127,5 +24127,12 @@
         "description": "Ayisdra was slain by Zagreus (Victim had 85% the might).",
         "type": "DEA",
         "date": "2026-02-01 00:47:36"
+    },
+    {
+        "id": 164034421,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-02-01 04:56:43"
     }
 ]
