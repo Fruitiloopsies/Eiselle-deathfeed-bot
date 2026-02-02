@@ -24134,5 +24134,26 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-02-01 04:56:43"
+    },
+    {
+        "id": 164038971,
+        "caption": "Player Death",
+        "description": "Huskii has frozen into fatal catatonia, victim to a monstrous ice devil.",
+        "type": "DEA",
+        "date": "2026-02-02 00:49:26"
+    },
+    {
+        "id": 164039025,
+        "caption": "Player Death",
+        "description": "Huskii has frozen into fatal catatonia, victim to a monstrous ice devil.",
+        "type": "DEA",
+        "date": "2026-02-02 01:02:50"
+    },
+    {
+        "id": 164039071,
+        "caption": "Player Death",
+        "description": "Huskii's entrails have been torn out by a vicious frost fiend.",
+        "type": "DEA",
+        "date": "2026-02-02 01:21:25"
     }
 ]
