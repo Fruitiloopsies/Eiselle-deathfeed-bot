@@ -24183,5 +24183,19 @@
         "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-02-02 04:45:55"
+    },
+    {
+        "id": 164041921,
+        "caption": "Player Death",
+        "description": "Exeryte's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2026-02-02 14:16:10"
+    },
+    {
+        "id": 164041986,
+        "caption": "Player Death",
+        "description": "Lianchi has been slain by the might of a centaur hunter.",
+        "type": "DEA",
+        "date": "2026-02-02 14:39:36"
     }
 ]
