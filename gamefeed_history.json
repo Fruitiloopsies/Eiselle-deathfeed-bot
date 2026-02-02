@@ -24155,5 +24155,33 @@
         "description": "Huskii's entrails have been torn out by a vicious frost fiend.",
         "type": "DEA",
         "date": "2026-02-02 01:21:25"
+    },
+    {
+        "id": 164039931,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-02-02 04:45:25"
+    },
+    {
+        "id": 164039993,
+        "caption": "Player Death",
+        "description": "Ferelith was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-02-02 04:45:42"
+    },
+    {
+        "id": 164040037,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Aramel has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-02 04:45:47"
+    },
+    {
+        "id": 164040056,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-02 04:45:55"
     }
 ]
