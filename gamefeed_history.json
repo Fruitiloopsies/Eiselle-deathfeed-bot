@@ -24211,5 +24211,12 @@
         "description": "Laina has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2026-02-03 06:41:41"
+    },
+    {
+        "id": 164050546,
+        "caption": "Player Death",
+        "description": "Alainna has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2026-02-03 23:39:50"
     }
 ]
