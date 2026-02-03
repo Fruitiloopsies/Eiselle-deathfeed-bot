@@ -24197,5 +24197,12 @@
         "description": "Lianchi has been slain by the might of a centaur hunter.",
         "type": "DEA",
         "date": "2026-02-02 14:39:36"
+    },
+    {
+        "id": 164045644,
+        "caption": "Player Death",
+        "description": "Fayli has been slain by the might of a monstrous gravedigger.",
+        "type": "DEA",
+        "date": "2026-02-03 01:47:21"
     }
 ]
