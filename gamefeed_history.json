@@ -24204,5 +24204,12 @@
         "description": "Fayli has been slain by the might of a monstrous gravedigger.",
         "type": "DEA",
         "date": "2026-02-03 01:47:21"
+    },
+    {
+        "id": 164047333,
+        "caption": "Player Death",
+        "description": "Laina has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2026-02-03 06:41:41"
     }
 ]
