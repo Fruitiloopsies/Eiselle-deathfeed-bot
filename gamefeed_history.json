@@ -24239,5 +24239,12 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2026-02-04 08:07:45"
+    },
+    {
+        "id": 164055977,
+        "caption": "Player Death",
+        "description": "Ferelith was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-02-04 22:23:35"
     }
 ]
