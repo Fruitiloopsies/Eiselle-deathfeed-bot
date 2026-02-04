@@ -24232,5 +24232,12 @@
         "description": "Huskii's entrails have been torn out by a vicious frost fiend.",
         "type": "DEA",
         "date": "2026-02-04 02:02:52"
+    },
+    {
+        "id": 164052992,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-02-04 08:07:45"
     }
 ]
