@@ -24246,5 +24246,12 @@
         "description": "Ferelith was slain by misadventure.",
         "type": "DEA",
         "date": "2026-02-04 22:23:35"
+    },
+    {
+        "id": 164069989,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2026-02-07 05:57:45"
     }
 ]
