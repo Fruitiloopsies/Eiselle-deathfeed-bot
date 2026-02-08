@@ -24274,5 +24274,26 @@
         "description": "Pyawr was slain by misadventure.",
         "type": "DEA",
         "date": "2026-02-08 00:18:22"
+    },
+    {
+        "id": 164078021,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-02-08 09:04:07"
+    },
+    {
+        "id": 164078037,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-02-08 09:04:58"
+    },
+    {
+        "id": 164078046,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-08 09:06:05"
     }
 ]
