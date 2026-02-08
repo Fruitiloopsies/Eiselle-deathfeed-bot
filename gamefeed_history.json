@@ -24260,5 +24260,19 @@
         "description": "Legac was slain by misadventure.",
         "type": "DEA",
         "date": "2026-02-07 17:20:26"
+    },
+    {
+        "id": 164075439,
+        "caption": "Player Death",
+        "description": "Faragan was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-02-07 23:57:44"
+    },
+    {
+        "id": 164075581,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-02-08 00:18:22"
     }
 ]
