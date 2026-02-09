@@ -24302,5 +24302,12 @@
         "description": "Faragan was slain by misadventure.",
         "type": "DEA",
         "date": "2026-02-08 20:43:01"
+    },
+    {
+        "id": 164082969,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-02-09 06:55:04"
     }
 ]
