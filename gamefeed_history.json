@@ -24309,5 +24309,26 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-02-09 06:55:04"
+    },
+    {
+        "id": 164087263,
+        "caption": "Player Death",
+        "description": "Callista was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-02-10 00:03:13"
+    },
+    {
+        "id": 164087559,
+        "caption": "Player Death",
+        "description": "Mboagn has been slain by the might of a bestial garul.",
+        "type": "DEA",
+        "date": "2026-02-10 01:35:50"
+    },
+    {
+        "id": 164087712,
+        "caption": "Player Death",
+        "description": "Qoivhae's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2026-02-10 01:58:37"
     }
 ]
