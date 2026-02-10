@@ -24330,5 +24330,19 @@
         "description": "Qoivhae's body has been pinched in half by the claws of a monstrous lobstrosity.",
         "type": "DEA",
         "date": "2026-02-10 01:58:37"
+    },
+    {
+        "id": 164091056,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-10 17:23:53"
+    },
+    {
+        "id": 164091087,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-10 17:24:40"
     }
 ]
