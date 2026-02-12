@@ -24379,5 +24379,12 @@
         "description": "Lianchi was slain by Legac (Victim had 40% the might).",
         "type": "DEA",
         "date": "2026-02-12 16:29:50"
+    },
+    {
+        "id": 164102718,
+        "caption": "Player Death",
+        "description": "Jemna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-02-12 20:58:07"
     }
 ]
