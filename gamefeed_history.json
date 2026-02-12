@@ -24372,5 +24372,12 @@
         "description": "Alainna has been slain by the might of a two-headed eagle.",
         "type": "DEA",
         "date": "2026-02-12 04:28:03"
+    },
+    {
+        "id": 164101856,
+        "caption": "Player Death",
+        "description": "Lianchi was slain by Legac (Victim had 40% the might).",
+        "type": "DEA",
+        "date": "2026-02-12 16:29:50"
     }
 ]
