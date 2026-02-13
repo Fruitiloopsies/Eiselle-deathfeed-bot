@@ -24386,5 +24386,19 @@
         "description": "Jemna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-02-12 20:58:07"
+    },
+    {
+        "id": 164104406,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
+        "type": "DEA",
+        "date": "2026-02-13 03:29:14"
+    },
+    {
+        "id": 164104516,
+        "caption": "Player Death",
+        "description": "Alainna has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2026-02-13 03:39:09"
     }
 ]
