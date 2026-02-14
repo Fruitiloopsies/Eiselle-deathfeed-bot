@@ -24407,5 +24407,12 @@
         "description": "Alainna has become the delicious main course for a ravenous fesix.",
         "type": "DEA",
         "date": "2026-02-14 04:50:01"
+    },
+    {
+        "id": 164111243,
+        "caption": "Player Death",
+        "description": "Lorn has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2026-02-14 05:36:12"
     }
 ]
