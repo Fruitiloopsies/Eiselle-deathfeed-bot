@@ -24414,5 +24414,12 @@
         "description": "Lorn has been given the kiss of death by an emaciated virgin.",
         "type": "DEA",
         "date": "2026-02-14 05:36:12"
+    },
+    {
+        "id": 164111868,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Mboagn.",
+        "type": "DEA",
+        "date": "2026-02-14 09:00:22"
     }
 ]
