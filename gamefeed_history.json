@@ -24428,5 +24428,12 @@
         "description": "Shmortimer has croaked thanks to an electric-blue swamp frog.",
         "type": "DEA",
         "date": "2026-02-14 22:31:51"
+    },
+    {
+        "id": 164114976,
+        "caption": "Player Death",
+        "description": "A great barbed tick has sucked the blood from Shmingus and left his husk to rot.",
+        "type": "DEA",
+        "date": "2026-02-14 23:52:41"
     }
 ]
