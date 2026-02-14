@@ -24421,5 +24421,12 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Mboagn.",
         "type": "DEA",
         "date": "2026-02-14 09:00:22"
+    },
+    {
+        "id": 164114617,
+        "caption": "Player Death",
+        "description": "Shmortimer has croaked thanks to an electric-blue swamp frog.",
+        "type": "DEA",
+        "date": "2026-02-14 22:31:51"
     }
 ]
