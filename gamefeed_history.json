@@ -24449,5 +24449,12 @@
         "description": "Shmortimer has been thumped to death by a small mystic jackalope.",
         "type": "DEA",
         "date": "2026-02-15 05:33:07"
+    },
+    {
+        "id": 164118021,
+        "caption": "Player Death",
+        "description": "Yinuish was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-02-15 10:41:58"
     }
 ]
