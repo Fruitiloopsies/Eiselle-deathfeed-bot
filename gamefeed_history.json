@@ -24435,5 +24435,12 @@
         "description": "A great barbed tick has sucked the blood from Shmingus and left his husk to rot.",
         "type": "DEA",
         "date": "2026-02-14 23:52:41"
+    },
+    {
+        "id": 164115647,
+        "caption": "Player Death",
+        "description": "Freja has been slain by the might of a kephera warrior.",
+        "type": "DEA",
+        "date": "2026-02-15 01:54:24"
     }
 ]
