@@ -24442,5 +24442,12 @@
         "description": "Freja has been slain by the might of a kephera warrior.",
         "type": "DEA",
         "date": "2026-02-15 01:54:24"
+    },
+    {
+        "id": 164117112,
+        "caption": "Player Death",
+        "description": "Shmortimer has been thumped to death by a small mystic jackalope.",
+        "type": "DEA",
+        "date": "2026-02-15 05:33:07"
     }
 ]
