@@ -24512,5 +24512,12 @@
         "description": "Eiselle was slain by Shango (Victim had 100% the might).",
         "type": "DEA",
         "date": "2026-02-15 23:43:47"
+    },
+    {
+        "id": 164121823,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Legac (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-02-15 23:46:43"
     }
 ]
