@@ -24526,5 +24526,12 @@
         "description": "Alainna became the target of a hulking three-horned bull's violent rage.",
         "type": "DEA",
         "date": "2026-02-16 04:22:38"
+    },
+    {
+        "id": 164123420,
+        "caption": "Player Death",
+        "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2026-02-16 05:20:15"
     }
 ]
