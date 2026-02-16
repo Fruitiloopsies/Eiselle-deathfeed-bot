@@ -24547,5 +24547,89 @@
         "description": "Pyawr has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-02-16 17:40:50"
+    },
+    {
+        "id": 164126031,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-02-16 20:00:18"
+    },
+    {
+        "id": 164126058,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Gilda has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-02-16 20:01:32"
+    },
+    {
+        "id": 164126088,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-16 20:03:58"
+    },
+    {
+        "id": 164126119,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-16 20:08:14"
+    },
+    {
+        "id": 164126151,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-16 20:09:56"
+    },
+    {
+        "id": 164126200,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-16 20:09:59"
+    },
+    {
+        "id": 164126245,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-16 20:11:25"
+    },
+    {
+        "id": 164126274,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-02-16 20:13:48"
+    },
+    {
+        "id": 164126304,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Exeryte, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-02-16 20:15:57"
+    },
+    {
+        "id": 164126365,
+        "caption": "Player Death",
+        "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-16 20:16:03"
+    },
+    {
+        "id": 164126395,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-16 20:16:21"
+    },
+    {
+        "id": 164126545,
+        "caption": "Player Death",
+        "description": "Lianchi has been slain by the might of a skeletal worker.",
+        "type": "DEA",
+        "date": "2026-02-16 20:32:57"
     }
 ]
