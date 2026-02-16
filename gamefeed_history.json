@@ -24533,5 +24533,12 @@
         "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
         "type": "DEA",
         "date": "2026-02-16 05:20:15"
+    },
+    {
+        "id": 164124072,
+        "caption": "Player Death",
+        "description": "Argilent has been slain by the might of Korath Chokuul, Commandant of the Catacombs.",
+        "type": "DEA",
+        "date": "2026-02-16 08:25:41"
     }
 ]
