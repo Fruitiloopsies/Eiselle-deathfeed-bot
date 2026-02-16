@@ -24631,5 +24631,12 @@
         "description": "Lianchi has been slain by the might of a skeletal worker.",
         "type": "DEA",
         "date": "2026-02-16 20:32:57"
+    },
+    {
+        "id": 164127037,
+        "caption": "Player Death",
+        "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-02-16 22:11:05"
     }
 ]
