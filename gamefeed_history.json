@@ -24540,5 +24540,12 @@
         "description": "Argilent has been slain by the might of Korath Chokuul, Commandant of the Catacombs.",
         "type": "DEA",
         "date": "2026-02-16 08:25:41"
+    },
+    {
+        "id": 164125540,
+        "caption": "Player Death",
+        "description": "Pyawr has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-02-16 17:40:50"
     }
 ]
