@@ -24519,5 +24519,12 @@
         "description": "Malayn was slain by Legac (Victim had 90% the might).",
         "type": "DEA",
         "date": "2026-02-15 23:46:43"
+    },
+    {
+        "id": 164123107,
+        "caption": "Player Death",
+        "description": "Alainna became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2026-02-16 04:22:38"
     }
 ]
