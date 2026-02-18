@@ -24743,5 +24743,12 @@
         "description": "Aramel has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-02-17 01:26:54"
+    },
+    {
+        "id": 164136091,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
+        "type": "DEA",
+        "date": "2026-02-18 06:30:56"
     }
 ]
