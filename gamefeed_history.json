@@ -24750,5 +24750,19 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
         "type": "DEA",
         "date": "2026-02-18 06:30:56"
+    },
+    {
+        "id": 164138028,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-18 17:56:53"
+    },
+    {
+        "id": 164138044,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-18 17:56:58"
     }
 ]
