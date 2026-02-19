@@ -24771,5 +24771,33 @@
         "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-02-18 22:36:40"
+    },
+    {
+        "id": 164140100,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-02-19 01:47:28"
+    },
+    {
+        "id": 164140122,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-02-19 01:49:21"
+    },
+    {
+        "id": 164140205,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-02-19 01:55:08"
+    },
+    {
+        "id": 164140266,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-19 01:55:24"
     }
 ]
