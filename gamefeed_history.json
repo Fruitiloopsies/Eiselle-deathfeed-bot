@@ -24799,5 +24799,12 @@
         "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-02-19 01:55:24"
+    },
+    {
+        "id": 164143858,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-19 18:00:08"
     }
 ]
