@@ -24862,5 +24862,47 @@
         "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-02-19 21:16:38"
+    },
+    {
+        "id": 164150066,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-02-20 21:26:09"
+    },
+    {
+        "id": 164150084,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Eiselle, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-02-20 21:26:41"
+    },
+    {
+        "id": 164150135,
+        "caption": "Player Death",
+        "description": "Ixchilgal has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-20 21:27:00"
+    },
+    {
+        "id": 164150176,
+        "caption": "Player Death",
+        "description": "Aramel has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-20 21:27:03"
+    },
+    {
+        "id": 164150197,
+        "caption": "Player Death",
+        "description": "Ixchilgal has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-02-20 21:27:24"
+    },
+    {
+        "id": 164150238,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-02-20 21:28:41"
     }
 ]
