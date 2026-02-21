@@ -25149,5 +25149,47 @@
         "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-02-21 18:34:42"
+    },
+    {
+        "id": 164156779,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-21 22:32:16"
+    },
+    {
+        "id": 164156806,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-02-21 22:32:44"
+    },
+    {
+        "id": 164156823,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-21 22:33:00"
+    },
+    {
+        "id": 164156874,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-21 22:33:09"
+    },
+    {
+        "id": 164156928,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-02-21 22:33:40"
+    },
+    {
+        "id": 164156952,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Ixchilgal, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-02-21 22:33:49"
     }
 ]
