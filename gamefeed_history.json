@@ -25016,5 +25016,12 @@
         "description": "Argilent has been slain by the might of Korath Chokuul, Commandant of the Catacombs.",
         "type": "DEA",
         "date": "2026-02-21 03:59:13"
+    },
+    {
+        "id": 164152784,
+        "caption": "Player Death",
+        "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2026-02-21 04:48:57"
     }
 ]
