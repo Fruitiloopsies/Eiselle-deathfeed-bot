@@ -25009,5 +25009,12 @@
         "description": "Body dissolving into sludge, Eiselle has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-02-21 01:16:08"
+    },
+    {
+        "id": 164152577,
+        "caption": "Player Death",
+        "description": "Argilent has been slain by the might of Korath Chokuul, Commandant of the Catacombs.",
+        "type": "DEA",
+        "date": "2026-02-21 03:59:13"
     }
 ]
