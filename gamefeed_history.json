@@ -25303,5 +25303,12 @@
         "description": "Eiselle has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-02-21 22:42:30"
+    },
+    {
+        "id": 164157849,
+        "caption": "Player Death",
+        "description": "Shadelyo has been slain by the might of a fierce and enormous roc.",
+        "type": "DEA",
+        "date": "2026-02-21 22:55:42"
     }
 ]
