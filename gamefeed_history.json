@@ -25310,5 +25310,12 @@
         "description": "Shadelyo has been slain by the might of a fierce and enormous roc.",
         "type": "DEA",
         "date": "2026-02-21 22:55:42"
+    },
+    {
+        "id": 164160488,
+        "caption": "Player Death",
+        "description": "Shmingus has been thumped to death by a small mystic jackalope.",
+        "type": "DEA",
+        "date": "2026-02-22 08:02:23"
     }
 ]
