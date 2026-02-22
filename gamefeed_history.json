@@ -25317,5 +25317,19 @@
         "description": "Shmingus has been thumped to death by a small mystic jackalope.",
         "type": "DEA",
         "date": "2026-02-22 08:02:23"
+    },
+    {
+        "id": 164161924,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-22 15:41:50"
+    },
+    {
+        "id": 164161978,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-22 15:42:00"
     }
 ]
