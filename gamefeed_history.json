@@ -25338,5 +25338,19 @@
         "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-02-22 16:53:58"
+    },
+    {
+        "id": 164162596,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-22 17:58:38"
+    },
+    {
+        "id": 164162605,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-22 17:58:44"
     }
 ]
