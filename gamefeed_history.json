@@ -25548,5 +25548,40 @@
         "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-02-22 20:47:24"
+    },
+    {
+        "id": 164164003,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-02-22 20:49:04"
+    },
+    {
+        "id": 164164024,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Eiselle has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-02-22 20:49:33"
+    },
+    {
+        "id": 164164075,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aramel, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-02-22 20:49:36"
+    },
+    {
+        "id": 164164096,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-02-22 20:49:43"
+    },
+    {
+        "id": 164164150,
+        "caption": "Player Death",
+        "description": "Karrack was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-02-22 20:49:45"
     }
 ]
