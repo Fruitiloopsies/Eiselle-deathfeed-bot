@@ -25583,5 +25583,26 @@
         "description": "Karrack was slain by misadventure.",
         "type": "DEA",
         "date": "2026-02-22 20:49:45"
+    },
+    {
+        "id": 164164321,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-22 21:23:53"
+    },
+    {
+        "id": 164164373,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-22 21:39:54"
+    },
+    {
+        "id": 164164397,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Exeryte, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-02-22 21:40:38"
     }
 ]
