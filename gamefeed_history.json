@@ -25604,5 +25604,12 @@
         "description": "A ghostly battlecharger has brought war to Exeryte, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-02-22 21:40:38"
+    },
+    {
+        "id": 164165633,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Freja (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-02-23 00:45:47"
     }
 ]
