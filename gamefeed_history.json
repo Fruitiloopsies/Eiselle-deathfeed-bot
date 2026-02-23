@@ -25618,5 +25618,82 @@
         "description": "Kailanna was slain by Exeryte (Victim had 110% the might).",
         "type": "DEA",
         "date": "2026-02-23 15:57:37"
+    },
+    {
+        "id": 164170831,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-23 21:16:37"
+    },
+    {
+        "id": 164170859,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Aramel has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-02-23 21:17:19"
+    },
+    {
+        "id": 164170883,
+        "caption": "Player Death",
+        "description": "Aramel has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-02-23 21:19:27"
+    },
+    {
+        "id": 164170904,
+        "caption": "Player Death",
+        "description": "Legac was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-02-23 21:19:55"
+    },
+    {
+        "id": 164170925,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-23 21:20:55"
+    },
+    {
+        "id": 164170952,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-23 21:20:58"
+    },
+    {
+        "id": 164170972,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-23 21:22:08"
+    },
+    {
+        "id": 164170992,
+        "caption": "Player Death",
+        "description": "Aramel has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-02-23 21:22:44"
+    },
+    {
+        "id": 164171013,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-23 21:22:53"
+    },
+    {
+        "id": 164171043,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-23 21:22:57"
+    },
+    {
+        "id": 164171060,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-02-23 21:23:03"
     }
 ]
