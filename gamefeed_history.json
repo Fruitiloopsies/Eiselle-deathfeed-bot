@@ -25695,5 +25695,19 @@
         "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2026-02-23 21:23:03"
+    },
+    {
+        "id": 164172545,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Legac (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-02-24 03:08:54"
+    },
+    {
+        "id": 164172576,
+        "caption": "Player Death",
+        "description": "Lianchi was slain by Legac (Victim had 45% the might).",
+        "type": "DEA",
+        "date": "2026-02-24 03:10:37"
     }
 ]
