@@ -25709,5 +25709,12 @@
         "description": "Lianchi was slain by Legac (Victim had 45% the might).",
         "type": "DEA",
         "date": "2026-02-24 03:10:37"
+    },
+    {
+        "id": 164173040,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2026-02-24 05:16:01"
     }
 ]
