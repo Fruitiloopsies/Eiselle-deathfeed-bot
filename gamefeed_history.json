@@ -25716,5 +25716,19 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2026-02-24 05:16:01"
+    },
+    {
+        "id": 164175391,
+        "caption": "Player Death",
+        "description": "Valinea was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-02-24 16:58:57"
+    },
+    {
+        "id": 164175399,
+        "caption": "Player Death",
+        "description": "Shmortimer has been thumped to death by a huge mystic jackalope.",
+        "type": "DEA",
+        "date": "2026-02-24 16:59:24"
     }
 ]
