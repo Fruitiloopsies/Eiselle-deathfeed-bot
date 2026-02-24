@@ -25730,5 +25730,12 @@
         "description": "Shmortimer has been thumped to death by a huge mystic jackalope.",
         "type": "DEA",
         "date": "2026-02-24 16:59:24"
+    },
+    {
+        "id": 164177702,
+        "caption": "Player Death",
+        "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-02-24 23:23:25"
     }
 ]
