@@ -25737,5 +25737,12 @@
         "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-02-24 23:23:25"
+    },
+    {
+        "id": 164181753,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-25 16:17:33"
     }
 ]
