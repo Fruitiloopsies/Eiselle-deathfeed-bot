@@ -25772,5 +25772,12 @@
         "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-02-25 19:21:31"
+    },
+    {
+        "id": 164182973,
+        "caption": "Player Death",
+        "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-02-25 20:44:37"
     }
 ]
