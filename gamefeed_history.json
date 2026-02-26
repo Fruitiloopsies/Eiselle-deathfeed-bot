@@ -25828,5 +25828,19 @@
         "description": "Lianchi has just become the next meal for a mutated, undead cave-fisher.",
         "type": "DEA",
         "date": "2026-02-26 15:38:54"
+    },
+    {
+        "id": 164187956,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-26 17:14:51"
+    },
+    {
+        "id": 164187976,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-26 17:16:07"
     }
 ]
