@@ -25800,5 +25800,19 @@
         "description": "Lianchi has been mangled and riven to death by the vicious hunger of a colossal ghost octopus.",
         "type": "DEA",
         "date": "2026-02-25 23:53:28"
+    },
+    {
+        "id": 164185620,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-02-26 05:21:08"
+    },
+    {
+        "id": 164185708,
+        "caption": "Player Death",
+        "description": "Alainna has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2026-02-26 05:28:32"
     }
 ]
