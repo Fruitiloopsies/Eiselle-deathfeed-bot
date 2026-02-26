@@ -25814,5 +25814,12 @@
         "description": "Alainna has become the delicious main course for a ravenous fesix.",
         "type": "DEA",
         "date": "2026-02-26 05:28:32"
+    },
+    {
+        "id": 164187315,
+        "caption": "Player Death",
+        "description": "Lianchi has been mangled and riven to death by the vicious hunger of a colossal ghost octopus.",
+        "type": "DEA",
+        "date": "2026-02-26 13:56:14"
     }
 ]
