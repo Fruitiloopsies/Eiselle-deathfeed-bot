@@ -25821,5 +25821,12 @@
         "description": "Lianchi has been mangled and riven to death by the vicious hunger of a colossal ghost octopus.",
         "type": "DEA",
         "date": "2026-02-26 13:56:14"
+    },
+    {
+        "id": 164187616,
+        "caption": "Player Death",
+        "description": "Lianchi has just become the next meal for a mutated, undead cave-fisher.",
+        "type": "DEA",
+        "date": "2026-02-26 15:38:54"
     }
 ]
