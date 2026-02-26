@@ -25842,5 +25842,33 @@
         "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-02-26 17:16:07"
+    },
+    {
+        "id": 164188052,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-26 17:48:34"
+    },
+    {
+        "id": 164188074,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-26 17:48:40"
+    },
+    {
+        "id": 164188304,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-26 18:22:57"
+    },
+    {
+        "id": 164188315,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-26 18:23:19"
     }
 ]
