@@ -25877,5 +25877,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-02-27 05:08:13"
+    },
+    {
+        "id": 164193907,
+        "caption": "Player Death",
+        "description": "Lianchi has been slain by the might of a Manifestation of the Dreaming.",
+        "type": "DEA",
+        "date": "2026-02-27 18:01:11"
     }
 ]
