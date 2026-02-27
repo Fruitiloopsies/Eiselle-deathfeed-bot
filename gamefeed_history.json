@@ -25884,5 +25884,40 @@
         "description": "Lianchi has been slain by the might of a Manifestation of the Dreaming.",
         "type": "DEA",
         "date": "2026-02-27 18:01:11"
+    },
+    {
+        "id": 164194168,
+        "caption": "Player Death",
+        "description": "Aramel has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-27 19:34:50"
+    },
+    {
+        "id": 164194194,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Qoivhae has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-02-27 19:39:21"
+    },
+    {
+        "id": 164194226,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-27 19:39:44"
+    },
+    {
+        "id": 164194278,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-02-27 19:39:55"
+    },
+    {
+        "id": 164194294,
+        "caption": "Player Death",
+        "description": "Aramel has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-27 19:41:03"
     }
 ]
