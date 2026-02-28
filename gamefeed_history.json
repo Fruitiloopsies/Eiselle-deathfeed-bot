@@ -25968,5 +25968,12 @@
         "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-02-28 17:04:19"
+    },
+    {
+        "id": 164202740,
+        "caption": "Player Death",
+        "description": "Shadelyo was slain by Shango (Victim had 30% the might).",
+        "type": "DEA",
+        "date": "2026-02-28 22:01:47"
     }
 ]
