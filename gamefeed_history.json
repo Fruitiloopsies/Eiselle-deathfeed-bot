@@ -25926,5 +25926,47 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-02-28 06:01:41"
+    },
+    {
+        "id": 164200037,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-02-28 16:56:37"
+    },
+    {
+        "id": 164200100,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-28 17:01:28"
+    },
+    {
+        "id": 164200154,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Mboagn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-02-28 17:03:14"
+    },
+    {
+        "id": 164200160,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-28 17:03:25"
+    },
+    {
+        "id": 164200178,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-28 17:04:03"
+    },
+    {
+        "id": 164200204,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-02-28 17:04:19"
     }
 ]
