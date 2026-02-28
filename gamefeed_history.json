@@ -25919,5 +25919,12 @@
         "description": "Aramel has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-02-27 19:41:03"
+    },
+    {
+        "id": 164198035,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-02-28 06:01:41"
     }
 ]
