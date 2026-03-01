@@ -25975,5 +25975,47 @@
         "description": "Shadelyo was slain by Shango (Victim had 30% the might).",
         "type": "DEA",
         "date": "2026-02-28 22:01:47"
+    },
+    {
+        "id": 164203788,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by Malayn (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2026-03-01 01:12:06"
+    },
+    {
+        "id": 164203872,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by Malayn (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2026-03-01 01:19:14"
+    },
+    {
+        "id": 164204072,
+        "caption": "Player Death",
+        "description": "Malayn was slain by Eiselle (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-03-01 01:29:22"
+    },
+    {
+        "id": 164204551,
+        "caption": "Player Death",
+        "description": "Vyell was slain by Malayn (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2026-03-01 02:05:21"
+    },
+    {
+        "id": 164204571,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-03-01 02:06:22"
+    },
+    {
+        "id": 164204594,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by Shango (Victim had 95% the might).",
+        "type": "DEA",
+        "date": "2026-03-01 02:06:47"
     }
 ]
