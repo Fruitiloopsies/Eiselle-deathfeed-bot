@@ -26157,5 +26157,47 @@
         "description": "Aramel has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-03-01 22:51:28"
+    },
+    {
+        "id": 164212730,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aramel, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-01 23:17:53"
+    },
+    {
+        "id": 164212755,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-01 23:18:11"
+    },
+    {
+        "id": 164212765,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-01 23:18:48"
+    },
+    {
+        "id": 164212776,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aramel, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-01 23:19:51"
+    },
+    {
+        "id": 164212854,
+        "caption": "Player Death",
+        "description": "Ayisdra has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-01 23:20:57"
+    },
+    {
+        "id": 164212908,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-01 23:21:20"
     }
 ]
