@@ -26017,5 +26017,12 @@
         "description": "Mboagn was slain by Shango (Victim had 95% the might).",
         "type": "DEA",
         "date": "2026-03-01 02:06:47"
+    },
+    {
+        "id": 164207273,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by Mboagn (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-03-01 08:45:30"
     }
 ]
