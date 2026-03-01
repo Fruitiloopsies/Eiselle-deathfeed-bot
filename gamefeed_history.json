@@ -26031,5 +26031,124 @@
         "description": "Freja was slain by misadventure.",
         "type": "DEA",
         "date": "2026-03-01 17:49:55"
+    },
+    {
+        "id": 164210652,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Aramel has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-03-01 21:01:42"
+    },
+    {
+        "id": 164210675,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-01 21:02:11"
+    },
+    {
+        "id": 164210701,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Eiselle has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-03-01 21:03:12"
+    },
+    {
+        "id": 164210753,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-01 21:03:19"
+    },
+    {
+        "id": 164210772,
+        "caption": "Player Death",
+        "description": "Xenthos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-01 21:03:32"
+    },
+    {
+        "id": 164210827,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-01 21:06:13"
+    },
+    {
+        "id": 164210847,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-01 21:06:43"
+    },
+    {
+        "id": 164210867,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aramel, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-01 21:06:47"
+    },
+    {
+        "id": 164210889,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-01 21:07:09"
+    },
+    {
+        "id": 164210914,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-01 21:07:09"
+    },
+    {
+        "id": 164210955,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-01 21:07:20"
+    },
+    {
+        "id": 164211038,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-01 21:09:39"
+    },
+    {
+        "id": 164211092,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-01 21:09:55"
+    },
+    {
+        "id": 164211146,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-01 21:10:18"
+    },
+    {
+        "id": 164211172,
+        "caption": "Player Death",
+        "description": "Aramel has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-01 21:10:41"
+    },
+    {
+        "id": 164211195,
+        "caption": "Player Death",
+        "description": "Eiselle has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-01 21:10:46"
+    },
+    {
+        "id": 164211249,
+        "caption": "Player Death",
+        "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-01 21:11:59"
     }
 ]
