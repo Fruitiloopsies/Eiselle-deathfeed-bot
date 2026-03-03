@@ -26206,5 +26206,12 @@
         "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-03-02 00:39:35"
+    },
+    {
+        "id": 164222229,
+        "caption": "Player Death",
+        "description": "Shadelyo has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2026-03-03 08:46:05"
     }
 ]
