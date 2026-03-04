@@ -26220,5 +26220,19 @@
         "description": "A two-headed abhorrence has trampled all over Laina.",
         "type": "DEA",
         "date": "2026-03-04 02:38:22"
+    },
+    {
+        "id": 164226771,
+        "caption": "Player Death",
+        "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2026-03-04 04:21:35"
+    },
+    {
+        "id": 164226995,
+        "caption": "Player Death",
+        "description": "Alainna has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2026-03-04 04:53:19"
     }
 ]
