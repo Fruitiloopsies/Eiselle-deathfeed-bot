@@ -26374,5 +26374,12 @@
         "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-03-05 04:01:19"
+    },
+    {
+        "id": 164233920,
+        "caption": "Player Death",
+        "description": "Alainna has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2026-03-05 06:00:48"
     }
 ]
