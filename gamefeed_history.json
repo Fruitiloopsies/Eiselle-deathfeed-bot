@@ -26241,5 +26241,33 @@
         "description": "Exeryte was slain by misadventure.",
         "type": "DEA",
         "date": "2026-03-04 18:38:15"
+    },
+    {
+        "id": 164231420,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-03-05 00:31:09"
+    },
+    {
+        "id": 164231428,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Shango (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-03-05 00:33:00"
+    },
+    {
+        "id": 164231481,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Shango (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2026-03-05 00:33:45"
+    },
+    {
+        "id": 164231566,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by Shango (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-03-05 00:34:29"
     }
 ]
