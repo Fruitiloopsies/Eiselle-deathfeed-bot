@@ -26381,5 +26381,19 @@
         "description": "Alainna has been given the kiss of death by an emaciated virgin.",
         "type": "DEA",
         "date": "2026-03-05 06:00:48"
+    },
+    {
+        "id": 164235351,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Argilent, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-05 13:00:21"
+    },
+    {
+        "id": 164235361,
+        "caption": "Player Death",
+        "description": "Mboagn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-05 13:05:35"
     }
 ]
