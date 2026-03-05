@@ -26269,5 +26269,96 @@
         "description": "Mboagn was slain by Shango (Victim had 90% the might).",
         "type": "DEA",
         "date": "2026-03-05 00:34:29"
+    },
+    {
+        "id": 164232462,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-05 02:46:00"
+    },
+    {
+        "id": 164232511,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-05 02:56:32"
+    },
+    {
+        "id": 164232539,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-05 03:08:12"
+    },
+    {
+        "id": 164232895,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-05 03:48:15"
+    },
+    {
+        "id": 164232976,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-05 03:49:54"
+    },
+    {
+        "id": 164233027,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-05 03:51:30"
+    },
+    {
+        "id": 164233041,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-05 03:53:50"
+    },
+    {
+        "id": 164233051,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Mboagn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-05 03:54:19"
+    },
+    {
+        "id": 164233103,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Ayisdra, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-05 03:54:49"
+    },
+    {
+        "id": 164233193,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-05 03:55:49"
+    },
+    {
+        "id": 164233200,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-05 03:55:57"
+    },
+    {
+        "id": 164233210,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Mboagn, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-05 03:56:16"
+    },
+    {
+        "id": 164233223,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-05 03:58:24"
     }
 ]
