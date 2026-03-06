@@ -26500,5 +26500,12 @@
         "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-03-06 17:54:09"
+    },
+    {
+        "id": 164244238,
+        "caption": "Player Death",
+        "description": "Otem was slain by Malayn (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2026-03-06 22:34:37"
     }
 ]
