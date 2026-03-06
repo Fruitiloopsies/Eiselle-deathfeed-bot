@@ -26437,5 +26437,68 @@
         "description": "Shadelyo has been given the kiss of death by an emaciated virgin.",
         "type": "DEA",
         "date": "2026-03-06 08:04:53"
+    },
+    {
+        "id": 164242415,
+        "caption": "Player Death",
+        "description": "Mboagn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-06 17:49:50"
+    },
+    {
+        "id": 164242421,
+        "caption": "Player Death",
+        "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-06 17:50:33"
+    },
+    {
+        "id": 164242452,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-06 17:50:59"
+    },
+    {
+        "id": 164242471,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-06 17:51:32"
+    },
+    {
+        "id": 164242497,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Mboagn, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-06 17:51:49"
+    },
+    {
+        "id": 164242508,
+        "caption": "Player Death",
+        "description": "Eiselle has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-06 17:52:18"
+    },
+    {
+        "id": 164242561,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-06 17:53:12"
+    },
+    {
+        "id": 164242587,
+        "caption": "Player Death",
+        "description": "Mboagn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-06 17:53:20"
+    },
+    {
+        "id": 164242593,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-06 17:54:09"
     }
 ]
