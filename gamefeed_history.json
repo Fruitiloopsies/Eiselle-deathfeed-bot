@@ -26430,5 +26430,12 @@
         "description": "Body dissolving into sludge, Exeryte has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-03-05 20:44:47"
+    },
+    {
+        "id": 164240545,
+        "caption": "Player Death",
+        "description": "Shadelyo has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2026-03-06 08:04:53"
     }
 ]
