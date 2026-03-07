@@ -26507,5 +26507,12 @@
         "description": "Otem was slain by Malayn (Victim had 105% the might).",
         "type": "DEA",
         "date": "2026-03-06 22:34:37"
+    },
+    {
+        "id": 164245489,
+        "caption": "Player Death",
+        "description": "Mboagn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-07 04:06:00"
     }
 ]
