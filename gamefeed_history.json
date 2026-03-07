@@ -26521,5 +26521,26 @@
         "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-03-07 20:07:04"
+    },
+    {
+        "id": 164249817,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-07 20:36:38"
+    },
+    {
+        "id": 164249828,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-07 20:39:26"
+    },
+    {
+        "id": 164249839,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-07 20:40:34"
     }
 ]
