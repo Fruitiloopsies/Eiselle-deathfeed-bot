@@ -26647,5 +26647,12 @@
         "description": "Eiselle was slain by Freja (Victim had 90% the might).",
         "type": "DEA",
         "date": "2026-03-08 00:57:38"
+    },
+    {
+        "id": 164253000,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-03-08 06:12:55"
     }
 ]
