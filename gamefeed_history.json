@@ -26682,5 +26682,152 @@
         "description": "Shango was slain by Naralis (Victim had 110% the might).",
         "type": "DEA",
         "date": "2026-03-08 21:13:01"
+    },
+    {
+        "id": 164256291,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-03-08 21:56:02"
+    },
+    {
+        "id": 164256305,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-08 21:57:49"
+    },
+    {
+        "id": 164256335,
+        "caption": "Player Death",
+        "description": "Aramel has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-08 21:58:09"
+    },
+    {
+        "id": 164256360,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-08 21:59:09"
+    },
+    {
+        "id": 164256373,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aramel, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-08 22:00:33"
+    },
+    {
+        "id": 164256398,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-08 22:00:42"
+    },
+    {
+        "id": 164256453,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-08 22:00:48"
+    },
+    {
+        "id": 164256483,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-03-08 22:01:16"
+    },
+    {
+        "id": 164256496,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-08 22:01:41"
+    },
+    {
+        "id": 164256518,
+        "caption": "Player Death",
+        "description": "Aramel has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-08 22:02:22"
+    },
+    {
+        "id": 164256544,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-08 22:03:24"
+    },
+    {
+        "id": 164256557,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-08 22:03:33"
+    },
+    {
+        "id": 164256578,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-08 22:04:05"
+    },
+    {
+        "id": 164256633,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-08 22:05:54"
+    },
+    {
+        "id": 164256665,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-08 22:05:58"
+    },
+    {
+        "id": 164256688,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Aramel has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-08 22:06:05"
+    },
+    {
+        "id": 164256714,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-08 22:06:13"
+    },
+    {
+        "id": 164256744,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-08 22:06:36"
+    },
+    {
+        "id": 164256757,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Aramel has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-08 22:06:37"
+    },
+    {
+        "id": 164256781,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-08 22:06:46"
+    },
+    {
+        "id": 164256836,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-08 22:06:50"
     }
 ]
