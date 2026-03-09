@@ -26836,5 +26836,12 @@
         "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-03-09 00:57:26"
+    },
+    {
+        "id": 164261020,
+        "caption": "Player Death",
+        "description": "Malayn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-09 16:07:50"
     }
 ]
