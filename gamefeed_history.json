@@ -26850,5 +26850,12 @@
         "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
         "type": "DEA",
         "date": "2026-03-09 20:02:42"
+    },
+    {
+        "id": 164263119,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by Mboagn (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-03-09 22:49:09"
     }
 ]
