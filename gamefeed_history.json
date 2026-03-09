@@ -26857,5 +26857,33 @@
         "description": "Mboagn was slain by Mboagn (Victim had 100% the might).",
         "type": "DEA",
         "date": "2026-03-09 22:49:09"
+    },
+    {
+        "id": 164263168,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by Malayn (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-03-09 22:53:16"
+    },
+    {
+        "id": 164263175,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by Malayn (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-03-09 22:58:13"
+    },
+    {
+        "id": 164263181,
+        "caption": "Player Death",
+        "description": "Naralis was slain by Shango (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-03-09 22:58:48"
+    },
+    {
+        "id": 164263189,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Tzshalgoth (Victim had 140% the might).",
+        "type": "DEA",
+        "date": "2026-03-09 22:59:05"
     }
 ]
