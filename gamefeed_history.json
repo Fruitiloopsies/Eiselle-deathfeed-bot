@@ -26885,5 +26885,12 @@
         "description": "Faragan was slain by Tzshalgoth (Victim had 140% the might).",
         "type": "DEA",
         "date": "2026-03-09 22:59:05"
+    },
+    {
+        "id": 164263948,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
+        "type": "DEA",
+        "date": "2026-03-10 01:19:27"
     }
 ]
