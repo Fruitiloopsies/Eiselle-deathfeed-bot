@@ -26934,5 +26934,33 @@
         "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
         "type": "DEA",
         "date": "2026-03-10 18:01:17"
+    },
+    {
+        "id": 164268154,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Aramel has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-10 18:39:45"
+    },
+    {
+        "id": 164268179,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-10 18:40:00"
+    },
+    {
+        "id": 164268199,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-10 18:40:08"
+    },
+    {
+        "id": 164268472,
+        "caption": "Player Death",
+        "description": "Faragan was slain by Malayn (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2026-03-10 19:06:27"
     }
 ]
