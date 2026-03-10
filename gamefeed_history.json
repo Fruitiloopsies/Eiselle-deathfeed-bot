@@ -26920,5 +26920,19 @@
         "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-03-10 16:34:06"
+    },
+    {
+        "id": 164268051,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
+        "type": "DEA",
+        "date": "2026-03-10 17:58:03"
+    },
+    {
+        "id": 164268062,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
+        "type": "DEA",
+        "date": "2026-03-10 18:01:17"
     }
 ]
