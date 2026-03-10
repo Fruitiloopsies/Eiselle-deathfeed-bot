@@ -26906,5 +26906,19 @@
         "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2026-03-10 03:37:11"
+    },
+    {
+        "id": 164267551,
+        "caption": "Player Death",
+        "description": "Tzshalgoth has been slain by the might of a kephera warrior.",
+        "type": "DEA",
+        "date": "2026-03-10 16:26:38"
+    },
+    {
+        "id": 164267587,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-10 16:34:06"
     }
 ]
