@@ -26983,5 +26983,12 @@
         "description": "Laina has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-03-11 03:30:27"
+    },
+    {
+        "id": 164273934,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-11 16:12:15"
     }
 ]
