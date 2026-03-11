@@ -26976,5 +26976,12 @@
         "description": "Tzshalgoth was slain by misadventure.",
         "type": "DEA",
         "date": "2026-03-10 19:34:53"
+    },
+    {
+        "id": 164271207,
+        "caption": "Player Death",
+        "description": "Laina has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-03-11 03:30:27"
     }
 ]
