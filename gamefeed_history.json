@@ -27130,5 +27130,75 @@
         "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-03-12 19:21:03"
+    },
+    {
+        "id": 164280307,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-12 20:03:14"
+    },
+    {
+        "id": 164280395,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-12 20:05:23"
+    },
+    {
+        "id": 164280414,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-12 20:05:59"
+    },
+    {
+        "id": 164280468,
+        "caption": "Player Death",
+        "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-12 20:06:02"
+    },
+    {
+        "id": 164280501,
+        "caption": "Player Death",
+        "description": "Legac was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-12 20:06:49"
+    },
+    {
+        "id": 164280519,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-12 20:08:00"
+    },
+    {
+        "id": 164280548,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-12 20:08:02"
+    },
+    {
+        "id": 164280602,
+        "caption": "Player Death",
+        "description": "Faragan has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-12 20:14:38"
+    },
+    {
+        "id": 164280633,
+        "caption": "Player Death",
+        "description": "Eiselle has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-12 20:14:41"
+    },
+    {
+        "id": 164280687,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-03-12 20:14:50"
     }
 ]
