@@ -27074,5 +27074,12 @@
         "description": "Faragan was slain by Malayn (Victim had 110% the might).",
         "type": "DEA",
         "date": "2026-03-11 22:34:15"
+    },
+    {
+        "id": 164277343,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-03-12 04:17:45"
     }
 ]
