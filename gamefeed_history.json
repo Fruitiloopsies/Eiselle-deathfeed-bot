@@ -27102,5 +27102,19 @@
         "description": "Legac has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-03-12 13:26:17"
+    },
+    {
+        "id": 164278906,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-12 14:04:25"
+    },
+    {
+        "id": 164278960,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-12 14:04:27"
     }
 ]
