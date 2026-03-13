@@ -27200,5 +27200,12 @@
         "description": "Body dissolving into sludge, Legac has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-03-12 20:14:50"
+    },
+    {
+        "id": 164285163,
+        "caption": "Player Death",
+        "description": "Shadelyo has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2026-03-13 13:13:42"
     }
 ]
