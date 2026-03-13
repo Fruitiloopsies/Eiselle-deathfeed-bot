@@ -27291,5 +27291,12 @@
         "description": "Aramel has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-03-13 20:42:09"
+    },
+    {
+        "id": 164287372,
+        "caption": "Player Death",
+        "description": "Shango was slain by Legac (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2026-03-13 21:26:24"
     }
 ]
