@@ -27298,5 +27298,26 @@
         "description": "Shango was slain by Legac (Victim had 105% the might).",
         "type": "DEA",
         "date": "2026-03-13 21:26:24"
+    },
+    {
+        "id": 164289068,
+        "caption": "Player Death",
+        "description": "Vyell was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-14 03:20:09"
+    },
+    {
+        "id": 164289178,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-14 03:25:00"
+    },
+    {
+        "id": 164289275,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-14 03:30:42"
     }
 ]
