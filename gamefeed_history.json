@@ -27319,5 +27319,40 @@
         "description": "Ayisdra was slain by misadventure.",
         "type": "DEA",
         "date": "2026-03-14 03:30:42"
+    },
+    {
+        "id": 164289374,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-14 03:48:49"
+    },
+    {
+        "id": 164289462,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-14 03:58:38"
+    },
+    {
+        "id": 164289510,
+        "caption": "Player Death",
+        "description": "Malayn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-14 03:58:38"
+    },
+    {
+        "id": 164289539,
+        "caption": "Player Death",
+        "description": "Veldrin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-14 03:58:38"
+    },
+    {
+        "id": 164289850,
+        "caption": "Player Death",
+        "description": "Lorn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-14 04:54:45"
     }
 ]
