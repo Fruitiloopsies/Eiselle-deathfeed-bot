@@ -27389,5 +27389,12 @@
         "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-03-15 07:09:47"
+    },
+    {
+        "id": 164298784,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Lorn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-15 22:36:28"
     }
 ]
