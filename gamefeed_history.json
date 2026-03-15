@@ -27368,5 +27368,19 @@
         "description": "Valensa has been given the kiss of death by an emaciated virgin.",
         "type": "DEA",
         "date": "2026-03-15 02:56:18"
+    },
+    {
+        "id": 164295013,
+        "caption": "Player Death",
+        "description": "Naralis has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2026-03-15 03:44:07"
+    },
+    {
+        "id": 164295025,
+        "caption": "Player Death",
+        "description": "Valensa has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2026-03-15 03:49:56"
     }
 ]
