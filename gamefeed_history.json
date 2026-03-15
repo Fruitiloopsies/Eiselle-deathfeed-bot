@@ -27396,5 +27396,12 @@
         "description": "Marked for death by a clangoru artificer, Lorn has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-03-15 22:36:28"
+    },
+    {
+        "id": 164298822,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Jemna, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-15 22:58:11"
     }
 ]
