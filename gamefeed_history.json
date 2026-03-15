@@ -27382,5 +27382,12 @@
         "description": "Valensa has been trampled and crushed by a stainless steel goat.",
         "type": "DEA",
         "date": "2026-03-15 03:49:56"
+    },
+    {
+        "id": 164295612,
+        "caption": "Player Death",
+        "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-03-15 07:09:47"
     }
 ]
