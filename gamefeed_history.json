@@ -27410,5 +27410,12 @@
         "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2026-03-16 02:27:16"
+    },
+    {
+        "id": 164300594,
+        "caption": "Player Death",
+        "description": "Yinuish was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-16 05:03:24"
     }
 ]
