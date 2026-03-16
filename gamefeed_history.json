@@ -27515,5 +27515,82 @@
         "description": "Faragan has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-03-16 19:10:58"
+    },
+    {
+        "id": 164304596,
+        "caption": "Player Death",
+        "description": "Hronorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-16 23:30:50"
+    },
+    {
+        "id": 164304608,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Aramel has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-03-16 23:34:47"
+    },
+    {
+        "id": 164304634,
+        "caption": "Player Death",
+        "description": "Legac has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-16 23:34:47"
+    },
+    {
+        "id": 164304656,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-16 23:34:55"
+    },
+    {
+        "id": 164304708,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Eiselle has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-03-16 23:35:26"
+    },
+    {
+        "id": 164304763,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-16 23:35:28"
+    },
+    {
+        "id": 164304793,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Legac has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-16 23:36:05"
+    },
+    {
+        "id": 164304820,
+        "caption": "Player Death",
+        "description": "Hronorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-16 23:37:01"
+    },
+    {
+        "id": 164304828,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-16 23:37:14"
+    },
+    {
+        "id": 164304880,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Legac, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-16 23:37:50"
+    },
+    {
+        "id": 164304902,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aramel, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-16 23:38:46"
     }
 ]
