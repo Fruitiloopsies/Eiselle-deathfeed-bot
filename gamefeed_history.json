@@ -27403,5 +27403,12 @@
         "description": "A ghostly battlecharger has brought war to Jemna, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2026-03-15 22:58:11"
+    },
+    {
+        "id": 164299936,
+        "caption": "Player Death",
+        "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2026-03-16 02:27:16"
     }
 ]
