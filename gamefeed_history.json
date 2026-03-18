@@ -27620,5 +27620,19 @@
         "description": "Body dissolving into sludge, Exeryte has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-03-17 21:12:16"
+    },
+    {
+        "id": 164310041,
+        "caption": "Player Death",
+        "description": "Otem has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-18 00:05:41"
+    },
+    {
+        "id": 164310148,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Otem, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-18 00:27:45"
     }
 ]
