@@ -27767,5 +27767,26 @@
         "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-03-18 23:39:04"
+    },
+    {
+        "id": 164315520,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-18 23:39:43"
+    },
+    {
+        "id": 164315555,
+        "caption": "Player Death",
+        "description": "Hronorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-18 23:41:56"
+    },
+    {
+        "id": 164315577,
+        "caption": "Player Death",
+        "description": "Hronorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-18 23:44:15"
     }
 ]
