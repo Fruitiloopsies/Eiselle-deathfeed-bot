@@ -27725,5 +27725,12 @@
         "description": "Hronorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-03-18 20:01:51"
+    },
+    {
+        "id": 164314843,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-03-18 22:01:25"
     }
 ]
