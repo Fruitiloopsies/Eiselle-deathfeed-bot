@@ -27704,5 +27704,12 @@
         "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-03-18 01:30:34"
+    },
+    {
+        "id": 164311379,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-18 04:57:11"
     }
 ]
