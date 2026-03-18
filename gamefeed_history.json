@@ -27634,5 +27634,75 @@
         "description": "A ghostly battlecharger has brought war to Otem, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-03-18 00:27:45"
+    },
+    {
+        "id": 164310376,
+        "caption": "Player Death",
+        "description": "Karrack was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-18 01:17:29"
+    },
+    {
+        "id": 164310400,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-18 01:25:34"
+    },
+    {
+        "id": 164310413,
+        "caption": "Player Death",
+        "description": "Hronorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-18 01:26:11"
+    },
+    {
+        "id": 164310434,
+        "caption": "Player Death",
+        "description": "Otem has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-18 01:27:12"
+    },
+    {
+        "id": 164310441,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-18 01:27:12"
+    },
+    {
+        "id": 164310471,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-18 01:27:38"
+    },
+    {
+        "id": 164310504,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-03-18 01:29:07"
+    },
+    {
+        "id": 164310535,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Hronorn, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-18 01:30:30"
+    },
+    {
+        "id": 164310543,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-18 01:30:34"
+    },
+    {
+        "id": 164310595,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-18 01:30:34"
     }
 ]
