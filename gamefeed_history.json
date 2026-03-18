@@ -27732,5 +27732,40 @@
         "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-03-18 22:01:25"
+    },
+    {
+        "id": 164315393,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-18 23:26:38"
+    },
+    {
+        "id": 164315412,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-18 23:33:13"
+    },
+    {
+        "id": 164315443,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-18 23:36:25"
+    },
+    {
+        "id": 164315460,
+        "caption": "Player Death",
+        "description": "Hronorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-18 23:37:45"
+    },
+    {
+        "id": 164315506,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-18 23:39:04"
     }
 ]
