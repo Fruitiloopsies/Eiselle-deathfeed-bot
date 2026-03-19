@@ -27858,5 +27858,26 @@
         "description": "Laina has been slain by the might of a two-headed eagle.",
         "type": "DEA",
         "date": "2026-03-19 03:06:03"
+    },
+    {
+        "id": 164321586,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Exeryte, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-19 20:48:59"
+    },
+    {
+        "id": 164321639,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Hronorn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-19 20:49:11"
+    },
+    {
+        "id": 164321689,
+        "caption": "Player Death",
+        "description": "Hronorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-19 21:06:07"
     }
 ]
