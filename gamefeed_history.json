@@ -27921,5 +27921,19 @@
         "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-03-19 21:17:15"
+    },
+    {
+        "id": 164323127,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Hronorn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-20 00:36:26"
+    },
+    {
+        "id": 164323138,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-20 00:36:32"
     }
 ]
