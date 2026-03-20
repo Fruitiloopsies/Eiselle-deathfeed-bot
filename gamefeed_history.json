@@ -27977,5 +27977,12 @@
         "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-03-20 02:00:51"
+    },
+    {
+        "id": 164325447,
+        "caption": "Player Death",
+        "description": "Shadelyo's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2026-03-20 04:48:39"
     }
 ]
