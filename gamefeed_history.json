@@ -27984,5 +27984,12 @@
         "description": "Shadelyo's body has been pinched in half by the claws of a monstrous lobstrosity.",
         "type": "DEA",
         "date": "2026-03-20 04:48:39"
+    },
+    {
+        "id": 164325661,
+        "caption": "Player Death",
+        "description": "A two-headed abhorrence has trampled all over Shadelyo.",
+        "type": "DEA",
+        "date": "2026-03-20 05:42:37"
     }
 ]
