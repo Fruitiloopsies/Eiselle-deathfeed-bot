@@ -28033,5 +28033,26 @@
         "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-03-21 00:14:48"
+    },
+    {
+        "id": 164331380,
+        "caption": "Player Death",
+        "description": "Alainna was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-21 03:21:33"
+    },
+    {
+        "id": 164331455,
+        "caption": "Player Death",
+        "description": "Alainna has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2026-03-21 03:31:53"
+    },
+    {
+        "id": 164331482,
+        "caption": "Player Death",
+        "description": "Shadelyo has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2026-03-21 03:33:53"
     }
 ]
