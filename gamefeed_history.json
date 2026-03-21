@@ -28054,5 +28054,12 @@
         "description": "Shadelyo has been slain by the might of a two-headed eagle.",
         "type": "DEA",
         "date": "2026-03-21 03:33:53"
+    },
+    {
+        "id": 164335922,
+        "caption": "Player Death",
+        "description": "Zoelin has been dragged screaming into the slimy abyss by a corrupted kelpie.",
+        "type": "DEA",
+        "date": "2026-03-21 21:52:50"
     }
 ]
