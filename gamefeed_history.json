@@ -28061,5 +28061,12 @@
         "description": "Zoelin has been dragged screaming into the slimy abyss by a corrupted kelpie.",
         "type": "DEA",
         "date": "2026-03-21 21:52:50"
+    },
+    {
+        "id": 164338872,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Hronorn, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-03-22 08:57:18"
     }
 ]
