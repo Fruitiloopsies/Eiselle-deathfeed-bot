@@ -28068,5 +28068,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Hronorn, petrifying him for eternity.",
         "type": "DEA",
         "date": "2026-03-22 08:57:18"
+    },
+    {
+        "id": 164340203,
+        "caption": "Player Death",
+        "description": "Shmortimer has been thumped to death by a small mystic jackalope.",
+        "type": "DEA",
+        "date": "2026-03-22 15:10:16"
     }
 ]
