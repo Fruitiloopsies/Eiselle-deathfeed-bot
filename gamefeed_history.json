@@ -28075,5 +28075,12 @@
         "description": "Shmortimer has been thumped to death by a small mystic jackalope.",
         "type": "DEA",
         "date": "2026-03-22 15:10:16"
+    },
+    {
+        "id": 164344856,
+        "caption": "Player Death",
+        "description": "Pyawr has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-03-23 09:29:42"
     }
 ]
