@@ -28082,5 +28082,12 @@
         "description": "Pyawr has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-03-23 09:29:42"
+    },
+    {
+        "id": 164348593,
+        "caption": "Player Death",
+        "description": "Lianchi was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-23 23:21:25"
     }
 ]
