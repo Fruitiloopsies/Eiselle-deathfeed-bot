@@ -28089,5 +28089,19 @@
         "description": "Lianchi was slain by misadventure.",
         "type": "DEA",
         "date": "2026-03-23 23:21:25"
+    },
+    {
+        "id": 164349070,
+        "caption": "Player Death",
+        "description": "Otem has died from toxic shock, claimed by the poisons of a blue-ringed octopus.",
+        "type": "DEA",
+        "date": "2026-03-24 00:47:16"
+    },
+    {
+        "id": 164349083,
+        "caption": "Player Death",
+        "description": "Xenthos has been slain by the might of a small glob of ooze.",
+        "type": "DEA",
+        "date": "2026-03-24 00:49:02"
     }
 ]
