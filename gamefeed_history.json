@@ -28117,5 +28117,40 @@
         "description": "Body dissolving into sludge, Otem has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-03-24 21:48:33"
+    },
+    {
+        "id": 164354959,
+        "caption": "Player Death",
+        "description": "Otem has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-24 22:05:11"
+    },
+    {
+        "id": 164354967,
+        "caption": "Player Death",
+        "description": "Hronorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-24 22:05:25"
+    },
+    {
+        "id": 164354980,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-24 22:05:55"
+    },
+    {
+        "id": 164355027,
+        "caption": "Player Death",
+        "description": "Otem has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-24 22:12:42"
+    },
+    {
+        "id": 164355035,
+        "caption": "Player Death",
+        "description": "Hronorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-24 22:13:40"
     }
 ]
