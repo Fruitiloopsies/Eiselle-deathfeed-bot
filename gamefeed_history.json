@@ -28152,5 +28152,12 @@
         "description": "Hronorn has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-03-24 22:13:40"
+    },
+    {
+        "id": 164361558,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-25 23:43:37"
     }
 ]
