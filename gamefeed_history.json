@@ -28236,5 +28236,12 @@
         "description": "Faragan was slain by misadventure.",
         "type": "DEA",
         "date": "2026-03-26 22:12:22"
+    },
+    {
+        "id": 164370642,
+        "caption": "Player Death",
+        "description": "Lianchi has been subsumed by a bloated gorgog.",
+        "type": "DEA",
+        "date": "2026-03-27 11:47:44"
     }
 ]
