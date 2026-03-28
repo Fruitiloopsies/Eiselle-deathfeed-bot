@@ -28278,5 +28278,61 @@
         "description": "Marked for death by a clangoru artificer, Hronorn has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-03-28 02:36:08"
+    },
+    {
+        "id": 164375009,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-28 03:20:50"
+    },
+    {
+        "id": 164375026,
+        "caption": "Player Death",
+        "description": "Hronorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-28 03:20:53"
+    },
+    {
+        "id": 164375056,
+        "caption": "Player Death",
+        "description": "Aramel has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-28 03:22:52"
+    },
+    {
+        "id": 164375081,
+        "caption": "Player Death",
+        "description": "Silvanos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-28 03:23:07"
+    },
+    {
+        "id": 164375092,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-28 03:23:55"
+    },
+    {
+        "id": 164375109,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Hronorn, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-28 03:24:31"
+    },
+    {
+        "id": 164375123,
+        "caption": "Player Death",
+        "description": "Mboagn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-28 03:24:43"
+    },
+    {
+        "id": 164375134,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Yinuish, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-28 03:24:55"
     }
 ]
