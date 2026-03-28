@@ -28243,5 +28243,40 @@
         "description": "Lianchi has been subsumed by a bloated gorgog.",
         "type": "DEA",
         "date": "2026-03-27 11:47:44"
+    },
+    {
+        "id": 164373974,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-03-28 00:40:06"
+    },
+    {
+        "id": 164374014,
+        "caption": "Player Death",
+        "description": "Hronorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-03-28 00:42:17"
+    },
+    {
+        "id": 164374280,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-28 01:13:06"
+    },
+    {
+        "id": 164374441,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-03-28 01:36:02"
+    },
+    {
+        "id": 164374815,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Hronorn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-03-28 02:36:08"
     }
 ]
