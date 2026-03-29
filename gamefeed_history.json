@@ -28460,5 +28460,12 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Laina.",
         "type": "DEA",
         "date": "2026-03-29 06:14:39"
+    },
+    {
+        "id": 164382788,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-03-29 07:02:56"
     }
 ]
