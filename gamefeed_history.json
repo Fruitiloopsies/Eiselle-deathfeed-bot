@@ -28467,5 +28467,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-03-29 07:02:56"
+    },
+    {
+        "id": 164383635,
+        "caption": "Player Death",
+        "description": "Qoivhae was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-29 14:20:27"
     }
 ]
