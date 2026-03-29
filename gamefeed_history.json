@@ -28474,5 +28474,12 @@
         "description": "Qoivhae was slain by misadventure.",
         "type": "DEA",
         "date": "2026-03-29 14:20:27"
+    },
+    {
+        "id": 164385238,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-03-29 21:02:20"
     }
 ]
