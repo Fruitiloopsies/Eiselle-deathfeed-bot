@@ -28439,5 +28439,19 @@
         "description": "Pyawr was slain by Malayn (Victim had 85% the might).",
         "type": "DEA",
         "date": "2026-03-29 03:25:49"
+    },
+    {
+        "id": 164382478,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Lianchi, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-03-29 05:08:02"
+    },
+    {
+        "id": 164382532,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Lianchi, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-03-29 05:13:50"
     }
 ]
