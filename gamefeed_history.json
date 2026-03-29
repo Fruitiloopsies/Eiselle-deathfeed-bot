@@ -28334,5 +28334,110 @@
         "description": "A ghostly battlecharger has brought war to Yinuish, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2026-03-28 03:24:55"
+    },
+    {
+        "id": 164380748,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-03-29 02:32:58"
+    },
+    {
+        "id": 164380851,
+        "caption": "Player Death",
+        "description": "Vyell was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-03-29 02:38:00"
+    },
+    {
+        "id": 164380890,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by Freja (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2026-03-29 02:39:15"
+    },
+    {
+        "id": 164381015,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-03-29 02:49:53"
+    },
+    {
+        "id": 164381025,
+        "caption": "Player Death",
+        "description": "Ixchilgal was slain by Ixchilgal (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-03-29 02:51:44"
+    },
+    {
+        "id": 164381069,
+        "caption": "Player Death",
+        "description": "Freja was slain by Eiselle (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-03-29 02:52:39"
+    },
+    {
+        "id": 164381100,
+        "caption": "Player Death",
+        "description": "Vyell was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-03-29 02:59:39"
+    },
+    {
+        "id": 164381112,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-03-29 03:00:40"
+    },
+    {
+        "id": 164381126,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-03-29 03:02:54"
+    },
+    {
+        "id": 164381136,
+        "caption": "Player Death",
+        "description": "Iae was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-03-29 03:04:34"
+    },
+    {
+        "id": 164381169,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by Mboagn (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-03-29 03:06:29"
+    },
+    {
+        "id": 164381196,
+        "caption": "Player Death",
+        "description": "Freja was slain by Eiselle (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-03-29 03:17:58"
+    },
+    {
+        "id": 164381285,
+        "caption": "Player Death",
+        "description": "Vyell was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-03-29 03:19:40"
+    },
+    {
+        "id": 164381462,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-03-29 03:25:43"
+    },
+    {
+        "id": 164381474,
+        "caption": "Player Death",
+        "description": "Pyawr was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-03-29 03:25:49"
     }
 ]
