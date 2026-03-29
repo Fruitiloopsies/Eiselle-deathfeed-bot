@@ -28453,5 +28453,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Lianchi, petrifying her for eternity.",
         "type": "DEA",
         "date": "2026-03-29 05:13:50"
+    },
+    {
+        "id": 164382594,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Laina.",
+        "type": "DEA",
+        "date": "2026-03-29 06:14:39"
     }
 ]
