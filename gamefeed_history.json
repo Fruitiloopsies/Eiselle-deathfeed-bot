@@ -28530,5 +28530,19 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2026-04-01 03:23:56"
+    },
+    {
+        "id": 164400757,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-01 15:01:02"
+    },
+    {
+        "id": 164400876,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Exeryte has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-01 15:12:52"
     }
 ]
