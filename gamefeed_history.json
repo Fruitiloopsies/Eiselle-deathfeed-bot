@@ -28544,5 +28544,54 @@
         "description": "Body dissolving into sludge, Exeryte has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-04-01 15:12:52"
+    },
+    {
+        "id": 164401078,
+        "caption": "Player Death",
+        "description": "Mboagn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-01 15:43:46"
+    },
+    {
+        "id": 164401183,
+        "caption": "Player Death",
+        "description": "Argilent has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-01 15:45:24"
+    },
+    {
+        "id": 164401192,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-01 15:46:32"
+    },
+    {
+        "id": 164401232,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Mboagn, driving their soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-01 15:48:28"
+    },
+    {
+        "id": 164401243,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Argilent has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-01 15:49:47"
+    },
+    {
+        "id": 164401250,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-01 15:50:19"
+    },
+    {
+        "id": 164401405,
+        "caption": "Player Death",
+        "description": "Hinic was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-04-01 16:20:01"
     }
 ]
