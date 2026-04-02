@@ -28628,5 +28628,12 @@
         "description": "A ghostly battlecharger has brought war to Exeryte, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-04-02 01:57:03"
+    },
+    {
+        "id": 164405545,
+        "caption": "Player Death",
+        "description": "Abraxin was slain by Mboagn (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-04-02 05:37:37"
     }
 ]
