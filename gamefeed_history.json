@@ -28593,5 +28593,40 @@
         "description": "Hinic was slain by misadventure.",
         "type": "DEA",
         "date": "2026-04-01 16:20:01"
+    },
+    {
+        "id": 164404163,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Zoelin has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-02 01:25:55"
+    },
+    {
+        "id": 164404179,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Hronorn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-02 01:27:15"
+    },
+    {
+        "id": 164404335,
+        "caption": "Player Death",
+        "description": "Hronorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-02 01:51:43"
+    },
+    {
+        "id": 164404360,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Zoelin, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-02 01:53:53"
+    },
+    {
+        "id": 164404381,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Exeryte, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-02 01:57:03"
     }
 ]
