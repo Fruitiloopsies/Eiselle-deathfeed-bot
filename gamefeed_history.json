@@ -28635,5 +28635,12 @@
         "description": "Abraxin was slain by Mboagn (Victim had 90% the might).",
         "type": "DEA",
         "date": "2026-04-02 05:37:37"
+    },
+    {
+        "id": 164407275,
+        "caption": "Player Death",
+        "description": "Iae has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2026-04-02 14:49:32"
     }
 ]
