@@ -28642,5 +28642,19 @@
         "description": "Iae has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2026-04-02 14:49:32"
+    },
+    {
+        "id": 164417210,
+        "caption": "Player Death",
+        "description": "Alainna has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2026-04-04 02:22:06"
+    },
+    {
+        "id": 164417293,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-04-04 02:33:48"
     }
 ]
