@@ -28656,5 +28656,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-04-04 02:33:48"
+    },
+    {
+        "id": 164419839,
+        "caption": "Player Death",
+        "description": "Tearing free from the agonizing confines of the Morokeche Seat, Mboagn collapses to the ground, expiring from the pain and blood loss caused by thousands of minute wounds.",
+        "type": "DEA",
+        "date": "2026-04-04 14:50:31"
     }
 ]
