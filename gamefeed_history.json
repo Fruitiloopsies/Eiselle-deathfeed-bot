@@ -28663,5 +28663,12 @@
         "description": "Tearing free from the agonizing confines of the Morokeche Seat, Mboagn collapses to the ground, expiring from the pain and blood loss caused by thousands of minute wounds.",
         "type": "DEA",
         "date": "2026-04-04 14:50:31"
+    },
+    {
+        "id": 164422623,
+        "caption": "Player Death",
+        "description": "Naralis was slain by Freja (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2026-04-05 00:19:39"
     }
 ]
