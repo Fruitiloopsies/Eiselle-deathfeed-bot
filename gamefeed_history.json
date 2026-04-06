@@ -28831,5 +28831,19 @@
         "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-04-05 22:45:53"
+    },
+    {
+        "id": 164435537,
+        "caption": "Player Death",
+        "description": "Freja was slain by Exeryte (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2026-04-06 20:27:25"
+    },
+    {
+        "id": 164435554,
+        "caption": "Player Death",
+        "description": "Faragan was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-04-06 20:30:12"
     }
 ]
