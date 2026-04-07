@@ -28859,5 +28859,12 @@
         "description": "Argilent has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-04-07 12:17:28"
+    },
+    {
+        "id": 164442031,
+        "caption": "Player Death",
+        "description": "Shmingus has been slain by the might of a fierce and enormous roc.",
+        "type": "DEA",
+        "date": "2026-04-07 17:05:11"
     }
 ]
