@@ -28845,5 +28845,12 @@
         "description": "Faragan was slain by misadventure.",
         "type": "DEA",
         "date": "2026-04-06 20:30:12"
+    },
+    {
+        "id": 164438509,
+        "caption": "Player Death",
+        "description": "Alainna became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2026-04-07 03:28:17"
     }
 ]
