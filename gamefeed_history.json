@@ -28852,5 +28852,12 @@
         "description": "Alainna became the target of a hulking three-horned bull's violent rage.",
         "type": "DEA",
         "date": "2026-04-07 03:28:17"
+    },
+    {
+        "id": 164440531,
+        "caption": "Player Death",
+        "description": "Argilent has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-04-07 12:17:28"
     }
 ]
