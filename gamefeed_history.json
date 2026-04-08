@@ -28866,5 +28866,12 @@
         "description": "Shmingus has been slain by the might of a fierce and enormous roc.",
         "type": "DEA",
         "date": "2026-04-07 17:05:11"
+    },
+    {
+        "id": 164445567,
+        "caption": "Player Death",
+        "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2026-04-08 03:49:53"
     }
 ]
