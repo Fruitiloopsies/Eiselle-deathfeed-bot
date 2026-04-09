@@ -28901,5 +28901,12 @@
         "description": "Lianchi was slain by Exeryte (Victim had 70% the might).",
         "type": "DEA",
         "date": "2026-04-09 17:09:28"
+    },
+    {
+        "id": 164454221,
+        "caption": "Player Death",
+        "description": "Mahalath was slain by Exeryte (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-04-09 17:10:07"
     }
 ]
