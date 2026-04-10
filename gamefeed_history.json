@@ -28978,5 +28978,40 @@
         "description": "Shadelyo's body has been pinched in half by the claws of a monstrous lobstrosity.",
         "type": "DEA",
         "date": "2026-04-10 10:03:31"
+    },
+    {
+        "id": 164459209,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Eiselle has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-10 17:55:25"
+    },
+    {
+        "id": 164459287,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Argilent has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-10 18:04:05"
+    },
+    {
+        "id": 164459294,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-10 18:04:19"
+    },
+    {
+        "id": 164459312,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-10 18:05:51"
+    },
+    {
+        "id": 164459343,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-10 18:07:13"
     }
 ]
