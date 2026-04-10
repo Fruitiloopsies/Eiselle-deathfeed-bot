@@ -28964,5 +28964,19 @@
         "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-04-10 02:37:59"
+    },
+    {
+        "id": 164457666,
+        "caption": "Player Death",
+        "description": "Shadelyo has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2026-04-10 09:21:11"
+    },
+    {
+        "id": 164457879,
+        "caption": "Player Death",
+        "description": "Shadelyo's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2026-04-10 10:03:31"
     }
 ]
