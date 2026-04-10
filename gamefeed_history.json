@@ -28908,5 +28908,19 @@
         "description": "Mahalath was slain by Exeryte (Victim had 85% the might).",
         "type": "DEA",
         "date": "2026-04-09 17:10:07"
+    },
+    {
+        "id": 164455701,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Malayn, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-10 00:42:49"
+    },
+    {
+        "id": 164455731,
+        "caption": "Player Death",
+        "description": "Lianchi has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-10 00:45:02"
     }
 ]
