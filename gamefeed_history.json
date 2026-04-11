@@ -29020,5 +29020,12 @@
         "description": "Iae's body has been pinched in half by the claws of a monstrous lobstrosity.",
         "type": "DEA",
         "date": "2026-04-11 02:56:43"
+    },
+    {
+        "id": 164463813,
+        "caption": "Player Death",
+        "description": "Mboagn's entrails have been torn out by a vicious frost fiend.",
+        "type": "DEA",
+        "date": "2026-04-11 11:50:55"
     }
 ]
