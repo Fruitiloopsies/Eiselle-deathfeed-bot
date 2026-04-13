@@ -29041,5 +29041,12 @@
         "description": "Tuilinn was slain by Malayn (Victim had 85% the might).",
         "type": "DEA",
         "date": "2026-04-12 20:12:58"
+    },
+    {
+        "id": 164477430,
+        "caption": "Player Death",
+        "description": "Shadelyo became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2026-04-13 19:03:57"
     }
 ]
