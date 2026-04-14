@@ -29181,5 +29181,12 @@
         "description": "Argilent has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2026-04-14 05:02:51"
+    },
+    {
+        "id": 164485008,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Hronorn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-14 23:05:16"
     }
 ]
