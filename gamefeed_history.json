@@ -29174,5 +29174,12 @@
         "description": "A ghostly battlecharger has brought war to Malayn, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-04-14 02:20:07"
+    },
+    {
+        "id": 164480882,
+        "caption": "Player Death",
+        "description": "Argilent has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2026-04-14 05:02:51"
     }
 ]
