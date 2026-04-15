@@ -29188,5 +29188,26 @@
         "description": "Marked for death by a clangoru artificer, Hronorn has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-04-14 23:05:16"
+    },
+    {
+        "id": 164485133,
+        "caption": "Player Death",
+        "description": "Isana has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2026-04-14 23:28:40"
+    },
+    {
+        "id": 164485180,
+        "caption": "Player Death",
+        "description": "Isana has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2026-04-14 23:46:08"
+    },
+    {
+        "id": 164485182,
+        "caption": "Player Death",
+        "description": "Teread has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2026-04-14 23:46:18"
     }
 ]
