@@ -29279,5 +29279,61 @@
         "description": "Shmingus has been thumped to death by a small mystic jackalope.",
         "type": "DEA",
         "date": "2026-04-15 15:21:28"
+    },
+    {
+        "id": 164497040,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Isana.",
+        "type": "DEA",
+        "date": "2026-04-17 01:20:22"
+    },
+    {
+        "id": 164497213,
+        "caption": "Player Death",
+        "description": "Alainna has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2026-04-17 01:57:11"
+    },
+    {
+        "id": 164497244,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-17 02:00:59"
+    },
+    {
+        "id": 164497261,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-17 02:01:11"
+    },
+    {
+        "id": 164497279,
+        "caption": "Player Death",
+        "description": "Lorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-17 02:01:45"
+    },
+    {
+        "id": 164497296,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Hronorn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-17 02:02:21"
+    },
+    {
+        "id": 164497315,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-17 02:02:39"
+    },
+    {
+        "id": 164497351,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-17 02:04:03"
     }
 ]
