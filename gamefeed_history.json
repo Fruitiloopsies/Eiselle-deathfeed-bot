@@ -29398,5 +29398,33 @@
         "description": "Marked for death by a clangoru artificer, Mboagn has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-04-18 16:37:16"
+    },
+    {
+        "id": 164506066,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-18 16:41:09"
+    },
+    {
+        "id": 164506085,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Mboagn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-18 16:42:40"
+    },
+    {
+        "id": 164506103,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Argilent has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-18 16:42:51"
+    },
+    {
+        "id": 164506111,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Faragan, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-18 16:43:01"
     }
 ]
