@@ -29391,5 +29391,12 @@
         "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-04-18 02:45:51"
+    },
+    {
+        "id": 164506037,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Mboagn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-18 16:37:16"
     }
 ]
