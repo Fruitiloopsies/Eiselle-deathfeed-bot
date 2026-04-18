@@ -29342,5 +29342,54 @@
         "description": "Karrack was slain by Freja (Victim had 100% the might).",
         "type": "DEA",
         "date": "2026-04-17 23:06:23"
+    },
+    {
+        "id": 164502753,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Teread, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-04-18 02:37:28"
+    },
+    {
+        "id": 164502759,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-18 02:37:30"
+    },
+    {
+        "id": 164502777,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-18 02:37:43"
+    },
+    {
+        "id": 164502797,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-18 02:39:57"
+    },
+    {
+        "id": 164502820,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Teread, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-04-18 02:44:28"
+    },
+    {
+        "id": 164502826,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-18 02:44:49"
+    },
+    {
+        "id": 164502944,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-18 02:45:51"
     }
 ]
