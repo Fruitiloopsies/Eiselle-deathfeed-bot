@@ -29531,5 +29531,12 @@
         "description": "Torias has been slain by the might of a carrion beetle.",
         "type": "DEA",
         "date": "2026-04-19 17:45:13"
+    },
+    {
+        "id": 164513563,
+        "caption": "Player Death",
+        "description": "Naralis was slain by Freja (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2026-04-19 22:09:13"
     }
 ]
