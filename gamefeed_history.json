@@ -29538,5 +29538,19 @@
         "description": "Naralis was slain by Freja (Victim had 80% the might).",
         "type": "DEA",
         "date": "2026-04-19 22:09:13"
+    },
+    {
+        "id": 164513811,
+        "caption": "Player Death",
+        "description": "Lianchi has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-19 22:58:54"
+    },
+    {
+        "id": 164513817,
+        "caption": "Player Death",
+        "description": "Lianchi has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-19 22:59:18"
     }
 ]
