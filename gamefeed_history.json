@@ -29552,5 +29552,47 @@
         "description": "Lianchi has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-04-19 22:59:18"
+    },
+    {
+        "id": 164513851,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Lianchi has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-19 23:17:47"
+    },
+    {
+        "id": 164513860,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-19 23:21:02"
+    },
+    {
+        "id": 164513907,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-19 23:21:13"
+    },
+    {
+        "id": 164513925,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Lianchi, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-19 23:23:32"
+    },
+    {
+        "id": 164513930,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-19 23:24:08"
+    },
+    {
+        "id": 164513979,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-19 23:24:20"
     }
 ]
