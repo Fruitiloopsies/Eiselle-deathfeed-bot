@@ -29482,5 +29482,47 @@
         "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-04-19 00:47:55"
+    },
+    {
+        "id": 164509528,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-19 03:10:27"
+    },
+    {
+        "id": 164509633,
+        "caption": "Player Death",
+        "description": "Lianchi has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-19 03:48:25"
+    },
+    {
+        "id": 164509638,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-19 03:48:40"
+    },
+    {
+        "id": 164509686,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-19 03:50:30"
+    },
+    {
+        "id": 164509716,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Freja has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-19 03:50:56"
+    },
+    {
+        "id": 164509733,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-19 03:50:56"
     }
 ]
