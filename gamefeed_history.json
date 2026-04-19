@@ -29426,5 +29426,61 @@
         "description": "A ghostly battlecharger has brought war to Faragan, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-04-18 16:43:01"
+    },
+    {
+        "id": 164508836,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-19 00:44:55"
+    },
+    {
+        "id": 164508883,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-19 00:45:06"
+    },
+    {
+        "id": 164508913,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-19 00:45:19"
+    },
+    {
+        "id": 164508930,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-19 00:45:33"
+    },
+    {
+        "id": 164508977,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Malayn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-19 00:45:54"
+    },
+    {
+        "id": 164509007,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-19 00:46:57"
+    },
+    {
+        "id": 164509037,
+        "caption": "Player Death",
+        "description": "Lianchi has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-19 00:47:54"
+    },
+    {
+        "id": 164509042,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-19 00:47:55"
     }
 ]
