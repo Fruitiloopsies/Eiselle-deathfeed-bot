@@ -29608,5 +29608,96 @@
         "description": "Hronorn has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-04-20 00:40:35"
+    },
+    {
+        "id": 164514569,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Hronorn, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-20 01:34:11"
+    },
+    {
+        "id": 164514588,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Naralis has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-20 01:35:21"
+    },
+    {
+        "id": 164514603,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-20 01:36:17"
+    },
+    {
+        "id": 164514634,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-20 01:36:50"
+    },
+    {
+        "id": 164514654,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Freja has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-20 01:41:58"
+    },
+    {
+        "id": 164514902,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-20 02:30:25"
+    },
+    {
+        "id": 164514949,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Malayn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-20 02:31:35"
+    },
+    {
+        "id": 164514982,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-20 02:33:27"
+    },
+    {
+        "id": 164515009,
+        "caption": "Player Death",
+        "description": "Lianchi has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-20 02:33:31"
+    },
+    {
+        "id": 164515142,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Lorn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-20 03:12:17"
+    },
+    {
+        "id": 164515158,
+        "caption": "Player Death",
+        "description": "Hronorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-20 03:12:39"
+    },
+    {
+        "id": 164515178,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-20 03:13:21"
+    },
+    {
+        "id": 164515502,
+        "caption": "Player Death",
+        "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2026-04-20 04:01:56"
     }
 ]
