@@ -29713,5 +29713,47 @@
         "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-04-20 19:56:15"
+    },
+    {
+        "id": 164518605,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-20 22:04:44"
+    },
+    {
+        "id": 164518659,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Xenthos has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-20 22:05:55"
+    },
+    {
+        "id": 164518709,
+        "caption": "Player Death",
+        "description": "Xenthos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-20 22:06:23"
+    },
+    {
+        "id": 164518777,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-20 22:07:32"
+    },
+    {
+        "id": 164518816,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Naralis, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-20 22:11:36"
+    },
+    {
+        "id": 164518832,
+        "caption": "Player Death",
+        "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-20 22:14:25"
     }
 ]
