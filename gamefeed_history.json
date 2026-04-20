@@ -29706,5 +29706,12 @@
         "description": "Isana has been slain by the might of an enormous gorgog.",
         "type": "DEA",
         "date": "2026-04-20 10:25:21"
+    },
+    {
+        "id": 164518191,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-20 19:56:15"
     }
 ]
