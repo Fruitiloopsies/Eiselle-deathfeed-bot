@@ -29699,5 +29699,12 @@
         "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2026-04-20 04:01:56"
+    },
+    {
+        "id": 164516511,
+        "caption": "Player Death",
+        "description": "Isana has been slain by the might of an enormous gorgog.",
+        "type": "DEA",
+        "date": "2026-04-20 10:25:21"
     }
 ]
