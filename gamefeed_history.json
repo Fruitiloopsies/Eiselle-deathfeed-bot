@@ -29594,5 +29594,19 @@
         "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-04-19 23:24:20"
+    },
+    {
+        "id": 164514185,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-20 00:32:03"
+    },
+    {
+        "id": 164514228,
+        "caption": "Player Death",
+        "description": "Hronorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-20 00:40:35"
     }
 ]
