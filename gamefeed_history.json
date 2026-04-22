@@ -30021,5 +30021,12 @@
         "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-04-22 17:40:50"
+    },
+    {
+        "id": 164529548,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Argilent has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-22 18:01:10"
     }
 ]
