@@ -29937,5 +29937,82 @@
         "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-04-22 01:05:22"
+    },
+    {
+        "id": 164525945,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Shango, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-22 03:04:59"
+    },
+    {
+        "id": 164526016,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Teread, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-04-22 03:19:52"
+    },
+    {
+        "id": 164526090,
+        "caption": "Player Death",
+        "description": "Shango has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-22 03:44:59"
+    },
+    {
+        "id": 164526138,
+        "caption": "Player Death",
+        "description": "Huskii has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-22 03:49:14"
+    },
+    {
+        "id": 164526169,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-22 03:50:32"
+    },
+    {
+        "id": 164526186,
+        "caption": "Player Death",
+        "description": "Huskii has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-22 03:50:33"
+    },
+    {
+        "id": 164526223,
+        "caption": "Player Death",
+        "description": "Huskii has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-22 03:51:54"
+    },
+    {
+        "id": 164526246,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-22 03:51:56"
+    },
+    {
+        "id": 164526276,
+        "caption": "Player Death",
+        "description": "Lianchi has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-22 03:52:09"
+    },
+    {
+        "id": 164526281,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Shango has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-22 03:52:42"
+    },
+    {
+        "id": 164526328,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-22 03:52:54"
     }
 ]
