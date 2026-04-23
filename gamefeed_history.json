@@ -30056,5 +30056,82 @@
         "description": "Hronorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-04-22 23:53:09"
+    },
+    {
+        "id": 164531446,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Naralis has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-23 00:34:01"
+    },
+    {
+        "id": 164531476,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Hronorn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-23 00:35:30"
+    },
+    {
+        "id": 164531551,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Shango has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-23 00:55:39"
+    },
+    {
+        "id": 164531758,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Zagreus has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-23 01:06:30"
+    },
+    {
+        "id": 164531784,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-23 01:07:34"
+    },
+    {
+        "id": 164531829,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-23 01:09:30"
+    },
+    {
+        "id": 164531868,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-23 01:11:38"
+    },
+    {
+        "id": 164531898,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-23 01:11:53"
+    },
+    {
+        "id": 164531946,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-23 01:13:31"
+    },
+    {
+        "id": 164531963,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Freja, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-23 01:15:15"
+    },
+    {
+        "id": 164531983,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-23 01:15:56"
     }
 ]
