@@ -30266,5 +30266,26 @@
         "description": "Mboagn has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2026-04-24 14:42:25"
+    },
+    {
+        "id": 164540674,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-24 15:37:38"
+    },
+    {
+        "id": 164540938,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-24 16:31:27"
+    },
+    {
+        "id": 164540953,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-24 16:31:36"
     }
 ]
