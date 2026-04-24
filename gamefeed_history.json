@@ -30287,5 +30287,12 @@
         "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-04-24 16:31:36"
+    },
+    {
+        "id": 164541098,
+        "caption": "Player Death",
+        "description": "Mboagn has frozen into fatal catatonia, victim to a monstrous ice devil.",
+        "type": "DEA",
+        "date": "2026-04-24 17:06:53"
     }
 ]
