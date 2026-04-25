@@ -30294,5 +30294,152 @@
         "description": "Mboagn has frozen into fatal catatonia, victim to a monstrous ice devil.",
         "type": "DEA",
         "date": "2026-04-24 17:06:53"
+    },
+    {
+        "id": 164543514,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Hronorn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-25 01:27:42"
+    },
+    {
+        "id": 164543706,
+        "caption": "Player Death",
+        "description": "Hronorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-25 02:12:06"
+    },
+    {
+        "id": 164543727,
+        "caption": "Player Death",
+        "description": "Yinuish has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-25 02:12:33"
+    },
+    {
+        "id": 164543785,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-25 02:12:35"
+    },
+    {
+        "id": 164543799,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-25 02:13:07"
+    },
+    {
+        "id": 164543817,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-25 02:13:23"
+    },
+    {
+        "id": 164543871,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-25 02:14:19"
+    },
+    {
+        "id": 164543933,
+        "caption": "Player Death",
+        "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-25 02:16:16"
+    },
+    {
+        "id": 164543947,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-25 02:16:19"
+    },
+    {
+        "id": 164543965,
+        "caption": "Player Death",
+        "description": "Qoivhae has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-25 02:18:05"
+    },
+    {
+        "id": 164543996,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-25 02:18:05"
+    },
+    {
+        "id": 164544082,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Freja has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-25 02:35:59"
+    },
+    {
+        "id": 164544099,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Malayn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-25 02:36:51"
+    },
+    {
+        "id": 164544159,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Freja, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-25 02:44:34"
+    },
+    {
+        "id": 164544176,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-25 02:44:34"
+    },
+    {
+        "id": 164544268,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Malayn, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-25 02:50:19"
+    },
+    {
+        "id": 164544298,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Freja, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-25 02:51:04"
+    },
+    {
+        "id": 164544316,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-25 02:51:36"
+    },
+    {
+        "id": 164544382,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-25 03:01:40"
+    },
+    {
+        "id": 164544412,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-25 03:02:02"
+    },
+    {
+        "id": 164544429,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-25 03:02:11"
     }
 ]
