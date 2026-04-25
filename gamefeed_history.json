@@ -30448,5 +30448,33 @@
         "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-04-25 04:19:21"
+    },
+    {
+        "id": 164545957,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Mboagn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-25 09:17:10"
+    },
+    {
+        "id": 164545976,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Zoelin has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-25 09:17:17"
+    },
+    {
+        "id": 164545989,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Hronorn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-25 09:17:26"
+    },
+    {
+        "id": 164546009,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Argilent has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-25 09:17:28"
     }
 ]
