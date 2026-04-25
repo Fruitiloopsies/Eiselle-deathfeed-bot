@@ -30483,5 +30483,19 @@
         "description": "Argilent has been slain by the might of Korath Chokuul, Commandant of the Catacombs.",
         "type": "DEA",
         "date": "2026-04-25 15:06:46"
+    },
+    {
+        "id": 164547663,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Mboagn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-25 16:18:49"
+    },
+    {
+        "id": 164547681,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-25 16:19:14"
     }
 ]
