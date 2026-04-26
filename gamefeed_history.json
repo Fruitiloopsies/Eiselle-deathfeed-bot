@@ -30525,5 +30525,75 @@
         "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-04-25 18:25:47"
+    },
+    {
+        "id": 164550231,
+        "caption": "Player Death",
+        "description": "Lorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-26 01:43:07"
+    },
+    {
+        "id": 164550292,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-26 01:45:28"
+    },
+    {
+        "id": 164550323,
+        "caption": "Player Death",
+        "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-26 01:45:40"
+    },
+    {
+        "id": 164550337,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-26 01:46:22"
+    },
+    {
+        "id": 164550356,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Lorn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-26 01:46:33"
+    },
+    {
+        "id": 164550376,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Naralis has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-26 01:47:26"
+    },
+    {
+        "id": 164550390,
+        "caption": "Player Death",
+        "description": "Qoivhae was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-04-26 01:47:29"
+    },
+    {
+        "id": 164550424,
+        "caption": "Player Death",
+        "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-26 01:49:11"
+    },
+    {
+        "id": 164550465,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-26 01:53:41"
+    },
+    {
+        "id": 164550965,
+        "caption": "Player Death",
+        "description": "Sandalphon has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2026-04-26 03:37:22"
     }
 ]
