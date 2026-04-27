@@ -30602,5 +30602,40 @@
         "description": "Sandalphon has been trampled and crushed by a stainless steel goat.",
         "type": "DEA",
         "date": "2026-04-26 04:06:23"
+    },
+    {
+        "id": 164556435,
+        "caption": "Player Death",
+        "description": "Hronorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-27 01:40:34"
+    },
+    {
+        "id": 164556468,
+        "caption": "Player Death",
+        "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-27 01:42:19"
+    },
+    {
+        "id": 164557363,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-04-27 03:37:15"
+    },
+    {
+        "id": 164557437,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
+        "type": "DEA",
+        "date": "2026-04-27 03:48:50"
+    },
+    {
+        "id": 164557451,
+        "caption": "Player Death",
+        "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2026-04-27 03:52:37"
     }
 ]
