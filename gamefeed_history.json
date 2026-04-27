@@ -30637,5 +30637,26 @@
         "description": "Alainna has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2026-04-27 03:52:37"
+    },
+    {
+        "id": 164559741,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-04-27 16:11:22"
+    },
+    {
+        "id": 164559796,
+        "caption": "Player Death",
+        "description": "Tuilinn has been slain by the might of a champion of war.",
+        "type": "DEA",
+        "date": "2026-04-27 16:16:43"
+    },
+    {
+        "id": 164559828,
+        "caption": "Player Death",
+        "description": "Tuilinn has been slain by the might of a champion of war.",
+        "type": "DEA",
+        "date": "2026-04-27 16:20:01"
     }
 ]
