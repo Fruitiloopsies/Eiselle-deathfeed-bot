@@ -30658,5 +30658,26 @@
         "description": "Tuilinn has been slain by the might of a champion of war.",
         "type": "DEA",
         "date": "2026-04-27 16:20:01"
+    },
+    {
+        "id": 164560995,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-27 20:32:23"
+    },
+    {
+        "id": 164561066,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Naralis, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-27 20:32:53"
+    },
+    {
+        "id": 164561133,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Xenthos has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-27 20:34:00"
     }
 ]
