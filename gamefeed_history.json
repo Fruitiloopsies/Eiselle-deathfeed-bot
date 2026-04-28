@@ -30700,5 +30700,12 @@
         "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-04-28 00:29:13"
+    },
+    {
+        "id": 164564408,
+        "caption": "Player Death",
+        "description": "Isana has been subsumed by a bloated gorgog.",
+        "type": "DEA",
+        "date": "2026-04-28 09:07:10"
     }
 ]
