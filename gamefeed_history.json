@@ -30679,5 +30679,26 @@
         "description": "Body dissolving into sludge, Xenthos has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-04-27 20:34:00"
+    },
+    {
+        "id": 164562516,
+        "caption": "Player Death",
+        "description": "Hronorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-28 00:26:33"
+    },
+    {
+        "id": 164562607,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Naralis has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-28 00:29:13"
+    },
+    {
+        "id": 164562621,
+        "caption": "Player Death",
+        "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-28 00:29:13"
     }
 ]
