@@ -30714,5 +30714,75 @@
         "description": "Lianchi was slain by Malayn (Victim had 75% the might).",
         "type": "DEA",
         "date": "2026-04-28 18:27:47"
+    },
+    {
+        "id": 164567582,
+        "caption": "Player Death",
+        "description": "Hronorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-29 00:46:49"
+    },
+    {
+        "id": 164567617,
+        "caption": "Player Death",
+        "description": "Hronorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-29 00:48:37"
+    },
+    {
+        "id": 164567638,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-29 00:48:41"
+    },
+    {
+        "id": 164567657,
+        "caption": "Player Death",
+        "description": "Lianchi has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-29 00:49:58"
+    },
+    {
+        "id": 164567676,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-29 00:53:05"
+    },
+    {
+        "id": 164567741,
+        "caption": "Player Death",
+        "description": "Malayn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-29 01:06:38"
+    },
+    {
+        "id": 164567771,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-29 01:06:46"
+    },
+    {
+        "id": 164567818,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Malayn, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-29 01:07:14"
+    },
+    {
+        "id": 164567849,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Lianchi, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-29 01:08:35"
+    },
+    {
+        "id": 164567855,
+        "caption": "Player Death",
+        "description": "Freja has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-04-29 01:08:55"
     }
 ]
