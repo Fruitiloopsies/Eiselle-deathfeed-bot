@@ -30847,5 +30847,19 @@
         "description": "Silvanos has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-04-29 08:00:23"
+    },
+    {
+        "id": 164570407,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-04-29 13:04:13"
+    },
+    {
+        "id": 164570425,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-04-29 13:04:14"
     }
 ]
