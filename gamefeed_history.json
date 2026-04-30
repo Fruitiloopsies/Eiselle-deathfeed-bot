@@ -30896,5 +30896,54 @@
         "description": "Veldrin was slain by misadventure.",
         "type": "DEA",
         "date": "2026-04-29 20:29:23"
+    },
+    {
+        "id": 164573628,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Hronorn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-04-30 01:00:59"
+    },
+    {
+        "id": 164573696,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Hronorn, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-30 01:11:33"
+    },
+    {
+        "id": 164573737,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Hronorn, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-04-30 01:15:18"
+    },
+    {
+        "id": 164573758,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-04-30 01:15:44"
+    },
+    {
+        "id": 164573791,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-30 01:15:59"
+    },
+    {
+        "id": 164574197,
+        "caption": "Player Death",
+        "description": "Iae has been beaten to death by a zombie overseer.",
+        "type": "DEA",
+        "date": "2026-04-30 02:40:45"
+    },
+    {
+        "id": 164574491,
+        "caption": "Player Death",
+        "description": "Alainna has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2026-04-30 03:36:12"
     }
 ]
