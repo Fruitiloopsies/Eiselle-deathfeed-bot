@@ -30945,5 +30945,26 @@
         "description": "Alainna has become the delicious main course for a ravenous fesix.",
         "type": "DEA",
         "date": "2026-04-30 03:36:12"
+    },
+    {
+        "id": 164574833,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Hronorn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-30 05:06:29"
+    },
+    {
+        "id": 164574855,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Argilent has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-30 05:07:13"
+    },
+    {
+        "id": 164574864,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Lorn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-04-30 05:07:18"
     }
 ]
