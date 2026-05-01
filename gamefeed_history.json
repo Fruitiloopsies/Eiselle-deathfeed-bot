@@ -31050,5 +31050,12 @@
         "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-01 02:03:30"
+    },
+    {
+        "id": 164581190,
+        "caption": "Player Death",
+        "description": "Mboagn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-05-01 06:02:23"
     }
 ]
