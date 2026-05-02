@@ -31120,5 +31120,12 @@
         "description": "Lianchi has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-02 03:03:51"
+    },
+    {
+        "id": 164589858,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Gilda has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-05-02 16:41:43"
     }
 ]
