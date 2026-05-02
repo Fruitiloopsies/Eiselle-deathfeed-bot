@@ -31141,5 +31141,12 @@
         "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-05-02 17:51:38"
+    },
+    {
+        "id": 164590661,
+        "caption": "Player Death",
+        "description": "Hronorn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-05-02 20:18:18"
     }
 ]
