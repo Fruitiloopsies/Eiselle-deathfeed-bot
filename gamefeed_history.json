@@ -31127,5 +31127,19 @@
         "description": "Body dissolving into sludge, Gilda has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-05-02 16:41:43"
+    },
+    {
+        "id": 164590085,
+        "caption": "Player Death",
+        "description": "Mboagn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-02 17:49:38"
+    },
+    {
+        "id": 164590104,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-02 17:51:38"
     }
 ]
