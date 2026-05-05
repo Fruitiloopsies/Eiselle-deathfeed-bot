@@ -31330,5 +31330,12 @@
         "description": "Marked for death by a clangoru artificer, Argilent has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-05-05 06:15:01"
+    },
+    {
+        "id": 164608130,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Argilent has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-05 16:05:19"
     }
 ]
