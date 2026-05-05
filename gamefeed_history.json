@@ -31302,5 +31302,12 @@
         "description": "Marked for death by a clangoru artificer, Zagreus has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-05-05 03:00:09"
+    },
+    {
+        "id": 164605542,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Hronorn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-05 05:37:15"
     }
 ]
