@@ -31309,5 +31309,26 @@
         "description": "Marked for death by a clangoru artificer, Hronorn has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-05-05 05:37:15"
+    },
+    {
+        "id": 164605714,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Hronorn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-05 06:14:50"
+    },
+    {
+        "id": 164605735,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Silvanos has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-05 06:14:57"
+    },
+    {
+        "id": 164605745,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Argilent has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-05 06:15:01"
     }
 ]
