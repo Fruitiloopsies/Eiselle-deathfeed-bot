@@ -31218,5 +31218,89 @@
         "description": "Hronorn was slain by misadventure.",
         "type": "DEA",
         "date": "2026-05-04 02:54:58"
+    },
+    {
+        "id": 164604107,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Huskii has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-05 02:11:47"
+    },
+    {
+        "id": 164604130,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Zagreus has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-05 02:12:02"
+    },
+    {
+        "id": 164604377,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-05 02:55:43"
+    },
+    {
+        "id": 164604409,
+        "caption": "Player Death",
+        "description": "Freja has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-05 02:56:33"
+    },
+    {
+        "id": 164604427,
+        "caption": "Player Death",
+        "description": "Lianchi has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-05 02:57:58"
+    },
+    {
+        "id": 164604434,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-05 02:58:31"
+    },
+    {
+        "id": 164604465,
+        "caption": "Player Death",
+        "description": "Huskii has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-05 02:59:01"
+    },
+    {
+        "id": 164604488,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-05 02:59:05"
+    },
+    {
+        "id": 164604537,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Huskii has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-05 02:59:42"
+    },
+    {
+        "id": 164604560,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Shango has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-05 02:59:48"
+    },
+    {
+        "id": 164604607,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Malayn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-05 02:59:56"
+    },
+    {
+        "id": 164604637,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Zagreus has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-05 03:00:09"
     }
 ]
