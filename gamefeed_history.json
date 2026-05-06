@@ -31449,5 +31449,19 @@
         "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-06 02:55:35"
+    },
+    {
+        "id": 164612541,
+        "caption": "Player Death",
+        "description": "Alainna has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2026-05-06 05:06:24"
+    },
+    {
+        "id": 164612639,
+        "caption": "Player Death",
+        "description": "Shadelyo has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2026-05-06 05:36:25"
     }
 ]
