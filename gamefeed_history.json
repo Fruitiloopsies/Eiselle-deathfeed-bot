@@ -31372,5 +31372,82 @@
         "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-05-05 17:52:12"
+    },
+    {
+        "id": 164611072,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Isana, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-05-06 01:17:51"
+    },
+    {
+        "id": 164611077,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Teread, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-05-06 01:18:08"
+    },
+    {
+        "id": 164611317,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Freja has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-06 02:25:03"
+    },
+    {
+        "id": 164611337,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-06 02:27:05"
+    },
+    {
+        "id": 164611367,
+        "caption": "Player Death",
+        "description": "Lianchi has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-06 02:27:05"
+    },
+    {
+        "id": 164611377,
+        "caption": "Player Death",
+        "description": "Malayn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-06 02:28:52"
+    },
+    {
+        "id": 164611416,
+        "caption": "Player Death",
+        "description": "Shango has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-06 02:29:03"
+    },
+    {
+        "id": 164611672,
+        "caption": "Player Death",
+        "description": "Hronorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-06 02:51:32"
+    },
+    {
+        "id": 164611719,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-06 02:55:08"
+    },
+    {
+        "id": 164611738,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Yinuish, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-06 02:55:25"
+    },
+    {
+        "id": 164611796,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-06 02:55:35"
     }
 ]
