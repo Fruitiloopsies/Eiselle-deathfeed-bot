@@ -31519,5 +31519,12 @@
         "description": "Body dissolving into sludge, Hronorn has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-05-07 00:31:12"
+    },
+    {
+        "id": 164619764,
+        "caption": "Player Death",
+        "description": "Saltorien has been slain by the might of an ethereal opossum.",
+        "type": "DEA",
+        "date": "2026-05-07 18:23:27"
     }
 ]
