@@ -31505,5 +31505,19 @@
         "description": "Xenthos has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-06 20:28:41"
+    },
+    {
+        "id": 164616219,
+        "caption": "Player Death",
+        "description": "Aramantos has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-05-06 23:46:26"
+    },
+    {
+        "id": 164616446,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Hronorn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-05-07 00:31:12"
     }
 ]
