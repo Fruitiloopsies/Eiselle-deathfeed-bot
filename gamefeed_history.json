@@ -31708,5 +31708,19 @@
         "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-05-08 03:32:16"
+    },
+    {
+        "id": 164623050,
+        "caption": "Player Death",
+        "description": "Alainna's body has been pinched in half by the claws of a monstrous lobstrosity.",
+        "type": "DEA",
+        "date": "2026-05-08 05:17:38"
+    },
+    {
+        "id": 164623207,
+        "caption": "Player Death",
+        "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2026-05-08 05:42:50"
     }
 ]
