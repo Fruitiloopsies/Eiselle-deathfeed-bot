@@ -31526,5 +31526,26 @@
         "description": "Saltorien has been slain by the might of an ethereal opossum.",
         "type": "DEA",
         "date": "2026-05-07 18:23:27"
+    },
+    {
+        "id": 164620875,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-07 23:46:23"
+    },
+    {
+        "id": 164620894,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-07 23:51:47"
+    },
+    {
+        "id": 164620965,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-08 00:00:36"
     }
 ]
