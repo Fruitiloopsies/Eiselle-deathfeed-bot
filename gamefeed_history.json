@@ -31750,5 +31750,68 @@
         "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-10 20:31:43"
+    },
+    {
+        "id": 164637489,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-10 20:32:56"
+    },
+    {
+        "id": 164637498,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-10 20:33:35"
+    },
+    {
+        "id": 164637518,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-10 20:34:10"
+    },
+    {
+        "id": 164637532,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-10 20:34:19"
+    },
+    {
+        "id": 164637566,
+        "caption": "Player Death",
+        "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-10 20:35:09"
+    },
+    {
+        "id": 164637580,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-10 20:35:28"
+    },
+    {
+        "id": 164637591,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-10 20:36:34"
+    },
+    {
+        "id": 164637612,
+        "caption": "Player Death",
+        "description": "Naralis was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-05-10 20:37:09"
+    },
+    {
+        "id": 164637626,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-10 20:37:14"
     }
 ]
