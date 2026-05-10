@@ -31736,5 +31736,12 @@
         "description": "Torimeer has been slain by the might of a giant black widow.",
         "type": "DEA",
         "date": "2026-05-10 18:21:12"
+    },
+    {
+        "id": 164636940,
+        "caption": "Player Death",
+        "description": "Torimeer has been slain by the might of a giant black widow.",
+        "type": "DEA",
+        "date": "2026-05-10 18:41:12"
     }
 ]
