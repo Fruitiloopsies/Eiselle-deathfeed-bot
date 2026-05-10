@@ -31743,5 +31743,12 @@
         "description": "Torimeer has been slain by the might of a giant black widow.",
         "type": "DEA",
         "date": "2026-05-10 18:41:12"
+    },
+    {
+        "id": 164637442,
+        "caption": "Player Death",
+        "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-10 20:31:43"
     }
 ]
