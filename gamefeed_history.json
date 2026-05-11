@@ -31813,5 +31813,68 @@
         "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-10 20:37:14"
+    },
+    {
+        "id": 164638561,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-11 00:25:31"
+    },
+    {
+        "id": 164638591,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-11 00:29:41"
+    },
+    {
+        "id": 164638605,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-11 00:29:58"
+    },
+    {
+        "id": 164638638,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-11 00:30:49"
+    },
+    {
+        "id": 164638658,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-05-11 00:31:18"
+    },
+    {
+        "id": 164638679,
+        "caption": "Player Death",
+        "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-11 00:32:03"
+    },
+    {
+        "id": 164638726,
+        "caption": "Player Death",
+        "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-11 00:33:49"
+    },
+    {
+        "id": 164638758,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-11 00:37:08"
+    },
+    {
+        "id": 164638772,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-11 00:37:27"
     }
 ]
