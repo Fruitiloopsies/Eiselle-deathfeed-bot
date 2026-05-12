@@ -32100,5 +32100,12 @@
         "description": "Yinuish has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-12 03:22:15"
+    },
+    {
+        "id": 164645481,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-05-12 04:22:28"
     }
 ]
