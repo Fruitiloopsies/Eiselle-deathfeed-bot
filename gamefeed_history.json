@@ -32107,5 +32107,26 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-05-12 04:22:28"
+    },
+    {
+        "id": 164648810,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Hronorn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-05-12 21:20:57"
+    },
+    {
+        "id": 164648856,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-12 21:23:13"
+    },
+    {
+        "id": 164648895,
+        "caption": "Player Death",
+        "description": "Elfren was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-05-12 21:30:00"
     }
 ]
