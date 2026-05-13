@@ -32380,5 +32380,12 @@
         "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-13 19:45:46"
+    },
+    {
+        "id": 164655499,
+        "caption": "Player Death",
+        "description": "Argilent was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-05-13 21:11:03"
     }
 ]
