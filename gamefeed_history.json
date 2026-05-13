@@ -32261,5 +32261,26 @@
         "description": "Body dissolving into sludge, Teread has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-05-13 01:33:09"
+    },
+    {
+        "id": 164654299,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-13 17:21:11"
+    },
+    {
+        "id": 164654326,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-13 17:31:05"
+    },
+    {
+        "id": 164654421,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-13 17:45:52"
     }
 ]
