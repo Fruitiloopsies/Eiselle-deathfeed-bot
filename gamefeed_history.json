@@ -32282,5 +32282,103 @@
         "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-13 17:45:52"
+    },
+    {
+        "id": 164654651,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-13 18:29:01"
+    },
+    {
+        "id": 164654712,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-13 18:36:43"
+    },
+    {
+        "id": 164654775,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-13 18:56:24"
+    },
+    {
+        "id": 164654789,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-13 19:00:31"
+    },
+    {
+        "id": 164654801,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-13 19:02:09"
+    },
+    {
+        "id": 164654826,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-13 19:06:26"
+    },
+    {
+        "id": 164654836,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-13 19:11:00"
+    },
+    {
+        "id": 164654857,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-13 19:26:28"
+    },
+    {
+        "id": 164654875,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-13 19:35:51"
+    },
+    {
+        "id": 164654884,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Exeryte has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-05-13 19:40:13"
+    },
+    {
+        "id": 164654962,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-13 19:44:38"
+    },
+    {
+        "id": 164655017,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Xenthos, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-13 19:45:14"
+    },
+    {
+        "id": 164655068,
+        "caption": "Player Death",
+        "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-13 19:45:45"
+    },
+    {
+        "id": 164655082,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-13 19:45:46"
     }
 ]
