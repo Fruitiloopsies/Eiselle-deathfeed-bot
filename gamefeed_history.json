@@ -32387,5 +32387,12 @@
         "description": "Argilent was slain by misadventure.",
         "type": "DEA",
         "date": "2026-05-13 21:11:03"
+    },
+    {
+        "id": 164656516,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Teread has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-05-14 01:15:34"
     }
 ]
