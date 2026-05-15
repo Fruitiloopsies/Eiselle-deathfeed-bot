@@ -32604,5 +32604,12 @@
         "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-05-15 03:02:38"
+    },
+    {
+        "id": 164663955,
+        "caption": "Player Death",
+        "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2026-05-15 04:23:36"
     }
 ]
