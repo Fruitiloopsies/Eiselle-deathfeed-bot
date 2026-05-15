@@ -32688,5 +32688,19 @@
         "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-15 22:14:54"
+    },
+    {
+        "id": 164668339,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-15 22:34:12"
+    },
+    {
+        "id": 164668500,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-15 23:27:33"
     }
 ]
