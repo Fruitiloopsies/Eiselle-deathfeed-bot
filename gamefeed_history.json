@@ -32646,5 +32646,47 @@
         "description": "A ghostly battlecharger has brought war to Teread, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-05-15 21:03:41"
+    },
+    {
+        "id": 164667998,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-15 21:39:25"
+    },
+    {
+        "id": 164668021,
+        "caption": "Player Death",
+        "description": "Hronorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-15 21:39:49"
+    },
+    {
+        "id": 164668043,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-15 21:39:57"
+    },
+    {
+        "id": 164668124,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-15 21:55:01"
+    },
+    {
+        "id": 164668129,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-15 21:55:16"
+    },
+    {
+        "id": 164668255,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-15 22:14:54"
     }
 ]
