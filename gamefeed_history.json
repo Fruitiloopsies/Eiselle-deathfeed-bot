@@ -32611,5 +32611,26 @@
         "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2026-05-15 04:23:36"
+    },
+    {
+        "id": 164667597,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-15 19:08:58"
+    },
+    {
+        "id": 164667727,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-15 20:17:09"
+    },
+    {
+        "id": 164667732,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-15 20:17:16"
     }
 ]
