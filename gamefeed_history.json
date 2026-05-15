@@ -32499,5 +32499,110 @@
         "description": "Hronorn was slain by Exeryte (Victim had 100% the might).",
         "type": "DEA",
         "date": "2026-05-14 22:08:29"
+    },
+    {
+        "id": 164662777,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-15 00:58:23"
+    },
+    {
+        "id": 164662930,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Teread, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-15 01:19:48"
+    },
+    {
+        "id": 164663008,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Teread, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-15 01:47:09"
+    },
+    {
+        "id": 164663076,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-15 01:56:12"
+    },
+    {
+        "id": 164663098,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Teread has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-05-15 02:03:09"
+    },
+    {
+        "id": 164663105,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Hronorn, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-15 02:03:56"
+    },
+    {
+        "id": 164663128,
+        "caption": "Player Death",
+        "description": "Argilent has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-15 02:04:38"
+    },
+    {
+        "id": 164663137,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-15 02:05:46"
+    },
+    {
+        "id": 164663163,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-15 02:07:14"
+    },
+    {
+        "id": 164663183,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-15 02:07:19"
+    },
+    {
+        "id": 164663213,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-15 02:08:46"
+    },
+    {
+        "id": 164663249,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-15 02:13:33"
+    },
+    {
+        "id": 164663563,
+        "caption": "Player Death",
+        "description": "Lorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-15 03:01:18"
+    },
+    {
+        "id": 164663582,
+        "caption": "Player Death",
+        "description": "Hronorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-15 03:01:21"
+    },
+    {
+        "id": 164663604,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-15 03:02:38"
     }
 ]
