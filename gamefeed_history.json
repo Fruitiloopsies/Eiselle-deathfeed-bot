@@ -32632,5 +32632,19 @@
         "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-05-15 20:17:16"
+    },
+    {
+        "id": 164667807,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-15 21:03:38"
+    },
+    {
+        "id": 164667812,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Teread, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-15 21:03:41"
     }
 ]
