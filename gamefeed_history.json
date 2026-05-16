@@ -32702,5 +32702,12 @@
         "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-15 23:27:33"
+    },
+    {
+        "id": 164668726,
+        "caption": "Player Death",
+        "description": "Naralis was slain by Shango (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-05-16 00:28:17"
     }
 ]
