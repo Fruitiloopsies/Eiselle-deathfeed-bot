@@ -32947,5 +32947,40 @@
         "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-05-17 16:16:44"
+    },
+    {
+        "id": 164678657,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-17 16:44:23"
+    },
+    {
+        "id": 164678678,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Isana has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-17 16:44:50"
+    },
+    {
+        "id": 164678683,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Efarihm has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-17 16:45:00"
+    },
+    {
+        "id": 164678735,
+        "caption": "Player Death",
+        "description": "Kreon has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-17 16:46:20"
+    },
+    {
+        "id": 164678780,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-17 16:47:58"
     }
 ]
