@@ -33003,5 +33003,12 @@
         "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-17 21:15:22"
+    },
+    {
+        "id": 164679803,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-17 22:30:56"
     }
 ]
