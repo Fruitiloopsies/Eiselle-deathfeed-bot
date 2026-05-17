@@ -32989,5 +32989,19 @@
         "description": "Marked for death by a clangoru artificer, Isana has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-05-17 20:31:32"
+    },
+    {
+        "id": 164679581,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-17 21:09:43"
+    },
+    {
+        "id": 164679594,
+        "caption": "Player Death",
+        "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-17 21:15:22"
     }
 ]
