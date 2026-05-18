@@ -33059,5 +33059,54 @@
         "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2026-05-17 23:29:55"
+    },
+    {
+        "id": 164680264,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-17 23:55:35"
+    },
+    {
+        "id": 164680323,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-18 00:00:28"
+    },
+    {
+        "id": 164680331,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-18 00:00:35"
+    },
+    {
+        "id": 164680348,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Hronorn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-18 00:00:58"
+    },
+    {
+        "id": 164680370,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-18 00:01:15"
+    },
+    {
+        "id": 164680396,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-18 00:01:33"
+    },
+    {
+        "id": 164680419,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-18 00:01:45"
     }
 ]
