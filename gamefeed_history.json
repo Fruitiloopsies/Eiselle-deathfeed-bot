@@ -33108,5 +33108,26 @@
         "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-18 00:01:45"
+    },
+    {
+        "id": 164681880,
+        "caption": "Player Death",
+        "description": "Alainna has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2026-05-18 03:52:06"
+    },
+    {
+        "id": 164681902,
+        "caption": "Player Death",
+        "description": "Alainna has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2026-05-18 03:56:25"
+    },
+    {
+        "id": 164682013,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-05-18 04:10:34"
     }
 ]
