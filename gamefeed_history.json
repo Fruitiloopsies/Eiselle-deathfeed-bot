@@ -33136,5 +33136,47 @@
         "description": "Faragan was slain by Freja (Victim had 100% the might).",
         "type": "DEA",
         "date": "2026-05-18 20:49:03"
+    },
+    {
+        "id": 164685361,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Argilent has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-05-18 22:22:01"
+    },
+    {
+        "id": 164685390,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-18 22:28:28"
+    },
+    {
+        "id": 164685424,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-18 22:29:56"
+    },
+    {
+        "id": 164685484,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-18 22:30:18"
+    },
+    {
+        "id": 164685507,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-18 22:30:26"
+    },
+    {
+        "id": 164685671,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-18 22:48:45"
     }
 ]
