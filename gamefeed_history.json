@@ -33437,5 +33437,19 @@
         "description": "Eaco has been slain by the might of Brennan Stormcrow.",
         "type": "DEA",
         "date": "2026-05-19 11:15:59"
+    },
+    {
+        "id": 164690776,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-19 18:35:40"
+    },
+    {
+        "id": 164690798,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-19 18:35:43"
     }
 ]
