@@ -33451,5 +33451,19 @@
         "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-05-19 18:35:43"
+    },
+    {
+        "id": 164691262,
+        "caption": "Player Death",
+        "description": "Hronorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-19 19:53:19"
+    },
+    {
+        "id": 164691291,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-19 19:57:20"
     }
 ]
