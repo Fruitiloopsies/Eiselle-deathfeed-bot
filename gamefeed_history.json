@@ -33402,5 +33402,40 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2026-05-19 04:18:40"
+    },
+    {
+        "id": 164688823,
+        "caption": "Player Death",
+        "description": "Eaco has been slain by the might of Brennan Stormcrow.",
+        "type": "DEA",
+        "date": "2026-05-19 10:54:25"
+    },
+    {
+        "id": 164688836,
+        "caption": "Player Death",
+        "description": "Eaco was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-05-19 11:02:27"
+    },
+    {
+        "id": 164688839,
+        "caption": "Player Death",
+        "description": "Eaco has been slain by the might of Brennan Stormcrow.",
+        "type": "DEA",
+        "date": "2026-05-19 11:04:18"
+    },
+    {
+        "id": 164688856,
+        "caption": "Player Death",
+        "description": "Eaco has been slain by the might of Brennan Stormcrow.",
+        "type": "DEA",
+        "date": "2026-05-19 11:11:48"
+    },
+    {
+        "id": 164688858,
+        "caption": "Player Death",
+        "description": "Eaco has been slain by the might of Brennan Stormcrow.",
+        "type": "DEA",
+        "date": "2026-05-19 11:15:59"
     }
 ]
