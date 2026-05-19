@@ -33283,5 +33283,124 @@
         "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-05-19 00:00:59"
+    },
+    {
+        "id": 164686573,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-19 01:34:05"
+    },
+    {
+        "id": 164686619,
+        "caption": "Player Death",
+        "description": "Hronorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-19 01:35:41"
+    },
+    {
+        "id": 164686664,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-19 01:37:43"
+    },
+    {
+        "id": 164686729,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-19 02:00:13"
+    },
+    {
+        "id": 164686833,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-19 02:07:53"
+    },
+    {
+        "id": 164686839,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Hronorn, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-19 02:07:57"
+    },
+    {
+        "id": 164686865,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-19 02:09:44"
+    },
+    {
+        "id": 164686874,
+        "caption": "Player Death",
+        "description": "Aramel has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-19 02:10:13"
+    },
+    {
+        "id": 164686899,
+        "caption": "Player Death",
+        "description": "Aramel has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-19 02:10:53"
+    },
+    {
+        "id": 164686924,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-19 02:11:58"
+    },
+    {
+        "id": 164686982,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-19 02:12:52"
+    },
+    {
+        "id": 164686991,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Hronorn, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-19 02:13:46"
+    },
+    {
+        "id": 164687013,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Aramantos has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-19 02:13:52"
+    },
+    {
+        "id": 164687040,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-19 02:14:04"
+    },
+    {
+        "id": 164687063,
+        "caption": "Player Death",
+        "description": "Aramel has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-19 02:14:18"
+    },
+    {
+        "id": 164687088,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-19 02:14:23"
+    },
+    {
+        "id": 164687485,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-05-19 04:18:40"
     }
 ]
