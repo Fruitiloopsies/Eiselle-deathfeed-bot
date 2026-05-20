@@ -33521,5 +33521,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-05-20 04:26:37"
+    },
+    {
+        "id": 164696434,
+        "caption": "Player Death",
+        "description": "Eaco has been slain by the might of a giant black widow.",
+        "type": "DEA",
+        "date": "2026-05-20 19:37:38"
     }
 ]
