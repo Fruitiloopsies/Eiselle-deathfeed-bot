@@ -33605,5 +33605,12 @@
         "description": "Exeryte has succumbed to the chill presence of a floating ice skull.",
         "type": "DEA",
         "date": "2026-05-21 06:33:44"
+    },
+    {
+        "id": 164701577,
+        "caption": "Player Death",
+        "description": "Naralis was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-05-21 14:08:31"
     }
 ]
