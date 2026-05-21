@@ -33612,5 +33612,19 @@
         "description": "Naralis was slain by misadventure.",
         "type": "DEA",
         "date": "2026-05-21 14:08:31"
+    },
+    {
+        "id": 164703326,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-21 23:26:34"
+    },
+    {
+        "id": 164703390,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Teread, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-21 23:32:23"
     }
 ]
