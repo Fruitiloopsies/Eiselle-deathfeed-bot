@@ -33549,5 +33549,54 @@
         "description": "Aramantos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-05-21 00:14:07"
+    },
+    {
+        "id": 164699119,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Lorn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-21 03:20:28"
+    },
+    {
+        "id": 164699141,
+        "caption": "Player Death",
+        "description": "Lorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-21 03:25:43"
+    },
+    {
+        "id": 164699169,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-21 03:32:11"
+    },
+    {
+        "id": 164699230,
+        "caption": "Player Death",
+        "description": "Lorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-21 03:32:53"
+    },
+    {
+        "id": 164699251,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Efarihm has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-21 03:33:09"
+    },
+    {
+        "id": 164699261,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Aramantos has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-21 03:33:20"
+    },
+    {
+        "id": 164699289,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Ayisdra has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-21 03:33:37"
     }
 ]
