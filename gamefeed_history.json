@@ -33598,5 +33598,12 @@
         "description": "Marked for death by a clangoru artificer, Ayisdra has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-05-21 03:33:37"
+    },
+    {
+        "id": 164700119,
+        "caption": "Player Death",
+        "description": "Exeryte has succumbed to the chill presence of a floating ice skull.",
+        "type": "DEA",
+        "date": "2026-05-21 06:33:44"
     }
 ]
