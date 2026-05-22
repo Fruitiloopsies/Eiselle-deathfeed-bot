@@ -33731,5 +33731,12 @@
         "description": "Kreon was slain by misadventure.",
         "type": "DEA",
         "date": "2026-05-22 15:53:31"
+    },
+    {
+        "id": 164708456,
+        "caption": "Player Death",
+        "description": "Sameya has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2026-05-22 18:22:04"
     }
 ]
