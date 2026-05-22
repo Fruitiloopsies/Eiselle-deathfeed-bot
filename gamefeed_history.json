@@ -33689,5 +33689,40 @@
         "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-05-21 23:56:02"
+    },
+    {
+        "id": 164704192,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-22 02:02:30"
+    },
+    {
+        "id": 164704214,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-22 02:03:00"
+    },
+    {
+        "id": 164704237,
+        "caption": "Player Death",
+        "description": "Efarihm has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-22 02:03:44"
+    },
+    {
+        "id": 164704247,
+        "caption": "Player Death",
+        "description": "Aramantos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-22 02:03:52"
+    },
+    {
+        "id": 164704274,
+        "caption": "Player Death",
+        "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-22 02:04:07"
     }
 ]
