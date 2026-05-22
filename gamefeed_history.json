@@ -33766,5 +33766,19 @@
         "description": "Marked for death by a clangoru artificer, Kreon has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-05-22 22:38:34"
+    },
+    {
+        "id": 164710025,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-05-22 23:10:52"
+    },
+    {
+        "id": 164710213,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-22 23:40:59"
     }
 ]
