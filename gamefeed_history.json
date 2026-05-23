@@ -33878,5 +33878,19 @@
         "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-05-23 01:49:39"
+    },
+    {
+        "id": 164716217,
+        "caption": "Player Death",
+        "description": "Efarihm was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-05-23 19:35:16"
+    },
+    {
+        "id": 164716227,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-05-23 19:35:16"
     }
 ]
