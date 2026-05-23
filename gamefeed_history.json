@@ -33815,5 +33815,68 @@
         "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-05-23 01:43:02"
+    },
+    {
+        "id": 164710866,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Teread, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-23 01:44:55"
+    },
+    {
+        "id": 164710874,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Efarihm has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-05-23 01:44:59"
+    },
+    {
+        "id": 164710899,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-23 01:46:16"
+    },
+    {
+        "id": 164710961,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-23 01:47:43"
+    },
+    {
+        "id": 164711024,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-23 01:48:12"
+    },
+    {
+        "id": 164711035,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Naralis has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-05-23 01:48:32"
+    },
+    {
+        "id": 164711053,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-23 01:49:25"
+    },
+    {
+        "id": 164711077,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-23 01:49:36"
+    },
+    {
+        "id": 164711085,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-23 01:49:39"
     }
 ]
