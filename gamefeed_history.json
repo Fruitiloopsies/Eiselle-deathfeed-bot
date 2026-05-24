@@ -34004,5 +34004,61 @@
         "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-24 01:39:16"
+    },
+    {
+        "id": 164719587,
+        "caption": "Player Death",
+        "description": "Teread has been slain by the might of Korath Chokuul, Commandant of the Catacombs.",
+        "type": "DEA",
+        "date": "2026-05-24 03:33:06"
+    },
+    {
+        "id": 164719604,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Lorn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-24 03:49:20"
+    },
+    {
+        "id": 164719735,
+        "caption": "Player Death",
+        "description": "Lorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-24 04:01:09"
+    },
+    {
+        "id": 164719808,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Yinuish has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-24 04:06:14"
+    },
+    {
+        "id": 164719868,
+        "caption": "Player Death",
+        "description": "Lorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-24 04:07:01"
+    },
+    {
+        "id": 164719891,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-24 04:08:32"
+    },
+    {
+        "id": 164719915,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-24 04:08:42"
+    },
+    {
+        "id": 164719942,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-24 04:08:45"
     }
 ]
