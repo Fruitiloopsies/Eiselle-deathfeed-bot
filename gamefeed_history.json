@@ -33892,5 +33892,117 @@
         "description": "Ayisdra was slain by misadventure.",
         "type": "DEA",
         "date": "2026-05-23 19:35:16"
+    },
+    {
+        "id": 164717870,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-24 00:28:54"
+    },
+    {
+        "id": 164718259,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-24 01:20:02"
+    },
+    {
+        "id": 164718323,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-05-24 01:24:26"
+    },
+    {
+        "id": 164718347,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-05-24 01:24:26"
+    },
+    {
+        "id": 164718419,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-24 01:25:54"
+    },
+    {
+        "id": 164718461,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-24 01:27:01"
+    },
+    {
+        "id": 164718520,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-24 01:28:45"
+    },
+    {
+        "id": 164718552,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-24 01:29:29"
+    },
+    {
+        "id": 164718579,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-24 01:29:39"
+    },
+    {
+        "id": 164718603,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-24 01:29:54"
+    },
+    {
+        "id": 164718674,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-24 01:34:27"
+    },
+    {
+        "id": 164718733,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Yinuish has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-24 01:35:44"
+    },
+    {
+        "id": 164718794,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-24 01:36:13"
+    },
+    {
+        "id": 164718818,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-24 01:36:20"
+    },
+    {
+        "id": 164718851,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-24 01:36:59"
+    },
+    {
+        "id": 164718911,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-24 01:39:16"
     }
 ]
