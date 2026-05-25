@@ -34060,5 +34060,103 @@
         "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-05-24 04:08:45"
+    },
+    {
+        "id": 164724319,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-25 00:27:58"
+    },
+    {
+        "id": 164724347,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-25 00:32:24"
+    },
+    {
+        "id": 164724414,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-25 00:50:09"
+    },
+    {
+        "id": 164724424,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-25 00:54:22"
+    },
+    {
+        "id": 164724434,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-25 00:55:47"
+    },
+    {
+        "id": 164724510,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-25 01:06:22"
+    },
+    {
+        "id": 164724527,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-25 01:09:26"
+    },
+    {
+        "id": 164724537,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-25 01:10:11"
+    },
+    {
+        "id": 164724544,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-25 01:11:33"
+    },
+    {
+        "id": 164724552,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Aramantos has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-25 01:11:58"
+    },
+    {
+        "id": 164724579,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Efarihm has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-25 01:12:12"
+    },
+    {
+        "id": 164724591,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Isana has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-05-25 01:12:42"
+    },
+    {
+        "id": 164724634,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-25 01:14:13"
+    },
+    {
+        "id": 164725125,
+        "caption": "Player Death",
+        "description": "Isana has been taught a deadly lesson by a robed obesefessor.",
+        "type": "DEA",
+        "date": "2026-05-25 02:29:27"
     }
 ]
