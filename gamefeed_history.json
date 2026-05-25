@@ -34158,5 +34158,12 @@
         "description": "Isana has been taught a deadly lesson by a robed obesefessor.",
         "type": "DEA",
         "date": "2026-05-25 02:29:27"
+    },
+    {
+        "id": 164725805,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-05-25 05:28:12"
     }
 ]
