@@ -34165,5 +34165,12 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2026-05-25 05:28:12"
+    },
+    {
+        "id": 164728361,
+        "caption": "Player Death",
+        "description": "Sameya was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-05-25 20:10:56"
     }
 ]
