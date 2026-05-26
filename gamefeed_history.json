@@ -34200,5 +34200,12 @@
         "description": "Aramantos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-05-25 22:01:21"
+    },
+    {
+        "id": 164729535,
+        "caption": "Player Death",
+        "description": "Aureac has been slain by the might of a giant black widow.",
+        "type": "DEA",
+        "date": "2026-05-25 23:45:17"
     }
 ]
