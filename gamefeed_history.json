@@ -34214,5 +34214,26 @@
         "description": "Lorn has been slain by the might of a two-headed hamster of chaos.",
         "type": "DEA",
         "date": "2026-05-26 03:08:11"
+    },
+    {
+        "id": 164733302,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Argilent has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-05-26 21:55:55"
+    },
+    {
+        "id": 164733322,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-26 22:03:40"
+    },
+    {
+        "id": 164733377,
+        "caption": "Player Death",
+        "description": "Karrack was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-05-26 22:03:43"
     }
 ]
