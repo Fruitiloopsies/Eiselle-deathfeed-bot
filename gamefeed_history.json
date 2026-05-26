@@ -34207,5 +34207,12 @@
         "description": "Aureac has been slain by the might of a giant black widow.",
         "type": "DEA",
         "date": "2026-05-25 23:45:17"
+    },
+    {
+        "id": 164730269,
+        "caption": "Player Death",
+        "description": "Lorn has been slain by the might of a two-headed hamster of chaos.",
+        "type": "DEA",
+        "date": "2026-05-26 03:08:11"
     }
 ]
