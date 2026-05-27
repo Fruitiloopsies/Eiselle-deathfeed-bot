@@ -34312,5 +34312,12 @@
         "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-27 01:41:13"
+    },
+    {
+        "id": 164737695,
+        "caption": "Player Death",
+        "description": "Inagin was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-05-27 17:53:39"
     }
 ]
