@@ -34319,5 +34319,19 @@
         "description": "Inagin was slain by misadventure.",
         "type": "DEA",
         "date": "2026-05-27 17:53:39"
+    },
+    {
+        "id": 164738323,
+        "caption": "Player Death",
+        "description": "Iae has been slain by the might of a glowing sphere of harmony.",
+        "type": "DEA",
+        "date": "2026-05-27 20:54:38"
+    },
+    {
+        "id": 164738353,
+        "caption": "Player Death",
+        "description": "Iae has been slain by the might of a glowing sphere of harmony.",
+        "type": "DEA",
+        "date": "2026-05-27 20:57:47"
     }
 ]
