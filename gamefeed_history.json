@@ -34235,5 +34235,82 @@
         "description": "Karrack was slain by misadventure.",
         "type": "DEA",
         "date": "2026-05-26 22:03:43"
+    },
+    {
+        "id": 164733935,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-27 01:01:12"
+    },
+    {
+        "id": 164734021,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-27 01:26:26"
+    },
+    {
+        "id": 164734066,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-27 01:28:32"
+    },
+    {
+        "id": 164734076,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-27 01:28:48"
+    },
+    {
+        "id": 164734085,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-27 01:29:02"
+    },
+    {
+        "id": 164734119,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-27 01:29:24"
+    },
+    {
+        "id": 164734146,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-27 01:29:52"
+    },
+    {
+        "id": 164734171,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-27 01:30:14"
+    },
+    {
+        "id": 164734198,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Efarihm has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-05-27 01:31:17"
+    },
+    {
+        "id": 164734223,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-27 01:39:47"
+    },
+    {
+        "id": 164734247,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-27 01:41:13"
     }
 ]
