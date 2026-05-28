@@ -34410,5 +34410,40 @@
         "description": "A ghostly battlecharger has brought war to Exeryte, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-05-28 02:46:41"
+    },
+    {
+        "id": 164744401,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-28 21:49:28"
+    },
+    {
+        "id": 164744411,
+        "caption": "Player Death",
+        "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-28 21:49:41"
+    },
+    {
+        "id": 164744440,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-28 21:52:10"
+    },
+    {
+        "id": 164744474,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-28 21:52:22"
+    },
+    {
+        "id": 164744513,
+        "caption": "Player Death",
+        "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-28 22:00:16"
     }
 ]
