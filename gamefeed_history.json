@@ -34487,5 +34487,12 @@
         "description": "Body dissolving into sludge, Argilent has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-05-29 21:50:32"
+    },
+    {
+        "id": 164749653,
+        "caption": "Player Death",
+        "description": "Shango has been slain by the might of a king of justice.",
+        "type": "DEA",
+        "date": "2026-05-29 23:30:21"
     }
 ]
