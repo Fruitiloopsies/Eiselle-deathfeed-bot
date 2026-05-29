@@ -34445,5 +34445,40 @@
         "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-05-28 22:00:16"
+    },
+    {
+        "id": 164745078,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Teread, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-29 01:12:21"
+    },
+    {
+        "id": 164745086,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-29 01:13:04"
+    },
+    {
+        "id": 164745273,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Teread, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-29 01:43:22"
+    },
+    {
+        "id": 164745296,
+        "caption": "Player Death",
+        "description": "Efarihm has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-29 01:46:48"
+    },
+    {
+        "id": 164745307,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-29 01:49:01"
     }
 ]
