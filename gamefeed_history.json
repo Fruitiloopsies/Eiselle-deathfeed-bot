@@ -34494,5 +34494,61 @@
         "description": "Shango has been slain by the might of a king of justice.",
         "type": "DEA",
         "date": "2026-05-29 23:30:21"
+    },
+    {
+        "id": 164750498,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Teread, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-05-30 02:39:01"
+    },
+    {
+        "id": 164750527,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-30 02:44:29"
+    },
+    {
+        "id": 164750541,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-30 02:47:14"
+    },
+    {
+        "id": 164750566,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-30 02:47:41"
+    },
+    {
+        "id": 164750624,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-30 02:48:21"
+    },
+    {
+        "id": 164750632,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-30 02:48:32"
+    },
+    {
+        "id": 164750642,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-05-30 02:48:43"
+    },
+    {
+        "id": 164750693,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-05-30 02:55:09"
     }
 ]
