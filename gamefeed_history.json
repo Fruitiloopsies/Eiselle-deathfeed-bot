@@ -34550,5 +34550,12 @@
         "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-05-30 02:55:09"
+    },
+    {
+        "id": 164752407,
+        "caption": "Player Death",
+        "description": "The almighty beetle has glutted itself upon the offered body of Naihemia.",
+        "type": "DEA",
+        "date": "2026-05-30 11:12:23"
     }
 ]
