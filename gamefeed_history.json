@@ -34557,5 +34557,33 @@
         "description": "The almighty beetle has glutted itself upon the offered body of Naihemia.",
         "type": "DEA",
         "date": "2026-05-30 11:12:23"
+    },
+    {
+        "id": 164754729,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-30 22:38:53"
+    },
+    {
+        "id": 164754753,
+        "caption": "Player Death",
+        "description": "Argilent has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-30 22:38:58"
+    },
+    {
+        "id": 164754762,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-05-30 22:39:23"
+    },
+    {
+        "id": 164754857,
+        "caption": "Player Death",
+        "description": "The gnawing thirst of the bat has been temporarily slaked by Naihemia.",
+        "type": "DEA",
+        "date": "2026-05-30 22:55:09"
     }
 ]
