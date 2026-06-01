@@ -34627,5 +34627,12 @@
         "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-06-01 01:19:40"
+    },
+    {
+        "id": 164762395,
+        "caption": "Player Death",
+        "description": "The gnawing thirst of the bat has been temporarily slaked by Naihemia.",
+        "type": "DEA",
+        "date": "2026-06-01 10:56:57"
     }
 ]
