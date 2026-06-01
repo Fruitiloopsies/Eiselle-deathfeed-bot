@@ -34634,5 +34634,12 @@
         "description": "The gnawing thirst of the bat has been temporarily slaked by Naihemia.",
         "type": "DEA",
         "date": "2026-06-01 10:56:57"
+    },
+    {
+        "id": 164765482,
+        "caption": "Player Death",
+        "description": "Birdie was slain by Birdie (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-06-01 22:16:00"
     }
 ]
