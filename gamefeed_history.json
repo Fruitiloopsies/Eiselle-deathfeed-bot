@@ -34585,5 +34585,47 @@
         "description": "The gnawing thirst of the bat has been temporarily slaked by Naihemia.",
         "type": "DEA",
         "date": "2026-05-30 22:55:09"
+    },
+    {
+        "id": 164759990,
+        "caption": "Player Death",
+        "description": "Faragan has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-01 00:28:53"
+    },
+    {
+        "id": 164760250,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-01 01:03:01"
+    },
+    {
+        "id": 164760345,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Efarihm has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-01 01:18:18"
+    },
+    {
+        "id": 164760357,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-01 01:19:25"
+    },
+    {
+        "id": 164760391,
+        "caption": "Player Death",
+        "description": "Lorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-01 01:19:35"
+    },
+    {
+        "id": 164760411,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-01 01:19:40"
     }
 ]
