@@ -34641,5 +34641,110 @@
         "description": "Birdie was slain by Birdie (Victim had 100% the might).",
         "type": "DEA",
         "date": "2026-06-01 22:16:00"
+    },
+    {
+        "id": 164766467,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-02 02:08:53"
+    },
+    {
+        "id": 164766531,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-02 02:21:57"
+    },
+    {
+        "id": 164766541,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-02 02:23:01"
+    },
+    {
+        "id": 164766552,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-02 02:24:10"
+    },
+    {
+        "id": 164766575,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-02 02:24:11"
+    },
+    {
+        "id": 164766587,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-02 02:25:43"
+    },
+    {
+        "id": 164766656,
+        "caption": "Player Death",
+        "description": "Aramantos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-02 02:26:36"
+    },
+    {
+        "id": 164766683,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-02 02:26:39"
+    },
+    {
+        "id": 164766717,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-02 02:26:44"
+    },
+    {
+        "id": 164766745,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-02 02:27:34"
+    },
+    {
+        "id": 164766816,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-02 02:34:04"
+    },
+    {
+        "id": 164766832,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-02 02:35:50"
+    },
+    {
+        "id": 164766890,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-02 02:36:04"
+    },
+    {
+        "id": 164766945,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-02 02:36:08"
+    },
+    {
+        "id": 164767286,
+        "caption": "Player Death",
+        "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
+        "type": "DEA",
+        "date": "2026-06-02 03:25:05"
     }
 ]
