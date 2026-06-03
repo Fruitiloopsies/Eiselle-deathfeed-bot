@@ -34753,5 +34753,61 @@
         "description": "Karrack was slain by Shango (Victim had 90% the might).",
         "type": "DEA",
         "date": "2026-06-03 00:44:27"
+    },
+    {
+        "id": 164772174,
+        "caption": "Player Death",
+        "description": "Jolanthe was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-03 02:10:54"
+    },
+    {
+        "id": 164772368,
+        "caption": "Player Death",
+        "description": "Zynna was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-03 02:34:50"
+    },
+    {
+        "id": 164772517,
+        "caption": "Player Death",
+        "description": "Lorn was slain by Malayn (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-06-03 02:54:02"
+    },
+    {
+        "id": 164773103,
+        "caption": "Player Death",
+        "description": "Alainna has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2026-06-03 04:52:45"
+    },
+    {
+        "id": 164773255,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Shango (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-06-03 05:37:22"
+    },
+    {
+        "id": 164773318,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Shango (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-06-03 05:40:54"
+    },
+    {
+        "id": 164773373,
+        "caption": "Player Death",
+        "description": "Shango was slain by Ayisdra (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2026-06-03 05:44:06"
+    },
+    {
+        "id": 164773423,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Shango (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-06-03 05:46:26"
     }
 ]
