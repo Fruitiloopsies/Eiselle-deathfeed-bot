@@ -34746,5 +34746,12 @@
         "description": "Alainna has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2026-06-02 03:25:05"
+    },
+    {
+        "id": 164771581,
+        "caption": "Player Death",
+        "description": "Karrack was slain by Shango (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-06-03 00:44:27"
     }
 ]
