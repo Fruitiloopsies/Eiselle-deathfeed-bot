@@ -34809,5 +34809,19 @@
         "description": "Ayisdra was slain by Shango (Victim had 90% the might).",
         "type": "DEA",
         "date": "2026-06-03 05:46:26"
+    },
+    {
+        "id": 164775474,
+        "caption": "Player Death",
+        "description": "Vagan was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-03 15:21:09"
+    },
+    {
+        "id": 164775482,
+        "caption": "Player Death",
+        "description": "Vagan was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-03 15:24:15"
     }
 ]
