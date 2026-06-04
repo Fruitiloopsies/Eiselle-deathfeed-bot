@@ -34823,5 +34823,12 @@
         "description": "Vagan was slain by misadventure.",
         "type": "DEA",
         "date": "2026-06-03 15:24:15"
+    },
+    {
+        "id": 164777316,
+        "caption": "Player Death",
+        "description": "Hinic has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2026-06-04 00:13:20"
     }
 ]
