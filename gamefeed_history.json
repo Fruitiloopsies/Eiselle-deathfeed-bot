@@ -34963,5 +34963,47 @@
         "description": "Sameya has frozen into fatal catatonia, victim to a monstrous ice devil.",
         "type": "DEA",
         "date": "2026-06-04 03:09:49"
+    },
+    {
+        "id": 164781179,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Aramantos has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-04 19:34:38"
+    },
+    {
+        "id": 164781206,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-04 19:34:38"
+    },
+    {
+        "id": 164781262,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-04 19:35:10"
+    },
+    {
+        "id": 164781286,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-04 19:36:13"
+    },
+    {
+        "id": 164781342,
+        "caption": "Player Death",
+        "description": "Aramantos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-04 19:37:28"
+    },
+    {
+        "id": 164781369,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-04 19:37:58"
     }
 ]
