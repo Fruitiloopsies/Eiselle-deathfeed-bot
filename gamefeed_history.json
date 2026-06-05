@@ -35159,5 +35159,19 @@
         "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-06-05 20:33:36"
+    },
+    {
+        "id": 164787426,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-05 21:55:24"
+    },
+    {
+        "id": 164787550,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-05 22:34:35"
     }
 ]
