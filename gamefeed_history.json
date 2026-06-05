@@ -35103,5 +35103,19 @@
         "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-06-05 02:34:09"
+    },
+    {
+        "id": 164785453,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-05 16:32:42"
+    },
+    {
+        "id": 164785487,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Aramantos has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-05 16:33:14"
     }
 ]
