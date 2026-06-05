@@ -35005,5 +35005,26 @@
         "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-06-04 19:37:58"
+    },
+    {
+        "id": 164782048,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-04 23:53:02"
+    },
+    {
+        "id": 164782315,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-05 01:10:52"
+    },
+    {
+        "id": 164782321,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-05 01:11:01"
     }
 ]
