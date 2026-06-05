@@ -35124,5 +35124,40 @@
         "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2026-06-05 19:50:06"
+    },
+    {
+        "id": 164786840,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-05 20:23:01"
+    },
+    {
+        "id": 164786857,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-05 20:28:51"
+    },
+    {
+        "id": 164786892,
+        "caption": "Player Death",
+        "description": "Aramantos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-05 20:29:31"
+    },
+    {
+        "id": 164786926,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Faragan, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-05 20:30:03"
+    },
+    {
+        "id": 164786956,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-05 20:33:36"
     }
 ]
