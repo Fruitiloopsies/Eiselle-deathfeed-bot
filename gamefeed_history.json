@@ -35117,5 +35117,12 @@
         "description": "Body dissolving into sludge, Aramantos has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-06-05 16:33:14"
+    },
+    {
+        "id": 164786651,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-05 19:50:06"
     }
 ]
