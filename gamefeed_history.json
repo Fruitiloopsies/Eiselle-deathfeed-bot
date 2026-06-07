@@ -35537,5 +35537,12 @@
         "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-06-07 16:25:34"
+    },
+    {
+        "id": 164801122,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-07 21:45:35"
     }
 ]
