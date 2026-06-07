@@ -35460,5 +35460,82 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-06-07 03:25:21"
+    },
+    {
+        "id": 164799681,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Exeryte has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-07 16:19:29"
+    },
+    {
+        "id": 164799736,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-07 16:19:39"
+    },
+    {
+        "id": 164799791,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Efarihm has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-07 16:20:00"
+    },
+    {
+        "id": 164799803,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-07 16:21:33"
+    },
+    {
+        "id": 164799861,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Efarihm, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-07 16:22:02"
+    },
+    {
+        "id": 164799873,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-07 16:23:29"
+    },
+    {
+        "id": 164799929,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-07 16:24:18"
+    },
+    {
+        "id": 164799984,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-07 16:24:33"
+    },
+    {
+        "id": 164800039,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-07 16:24:48"
+    },
+    {
+        "id": 164800054,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-07 16:25:27"
+    },
+    {
+        "id": 164800065,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-07 16:25:34"
     }
 ]
