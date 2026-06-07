@@ -35397,5 +35397,68 @@
         "description": "A ghostly battlecharger has brought war to Faragan, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-06-06 19:25:58"
+    },
+    {
+        "id": 164796680,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-07 01:55:01"
+    },
+    {
+        "id": 164796690,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-07 01:56:46"
+    },
+    {
+        "id": 164796730,
+        "caption": "Player Death",
+        "description": "Aramantos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-07 01:57:45"
+    },
+    {
+        "id": 164796756,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-07 01:57:59"
+    },
+    {
+        "id": 164796764,
+        "caption": "Player Death",
+        "description": "Ayisdra has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-07 01:58:05"
+    },
+    {
+        "id": 164796824,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-07 01:59:06"
+    },
+    {
+        "id": 164796882,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-07 01:59:13"
+    },
+    {
+        "id": 164796939,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-07 02:04:27"
+    },
+    {
+        "id": 164797570,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-06-07 03:25:21"
     }
 ]
