@@ -35656,5 +35656,19 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-06-08 03:56:15"
+    },
+    {
+        "id": 164804874,
+        "caption": "Player Death",
+        "description": "Iae has been slain by the might of a glowing sphere of harmony.",
+        "type": "DEA",
+        "date": "2026-06-08 11:54:02"
+    },
+    {
+        "id": 164805224,
+        "caption": "Player Death",
+        "description": "Aramantos has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-06-08 13:47:36"
     }
 ]
