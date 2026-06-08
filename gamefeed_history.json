@@ -35670,5 +35670,12 @@
         "description": "Aramantos has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-06-08 13:47:36"
+    },
+    {
+        "id": 164807632,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-08 23:34:08"
     }
 ]
