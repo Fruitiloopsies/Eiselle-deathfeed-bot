@@ -35768,5 +35768,117 @@
         "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-06-10 00:00:08"
+    },
+    {
+        "id": 164812318,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-10 00:19:25"
+    },
+    {
+        "id": 164812485,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-10 00:49:50"
+    },
+    {
+        "id": 164812496,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-10 00:50:15"
+    },
+    {
+        "id": 164812520,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Isana has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-10 00:50:31"
+    },
+    {
+        "id": 164812527,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-10 00:51:06"
+    },
+    {
+        "id": 164812537,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-10 00:51:51"
+    },
+    {
+        "id": 164812549,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-10 00:52:46"
+    },
+    {
+        "id": 164812573,
+        "caption": "Player Death",
+        "description": "Efarihm has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-10 00:53:33"
+    },
+    {
+        "id": 164812584,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Teread has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-10 00:53:52"
+    },
+    {
+        "id": 164812605,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Efarihm, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-10 00:59:40"
+    },
+    {
+        "id": 164812616,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-10 01:00:04"
+    },
+    {
+        "id": 164812640,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-10 01:02:20"
+    },
+    {
+        "id": 164812664,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-10 01:02:36"
+    },
+    {
+        "id": 164812723,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Teread has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-10 01:04:06"
+    },
+    {
+        "id": 164812732,
+        "caption": "Player Death",
+        "description": "Efarihm has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-10 01:04:26"
+    },
+    {
+        "id": 164812744,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-10 01:05:44"
     }
 ]
