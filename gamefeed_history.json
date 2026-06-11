@@ -35922,5 +35922,12 @@
         "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-06-11 01:48:30"
+    },
+    {
+        "id": 164819211,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-06-11 05:29:10"
     }
 ]
