@@ -35901,5 +35901,26 @@
         "description": "Argilent has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-06-10 09:56:30"
+    },
+    {
+        "id": 164817578,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-11 01:48:28"
+    },
+    {
+        "id": 164817589,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aramantos, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-11 01:48:28"
+    },
+    {
+        "id": 164817615,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-11 01:48:30"
     }
 ]
