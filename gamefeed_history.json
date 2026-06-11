@@ -35929,5 +35929,19 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-06-11 05:29:10"
+    },
+    {
+        "id": 164820750,
+        "caption": "Player Death",
+        "description": "Aramantos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-11 16:56:24"
+    },
+    {
+        "id": 164820776,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-11 16:56:40"
     }
 ]
