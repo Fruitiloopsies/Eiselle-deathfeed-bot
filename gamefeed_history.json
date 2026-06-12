@@ -36041,5 +36041,12 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Tylwyth, petrifying him for eternity.",
         "type": "DEA",
         "date": "2026-06-12 03:09:16"
+    },
+    {
+        "id": 164824483,
+        "caption": "Player Death",
+        "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-06-12 06:00:56"
     }
 ]
