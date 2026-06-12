@@ -35943,5 +35943,103 @@
         "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-06-11 16:56:40"
+    },
+    {
+        "id": 164822157,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aramantos, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-11 23:58:03"
+    },
+    {
+        "id": 164822185,
+        "caption": "Player Death",
+        "description": "Ayisdra has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-11 23:58:59"
+    },
+    {
+        "id": 164822237,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-11 23:59:10"
+    },
+    {
+        "id": 164822304,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-12 00:01:44"
+    },
+    {
+        "id": 164822359,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-12 00:01:48"
+    },
+    {
+        "id": 164823292,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Khallil, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-06-12 02:23:16"
+    },
+    {
+        "id": 164823295,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Khallil, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-06-12 02:23:24"
+    },
+    {
+        "id": 164823309,
+        "caption": "Player Death",
+        "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-06-12 02:34:55"
+    },
+    {
+        "id": 164823548,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Khallil, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-06-12 02:57:43"
+    },
+    {
+        "id": 164823577,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Khallil, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-06-12 03:08:55"
+    },
+    {
+        "id": 164823579,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Laina, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-06-12 03:08:57"
+    },
+    {
+        "id": 164823592,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Isana, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-06-12 03:08:58"
+    },
+    {
+        "id": 164823599,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Teread, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-06-12 03:09:04"
+    },
+    {
+        "id": 164823608,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Tylwyth, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-06-12 03:09:16"
     }
 ]
