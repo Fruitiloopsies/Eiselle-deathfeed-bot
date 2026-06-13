@@ -36097,5 +36097,12 @@
         "description": "Argilent has frozen into fatal catatonia, victim to a monstrous ice devil.",
         "type": "DEA",
         "date": "2026-06-13 11:28:20"
+    },
+    {
+        "id": 164831846,
+        "caption": "Player Death",
+        "description": "Meluithe has been slain by the might of a multi-stemmed fungoid basidion.",
+        "type": "DEA",
+        "date": "2026-06-13 13:56:24"
     }
 ]
