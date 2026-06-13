@@ -36048,5 +36048,47 @@
         "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-06-12 06:00:56"
+    },
+    {
+        "id": 164828628,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-06-13 03:02:45"
+    },
+    {
+        "id": 164828858,
+        "caption": "Player Death",
+        "description": "Yinuish has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-13 03:41:14"
+    },
+    {
+        "id": 164828917,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-13 03:42:12"
+    },
+    {
+        "id": 164828941,
+        "caption": "Player Death",
+        "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-13 03:42:14"
+    },
+    {
+        "id": 164829013,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Aramantos has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-13 03:42:26"
+    },
+    {
+        "id": 164829039,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Qoivhae has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-13 03:42:38"
     }
 ]
