@@ -36090,5 +36090,12 @@
         "description": "Marked for death by a clangoru artificer, Qoivhae has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-06-13 03:42:38"
+    },
+    {
+        "id": 164830928,
+        "caption": "Player Death",
+        "description": "Argilent has frozen into fatal catatonia, victim to a monstrous ice devil.",
+        "type": "DEA",
+        "date": "2026-06-13 11:28:20"
     }
 ]
