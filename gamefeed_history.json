@@ -36125,5 +36125,12 @@
         "description": "Exeryte was slain by misadventure.",
         "type": "DEA",
         "date": "2026-06-14 00:52:10"
+    },
+    {
+        "id": 164836110,
+        "caption": "Player Death",
+        "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-06-14 06:05:57"
     }
 ]
