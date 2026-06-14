@@ -36139,5 +36139,12 @@
         "description": "Naralis has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-06-14 17:52:39"
+    },
+    {
+        "id": 164839652,
+        "caption": "Player Death",
+        "description": "Azurai has been subsumed by a bloated gorgog.",
+        "type": "DEA",
+        "date": "2026-06-14 22:03:40"
     }
 ]
