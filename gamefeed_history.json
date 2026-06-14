@@ -36104,5 +36104,26 @@
         "description": "Meluithe has been slain by the might of a multi-stemmed fungoid basidion.",
         "type": "DEA",
         "date": "2026-06-13 13:56:24"
+    },
+    {
+        "id": 164834403,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Yinuish has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-14 00:51:12"
+    },
+    {
+        "id": 164834469,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-14 00:52:09"
+    },
+    {
+        "id": 164834503,
+        "caption": "Player Death",
+        "description": "Exeryte was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-14 00:52:10"
     }
 ]
