@@ -36300,5 +36300,47 @@
         "description": "Tuilinn was slain by misadventure.",
         "type": "DEA",
         "date": "2026-06-15 18:08:47"
+    },
+    {
+        "id": 164845446,
+        "caption": "Player Death",
+        "description": "Sameya has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-15 21:34:16"
+    },
+    {
+        "id": 164845462,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-15 21:36:31"
+    },
+    {
+        "id": 164845486,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-15 21:36:37"
+    },
+    {
+        "id": 164845522,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-15 21:37:10"
+    },
+    {
+        "id": 164845577,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-15 21:37:15"
+    },
+    {
+        "id": 164845607,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Aramantos has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-15 21:38:00"
     }
 ]
