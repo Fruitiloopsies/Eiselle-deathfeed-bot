@@ -36230,5 +36230,75 @@
         "description": "Elarin was slain by Exeryte (Victim had 100% the might).",
         "type": "DEA",
         "date": "2026-06-15 13:11:55"
+    },
+    {
+        "id": 164843965,
+        "caption": "Player Death",
+        "description": "Jinan has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-15 17:17:43"
+    },
+    {
+        "id": 164843978,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Jinan, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-15 17:17:53"
+    },
+    {
+        "id": 164843991,
+        "caption": "Player Death",
+        "description": "Gilda has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-15 17:17:55"
+    },
+    {
+        "id": 164844134,
+        "caption": "Player Death",
+        "description": "Argilent has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-15 18:00:39"
+    },
+    {
+        "id": 164844143,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-15 18:00:43"
+    },
+    {
+        "id": 164844169,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Yinuish, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-15 18:01:11"
+    },
+    {
+        "id": 164844227,
+        "caption": "Player Death",
+        "description": "Faragan has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-15 18:02:48"
+    },
+    {
+        "id": 164844256,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-15 18:02:52"
+    },
+    {
+        "id": 164844290,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-15 18:02:56"
+    },
+    {
+        "id": 164844362,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-15 18:08:47"
     }
 ]
