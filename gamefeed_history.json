@@ -36195,5 +36195,12 @@
         "description": "A ghostly battlecharger has brought war to Sameya, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2026-06-15 01:12:34"
+    },
+    {
+        "id": 164840984,
+        "caption": "Player Death",
+        "description": "Alainna has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2026-06-15 02:29:22"
     }
 ]
