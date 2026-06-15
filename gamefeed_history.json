@@ -36202,5 +36202,33 @@
         "description": "Alainna has become the delicious main course for a ravenous fesix.",
         "type": "DEA",
         "date": "2026-06-15 02:29:22"
+    },
+    {
+        "id": 164841980,
+        "caption": "Player Death",
+        "description": "Elarin has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-06-15 08:41:33"
+    },
+    {
+        "id": 164842663,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Exeryte (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2026-06-15 13:07:02"
+    },
+    {
+        "id": 164842688,
+        "caption": "Player Death",
+        "description": "Huskii was slain by Exeryte (Victim had 110% the might).",
+        "type": "DEA",
+        "date": "2026-06-15 13:11:09"
+    },
+    {
+        "id": 164842711,
+        "caption": "Player Death",
+        "description": "Elarin was slain by Exeryte (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-06-15 13:11:55"
     }
 ]
