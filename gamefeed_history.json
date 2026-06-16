@@ -36482,5 +36482,26 @@
         "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
         "type": "DEA",
         "date": "2026-06-16 06:06:06"
+    },
+    {
+        "id": 164849515,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Argilent has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-16 14:13:21"
+    },
+    {
+        "id": 164849580,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Exeryte, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-16 14:13:41"
+    },
+    {
+        "id": 164849635,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Yinuish has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-16 14:13:55"
     }
 ]
