@@ -36342,5 +36342,131 @@
         "description": "Body dissolving into sludge, Aramantos has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-06-15 21:38:00"
+    },
+    {
+        "id": 164845974,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Teread has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-15 23:45:33"
+    },
+    {
+        "id": 164846234,
+        "caption": "Player Death",
+        "description": "Sameya has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-16 00:56:19"
+    },
+    {
+        "id": 164846340,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-16 01:24:18"
+    },
+    {
+        "id": 164846349,
+        "caption": "Player Death",
+        "description": "Sameya has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-16 01:25:13"
+    },
+    {
+        "id": 164846353,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Yinuish has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-16 01:27:06"
+    },
+    {
+        "id": 164846411,
+        "caption": "Player Death",
+        "description": "Aramantos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-16 01:27:18"
+    },
+    {
+        "id": 164846437,
+        "caption": "Player Death",
+        "description": "Exeryte was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-16 01:27:38"
+    },
+    {
+        "id": 164846492,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Naralis, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-16 01:27:49"
+    },
+    {
+        "id": 164846507,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-16 01:27:55"
+    },
+    {
+        "id": 164846531,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Sameya, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-16 01:28:16"
+    },
+    {
+        "id": 164846547,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-16 01:28:55"
+    },
+    {
+        "id": 164846600,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Naralis has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-16 01:31:58"
+    },
+    {
+        "id": 164846615,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Sameya, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-16 01:32:10"
+    },
+    {
+        "id": 164846622,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-16 01:35:32"
+    },
+    {
+        "id": 164846647,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-16 01:35:59"
+    },
+    {
+        "id": 164846663,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-16 01:36:42"
+    },
+    {
+        "id": 164846687,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aramantos, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-16 01:36:53"
+    },
+    {
+        "id": 164846848,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-16 02:02:24"
     }
 ]
