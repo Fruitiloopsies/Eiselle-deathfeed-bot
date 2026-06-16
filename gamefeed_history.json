@@ -36468,5 +36468,19 @@
         "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-06-16 02:02:24"
+    },
+    {
+        "id": 164847097,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-16 02:33:30"
+    },
+    {
+        "id": 164847960,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
+        "type": "DEA",
+        "date": "2026-06-16 06:06:06"
     }
 ]
