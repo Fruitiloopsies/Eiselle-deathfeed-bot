@@ -36503,5 +36503,47 @@
         "description": "Body dissolving into sludge, Yinuish has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-06-16 14:13:55"
+    },
+    {
+        "id": 164850604,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-16 19:47:49"
+    },
+    {
+        "id": 164850631,
+        "caption": "Player Death",
+        "description": "Faragan has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-16 19:49:06"
+    },
+    {
+        "id": 164850660,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-16 19:50:02"
+    },
+    {
+        "id": 164850717,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-16 19:51:08"
+    },
+    {
+        "id": 164850742,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Faragan has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-16 19:51:36"
+    },
+    {
+        "id": 164850774,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-16 19:53:28"
     }
 ]
