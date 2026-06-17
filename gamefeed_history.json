@@ -36636,5 +36636,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-06-17 03:56:58"
+    },
+    {
+        "id": 164854124,
+        "caption": "Player Death",
+        "description": "Exeryte became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2026-06-17 10:30:13"
     }
 ]
