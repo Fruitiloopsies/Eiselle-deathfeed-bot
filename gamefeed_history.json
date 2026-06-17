@@ -36545,5 +36545,12 @@
         "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-06-16 19:53:28"
+    },
+    {
+        "id": 164851810,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Efarihm has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-16 23:48:08"
     }
 ]
