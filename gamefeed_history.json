@@ -36713,5 +36713,12 @@
         "description": "Exeryte was slain by misadventure.",
         "type": "DEA",
         "date": "2026-06-18 00:27:31"
+    },
+    {
+        "id": 164858726,
+        "caption": "Player Death",
+        "description": "Alainna became the target of a hulking three-horned bull's violent rage.",
+        "type": "DEA",
+        "date": "2026-06-18 03:46:59"
     }
 ]
