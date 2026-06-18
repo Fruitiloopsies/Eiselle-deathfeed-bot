@@ -36643,5 +36643,75 @@
         "description": "Exeryte became the target of a hulking three-horned bull's violent rage.",
         "type": "DEA",
         "date": "2026-06-17 10:30:13"
+    },
+    {
+        "id": 164857325,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Sameya has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-18 00:12:27"
+    },
+    {
+        "id": 164857338,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-18 00:22:50"
+    },
+    {
+        "id": 164857396,
+        "caption": "Player Death",
+        "description": "Sameya has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-18 00:23:56"
+    },
+    {
+        "id": 164857439,
+        "caption": "Player Death",
+        "description": "Sameya has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-18 00:25:16"
+    },
+    {
+        "id": 164857443,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Efarihm, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-18 00:25:16"
+    },
+    {
+        "id": 164857454,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-18 00:25:59"
+    },
+    {
+        "id": 164857511,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-18 00:26:41"
+    },
+    {
+        "id": 164857567,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-18 00:26:47"
+    },
+    {
+        "id": 164857591,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-18 00:27:03"
+    },
+    {
+        "id": 164857602,
+        "caption": "Player Death",
+        "description": "Exeryte was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-18 00:27:31"
     }
 ]
