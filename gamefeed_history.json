@@ -36720,5 +36720,12 @@
         "description": "Alainna became the target of a hulking three-horned bull's violent rage.",
         "type": "DEA",
         "date": "2026-06-18 03:46:59"
+    },
+    {
+        "id": 164862166,
+        "caption": "Player Death",
+        "description": "Freja has been slain by the might of a manifested paradox of knowledge.",
+        "type": "DEA",
+        "date": "2026-06-18 22:32:01"
     }
 ]
