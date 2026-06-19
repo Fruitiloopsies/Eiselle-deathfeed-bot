@@ -36769,5 +36769,12 @@
         "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-06-19 01:50:02"
+    },
+    {
+        "id": 164863981,
+        "caption": "Player Death",
+        "description": "Khallil was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-19 04:07:42"
     }
 ]
