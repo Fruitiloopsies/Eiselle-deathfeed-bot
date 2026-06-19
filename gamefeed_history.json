@@ -36727,5 +36727,47 @@
         "description": "Freja has been slain by the might of a manifested paradox of knowledge.",
         "type": "DEA",
         "date": "2026-06-18 22:32:01"
+    },
+    {
+        "id": 164862932,
+        "caption": "Player Death",
+        "description": "Lorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-19 01:42:00"
+    },
+    {
+        "id": 164862954,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-19 01:42:34"
+    },
+    {
+        "id": 164863021,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-19 01:44:08"
+    },
+    {
+        "id": 164863047,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-19 01:44:30"
+    },
+    {
+        "id": 164863115,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-19 01:44:54"
+    },
+    {
+        "id": 164863144,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-19 01:50:02"
     }
 ]
