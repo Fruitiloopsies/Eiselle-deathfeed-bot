@@ -36993,5 +36993,12 @@
         "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-06-20 18:43:36"
+    },
+    {
+        "id": 164873715,
+        "caption": "Player Death",
+        "description": "Yushimabet has been slain by the might of a two-headed hamster of chaos.",
+        "type": "DEA",
+        "date": "2026-06-20 21:35:25"
     }
 ]
