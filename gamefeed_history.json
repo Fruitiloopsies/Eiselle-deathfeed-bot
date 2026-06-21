@@ -37000,5 +37000,96 @@
         "description": "Yushimabet has been slain by the might of a two-headed hamster of chaos.",
         "type": "DEA",
         "date": "2026-06-20 21:35:25"
+    },
+    {
+        "id": 164875406,
+        "caption": "Player Death",
+        "description": "Lorn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-21 02:44:30"
+    },
+    {
+        "id": 164875442,
+        "caption": "Player Death",
+        "description": "Sameya has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-21 02:45:15"
+    },
+    {
+        "id": 164875485,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Naralis has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-21 02:49:17"
+    },
+    {
+        "id": 164875503,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-21 02:50:04"
+    },
+    {
+        "id": 164875527,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Sameya, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-21 02:50:54"
+    },
+    {
+        "id": 164875532,
+        "caption": "Player Death",
+        "description": "Lorn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-21 02:50:56"
+    },
+    {
+        "id": 164875554,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-21 02:51:14"
+    },
+    {
+        "id": 164875613,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-21 02:52:16"
+    },
+    {
+        "id": 164875639,
+        "caption": "Player Death",
+        "description": "Sameya has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-21 02:52:25"
+    },
+    {
+        "id": 164875643,
+        "caption": "Player Death",
+        "description": "Faragan has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-21 02:52:26"
+    },
+    {
+        "id": 164875672,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-21 02:52:46"
+    },
+    {
+        "id": 164875687,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-21 02:52:56"
+    },
+    {
+        "id": 164876166,
+        "caption": "Player Death",
+        "description": "Alainna has become the delicious main course for a ravenous fesix.",
+        "type": "DEA",
+        "date": "2026-06-21 03:32:52"
     }
 ]
