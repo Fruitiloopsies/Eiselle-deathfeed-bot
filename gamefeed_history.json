@@ -37273,5 +37273,40 @@
         "description": "Tuilinn has been slain by the might of a champion of war.",
         "type": "DEA",
         "date": "2026-06-22 12:32:14"
+    },
+    {
+        "id": 164884802,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Argilent, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-22 17:03:28"
+    },
+    {
+        "id": 164884811,
+        "caption": "Player Death",
+        "description": "Gilda has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-22 17:04:11"
+    },
+    {
+        "id": 164884821,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-22 17:04:49"
+    },
+    {
+        "id": 164884857,
+        "caption": "Player Death",
+        "description": "Qoivhae has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-22 17:06:07"
+    },
+    {
+        "id": 164884890,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-22 17:06:25"
     }
 ]
