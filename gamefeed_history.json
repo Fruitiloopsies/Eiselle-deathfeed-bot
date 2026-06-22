@@ -37259,5 +37259,19 @@
         "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-06-22 01:34:18"
+    },
+    {
+        "id": 164883217,
+        "caption": "Player Death",
+        "description": "Argilent has frozen into fatal catatonia, victim to a monstrous ice devil.",
+        "type": "DEA",
+        "date": "2026-06-22 07:32:41"
+    },
+    {
+        "id": 164883913,
+        "caption": "Player Death",
+        "description": "Tuilinn has been slain by the might of a champion of war.",
+        "type": "DEA",
+        "date": "2026-06-22 12:32:14"
     }
 ]
