@@ -37308,5 +37308,12 @@
         "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-06-22 17:06:25"
+    },
+    {
+        "id": 164886235,
+        "caption": "Player Death",
+        "description": "Isana was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-22 22:11:38"
     }
 ]
