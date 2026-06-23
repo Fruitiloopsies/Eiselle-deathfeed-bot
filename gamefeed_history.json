@@ -37574,5 +37574,33 @@
         "description": "A ghostly battlecharger has brought war to Aramantos, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-06-23 16:01:50"
+    },
+    {
+        "id": 164891794,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-23 19:33:12"
+    },
+    {
+        "id": 164891890,
+        "caption": "Player Death",
+        "description": "Aramantos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-23 19:41:45"
+    },
+    {
+        "id": 164891916,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-23 19:42:05"
+    },
+    {
+        "id": 164891956,
+        "caption": "Player Death",
+        "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-23 19:42:54"
     }
 ]
