@@ -37602,5 +37602,19 @@
         "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-06-23 19:42:54"
+    },
+    {
+        "id": 164893161,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-23 22:51:46"
+    },
+    {
+        "id": 164893210,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-23 23:08:34"
     }
 ]
