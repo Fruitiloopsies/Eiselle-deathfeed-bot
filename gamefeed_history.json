@@ -37490,5 +37490,47 @@
         "description": "A ghostly battlecharger has brought war to Naralis, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-06-23 01:45:33"
+    },
+    {
+        "id": 164887681,
+        "caption": "Player Death",
+        "description": "Argilent's entrails have been torn out by a vicious frost fiend.",
+        "type": "DEA",
+        "date": "2026-06-23 02:30:40"
+    },
+    {
+        "id": 164888346,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-23 04:36:04"
+    },
+    {
+        "id": 164888371,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-23 04:43:28"
+    },
+    {
+        "id": 164888376,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Yinuish has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-23 04:44:28"
+    },
+    {
+        "id": 164888437,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-23 04:45:14"
+    },
+    {
+        "id": 164888442,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-23 04:45:26"
     }
 ]
