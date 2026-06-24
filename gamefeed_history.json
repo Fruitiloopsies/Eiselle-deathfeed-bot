@@ -37742,5 +37742,26 @@
         "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-06-24 01:29:42"
+    },
+    {
+        "id": 164894236,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-24 01:33:57"
+    },
+    {
+        "id": 164894295,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-24 01:38:04"
+    },
+    {
+        "id": 164895211,
+        "caption": "Player Death",
+        "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2026-06-24 03:55:55"
     }
 ]
