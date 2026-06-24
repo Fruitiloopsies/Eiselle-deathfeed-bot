@@ -37763,5 +37763,26 @@
         "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2026-06-24 03:55:55"
+    },
+    {
+        "id": 164896904,
+        "caption": "Player Death",
+        "description": "Naralis was slain by Shango (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-06-24 12:12:42"
+    },
+    {
+        "id": 164896933,
+        "caption": "Player Death",
+        "description": "Naralis was slain by Shango (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-06-24 12:19:13"
+    },
+    {
+        "id": 164896953,
+        "caption": "Player Death",
+        "description": "Naralis was slain by Freja (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2026-06-24 12:23:05"
     }
 ]
