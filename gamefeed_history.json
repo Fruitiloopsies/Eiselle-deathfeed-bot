@@ -38099,5 +38099,12 @@
         "description": "Qoivhae was slain by misadventure.",
         "type": "DEA",
         "date": "2026-06-25 05:36:13"
+    },
+    {
+        "id": 164903513,
+        "caption": "Player Death",
+        "description": "Iae has been slain by the might of a glowing sphere of harmony.",
+        "type": "DEA",
+        "date": "2026-06-25 12:23:45"
     }
 ]
