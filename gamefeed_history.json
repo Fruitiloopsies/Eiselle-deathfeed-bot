@@ -38204,5 +38204,26 @@
         "description": "A ghostly battlecharger has brought war to Khallil, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-06-25 21:47:43"
+    },
+    {
+        "id": 164905735,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 21:52:59"
+    },
+    {
+        "id": 164905747,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 22:04:52"
+    },
+    {
+        "id": 164906021,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 22:58:50"
     }
 ]
