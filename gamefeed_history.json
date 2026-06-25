@@ -37959,5 +37959,131 @@
         "description": "A ghostly battlecharger has brought war to Khallil, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-06-24 23:50:00"
+    },
+    {
+        "id": 164899937,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 00:10:34"
+    },
+    {
+        "id": 164899950,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 00:16:08"
+    },
+    {
+        "id": 164899961,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 00:20:34"
+    },
+    {
+        "id": 164899972,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 00:26:12"
+    },
+    {
+        "id": 164899988,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 00:31:43"
+    },
+    {
+        "id": 164900001,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 00:38:15"
+    },
+    {
+        "id": 164900126,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-25 01:11:04"
+    },
+    {
+        "id": 164900168,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 01:12:07"
+    },
+    {
+        "id": 164900372,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 01:33:16"
+    },
+    {
+        "id": 164900381,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Ayisdra has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-25 01:35:19"
+    },
+    {
+        "id": 164900433,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Sameya has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-25 01:35:48"
+    },
+    {
+        "id": 164900439,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 01:36:24"
+    },
+    {
+        "id": 164900456,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-25 01:37:35"
+    },
+    {
+        "id": 164900513,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-25 01:39:49"
+    },
+    {
+        "id": 164900528,
+        "caption": "Player Death",
+        "description": "Sameya has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 01:39:52"
+    },
+    {
+        "id": 164900532,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-25 01:39:55"
+    },
+    {
+        "id": 164900590,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-25 01:43:20"
+    },
+    {
+        "id": 164900596,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Naralis, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-25 01:44:15"
     }
 ]
