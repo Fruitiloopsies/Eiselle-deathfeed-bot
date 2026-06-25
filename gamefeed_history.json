@@ -38085,5 +38085,19 @@
         "description": "A ghostly battlecharger has brought war to Naralis, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-06-25 01:44:15"
+    },
+    {
+        "id": 164901772,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-06-25 04:46:36"
+    },
+    {
+        "id": 164902048,
+        "caption": "Player Death",
+        "description": "Qoivhae was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-25 05:36:13"
     }
 ]
