@@ -38106,5 +38106,12 @@
         "description": "Iae has been slain by the might of a glowing sphere of harmony.",
         "type": "DEA",
         "date": "2026-06-25 12:23:45"
+    },
+    {
+        "id": 164904375,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Selitos, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-25 16:56:26"
     }
 ]
