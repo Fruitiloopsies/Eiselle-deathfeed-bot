@@ -38113,5 +38113,61 @@
         "description": "A ghostly battlecharger has brought war to Selitos, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-06-25 16:56:26"
+    },
+    {
+        "id": 164904621,
+        "caption": "Player Death",
+        "description": "Sameya has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-25 18:46:54"
+    },
+    {
+        "id": 164904625,
+        "caption": "Player Death",
+        "description": "Selitos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-25 18:47:19"
+    },
+    {
+        "id": 164904660,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 18:48:06"
+    },
+    {
+        "id": 164904684,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 18:48:22"
+    },
+    {
+        "id": 164904709,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-25 18:49:07"
+    },
+    {
+        "id": 164904745,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Faragan has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-25 18:49:07"
+    },
+    {
+        "id": 164905026,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 19:25:07"
+    },
+    {
+        "id": 164905176,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-25 19:46:35"
     }
 ]
