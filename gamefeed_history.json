@@ -38295,5 +38295,19 @@
         "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-06-26 00:29:01"
+    },
+    {
+        "id": 164907164,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Yushimabet, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-06-26 02:42:15"
+    },
+    {
+        "id": 164907862,
+        "caption": "Player Death",
+        "description": "Lorn has been slain by the might of a two-headed hamster of chaos.",
+        "type": "DEA",
+        "date": "2026-06-26 04:47:04"
     }
 ]
