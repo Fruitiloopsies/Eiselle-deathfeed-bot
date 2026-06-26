@@ -38372,5 +38372,12 @@
         "description": "Marked for death by a clangoru artificer, Aramantos has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-06-26 16:40:38"
+    },
+    {
+        "id": 164911060,
+        "caption": "Player Death",
+        "description": "Pyawr has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-26 18:21:44"
     }
 ]
