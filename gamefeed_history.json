@@ -38225,5 +38225,75 @@
         "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-06-25 22:58:50"
+    },
+    {
+        "id": 164906082,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-25 23:38:11"
+    },
+    {
+        "id": 164906146,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Khallil, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-25 23:54:50"
+    },
+    {
+        "id": 164906225,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-26 00:03:35"
+    },
+    {
+        "id": 164906245,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-26 00:07:18"
+    },
+    {
+        "id": 164906296,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-26 00:15:51"
+    },
+    {
+        "id": 164906303,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-26 00:15:57"
+    },
+    {
+        "id": 164906348,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-26 00:20:30"
+    },
+    {
+        "id": 164906356,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-26 00:23:59"
+    },
+    {
+        "id": 164906363,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-26 00:24:00"
+    },
+    {
+        "id": 164906375,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-26 00:29:01"
     }
 ]
