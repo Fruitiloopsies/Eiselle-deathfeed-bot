@@ -38379,5 +38379,33 @@
         "description": "Pyawr has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-06-26 18:21:44"
+    },
+    {
+        "id": 164911717,
+        "caption": "Player Death",
+        "description": "Pyawr has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-26 20:19:50"
+    },
+    {
+        "id": 164911747,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-26 20:22:48"
+    },
+    {
+        "id": 164911784,
+        "caption": "Player Death",
+        "description": "Eiselle has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-26 20:23:53"
+    },
+    {
+        "id": 164911870,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-26 20:27:37"
     }
 ]
