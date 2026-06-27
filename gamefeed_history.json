@@ -38477,5 +38477,12 @@
         "description": "Body dissolving into sludge, Yinuish has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-06-27 01:44:29"
+    },
+    {
+        "id": 164919810,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-27 22:24:42"
     }
 ]
