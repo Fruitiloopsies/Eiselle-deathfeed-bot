@@ -38407,5 +38407,75 @@
         "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-06-26 20:27:37"
+    },
+    {
+        "id": 164913178,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-27 00:40:13"
+    },
+    {
+        "id": 164913516,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-27 01:18:28"
+    },
+    {
+        "id": 164913523,
+        "caption": "Player Death",
+        "description": "Sameya has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-27 01:18:29"
+    },
+    {
+        "id": 164913742,
+        "caption": "Player Death",
+        "description": "Sameya has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-27 01:37:15"
+    },
+    {
+        "id": 164913772,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-27 01:41:05"
+    },
+    {
+        "id": 164913785,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-27 01:42:03"
+    },
+    {
+        "id": 164913838,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Aramantos has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-27 01:43:59"
+    },
+    {
+        "id": 164913864,
+        "caption": "Player Death",
+        "description": "Qoivhae has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-27 01:44:29"
+    },
+    {
+        "id": 164913896,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Faragan has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-27 01:44:29"
+    },
+    {
+        "id": 164913926,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Yinuish has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-27 01:44:29"
     }
 ]
