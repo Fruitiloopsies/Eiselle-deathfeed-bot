@@ -38575,5 +38575,61 @@
         "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-06-28 01:51:59"
+    },
+    {
+        "id": 164920919,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Efarihm, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-28 01:54:29"
+    },
+    {
+        "id": 164920930,
+        "caption": "Player Death",
+        "description": "Sameya has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-28 01:55:46"
+    },
+    {
+        "id": 164920936,
+        "caption": "Player Death",
+        "description": "Aramantos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-28 01:56:46"
+    },
+    {
+        "id": 164920962,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Yinuish has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-28 01:57:56"
+    },
+    {
+        "id": 164921021,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Qoivhae has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-28 01:58:03"
+    },
+    {
+        "id": 164921055,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-28 01:58:07"
+    },
+    {
+        "id": 164921128,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-06-28 02:02:42"
+    },
+    {
+        "id": 164921188,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-28 02:04:04"
     }
 ]
