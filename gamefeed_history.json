@@ -38834,5 +38834,61 @@
         "description": "Body dissolving into sludge, Khallil has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-06-29 19:45:43"
+    },
+    {
+        "id": 164931862,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-29 20:07:42"
+    },
+    {
+        "id": 164931993,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Khallil has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-29 20:23:58"
+    },
+    {
+        "id": 164932019,
+        "caption": "Player Death",
+        "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-29 20:37:18"
+    },
+    {
+        "id": 164932065,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-29 20:38:33"
+    },
+    {
+        "id": 164932090,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-29 20:40:39"
+    },
+    {
+        "id": 164932127,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-29 20:43:29"
+    },
+    {
+        "id": 164932149,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-29 20:43:45"
+    },
+    {
+        "id": 164932201,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Eiselle has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-29 20:44:49"
     }
 ]
