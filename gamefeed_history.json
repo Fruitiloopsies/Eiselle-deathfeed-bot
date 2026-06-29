@@ -38701,5 +38701,89 @@
         "description": "Naralis was slain by Shango (Victim had 85% the might).",
         "type": "DEA",
         "date": "2026-06-28 15:17:53"
+    },
+    {
+        "id": 164927029,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-29 00:35:09"
+    },
+    {
+        "id": 164927102,
+        "caption": "Player Death",
+        "description": "Efarihm has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-29 00:53:18"
+    },
+    {
+        "id": 164927117,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-29 00:56:06"
+    },
+    {
+        "id": 164927145,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Efarihm has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-06-29 01:05:33"
+    },
+    {
+        "id": 164927311,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-29 01:30:57"
+    },
+    {
+        "id": 164927318,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-29 01:30:59"
+    },
+    {
+        "id": 164927373,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-06-29 01:32:35"
+    },
+    {
+        "id": 164927399,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-29 01:33:03"
+    },
+    {
+        "id": 164927406,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-29 01:33:32"
+    },
+    {
+        "id": 164927421,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-29 01:34:08"
+    },
+    {
+        "id": 164927432,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-29 01:34:19"
+    },
+    {
+        "id": 164927479,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-29 01:34:52"
     }
 ]
