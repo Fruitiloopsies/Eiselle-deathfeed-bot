@@ -38785,5 +38785,33 @@
         "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-06-29 01:34:52"
+    },
+    {
+        "id": 164930219,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-29 13:34:52"
+    },
+    {
+        "id": 164930323,
+        "caption": "Player Death",
+        "description": "Aramantos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-29 13:42:48"
+    },
+    {
+        "id": 164930347,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-29 13:42:58"
+    },
+    {
+        "id": 164930445,
+        "caption": "Player Death",
+        "description": "Khallil has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2026-06-29 14:25:20"
     }
 ]
