@@ -38890,5 +38890,19 @@
         "description": "Body dissolving into sludge, Eiselle has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-06-29 20:44:49"
+    },
+    {
+        "id": 164933356,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-29 22:44:50"
+    },
+    {
+        "id": 164933512,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-29 23:26:30"
     }
 ]
