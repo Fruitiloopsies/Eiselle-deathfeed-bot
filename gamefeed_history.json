@@ -39009,5 +39009,19 @@
         "description": "Body dissolving into sludge, Exeryte has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-06-30 01:39:08"
+    },
+    {
+        "id": 164934909,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-06-30 02:59:32"
+    },
+    {
+        "id": 164935348,
+        "caption": "Player Death",
+        "description": "Tylwyth was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-30 04:35:16"
     }
 ]
