@@ -39023,5 +39023,26 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2026-06-30 04:35:16"
+    },
+    {
+        "id": 164937921,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-30 17:57:12"
+    },
+    {
+        "id": 164938041,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-30 18:03:43"
+    },
+    {
+        "id": 164938066,
+        "caption": "Player Death",
+        "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-06-30 18:05:28"
     }
 ]
