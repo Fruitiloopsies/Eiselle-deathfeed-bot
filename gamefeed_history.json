@@ -39044,5 +39044,19 @@
         "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-06-30 18:05:28"
+    },
+    {
+        "id": 164939963,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-06-30 23:25:21"
+    },
+    {
+        "id": 164939974,
+        "caption": "Player Death",
+        "description": "Shango was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-06-30 23:29:37"
     }
 ]
