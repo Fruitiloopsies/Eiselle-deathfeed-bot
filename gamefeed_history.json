@@ -39058,5 +39058,89 @@
         "description": "Shango was slain by misadventure.",
         "type": "DEA",
         "date": "2026-06-30 23:29:37"
+    },
+    {
+        "id": 164940376,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-01 01:03:42"
+    },
+    {
+        "id": 164940448,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-01 01:16:37"
+    },
+    {
+        "id": 164940459,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-01 01:17:21"
+    },
+    {
+        "id": 164940466,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-01 01:18:02"
+    },
+    {
+        "id": 164940485,
+        "caption": "Player Death",
+        "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-01 01:20:57"
+    },
+    {
+        "id": 164940539,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-01 01:21:47"
+    },
+    {
+        "id": 164940615,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Sameya has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-01 01:22:53"
+    },
+    {
+        "id": 164940620,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Khallil, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-01 01:23:19"
+    },
+    {
+        "id": 164940645,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Teread has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-01 01:24:31"
+    },
+    {
+        "id": 164940657,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-01 01:24:42"
+    },
+    {
+        "id": 164940690,
+        "caption": "Player Death",
+        "description": "Naralis was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-01 01:27:22"
+    },
+    {
+        "id": 164940707,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-01 01:27:27"
     }
 ]
