@@ -39191,5 +39191,19 @@
         "description": "Marked for death by a clangoru artificer, Xenthos has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-07-01 16:46:53"
+    },
+    {
+        "id": 164945207,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-01 19:56:31"
+    },
+    {
+        "id": 164945225,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-01 19:57:38"
     }
 ]
