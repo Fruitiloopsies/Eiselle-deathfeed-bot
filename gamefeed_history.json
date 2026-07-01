@@ -39149,5 +39149,47 @@
         "description": "Yushimabet has been slain by the might of a deadly poison trap.",
         "type": "DEA",
         "date": "2026-07-01 13:12:43"
+    },
+    {
+        "id": 164944423,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Faragan has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-01 16:43:06"
+    },
+    {
+        "id": 164944453,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Xenthos has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-01 16:43:35"
+    },
+    {
+        "id": 164944510,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-01 16:45:23"
+    },
+    {
+        "id": 164944537,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-01 16:46:05"
+    },
+    {
+        "id": 164944555,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-01 16:46:47"
+    },
+    {
+        "id": 164944580,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Xenthos has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-01 16:46:53"
     }
 ]
