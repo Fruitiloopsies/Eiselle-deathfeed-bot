@@ -39401,5 +39401,19 @@
         "description": "Shadelyo has been judged, scaled, and found guilty by a sadistic mitran.",
         "type": "DEA",
         "date": "2026-07-02 07:23:55"
+    },
+    {
+        "id": 164952710,
+        "caption": "Player Death",
+        "description": "Khallil was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-02 22:26:54"
+    },
+    {
+        "id": 164952720,
+        "caption": "Player Death",
+        "description": "Iae was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-02 22:26:54"
     }
 ]
