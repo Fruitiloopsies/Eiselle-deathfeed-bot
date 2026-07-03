@@ -39513,5 +39513,26 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-07-03 03:22:06"
+    },
+    {
+        "id": 164956505,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-03 18:08:51"
+    },
+    {
+        "id": 164956547,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-03 18:11:47"
+    },
+    {
+        "id": 164956572,
+        "caption": "Player Death",
+        "description": "Aramantos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-03 18:11:58"
     }
 ]
