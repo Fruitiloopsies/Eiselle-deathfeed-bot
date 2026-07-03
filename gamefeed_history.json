@@ -39534,5 +39534,12 @@
         "description": "Aramantos has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-03 18:11:58"
+    },
+    {
+        "id": 164956966,
+        "caption": "Player Death",
+        "description": "Stonrcase was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-03 19:42:53"
     }
 ]
