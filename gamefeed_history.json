@@ -39695,5 +39695,47 @@
         "description": "Eiselle has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-04 15:31:34"
+    },
+    {
+        "id": 164964162,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-04 19:09:56"
+    },
+    {
+        "id": 164964228,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-04 19:19:44"
+    },
+    {
+        "id": 164964267,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Naralis, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-04 19:21:10"
+    },
+    {
+        "id": 164964284,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-04 19:21:21"
+    },
+    {
+        "id": 164964316,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-04 19:23:56"
+    },
+    {
+        "id": 164964519,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-04 19:56:58"
     }
 ]
