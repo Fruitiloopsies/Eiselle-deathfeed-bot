@@ -39541,5 +39541,103 @@
         "description": "Stonrcase was slain by misadventure.",
         "type": "DEA",
         "date": "2026-07-03 19:42:53"
+    },
+    {
+        "id": 164958976,
+        "caption": "Player Death",
+        "description": "Elowen has been slain by the might of a living amethyst scorpion.",
+        "type": "DEA",
+        "date": "2026-07-04 02:09:24"
+    },
+    {
+        "id": 164959120,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-04 02:37:24"
+    },
+    {
+        "id": 164959138,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-04 02:45:11"
+    },
+    {
+        "id": 164959149,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-04 02:45:12"
+    },
+    {
+        "id": 164959157,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-04 02:45:41"
+    },
+    {
+        "id": 164959169,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Lorn, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-04 02:46:12"
+    },
+    {
+        "id": 164959190,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-04 02:47:19"
+    },
+    {
+        "id": 164959207,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Yinuish has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-04 02:47:29"
+    },
+    {
+        "id": 164959262,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-04 02:47:33"
+    },
+    {
+        "id": 164959287,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Sameya has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-04 02:47:39"
+    },
+    {
+        "id": 164959292,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-04 02:47:48"
+    },
+    {
+        "id": 164959309,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-04 02:48:04"
+    },
+    {
+        "id": 164959324,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Naralis, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-04 02:51:41"
+    },
+    {
+        "id": 164959341,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-04 02:51:48"
     }
 ]
