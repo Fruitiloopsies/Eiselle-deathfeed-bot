@@ -39814,5 +39814,26 @@
         "description": "Sameya has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-05 01:49:59"
+    },
+    {
+        "id": 164971714,
+        "caption": "Player Death",
+        "description": "Efarihm has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-05 17:32:49"
+    },
+    {
+        "id": 164971727,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-05 17:33:51"
+    },
+    {
+        "id": 164971765,
+        "caption": "Player Death",
+        "description": "Qoivhae has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-05 17:34:48"
     }
 ]
