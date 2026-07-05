@@ -39835,5 +39835,26 @@
         "description": "Qoivhae has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-05 17:34:48"
+    },
+    {
+        "id": 164973925,
+        "caption": "Player Death",
+        "description": "Iae has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-05 23:22:54"
+    },
+    {
+        "id": 164974041,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Iae, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-05 23:42:33"
+    },
+    {
+        "id": 164974059,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-05 23:42:33"
     }
 ]
