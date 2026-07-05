@@ -39758,5 +39758,61 @@
         "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-07-04 22:17:02"
+    },
+    {
+        "id": 164966157,
+        "caption": "Player Death",
+        "description": "Isana was slain by Freja (Victim had 55% the might).",
+        "type": "DEA",
+        "date": "2026-07-05 00:51:03"
+    },
+    {
+        "id": 164966390,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-05 01:38:42"
+    },
+    {
+        "id": 164966432,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Sameya, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-05 01:40:01"
+    },
+    {
+        "id": 164966438,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-05 01:40:27"
+    },
+    {
+        "id": 164966455,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Qoivhae, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-05 01:40:59"
+    },
+    {
+        "id": 164966496,
+        "caption": "Player Death",
+        "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-05 01:44:00"
+    },
+    {
+        "id": 164966522,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-05 01:49:41"
+    },
+    {
+        "id": 164966559,
+        "caption": "Player Death",
+        "description": "Sameya has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-05 01:49:59"
     }
 ]
