@@ -39926,5 +39926,12 @@
         "description": "Iae has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-06 01:07:43"
+    },
+    {
+        "id": 164977922,
+        "caption": "Player Death",
+        "description": "Argilent has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-07-06 08:48:22"
     }
 ]
