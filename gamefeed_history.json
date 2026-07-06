@@ -39947,5 +39947,33 @@
         "description": "Elowen has been slain by the might of a living amethyst scorpion.",
         "type": "DEA",
         "date": "2026-07-06 17:14:53"
+    },
+    {
+        "id": 164980308,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-06 17:59:59"
+    },
+    {
+        "id": 164980436,
+        "caption": "Player Death",
+        "description": "Qoivhae has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-06 18:22:11"
+    },
+    {
+        "id": 164980486,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-06 18:23:01"
+    },
+    {
+        "id": 164980522,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-06 18:29:18"
     }
 ]
