@@ -39989,5 +39989,12 @@
         "description": "Elowen has been slain by the might of a medusa jellyfish.",
         "type": "DEA",
         "date": "2026-07-06 19:51:38"
+    },
+    {
+        "id": 164981388,
+        "caption": "Player Death",
+        "description": "Qoivhae was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-06 21:49:35"
     }
 ]
