@@ -39856,5 +39856,75 @@
         "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-05 23:42:33"
+    },
+    {
+        "id": 164974291,
+        "caption": "Player Death",
+        "description": "Iae has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-06 00:14:58"
+    },
+    {
+        "id": 164974322,
+        "caption": "Player Death",
+        "description": "Iae has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-06 00:18:16"
+    },
+    {
+        "id": 164974340,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Khallil, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-06 00:18:17"
+    },
+    {
+        "id": 164974355,
+        "caption": "Player Death",
+        "description": "Iae has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-06 00:19:53"
+    },
+    {
+        "id": 164974492,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-06 00:35:08"
+    },
+    {
+        "id": 164974516,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Iae, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-06 00:39:50"
+    },
+    {
+        "id": 164974540,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-06 00:41:17"
+    },
+    {
+        "id": 164974586,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-06 00:47:14"
+    },
+    {
+        "id": 164974770,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Khallil, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-06 01:07:37"
+    },
+    {
+        "id": 164974781,
+        "caption": "Player Death",
+        "description": "Iae has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-06 01:07:43"
     }
 ]
