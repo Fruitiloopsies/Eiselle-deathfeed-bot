@@ -39975,5 +39975,19 @@
         "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-06 18:29:18"
+    },
+    {
+        "id": 164980737,
+        "caption": "Player Death",
+        "description": "Elowen has been slain by the might of a living onyx scorpion.",
+        "type": "DEA",
+        "date": "2026-07-06 19:18:08"
+    },
+    {
+        "id": 164980845,
+        "caption": "Player Death",
+        "description": "Elowen has been slain by the might of a medusa jellyfish.",
+        "type": "DEA",
+        "date": "2026-07-06 19:51:38"
     }
 ]
