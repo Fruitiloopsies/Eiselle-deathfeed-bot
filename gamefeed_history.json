@@ -39933,5 +39933,19 @@
         "description": "Argilent has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-07-06 08:48:22"
+    },
+    {
+        "id": 164979892,
+        "caption": "Player Death",
+        "description": "Elowen has been slain by the might of a living onyx scorpion.",
+        "type": "DEA",
+        "date": "2026-07-06 16:40:50"
+    },
+    {
+        "id": 164980032,
+        "caption": "Player Death",
+        "description": "Elowen has been slain by the might of a living amethyst scorpion.",
+        "type": "DEA",
+        "date": "2026-07-06 17:14:53"
     }
 ]
