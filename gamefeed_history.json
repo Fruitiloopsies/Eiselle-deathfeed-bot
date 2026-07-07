@@ -40087,5 +40087,47 @@
         "description": "Puriel was slain by misadventure.",
         "type": "DEA",
         "date": "2026-07-07 03:55:44"
+    },
+    {
+        "id": 164986809,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-07 18:47:31"
+    },
+    {
+        "id": 164986833,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-07 18:48:10"
+    },
+    {
+        "id": 164986878,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-07 18:59:17"
+    },
+    {
+        "id": 164986900,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-07 19:00:04"
+    },
+    {
+        "id": 164986922,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Faragan, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-07 19:00:49"
+    },
+    {
+        "id": 164986952,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Qoivhae, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-07 19:01:06"
     }
 ]
