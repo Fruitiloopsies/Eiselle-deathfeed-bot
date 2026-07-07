@@ -39996,5 +39996,33 @@
         "description": "Qoivhae was slain by misadventure.",
         "type": "DEA",
         "date": "2026-07-06 21:49:35"
+    },
+    {
+        "id": 164982006,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-06 23:44:56"
+    },
+    {
+        "id": 164982131,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-07 00:09:43"
+    },
+    {
+        "id": 164982330,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Sameya has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-07 00:43:18"
+    },
+    {
+        "id": 164982446,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Khallil has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-07 01:05:55"
     }
 ]
