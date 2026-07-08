@@ -40220,5 +40220,12 @@
         "description": "Khallil was slain by Malayn (Victim had 45% the might).",
         "type": "DEA",
         "date": "2026-07-08 01:42:39"
+    },
+    {
+        "id": 164990602,
+        "caption": "Player Death",
+        "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-08 08:28:46"
     }
 ]
