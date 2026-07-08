@@ -40227,5 +40227,26 @@
         "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-08 08:28:46"
+    },
+    {
+        "id": 164991894,
+        "caption": "Player Death",
+        "description": "Argilent has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-08 15:58:49"
+    },
+    {
+        "id": 164991921,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-08 16:01:11"
+    },
+    {
+        "id": 164991943,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-08 16:01:35"
     }
 ]
