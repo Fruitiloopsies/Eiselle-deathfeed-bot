@@ -40248,5 +40248,61 @@
         "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-08 16:01:35"
+    },
+    {
+        "id": 164992639,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-08 19:22:23"
+    },
+    {
+        "id": 164992649,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-08 19:26:15"
+    },
+    {
+        "id": 164992714,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-08 19:27:35"
+    },
+    {
+        "id": 164992751,
+        "caption": "Player Death",
+        "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-08 19:27:36"
+    },
+    {
+        "id": 164992783,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-08 19:29:24"
+    },
+    {
+        "id": 164992807,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-08 19:29:44"
+    },
+    {
+        "id": 164992831,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-08 19:29:53"
+    },
+    {
+        "id": 164992849,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Xenthos has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-08 19:30:30"
     }
 ]
