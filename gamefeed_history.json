@@ -40395,5 +40395,12 @@
         "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-09 18:47:34"
+    },
+    {
+        "id": 164998492,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-09 20:52:18"
     }
 ]
