@@ -40374,5 +40374,26 @@
         "description": "A ghostly battlecharger has brought war to Khallil, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-07-09 01:56:19"
+    },
+    {
+        "id": 164997827,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-09 18:40:04"
+    },
+    {
+        "id": 164997837,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-09 18:47:30"
+    },
+    {
+        "id": 164997874,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-09 18:47:34"
     }
 ]
