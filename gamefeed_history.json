@@ -40304,5 +40304,75 @@
         "description": "Marked for death by a clangoru artificer, Xenthos has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-07-08 19:30:30"
+    },
+    {
+        "id": 164994283,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Teread, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-09 01:39:12"
+    },
+    {
+        "id": 164994358,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-09 01:48:30"
+    },
+    {
+        "id": 164994370,
+        "caption": "Player Death",
+        "description": "Sameya has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-09 01:48:37"
+    },
+    {
+        "id": 164994376,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-09 01:48:39"
+    },
+    {
+        "id": 164994383,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-09 01:49:11"
+    },
+    {
+        "id": 164994398,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-09 01:50:28"
+    },
+    {
+        "id": 164994419,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Yinuish has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-09 01:51:51"
+    },
+    {
+        "id": 164994475,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-09 01:52:42"
+    },
+    {
+        "id": 164994498,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-09 01:53:38"
+    },
+    {
+        "id": 164994529,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Khallil, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-09 01:56:19"
     }
 ]
