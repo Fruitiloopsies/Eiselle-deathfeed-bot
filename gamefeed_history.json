@@ -40409,5 +40409,12 @@
         "description": "Khallil was slain by misadventure.",
         "type": "DEA",
         "date": "2026-07-10 05:20:40"
+    },
+    {
+        "id": 165002568,
+        "caption": "Player Death",
+        "description": "Inagin has been slain by the might of a lost soul of death.",
+        "type": "DEA",
+        "date": "2026-07-10 13:44:03"
     }
 ]
