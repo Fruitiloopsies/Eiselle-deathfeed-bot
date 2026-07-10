@@ -40416,5 +40416,75 @@
         "description": "Inagin has been slain by the might of a lost soul of death.",
         "type": "DEA",
         "date": "2026-07-10 13:44:03"
+    },
+    {
+        "id": 165003791,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-10 19:41:36"
+    },
+    {
+        "id": 165003803,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-10 19:42:00"
+    },
+    {
+        "id": 165003859,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Isana has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-10 19:43:00"
+    },
+    {
+        "id": 165003867,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-10 19:43:26"
+    },
+    {
+        "id": 165003927,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Faragan, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-10 19:47:07"
+    },
+    {
+        "id": 165003956,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Faragan, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-10 19:51:18"
+    },
+    {
+        "id": 165003985,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-10 19:51:21"
+    },
+    {
+        "id": 165003997,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-10 19:51:28"
+    },
+    {
+        "id": 165004053,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Exeryte, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-10 19:51:34"
+    },
+    {
+        "id": 165004109,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-10 19:51:45"
     }
 ]
