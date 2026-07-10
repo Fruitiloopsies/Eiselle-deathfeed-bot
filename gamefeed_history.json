@@ -40402,5 +40402,12 @@
         "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-09 20:52:18"
+    },
+    {
+        "id": 165000901,
+        "caption": "Player Death",
+        "description": "Khallil was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-10 05:20:40"
     }
 ]
