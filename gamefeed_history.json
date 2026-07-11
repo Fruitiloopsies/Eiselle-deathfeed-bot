@@ -40493,5 +40493,19 @@
         "description": "Azurai has been subsumed by a bloated gorgog.",
         "type": "DEA",
         "date": "2026-07-10 22:33:14"
+    },
+    {
+        "id": 165007258,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Yinuish has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-11 07:57:46"
+    },
+    {
+        "id": 165007322,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-11 07:58:32"
     }
 ]
