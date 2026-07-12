@@ -40626,5 +40626,19 @@
         "description": "Argilent has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-07-12 10:15:23"
+    },
+    {
+        "id": 165014514,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Argilent has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-12 16:16:19"
+    },
+    {
+        "id": 165014524,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Aramantos has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-12 16:16:23"
     }
 ]
