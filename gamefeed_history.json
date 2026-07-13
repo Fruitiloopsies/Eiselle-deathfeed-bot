@@ -40703,5 +40703,12 @@
         "description": "Marked for death by a clangoru artificer, Efarihm has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-07-13 01:41:05"
+    },
+    {
+        "id": 165018913,
+        "caption": "Player Death",
+        "description": "Rolan has disappeared into the twisting depths of Gaudiguch's alleyways.",
+        "type": "DEA",
+        "date": "2026-07-13 07:54:05"
     }
 ]
