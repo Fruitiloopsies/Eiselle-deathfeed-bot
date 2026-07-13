@@ -40759,5 +40759,33 @@
         "description": "Eiselle has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-13 17:51:29"
+    },
+    {
+        "id": 165021678,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Khallil has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-13 21:34:43"
+    },
+    {
+        "id": 165021742,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Isana has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-13 21:36:28"
+    },
+    {
+        "id": 165021750,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Naralis has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-13 21:37:01"
+    },
+    {
+        "id": 165021768,
+        "caption": "Player Death",
+        "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-13 21:37:48"
     }
 ]
