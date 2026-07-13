@@ -40710,5 +40710,12 @@
         "description": "Rolan has disappeared into the twisting depths of Gaudiguch's alleyways.",
         "type": "DEA",
         "date": "2026-07-13 07:54:05"
+    },
+    {
+        "id": 165018991,
+        "caption": "Player Death",
+        "description": "Argilent has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-07-13 08:59:44"
     }
 ]
