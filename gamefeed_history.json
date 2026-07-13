@@ -40717,5 +40717,47 @@
         "description": "Argilent has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-07-13 08:59:44"
+    },
+    {
+        "id": 165020555,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-13 17:49:37"
+    },
+    {
+        "id": 165020580,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-13 17:50:03"
+    },
+    {
+        "id": 165020607,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-13 17:50:27"
+    },
+    {
+        "id": 165020670,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-13 17:50:59"
+    },
+    {
+        "id": 165020707,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Faragan, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-13 17:51:00"
+    },
+    {
+        "id": 165020737,
+        "caption": "Player Death",
+        "description": "Eiselle has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-13 17:51:29"
     }
 ]
