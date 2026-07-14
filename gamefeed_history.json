@@ -40801,5 +40801,47 @@
         "description": "Body dissolving into sludge, Khallil has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-07-14 00:42:06"
+    },
+    {
+        "id": 165022984,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Teread has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-14 01:18:26"
+    },
+    {
+        "id": 165023001,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-14 01:20:55"
+    },
+    {
+        "id": 165023014,
+        "caption": "Player Death",
+        "description": "Sameya has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-14 01:23:55"
+    },
+    {
+        "id": 165023020,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-14 01:25:25"
+    },
+    {
+        "id": 165023064,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Aramantos has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-14 01:26:25"
+    },
+    {
+        "id": 165023090,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Yinuish has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-14 01:26:53"
     }
 ]
