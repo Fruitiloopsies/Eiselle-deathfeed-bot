@@ -40850,5 +40850,12 @@
         "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-14 16:21:46"
+    },
+    {
+        "id": 165026275,
+        "caption": "Player Death",
+        "description": "Qoivhae has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-14 17:03:05"
     }
 ]
