@@ -40843,5 +40843,12 @@
         "description": "Marked for death by a clangoru artificer, Yinuish has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-07-14 01:26:53"
+    },
+    {
+        "id": 165026131,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-14 16:21:46"
     }
 ]
