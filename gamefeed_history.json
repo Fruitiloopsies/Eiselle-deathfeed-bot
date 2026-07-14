@@ -40864,5 +40864,47 @@
         "description": "Marked for death by a clangoru artificer, Khallil has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-07-14 19:18:09"
+    },
+    {
+        "id": 165027066,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-14 20:32:25"
+    },
+    {
+        "id": 165027101,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Qoivhae has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-14 20:38:15"
+    },
+    {
+        "id": 165027135,
+        "caption": "Player Death",
+        "description": "Argilent has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-14 20:38:16"
+    },
+    {
+        "id": 165027145,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-14 20:38:47"
+    },
+    {
+        "id": 165027164,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-14 20:39:22"
+    },
+    {
+        "id": 165027222,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-14 20:39:59"
     }
 ]
