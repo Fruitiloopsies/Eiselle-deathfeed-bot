@@ -40857,5 +40857,12 @@
         "description": "Qoivhae has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-14 17:03:05"
+    },
+    {
+        "id": 165026795,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Khallil has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-14 19:18:09"
     }
 ]
