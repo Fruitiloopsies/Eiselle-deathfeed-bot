@@ -41011,5 +41011,12 @@
         "description": "Marked for death by a clangoru artificer, Xenthos has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-07-15 16:44:57"
+    },
+    {
+        "id": 165033228,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-15 16:49:34"
     }
 ]
