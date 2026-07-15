@@ -40983,5 +40983,33 @@
         "description": "Argilent has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-07-15 10:40:52"
+    },
+    {
+        "id": 165032804,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Gilda has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-15 16:09:33"
+    },
+    {
+        "id": 165033099,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-15 16:43:16"
+    },
+    {
+        "id": 165033137,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Argilent has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-15 16:44:17"
+    },
+    {
+        "id": 165033146,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Xenthos has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-15 16:44:57"
     }
 ]
