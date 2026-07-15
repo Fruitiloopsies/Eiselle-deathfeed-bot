@@ -40906,5 +40906,75 @@
         "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-14 20:39:59"
+    },
+    {
+        "id": 165028788,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-15 01:09:32"
+    },
+    {
+        "id": 165028801,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Teread has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-15 01:10:44"
+    },
+    {
+        "id": 165028813,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-15 01:11:40"
+    },
+    {
+        "id": 165028822,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-15 01:13:51"
+    },
+    {
+        "id": 165028835,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-15 01:15:01"
+    },
+    {
+        "id": 165028898,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-15 01:17:08"
+    },
+    {
+        "id": 165028910,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-15 01:17:23"
+    },
+    {
+        "id": 165028941,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-15 01:22:55"
+    },
+    {
+        "id": 165029018,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-15 01:25:47"
+    },
+    {
+        "id": 165029365,
+        "caption": "Player Death",
+        "description": "Aramantos has been slain by the might of a kephera nature warder.",
+        "type": "DEA",
+        "date": "2026-07-15 02:13:57"
     }
 ]
