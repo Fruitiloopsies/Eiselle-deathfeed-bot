@@ -41018,5 +41018,19 @@
         "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-15 16:49:34"
+    },
+    {
+        "id": 165034117,
+        "caption": "Player Death",
+        "description": "Elowen has been slain by the might of a krokani guard.",
+        "type": "DEA",
+        "date": "2026-07-15 19:59:30"
+    },
+    {
+        "id": 165034205,
+        "caption": "Player Death",
+        "description": "Elowen has become a coiling sundew's latest meal.",
+        "type": "DEA",
+        "date": "2026-07-15 20:31:52"
     }
 ]
