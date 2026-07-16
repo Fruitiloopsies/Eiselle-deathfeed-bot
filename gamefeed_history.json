@@ -41158,5 +41158,47 @@
         "description": "Rogziel was slain by misadventure.",
         "type": "DEA",
         "date": "2026-07-16 03:58:51"
+    },
+    {
+        "id": 165036671,
+        "caption": "Player Death",
+        "description": "Alainna has been trampled and crushed by a stainless steel goat.",
+        "type": "DEA",
+        "date": "2026-07-16 04:53:46"
+    },
+    {
+        "id": 165036912,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-16 05:57:36"
+    },
+    {
+        "id": 165036919,
+        "caption": "Player Death",
+        "description": "Aramantos has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-16 05:58:35"
+    },
+    {
+        "id": 165036942,
+        "caption": "Player Death",
+        "description": "Yinuish has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-16 05:59:06"
+    },
+    {
+        "id": 165036997,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-16 05:59:26"
+    },
+    {
+        "id": 165037019,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Aramantos, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-16 05:59:58"
     }
 ]
