@@ -41067,5 +41067,96 @@
         "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-07-15 21:46:22"
+    },
+    {
+        "id": 165035578,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-16 01:32:31"
+    },
+    {
+        "id": 165035604,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-16 01:34:28"
+    },
+    {
+        "id": 165035621,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-16 01:34:43"
+    },
+    {
+        "id": 165035646,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-16 01:35:30"
+    },
+    {
+        "id": 165035656,
+        "caption": "Player Death",
+        "description": "Qoivhae has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-16 01:36:02"
+    },
+    {
+        "id": 165035691,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-16 01:37:09"
+    },
+    {
+        "id": 165035703,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Efarihm, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-16 01:37:20"
+    },
+    {
+        "id": 165035714,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-16 01:38:13"
+    },
+    {
+        "id": 165035736,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Yinuish has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-16 01:38:29"
+    },
+    {
+        "id": 165035824,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-16 01:46:29"
+    },
+    {
+        "id": 165035846,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-16 01:48:06"
+    },
+    {
+        "id": 165035868,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Efarihm, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-16 01:48:22"
+    },
+    {
+        "id": 165036397,
+        "caption": "Player Death",
+        "description": "Rogziel was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-16 03:58:51"
     }
 ]
