@@ -41207,5 +41207,26 @@
         "description": "Yushimabet has inexplicably disappeared upon the Floating Island of the Forgotten.",
         "type": "DEA",
         "date": "2026-07-16 17:09:27"
+    },
+    {
+        "id": 165038959,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-16 18:21:29"
+    },
+    {
+        "id": 165038998,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-16 18:23:45"
+    },
+    {
+        "id": 165039007,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Faragan has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-16 18:24:04"
     }
 ]
