@@ -41200,5 +41200,12 @@
         "description": "A ghostly battlecharger has brought war to Aramantos, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-07-16 05:59:58"
+    },
+    {
+        "id": 165038741,
+        "caption": "Player Death",
+        "description": "Yushimabet has inexplicably disappeared upon the Floating Island of the Forgotten.",
+        "type": "DEA",
+        "date": "2026-07-16 17:09:27"
     }
 ]
