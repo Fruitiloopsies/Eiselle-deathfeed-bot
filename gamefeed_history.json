@@ -41298,5 +41298,33 @@
         "description": "Body dissolving into sludge, Naralis has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-07-17 15:31:59"
+    },
+    {
+        "id": 165045357,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-17 19:03:08"
+    },
+    {
+        "id": 165045394,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-17 19:03:18"
+    },
+    {
+        "id": 165045437,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-17 19:04:23"
+    },
+    {
+        "id": 165045482,
+        "caption": "Player Death",
+        "description": "Eiselle has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-17 19:04:48"
     }
 ]
