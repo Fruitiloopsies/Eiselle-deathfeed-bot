@@ -41270,5 +41270,33 @@
         "description": "Marked for death by a clangoru artificer, Qoivhae has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-07-17 01:38:03"
+    },
+    {
+        "id": 165044162,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Exeryte has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-17 15:19:17"
+    },
+    {
+        "id": 165044232,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Naralis, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-17 15:29:05"
+    },
+    {
+        "id": 165044261,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-17 15:31:07"
+    },
+    {
+        "id": 165044321,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Naralis has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-17 15:31:59"
     }
 ]
