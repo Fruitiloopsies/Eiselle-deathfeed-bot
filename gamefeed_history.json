@@ -41235,5 +41235,40 @@
         "description": "A ghostly battlecharger has brought war to Khallil, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-07-17 01:03:50"
+    },
+    {
+        "id": 165041252,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-17 01:33:42"
+    },
+    {
+        "id": 165041268,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Isana has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-17 01:35:15"
+    },
+    {
+        "id": 165041289,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-17 01:36:16"
+    },
+    {
+        "id": 165041304,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-17 01:36:57"
+    },
+    {
+        "id": 165041342,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Qoivhae has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-17 01:38:03"
     }
 ]
