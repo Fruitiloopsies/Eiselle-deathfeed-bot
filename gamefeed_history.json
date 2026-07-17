@@ -41228,5 +41228,12 @@
         "description": "Body dissolving into sludge, Faragan has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-07-16 18:24:04"
+    },
+    {
+        "id": 165041104,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Khallil, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-17 01:03:50"
     }
 ]
