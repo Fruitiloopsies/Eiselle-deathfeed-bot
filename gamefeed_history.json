@@ -41424,5 +41424,12 @@
         "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-18 17:51:41"
+    },
+    {
+        "id": 165051550,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-18 21:21:47"
     }
 ]
