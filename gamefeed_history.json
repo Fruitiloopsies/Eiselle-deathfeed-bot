@@ -41326,5 +41326,82 @@
         "description": "Eiselle has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-17 19:04:48"
+    },
+    {
+        "id": 165046973,
+        "caption": "Player Death",
+        "description": "Khallil was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-18 01:04:47"
+    },
+    {
+        "id": 165046987,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-18 01:06:14"
+    },
+    {
+        "id": 165047215,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-18 02:00:51"
+    },
+    {
+        "id": 165047232,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-18 02:03:03"
+    },
+    {
+        "id": 165047245,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-18 02:04:16"
+    },
+    {
+        "id": 165047263,
+        "caption": "Player Death",
+        "description": "Faragan has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-18 02:05:22"
+    },
+    {
+        "id": 165047298,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-18 02:06:00"
+    },
+    {
+        "id": 165047362,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-18 02:06:37"
+    },
+    {
+        "id": 165047390,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-18 02:08:19"
+    },
+    {
+        "id": 165047453,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-18 02:11:39"
+    },
+    {
+        "id": 165047512,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-18 02:13:43"
     }
 ]
