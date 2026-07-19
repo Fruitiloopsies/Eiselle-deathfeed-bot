@@ -41655,5 +41655,19 @@
         "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-07-19 00:49:33"
+    },
+    {
+        "id": 165054731,
+        "caption": "Player Death",
+        "description": "Azurai was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-19 04:25:02"
+    },
+    {
+        "id": 165054733,
+        "caption": "Player Death",
+        "description": "Malayn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-19 04:26:01"
     }
 ]
