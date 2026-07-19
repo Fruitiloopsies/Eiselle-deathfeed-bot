@@ -41704,5 +41704,12 @@
         "description": "Xiran was slain by misadventure.",
         "type": "DEA",
         "date": "2026-07-19 05:09:17"
+    },
+    {
+        "id": 165057088,
+        "caption": "Player Death",
+        "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-19 17:37:39"
     }
 ]
