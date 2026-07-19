@@ -41606,5 +41606,54 @@
         "description": "Ayisdra has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-18 21:57:43"
+    },
+    {
+        "id": 165053172,
+        "caption": "Player Death",
+        "description": "Ayisdra was slain by Shango (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-07-19 00:20:49"
+    },
+    {
+        "id": 165053454,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Teread has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-19 00:45:27"
+    },
+    {
+        "id": 165053468,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Exeryte, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-19 00:46:54"
+    },
+    {
+        "id": 165053526,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Khallil has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-19 00:47:34"
+    },
+    {
+        "id": 165053540,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-19 00:48:27"
+    },
+    {
+        "id": 165053561,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-19 00:49:02"
+    },
+    {
+        "id": 165053618,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Karrack, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-19 00:49:33"
     }
 ]
