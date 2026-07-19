@@ -41711,5 +41711,61 @@
         "description": "Naralis has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-19 17:37:39"
+    },
+    {
+        "id": 165058225,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-19 21:32:25"
+    },
+    {
+        "id": 165058237,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-19 21:32:30"
+    },
+    {
+        "id": 165058244,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-19 21:32:30"
+    },
+    {
+        "id": 165058260,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-19 21:33:18"
+    },
+    {
+        "id": 165058278,
+        "caption": "Player Death",
+        "description": "Faragan has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-19 21:33:40"
+    },
+    {
+        "id": 165058307,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-19 21:34:20"
+    },
+    {
+        "id": 165058399,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-19 21:38:57"
+    },
+    {
+        "id": 165058458,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-19 21:42:00"
     }
 ]
