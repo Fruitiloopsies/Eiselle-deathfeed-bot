@@ -41669,5 +41669,40 @@
         "description": "Malayn was slain by misadventure.",
         "type": "DEA",
         "date": "2026-07-19 04:26:01"
+    },
+    {
+        "id": 165054803,
+        "caption": "Player Death",
+        "description": "Silvanos was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-19 04:36:23"
+    },
+    {
+        "id": 165054828,
+        "caption": "Player Death",
+        "description": "Silvanos was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-19 04:45:03"
+    },
+    {
+        "id": 165054871,
+        "caption": "Player Death",
+        "description": "Malayn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-19 05:09:17"
+    },
+    {
+        "id": 165054902,
+        "caption": "Player Death",
+        "description": "Azurai was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-19 05:09:17"
+    },
+    {
+        "id": 165054904,
+        "caption": "Player Death",
+        "description": "Xiran was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-19 05:09:17"
     }
 ]
