@@ -41844,5 +41844,40 @@
         "description": "Azurai was slain by Azurai (Victim had 100% the might).",
         "type": "DEA",
         "date": "2026-07-20 19:21:48"
+    },
+    {
+        "id": 165063583,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-20 20:26:35"
+    },
+    {
+        "id": 165063594,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-20 20:29:15"
+    },
+    {
+        "id": 165063623,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Eiselle has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-20 20:29:25"
+    },
+    {
+        "id": 165063680,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-20 20:29:37"
+    },
+    {
+        "id": 165063749,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-20 20:33:52"
     }
 ]
