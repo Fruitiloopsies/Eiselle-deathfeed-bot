@@ -41802,5 +41802,40 @@
         "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-20 01:14:32"
+    },
+    {
+        "id": 165062396,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-20 16:20:07"
+    },
+    {
+        "id": 165062407,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-20 16:21:09"
+    },
+    {
+        "id": 165062472,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Xenthos has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-20 16:29:52"
+    },
+    {
+        "id": 165062525,
+        "caption": "Player Death",
+        "description": "Eiselle has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-20 16:30:35"
+    },
+    {
+        "id": 165062582,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-20 16:31:18"
     }
 ]
