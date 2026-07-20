@@ -41837,5 +41837,12 @@
         "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-20 16:31:18"
+    },
+    {
+        "id": 165063429,
+        "caption": "Player Death",
+        "description": "Azurai was slain by Azurai (Victim had 100% the might).",
+        "type": "DEA",
+        "date": "2026-07-20 19:21:48"
     }
 ]
