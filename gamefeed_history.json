@@ -41774,5 +41774,33 @@
         "description": "Body dissolving into sludge, Khallil has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-07-20 00:24:57"
+    },
+    {
+        "id": 165059453,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-20 01:12:49"
+    },
+    {
+        "id": 165059467,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-20 01:13:11"
+    },
+    {
+        "id": 165059479,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-20 01:13:32"
+    },
+    {
+        "id": 165059486,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-20 01:14:32"
     }
 ]
