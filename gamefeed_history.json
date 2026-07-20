@@ -41767,5 +41767,12 @@
         "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-19 21:42:00"
+    },
+    {
+        "id": 165059139,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Khallil has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-20 00:24:57"
     }
 ]
