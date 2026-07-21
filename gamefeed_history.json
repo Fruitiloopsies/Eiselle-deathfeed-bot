@@ -42047,5 +42047,12 @@
         "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-21 21:59:03"
+    },
+    {
+        "id": 165069544,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-21 21:59:05"
     }
 ]
