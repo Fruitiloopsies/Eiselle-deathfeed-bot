@@ -41935,5 +41935,26 @@
         "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-21 06:14:23"
+    },
+    {
+        "id": 165066787,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Argilent, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-21 07:33:36"
+    },
+    {
+        "id": 165066798,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Khallil has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-21 07:34:22"
+    },
+    {
+        "id": 165066812,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-21 07:34:34"
     }
 ]
