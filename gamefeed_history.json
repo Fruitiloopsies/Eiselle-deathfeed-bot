@@ -41956,5 +41956,19 @@
         "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-07-21 07:34:34"
+    },
+    {
+        "id": 165068174,
+        "caption": "Player Death",
+        "description": "Yushimabet has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-21 15:31:42"
+    },
+    {
+        "id": 165068193,
+        "caption": "Player Death",
+        "description": "Yushimabet has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-21 15:39:41"
     }
 ]
