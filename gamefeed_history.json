@@ -42145,5 +42145,12 @@
         "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-22 02:17:01"
+    },
+    {
+        "id": 165072032,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-07-22 07:15:48"
     }
 ]
