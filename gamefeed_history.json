@@ -42159,5 +42159,19 @@
         "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-22 16:03:28"
+    },
+    {
+        "id": 165074435,
+        "caption": "Player Death",
+        "description": "Argilent has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-22 16:08:14"
+    },
+    {
+        "id": 165074447,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Exeryte has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-22 16:10:14"
     }
 ]
