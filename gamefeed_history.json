@@ -42054,5 +42054,96 @@
         "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-21 21:59:05"
+    },
+    {
+        "id": 165070120,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Efarihm, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-22 00:28:36"
+    },
+    {
+        "id": 165070131,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-22 00:28:47"
+    },
+    {
+        "id": 165070421,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-22 02:03:26"
+    },
+    {
+        "id": 165070434,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-22 02:03:54"
+    },
+    {
+        "id": 165070448,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-22 02:04:18"
+    },
+    {
+        "id": 165070487,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-22 02:05:07"
+    },
+    {
+        "id": 165070495,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Efarihm has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-22 02:05:14"
+    },
+    {
+        "id": 165070506,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Efarihm has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-22 02:06:20"
+    },
+    {
+        "id": 165070517,
+        "caption": "Player Death",
+        "description": "Eiselle has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-22 02:06:31"
+    },
+    {
+        "id": 165070631,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Khallil, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-22 02:14:22"
+    },
+    {
+        "id": 165070645,
+        "caption": "Player Death",
+        "description": "Exeryte has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-22 02:14:22"
+    },
+    {
+        "id": 165070738,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Khallil has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-22 02:15:20"
+    },
+    {
+        "id": 165070756,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-22 02:17:01"
     }
 ]
