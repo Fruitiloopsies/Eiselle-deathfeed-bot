@@ -42264,5 +42264,12 @@
         "description": "Shadelyo has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-23 06:57:49"
+    },
+    {
+        "id": 165079077,
+        "caption": "Player Death",
+        "description": "Inagin has been slain by the might of a champion of war.",
+        "type": "DEA",
+        "date": "2026-07-23 13:28:12"
     }
 ]
