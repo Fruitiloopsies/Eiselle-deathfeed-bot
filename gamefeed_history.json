@@ -42278,5 +42278,117 @@
         "description": "Argilent was slain by misadventure.",
         "type": "DEA",
         "date": "2026-07-23 15:55:14"
+    },
+    {
+        "id": 165081337,
+        "caption": "Player Death",
+        "description": "Zagreus was slain by Aknarin (Victim had 105% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:34:33"
+    },
+    {
+        "id": 165081364,
+        "caption": "Player Death",
+        "description": "Yuzuki was slain by Gilda (Victim had 125% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:34:58"
+    },
+    {
+        "id": 165081392,
+        "caption": "Player Death",
+        "description": "Isana was slain by Freja (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:36:25"
+    },
+    {
+        "id": 165081401,
+        "caption": "Player Death",
+        "description": "Shango was slain by Naralis (Victim had 115% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:36:45"
+    },
+    {
+        "id": 165081470,
+        "caption": "Player Death",
+        "description": "Naralis was slain by Shango (Victim had 80% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:39:14"
+    },
+    {
+        "id": 165081491,
+        "caption": "Player Death",
+        "description": "Aknarin was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:40:06"
+    },
+    {
+        "id": 165081541,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Zagreus (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:40:54"
+    },
+    {
+        "id": 165081619,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:41:41"
+    },
+    {
+        "id": 165081659,
+        "caption": "Player Death",
+        "description": "Gilda was slain by Zagreus (Victim had 70% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:42:02"
+    },
+    {
+        "id": 165081669,
+        "caption": "Player Death",
+        "description": "Efarihm was slain by Zagreus (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:43:33"
+    },
+    {
+        "id": 165081717,
+        "caption": "Player Death",
+        "description": "Zagreus was slain by Naralis (Victim had 125% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:50:12"
+    },
+    {
+        "id": 165081741,
+        "caption": "Player Death",
+        "description": "Naralis was slain by Freja (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:50:17"
+    },
+    {
+        "id": 165081762,
+        "caption": "Player Death",
+        "description": "Teread was slain by Freja (Victim had 55% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:52:11"
+    },
+    {
+        "id": 165081777,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by Freja (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:52:49"
+    },
+    {
+        "id": 165081819,
+        "caption": "Player Death",
+        "description": "Efarihm was slain by Zagreus (Victim had 85% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:54:18"
+    },
+    {
+        "id": 165081834,
+        "caption": "Player Death",
+        "description": "Eiselle was slain by Freja (Victim had 90% the might).",
+        "type": "DEA",
+        "date": "2026-07-23 22:55:05"
     }
 ]
