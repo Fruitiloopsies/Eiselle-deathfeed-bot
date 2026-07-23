@@ -42222,5 +42222,47 @@
         "description": "Puriel was slain by misadventure.",
         "type": "DEA",
         "date": "2026-07-23 04:13:26"
+    },
+    {
+        "id": 165078051,
+        "caption": "Player Death",
+        "description": "Shadelyo has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-23 06:16:24"
+    },
+    {
+        "id": 165078056,
+        "caption": "Player Death",
+        "description": "Shadelyo has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-23 06:20:55"
+    },
+    {
+        "id": 165078090,
+        "caption": "Player Death",
+        "description": "Shadelyo has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-23 06:33:24"
+    },
+    {
+        "id": 165078117,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Shadelyo has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-23 06:44:57"
+    },
+    {
+        "id": 165078124,
+        "caption": "Player Death",
+        "description": "Shadelyo has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-23 06:52:11"
+    },
+    {
+        "id": 165078152,
+        "caption": "Player Death",
+        "description": "Shadelyo has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-23 06:57:49"
     }
 ]
