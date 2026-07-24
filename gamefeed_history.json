@@ -42390,5 +42390,61 @@
         "description": "Eiselle was slain by Freja (Victim had 90% the might).",
         "type": "DEA",
         "date": "2026-07-23 22:55:05"
+    },
+    {
+        "id": 165082749,
+        "caption": "Player Death",
+        "description": "Gilda has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-24 01:55:00"
+    },
+    {
+        "id": 165082858,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-24 02:20:05"
+    },
+    {
+        "id": 165082873,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-24 02:23:37"
+    },
+    {
+        "id": 165082889,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Isana, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-24 02:25:50"
+    },
+    {
+        "id": 165082898,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-24 02:26:40"
+    },
+    {
+        "id": 165082920,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Naralis has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-24 02:26:50"
+    },
+    {
+        "id": 165082955,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Efarihm has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-24 02:27:56"
+    },
+    {
+        "id": 165082969,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-24 02:30:26"
     }
 ]
