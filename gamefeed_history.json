@@ -42446,5 +42446,47 @@
         "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-24 02:30:26"
+    },
+    {
+        "id": 165083988,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-24 06:37:31"
+    },
+    {
+        "id": 165084010,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Isana has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-24 06:47:53"
+    },
+    {
+        "id": 165084019,
+        "caption": "Player Death",
+        "description": "Argilent has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-24 06:49:40"
+    },
+    {
+        "id": 165084030,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-24 06:49:40"
+    },
+    {
+        "id": 165084044,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-24 06:50:22"
+    },
+    {
+        "id": 165084053,
+        "caption": "Player Death",
+        "description": "Efarihm has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-24 06:50:58"
     }
 ]
