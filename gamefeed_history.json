@@ -42516,5 +42516,19 @@
         "description": "Body dissolving into sludge, Faragan has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-07-24 18:26:41"
+    },
+    {
+        "id": 165087642,
+        "caption": "Player Death",
+        "description": "Khallil was slain by Freja (Victim had 50% the might).",
+        "type": "DEA",
+        "date": "2026-07-24 22:12:53"
+    },
+    {
+        "id": 165087656,
+        "caption": "Player Death",
+        "description": "Isana was slain by Freja (Victim had 60% the might).",
+        "type": "DEA",
+        "date": "2026-07-24 22:14:04"
     }
 ]
