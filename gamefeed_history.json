@@ -42488,5 +42488,33 @@
         "description": "Efarihm has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-24 06:50:58"
+    },
+    {
+        "id": 165086549,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-24 18:25:40"
+    },
+    {
+        "id": 165086563,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-24 18:26:01"
+    },
+    {
+        "id": 165086603,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Argilent has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-24 18:26:23"
+    },
+    {
+        "id": 165086614,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Faragan has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-24 18:26:41"
     }
 ]
