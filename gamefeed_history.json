@@ -42789,5 +42789,47 @@
         "description": "Body dissolving into sludge, Khallil has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-07-25 06:24:35"
+    },
+    {
+        "id": 165089752,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-25 07:15:27"
+    },
+    {
+        "id": 165089764,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Naralis has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-25 07:17:22"
+    },
+    {
+        "id": 165089782,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-25 07:17:25"
+    },
+    {
+        "id": 165089872,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-25 07:41:55"
+    },
+    {
+        "id": 165089891,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Argilent, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-25 07:42:44"
+    },
+    {
+        "id": 165089903,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Naralis has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-25 07:43:26"
     }
 ]
