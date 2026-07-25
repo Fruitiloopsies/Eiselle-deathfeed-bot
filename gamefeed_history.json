@@ -42831,5 +42831,12 @@
         "description": "Body dissolving into sludge, Naralis has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-07-25 07:43:26"
+    },
+    {
+        "id": 165093423,
+        "caption": "Player Death",
+        "description": "Khallil was slain by Shango (Victim had 55% the might).",
+        "type": "DEA",
+        "date": "2026-07-25 22:38:02"
     }
 ]
