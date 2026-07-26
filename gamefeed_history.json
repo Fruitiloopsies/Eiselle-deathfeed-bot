@@ -42838,5 +42838,40 @@
         "description": "Khallil was slain by Shango (Victim had 55% the might).",
         "type": "DEA",
         "date": "2026-07-25 22:38:02"
+    },
+    {
+        "id": 165096878,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Yushimabet, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-26 14:53:12"
+    },
+    {
+        "id": 165096966,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Yushimabet, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-26 15:05:11"
+    },
+    {
+        "id": 165096976,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Efarihm has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-26 15:08:58"
+    },
+    {
+        "id": 165096988,
+        "caption": "Player Death",
+        "description": "Yushimabet has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-26 15:09:26"
+    },
+    {
+        "id": 165096992,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Argilent has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-26 15:10:25"
     }
 ]
