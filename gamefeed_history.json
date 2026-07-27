@@ -43111,5 +43111,61 @@
         "description": "Marked for death by a clangoru artificer, Khallil has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-07-27 06:32:36"
+    },
+    {
+        "id": 165102482,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-27 16:17:44"
+    },
+    {
+        "id": 165102561,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-27 16:40:33"
+    },
+    {
+        "id": 165102601,
+        "caption": "Player Death",
+        "description": "Gilda has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-27 16:41:02"
+    },
+    {
+        "id": 165102611,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Khallil, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-27 16:41:05"
+    },
+    {
+        "id": 165102674,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Aknarin has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-27 16:43:21"
+    },
+    {
+        "id": 165102723,
+        "caption": "Player Death",
+        "description": "Qoivhae has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-27 16:43:25"
+    },
+    {
+        "id": 165102805,
+        "caption": "Player Death",
+        "description": "Naralis has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-27 16:43:30"
+    },
+    {
+        "id": 165102871,
+        "caption": "Player Death",
+        "description": "Qoivhae has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-27 16:43:44"
     }
 ]
