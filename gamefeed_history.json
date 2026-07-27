@@ -43251,5 +43251,12 @@
         "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-27 21:18:24"
+    },
+    {
+        "id": 165104609,
+        "caption": "Player Death",
+        "description": "Aleyah has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-27 22:52:21"
     }
 ]
