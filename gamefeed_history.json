@@ -43202,5 +43202,54 @@
         "description": "Aleyah has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-27 20:00:13"
+    },
+    {
+        "id": 165103844,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-27 20:36:32"
+    },
+    {
+        "id": 165103858,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-27 20:37:03"
+    },
+    {
+        "id": 165103899,
+        "caption": "Player Death",
+        "description": "Faragan has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-27 20:38:23"
+    },
+    {
+        "id": 165103929,
+        "caption": "Player Death",
+        "description": "Aknarin has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-27 20:39:16"
+    },
+    {
+        "id": 165103982,
+        "caption": "Player Death",
+        "description": "Exeryte was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-27 20:40:24"
+    },
+    {
+        "id": 165104039,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-27 20:41:21"
+    },
+    {
+        "id": 165104259,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-27 21:18:24"
     }
 ]
