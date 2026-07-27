@@ -43083,5 +43083,33 @@
         "description": "Zoelin was slain by Zagreus (Victim had 100% the might).",
         "type": "DEA",
         "date": "2026-07-27 02:07:57"
+    },
+    {
+        "id": 165100975,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Khallil has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-27 06:24:51"
+    },
+    {
+        "id": 165100994,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-27 06:29:45"
+    },
+    {
+        "id": 165101007,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-27 06:32:12"
+    },
+    {
+        "id": 165101016,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Khallil has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-27 06:32:36"
     }
 ]
