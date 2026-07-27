@@ -43181,5 +43181,26 @@
         "description": "Aleyah has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-27 18:23:10"
+    },
+    {
+        "id": 165103680,
+        "caption": "Player Death",
+        "description": "Aleyah has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-27 19:41:47"
+    },
+    {
+        "id": 165103702,
+        "caption": "Player Death",
+        "description": "Aleyah has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-27 19:53:05"
+    },
+    {
+        "id": 165103710,
+        "caption": "Player Death",
+        "description": "Aleyah has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-27 20:00:13"
     }
 ]
