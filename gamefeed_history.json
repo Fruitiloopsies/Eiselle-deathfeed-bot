@@ -43391,5 +43391,12 @@
         "description": "A ghostly battlecharger has brought war to Argilent, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-07-28 15:57:14"
+    },
+    {
+        "id": 165108138,
+        "caption": "Player Death",
+        "description": "Olethea has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-28 16:22:36"
     }
 ]
