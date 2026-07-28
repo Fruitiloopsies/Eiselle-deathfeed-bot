@@ -43370,5 +43370,26 @@
         "description": "Inagin has been slain by the might of a champion of war.",
         "type": "DEA",
         "date": "2026-07-28 09:00:32"
+    },
+    {
+        "id": 165107914,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Qoivhae has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-28 15:08:20"
+    },
+    {
+        "id": 165108013,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Exeryte has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-28 15:30:17"
+    },
+    {
+        "id": 165108101,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Argilent, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-28 15:57:14"
     }
 ]
