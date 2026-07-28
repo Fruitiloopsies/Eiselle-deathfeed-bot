@@ -43447,5 +43447,68 @@
         "description": "Olethea has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-07-28 18:48:59"
+    },
+    {
+        "id": 165108953,
+        "caption": "Player Death",
+        "description": "Olethea has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-28 19:08:41"
+    },
+    {
+        "id": 165108967,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-28 19:12:35"
+    },
+    {
+        "id": 165108980,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-28 19:13:11"
+    },
+    {
+        "id": 165108996,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Naralis, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-28 19:14:05"
+    },
+    {
+        "id": 165109014,
+        "caption": "Player Death",
+        "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-28 19:15:07"
+    },
+    {
+        "id": 165109043,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-28 19:15:35"
+    },
+    {
+        "id": 165109066,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Karrack has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-28 19:16:03"
+    },
+    {
+        "id": 165109589,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Khallil has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-28 21:14:34"
+    },
+    {
+        "id": 165109604,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-28 21:14:42"
     }
 ]
