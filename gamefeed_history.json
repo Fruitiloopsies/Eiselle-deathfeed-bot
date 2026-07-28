@@ -43363,5 +43363,12 @@
         "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-28 01:34:29"
+    },
+    {
+        "id": 165106815,
+        "caption": "Player Death",
+        "description": "Inagin has been slain by the might of a champion of war.",
+        "type": "DEA",
+        "date": "2026-07-28 09:00:32"
     }
 ]
