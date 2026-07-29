@@ -43720,5 +43720,19 @@
         "description": "Tuilinn was slain by misadventure.",
         "type": "DEA",
         "date": "2026-07-29 14:19:00"
+    },
+    {
+        "id": 165116367,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Yushimabet, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-29 22:01:18"
+    },
+    {
+        "id": 165116378,
+        "caption": "Player Death",
+        "description": "Yushimabet has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-29 22:07:22"
     }
 ]
