@@ -43706,5 +43706,19 @@
         "description": "Inagin has been slain by the might of a lost soul of death.",
         "type": "DEA",
         "date": "2026-07-29 07:39:02"
+    },
+    {
+        "id": 165114650,
+        "caption": "Player Death",
+        "description": "Argilent has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-29 14:18:23"
+    },
+    {
+        "id": 165114662,
+        "caption": "Player Death",
+        "description": "Tuilinn was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-29 14:19:00"
     }
 ]
