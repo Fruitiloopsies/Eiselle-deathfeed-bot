@@ -43734,5 +43734,12 @@
         "description": "Yushimabet has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-29 22:07:22"
+    },
+    {
+        "id": 165116533,
+        "caption": "Player Death",
+        "description": "Yushimabet has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-29 23:02:29"
     }
 ]
