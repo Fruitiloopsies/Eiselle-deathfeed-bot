@@ -43699,5 +43699,12 @@
         "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
         "type": "DEA",
         "date": "2026-07-29 03:33:21"
+    },
+    {
+        "id": 165113257,
+        "caption": "Player Death",
+        "description": "Inagin has been slain by the might of a lost soul of death.",
+        "type": "DEA",
+        "date": "2026-07-29 07:39:02"
     }
 ]
