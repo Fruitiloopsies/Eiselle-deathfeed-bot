@@ -43930,5 +43930,33 @@
         "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-30 03:30:53"
+    },
+    {
+        "id": 165120107,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-30 15:26:46"
+    },
+    {
+        "id": 165120148,
+        "caption": "Player Death",
+        "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-30 15:27:38"
+    },
+    {
+        "id": 165120178,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Argilent has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-30 15:28:00"
+    },
+    {
+        "id": 165120192,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-30 15:28:24"
     }
 ]
