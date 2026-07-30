@@ -43958,5 +43958,12 @@
         "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-07-30 15:28:24"
+    },
+    {
+        "id": 165120652,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Khallil has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-30 17:46:09"
     }
 ]
