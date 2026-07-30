@@ -43965,5 +43965,40 @@
         "description": "Marked for death by a clangoru artificer, Khallil has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-07-30 17:46:09"
+    },
+    {
+        "id": 165120937,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-30 19:16:57"
+    },
+    {
+        "id": 165120956,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-30 19:21:52"
+    },
+    {
+        "id": 165120972,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-30 19:21:52"
+    },
+    {
+        "id": 165121017,
+        "caption": "Player Death",
+        "description": "Karrack has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-30 19:23:35"
+    },
+    {
+        "id": 165121040,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Faragan has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-30 19:23:46"
     }
 ]
