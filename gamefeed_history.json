@@ -43741,5 +43741,33 @@
         "description": "Yushimabet has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-07-29 23:02:29"
+    },
+    {
+        "id": 165116622,
+        "caption": "Player Death",
+        "description": "Yushimabet has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-29 23:19:52"
+    },
+    {
+        "id": 165116676,
+        "caption": "Player Death",
+        "description": "Xiran was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-29 23:52:13"
+    },
+    {
+        "id": 165116688,
+        "caption": "Player Death",
+        "description": "Yushimabet has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-29 23:53:46"
+    },
+    {
+        "id": 165116694,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Yushimabet, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-07-29 23:58:16"
     }
 ]
