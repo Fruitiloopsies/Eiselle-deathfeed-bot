@@ -44112,5 +44112,12 @@
         "description": "Karrack was slain by misadventure.",
         "type": "DEA",
         "date": "2026-07-31 17:21:56"
+    },
+    {
+        "id": 165126444,
+        "caption": "Player Death",
+        "description": "Xiran has been slain by the might of a bulbous swamp slug.",
+        "type": "DEA",
+        "date": "2026-07-31 18:26:56"
     }
 ]
