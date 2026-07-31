@@ -44000,5 +44000,47 @@
         "description": "Body dissolving into sludge, Faragan has become a light snack for a putrescent excoropox.",
         "type": "DEA",
         "date": "2026-07-30 19:23:46"
+    },
+    {
+        "id": 165122187,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-30 23:51:02"
+    },
+    {
+        "id": 165122312,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Khallil has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-31 00:19:28"
+    },
+    {
+        "id": 165122356,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Tuilinn has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-31 00:21:23"
+    },
+    {
+        "id": 165122396,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Faragan has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-31 00:21:27"
+    },
+    {
+        "id": 165122433,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Teread has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-31 00:21:36"
+    },
+    {
+        "id": 165122445,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Yinuish has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-07-31 00:21:54"
     }
 ]
