@@ -44091,5 +44091,26 @@
         "description": "Efarihm was slain by misadventure.",
         "type": "DEA",
         "date": "2026-07-31 04:31:39"
+    },
+    {
+        "id": 165125984,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Argilent has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-07-31 17:20:12"
+    },
+    {
+        "id": 165126034,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-31 17:21:36"
+    },
+    {
+        "id": 165126074,
+        "caption": "Player Death",
+        "description": "Karrack was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-07-31 17:21:56"
     }
 ]
