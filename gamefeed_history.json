@@ -44217,5 +44217,12 @@
         "description": "Marked for death by a clangoru artificer, Yinuish has succumbed to their destructive rain of bolts.",
         "type": "DEA",
         "date": "2026-08-01 04:50:57"
+    },
+    {
+        "id": 165130883,
+        "caption": "Player Death",
+        "description": "Chrysae has been shown the consequence of standing in the way of a blacksmith's hammer.",
+        "type": "DEA",
+        "date": "2026-08-01 11:40:24"
     }
 ]
