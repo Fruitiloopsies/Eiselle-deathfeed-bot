@@ -44119,5 +44119,26 @@
         "description": "Xiran has been slain by the might of a bulbous swamp slug.",
         "type": "DEA",
         "date": "2026-07-31 18:26:56"
+    },
+    {
+        "id": 165127941,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-07-31 23:49:28"
+    },
+    {
+        "id": 165127985,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-31 23:57:40"
+    },
+    {
+        "id": 165128001,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-07-31 23:58:10"
     }
 ]
