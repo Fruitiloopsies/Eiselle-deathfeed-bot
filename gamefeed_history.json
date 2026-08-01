@@ -44224,5 +44224,12 @@
         "description": "Chrysae has been shown the consequence of standing in the way of a blacksmith's hammer.",
         "type": "DEA",
         "date": "2026-08-01 11:40:24"
+    },
+    {
+        "id": 165132755,
+        "caption": "Player Death",
+        "description": "Olethea has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-01 21:17:36"
     }
 ]
