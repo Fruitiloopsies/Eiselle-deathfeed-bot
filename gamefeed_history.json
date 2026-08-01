@@ -44182,5 +44182,40 @@
         "description": "Efarihm has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-08-01 02:52:43"
+    },
+    {
+        "id": 165129258,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-08-01 04:13:00"
+    },
+    {
+        "id": 165129514,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Karrack has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-08-01 04:50:14"
+    },
+    {
+        "id": 165129538,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Isana has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-08-01 04:50:26"
+    },
+    {
+        "id": 165129547,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Efarihm has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-08-01 04:50:45"
+    },
+    {
+        "id": 165129562,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Yinuish has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-08-01 04:50:57"
     }
 ]
