@@ -44231,5 +44231,19 @@
         "description": "Olethea has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-08-01 21:17:36"
+    },
+    {
+        "id": 165133167,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Olethea has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-08-01 23:11:25"
+    },
+    {
+        "id": 165133246,
+        "caption": "Player Death",
+        "description": "Olethea has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-01 23:19:50"
     }
 ]
