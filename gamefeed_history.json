@@ -44308,5 +44308,26 @@
         "description": "Efarihm was slain by misadventure.",
         "type": "DEA",
         "date": "2026-08-02 10:46:13"
+    },
+    {
+        "id": 165136557,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-08-02 12:29:49"
+    },
+    {
+        "id": 165136653,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Argilent has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-08-02 13:06:33"
+    },
+    {
+        "id": 165136714,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-08-02 13:08:23"
     }
 ]
