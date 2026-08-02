@@ -44336,5 +44336,26 @@
         "description": "Yushimabet has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-08-02 15:01:55"
+    },
+    {
+        "id": 165137691,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Argilent has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-08-02 16:42:20"
+    },
+    {
+        "id": 165137708,
+        "caption": "Player Death",
+        "description": "Yushimabet was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-08-02 16:49:30"
+    },
+    {
+        "id": 165137714,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Yushimabet, driving her soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-08-02 16:50:59"
     }
 ]
