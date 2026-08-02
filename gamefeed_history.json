@@ -44329,5 +44329,12 @@
         "description": "A ghostly battlecharger has brought war to Tuilinn, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2026-08-02 13:08:23"
+    },
+    {
+        "id": 165137389,
+        "caption": "Player Death",
+        "description": "Yushimabet has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-02 15:01:55"
     }
 ]
