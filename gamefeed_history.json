@@ -44357,5 +44357,12 @@
         "description": "A ghostly battlecharger has brought war to Yushimabet, driving her soul beyond the veil.",
         "type": "DEA",
         "date": "2026-08-02 16:50:59"
+    },
+    {
+        "id": 165138895,
+        "caption": "Player Death",
+        "description": "Chrysae has been subsumed by a bloated gorgog.",
+        "type": "DEA",
+        "date": "2026-08-02 23:15:09"
     }
 ]
