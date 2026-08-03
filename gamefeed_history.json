@@ -44371,5 +44371,54 @@
         "description": "Alainna has been given the kiss of death by an emaciated virgin.",
         "type": "DEA",
         "date": "2026-08-03 05:19:11"
+    },
+    {
+        "id": 165142743,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-03 15:54:18"
+    },
+    {
+        "id": 165142769,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-08-03 15:59:22"
+    },
+    {
+        "id": 165142844,
+        "caption": "Player Death",
+        "description": "Khallil has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-08-03 16:14:52"
+    },
+    {
+        "id": 165142869,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-03 16:19:13"
+    },
+    {
+        "id": 165142894,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-08-03 16:21:43"
+    },
+    {
+        "id": 165142938,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-03 16:24:29"
+    },
+    {
+        "id": 165142954,
+        "caption": "Player Death",
+        "description": "Farlaris was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-08-03 16:25:23"
     }
 ]
