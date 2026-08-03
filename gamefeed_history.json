@@ -44364,5 +44364,12 @@
         "description": "Chrysae has been subsumed by a bloated gorgog.",
         "type": "DEA",
         "date": "2026-08-02 23:15:09"
+    },
+    {
+        "id": 165140541,
+        "caption": "Player Death",
+        "description": "Alainna has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2026-08-03 05:19:11"
     }
 ]
