@@ -44560,5 +44560,12 @@
         "description": "Daashra was slain by misadventure.",
         "type": "DEA",
         "date": "2026-08-04 19:57:33"
+    },
+    {
+        "id": 165151430,
+        "caption": "Player Death",
+        "description": "Yushimabet has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-04 23:13:59"
     }
 ]
