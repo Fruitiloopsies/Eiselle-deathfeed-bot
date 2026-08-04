@@ -44553,5 +44553,12 @@
         "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-08-04 18:05:01"
+    },
+    {
+        "id": 165150723,
+        "caption": "Player Death",
+        "description": "Daashra was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-08-04 19:57:33"
     }
 ]
