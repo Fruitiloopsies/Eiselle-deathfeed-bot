@@ -44525,5 +44525,33 @@
         "description": "A ghostly battlecharger has brought war to Argilent, driving his soul beyond the veil.",
         "type": "DEA",
         "date": "2026-08-04 05:57:15"
+    },
+    {
+        "id": 165150159,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-08-04 18:03:04"
+    },
+    {
+        "id": 165150174,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Argilent has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-08-04 18:04:08"
+    },
+    {
+        "id": 165150186,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Faragan has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-08-04 18:04:33"
+    },
+    {
+        "id": 165150231,
+        "caption": "Player Death",
+        "description": "Exeryte has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-08-04 18:05:01"
     }
 ]
