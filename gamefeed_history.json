@@ -44476,5 +44476,54 @@
         "description": "Argilent has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
         "type": "DEA",
         "date": "2026-08-04 03:30:28"
+    },
+    {
+        "id": 165146966,
+        "caption": "Player Death",
+        "description": "Argilent has been culled and dragged off into the darkness of the Illithoid Prison.",
+        "type": "DEA",
+        "date": "2026-08-04 04:47:37"
+    },
+    {
+        "id": 165147000,
+        "caption": "Player Death",
+        "description": "Alainna has been slain by the might of a two-headed eagle.",
+        "type": "DEA",
+        "date": "2026-08-04 04:49:57"
+    },
+    {
+        "id": 165147097,
+        "caption": "Player Death",
+        "description": "A bloated parasite has absorbed the life and nutrients of Alainna.",
+        "type": "DEA",
+        "date": "2026-08-04 05:21:05"
+    },
+    {
+        "id": 165147285,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-04 05:51:42"
+    },
+    {
+        "id": 165147334,
+        "caption": "Player Death",
+        "description": "Efarihm has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-04 05:54:31"
+    },
+    {
+        "id": 165147394,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-04 05:56:21"
+    },
+    {
+        "id": 165147410,
+        "caption": "Player Death",
+        "description": "A ghostly battlecharger has brought war to Argilent, driving his soul beyond the veil.",
+        "type": "DEA",
+        "date": "2026-08-04 05:57:15"
     }
 ]
