@@ -44455,5 +44455,26 @@
         "description": "Karrack was slain by misadventure.",
         "type": "DEA",
         "date": "2026-08-04 00:50:22"
+    },
+    {
+        "id": 165146443,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-08-04 03:13:27"
+    },
+    {
+        "id": 165146507,
+        "caption": "Player Death",
+        "description": "Alainna has been utterly eviscerated by consumption of the acidic contents of a floating urn.",
+        "type": "DEA",
+        "date": "2026-08-04 03:28:31"
+    },
+    {
+        "id": 165146517,
+        "caption": "Player Death",
+        "description": "Argilent has been disemboweled by Cthoglogg, his entrails portending power for the children of Illith.",
+        "type": "DEA",
+        "date": "2026-08-04 03:30:28"
     }
 ]
