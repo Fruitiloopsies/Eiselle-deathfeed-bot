@@ -44420,5 +44420,40 @@
         "description": "Farlaris was slain by misadventure.",
         "type": "DEA",
         "date": "2026-08-03 16:25:23"
+    },
+    {
+        "id": 165145524,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Isana has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-08-04 00:44:11"
+    },
+    {
+        "id": 165145535,
+        "caption": "Player Death",
+        "description": "Tuilinn has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-04 00:48:02"
+    },
+    {
+        "id": 165145575,
+        "caption": "Player Death",
+        "description": "Karrack has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-08-04 00:48:19"
+    },
+    {
+        "id": 165145600,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-08-04 00:49:28"
+    },
+    {
+        "id": 165145612,
+        "caption": "Player Death",
+        "description": "Karrack was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-08-04 00:50:22"
     }
 ]
