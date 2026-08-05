@@ -44609,5 +44609,12 @@
         "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-08-05 01:40:30"
+    },
+    {
+        "id": 165154812,
+        "caption": "Player Death",
+        "description": "Camovap has been slain by the might of a carrion beetle.",
+        "type": "DEA",
+        "date": "2026-08-05 12:23:46"
     }
 ]
