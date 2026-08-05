@@ -44637,5 +44637,12 @@
         "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-08-05 19:13:14"
+    },
+    {
+        "id": 165156401,
+        "caption": "Player Death",
+        "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-08-05 20:08:27"
     }
 ]
