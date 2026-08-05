@@ -44567,5 +44567,47 @@
         "description": "Yushimabet has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
         "type": "DEA",
         "date": "2026-08-04 23:13:59"
+    },
+    {
+        "id": 165152064,
+        "caption": "Player Death",
+        "description": "Faragan has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-05 01:38:05"
+    },
+    {
+        "id": 165152094,
+        "caption": "Player Death",
+        "description": "Khallil has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-05 01:38:07"
+    },
+    {
+        "id": 165152110,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-05 01:38:50"
+    },
+    {
+        "id": 165152120,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-05 01:38:54"
+    },
+    {
+        "id": 165152132,
+        "caption": "Player Death",
+        "description": "Ayisdra has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-05 01:39:28"
+    },
+    {
+        "id": 165152182,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-08-05 01:40:30"
     }
 ]
