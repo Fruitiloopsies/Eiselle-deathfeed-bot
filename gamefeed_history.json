@@ -44644,5 +44644,12 @@
         "description": "Isana has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-08-05 20:08:27"
+    },
+    {
+        "id": 165158619,
+        "caption": "Player Death",
+        "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2026-08-06 05:04:07"
     }
 ]
