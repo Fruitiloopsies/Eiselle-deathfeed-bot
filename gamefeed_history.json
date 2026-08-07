@@ -44728,5 +44728,12 @@
         "description": "Tylwyth was slain by misadventure.",
         "type": "DEA",
         "date": "2026-08-07 04:03:46"
+    },
+    {
+        "id": 165166460,
+        "caption": "Player Death",
+        "description": "An ur'dead field marshal has made Chrysae taste steel.",
+        "type": "DEA",
+        "date": "2026-08-07 15:45:53"
     }
 ]
