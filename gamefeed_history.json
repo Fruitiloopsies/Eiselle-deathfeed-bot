@@ -44651,5 +44651,68 @@
         "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
         "type": "DEA",
         "date": "2026-08-06 05:04:07"
+    },
+    {
+        "id": 165160474,
+        "caption": "Player Death",
+        "description": "Exeryte was slain by misadventure.",
+        "type": "DEA",
+        "date": "2026-08-06 14:40:13"
+    },
+    {
+        "id": 165160531,
+        "caption": "Player Death",
+        "description": "Marked for death by a clangoru artificer, Isana has succumbed to their destructive rain of bolts.",
+        "type": "DEA",
+        "date": "2026-08-06 14:40:17"
+    },
+    {
+        "id": 165161300,
+        "caption": "Player Death",
+        "description": "Tuilinn has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-08-06 17:17:14"
+    },
+    {
+        "id": 165161341,
+        "caption": "Player Death",
+        "description": "Teread has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-08-06 17:19:15"
+    },
+    {
+        "id": 165161376,
+        "caption": "Player Death",
+        "description": "Argilent has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-08-06 17:21:52"
+    },
+    {
+        "id": 165161997,
+        "caption": "Player Death",
+        "description": "Body dissolving into sludge, Tuilinn has become a light snack for a putrescent excoropox.",
+        "type": "DEA",
+        "date": "2026-08-06 20:40:17"
+    },
+    {
+        "id": 165162037,
+        "caption": "Player Death",
+        "description": "Isana has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-06 20:41:56"
+    },
+    {
+        "id": 165162047,
+        "caption": "Player Death",
+        "description": "Teread has been pulverised into a smooth paste beneath the mighty footfalls of a stonewrought sentinel.",
+        "type": "DEA",
+        "date": "2026-08-06 20:41:57"
+    },
+    {
+        "id": 165162059,
+        "caption": "Player Death",
+        "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
+        "type": "DEA",
+        "date": "2026-08-06 20:42:00"
     }
 ]
