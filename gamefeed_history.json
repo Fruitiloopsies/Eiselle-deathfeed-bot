@@ -44735,5 +44735,12 @@
         "description": "An ur'dead field marshal has made Chrysae taste steel.",
         "type": "DEA",
         "date": "2026-08-07 15:45:53"
+    },
+    {
+        "id": 165166642,
+        "caption": "Player Death",
+        "description": "Chrysae has fallen victim to the Ringmaster's enthusiasm.",
+        "type": "DEA",
+        "date": "2026-08-07 16:38:29"
     }
 ]
