@@ -44742,5 +44742,12 @@
         "description": "Chrysae has fallen victim to the Ringmaster's enthusiasm.",
         "type": "DEA",
         "date": "2026-08-07 16:38:29"
+    },
+    {
+        "id": 165166833,
+        "caption": "Player Death",
+        "description": "Chrysae has been devoured by an ironjaw crocodile.",
+        "type": "DEA",
+        "date": "2026-08-07 17:54:43"
     }
 ]
