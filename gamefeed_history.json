@@ -44714,5 +44714,12 @@
         "description": "Faragan has been ambushed, impaled and digested by a misshapen koirakko.",
         "type": "DEA",
         "date": "2026-08-06 20:42:00"
+    },
+    {
+        "id": 165163916,
+        "caption": "Player Death",
+        "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2026-08-07 03:15:39"
     }
 ]
