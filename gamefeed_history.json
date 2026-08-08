@@ -44784,5 +44784,12 @@
         "description": "Alainna has been given the kiss of death by an emaciated virgin.",
         "type": "DEA",
         "date": "2026-08-08 03:59:44"
+    },
+    {
+        "id": 165171111,
+        "caption": "Player Death",
+        "description": "Xiran was slain by Tuilinn (Victim had 75% the might).",
+        "type": "DEA",
+        "date": "2026-08-08 14:37:29"
     }
 ]
