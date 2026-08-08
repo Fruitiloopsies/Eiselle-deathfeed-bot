@@ -44770,5 +44770,19 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Chrysae, petrifying her for eternity.",
         "type": "DEA",
         "date": "2026-08-08 03:06:08"
+    },
+    {
+        "id": 165169371,
+        "caption": "Player Death",
+        "description": "Alainna has been violently skewered and rent apart by a gargantuan red scorpion.",
+        "type": "DEA",
+        "date": "2026-08-08 03:48:39"
+    },
+    {
+        "id": 165169419,
+        "caption": "Player Death",
+        "description": "Alainna has been given the kiss of death by an emaciated virgin.",
+        "type": "DEA",
+        "date": "2026-08-08 03:59:44"
     }
 ]
