@@ -44749,5 +44749,12 @@
         "description": "Chrysae has been devoured by an ironjaw crocodile.",
         "type": "DEA",
         "date": "2026-08-07 17:54:43"
+    },
+    {
+        "id": 165168430,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Naralis, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-08-08 00:34:16"
     }
 ]
