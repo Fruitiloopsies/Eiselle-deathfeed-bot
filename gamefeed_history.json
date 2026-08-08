@@ -44756,5 +44756,19 @@
         "description": "A three-faced gorgon has turned her terrible gaze upon Naralis, petrifying him for eternity.",
         "type": "DEA",
         "date": "2026-08-08 00:34:16"
+    },
+    {
+        "id": 165169082,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Teread, petrifying him for eternity.",
+        "type": "DEA",
+        "date": "2026-08-08 03:06:07"
+    },
+    {
+        "id": 165169096,
+        "caption": "Player Death",
+        "description": "A three-faced gorgon has turned her terrible gaze upon Chrysae, petrifying her for eternity.",
+        "type": "DEA",
+        "date": "2026-08-08 03:06:08"
     }
 ]
